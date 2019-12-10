@@ -95,6 +95,6 @@ with open('readme.md','w') as f,open('head.md') as h:
             if len(d[i])==1:
                 f.write(d[i][0]+'|||\n')
             else:
-                f.write(d[i][0]+'|<p>'+'<br>'.join(d[i][1:])+'</p>||\n')
+                f.write(d[i][0]+'|'+'<br>'.join(d[i][1:])+'||\n')
 #
 print('total words:',len(d.keys()))
