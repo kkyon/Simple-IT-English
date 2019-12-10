@@ -3,7 +3,7 @@ Simple-IT-English
 
 
 ## A 
-(#A) [A]
+[A](#A) 
 
 Word|Alternatives|Meaning|Example
 ----|------------|-------|-------
@@ -142,4 +142,3 @@ awkward|||
 azure|||
 
  
-
