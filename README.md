@@ -2,7 +2,7 @@
 Simple-IT-English
 
 English is the only language of IT community.
-I know it how pain how to learn english and remember the english words as a non-native developer. 
+I know it is how pain how to learn english and remember the english words as a non native speaker. 
 Many talent engineer keep out from community because of lack of english skill.
 Most public IT english words books is not related to IT community ,or too academic.
 I try to create a basic english dictionary from community and for programmer/software engineer .
