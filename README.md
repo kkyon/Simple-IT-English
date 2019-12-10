@@ -1,6 +1,39 @@
 # Simple-IT-English
 Simple-IT-English
 
+English is the only language of IT community.
+I know it how pain how to learn english and remember the english words as a non-native developer. 
+Many talent engineer keep out from community because of lack of english skill.
+Most public IT english words books is not related to IT community ,or too academic.
+I try to create a basic english dictionary from community and for programmer/software engineer .
+The assumption is developers are able to : 
+
+1. [ x ] Read&Write posts in Stackoverflow.com
+
+1. [ x ] Read [hackernews](https://news.ycombinator.com/)
+
+1. [  ] Read&Write comments and readme from github.com. 
+ 
+ 
+###Corpus
+
+Source|Newest Post|Oldest Post|Post Count
+------|-----------|-----------|-----
+StackOVerflow|2015-10-13 08:44:02 UTC|2006-10-09 19:51:01 UTC|8399417	
+Hackernews|2019-09-01 05:23:41.743 UTC|2008-08-03 21:38:52.623 UTC|18154493	
+
+###Processes for clean & select words (by python scripts)
+
+1. [ x ] Select top 16000 most frequently used words from StackOverflow (8399417 posts) and Hacknews (18154493 comments).Thanks to google public dataset and bigquery ,it save me some days and coffes.
+1.  [ x ] Filter out English words with [list](https://github.com/dwyl/english-words/)
+1.  [ x ] Exclude too simple english words from [voa special](https://en.wikipedia.org/wiki/Special_English) 
+and [common 3000](https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/) 
+1. [ x ]  Group the words inflection to root with nltk steam module.
+1. [  ]  Fetch meaning from [opted dictionary](http://www.mso.anu.edu.au/~ralph/OPTED/).
+1. [  ]  Fetch example sentence from StackOverflow post. 
+
+
+
 [A](#A)  [B](#B)  [C](#C)  [D](#D)  [E](#E)  [F](#F)  [G](#G)  [H](#H)  [I](#I)  [J](#J)  [K](#K)  [L](#L)  [M](#M)  [N](#N)  [O](#O)  [P](#P)  [Q](#Q)  [R](#R)  [S](#S)  [T](#T)  [U](#U)  [V](#V)  [W](#W)  [X](#X)  [Y](#Y)  [Z](#Z)  
 
 
