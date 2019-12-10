@@ -1,6 +1,8 @@
 # Simple-IT-English
 Simple-IT-English
 
+
+##A(#A)
 Word|Alternatives|Meaning|Example
 ----|------------|-------|-------
 abort|<p>aborted</p>||
@@ -136,6 +138,9 @@ await|||
 awesome|||
 awkward|||
 azure|||
+##B(#B)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 babel|||
 backbone|||
 backtrace|||
@@ -226,6 +231,9 @@ bundler|||
 businesses|||
 bypass|||
 byte|<p>bytes</p>||
+##C(#C)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 cache|<p>cached<br>caches<br>caching</p>||
 calc|||
 calculated|<p>calculates<br>calculating<br>calculation<br>calculations<br>calculator</p>||
@@ -444,6 +452,9 @@ cursor|<p>cursors</p>||
 curve|||
 cust|||
 cycles|||
+##D(#D)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 daemon|||
 dagger|||
 damn|||
@@ -590,6 +601,9 @@ dump|<p>dumped<br>dumps</p>||
 duplicate|<p>duplicated<br>duplicates<br>duplication</p>||
 duration|||
 dynamic|<p>dynamically<br>dynamics</p>||
+##E(#E)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 earlier|||
 easier|||
 easiest|||
@@ -683,6 +697,9 @@ exposed|||
 extensions|||
 extern|<p>externally</p>||
 extract|<p>extracted<br>extracting<br>extraction</p>||
+##F(#F)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 facet|||
 facilities|||
 factorial|<p>factories</p>||
@@ -775,6 +792,9 @@ fundamentally|||
 further|||
 fusion|||
 futures|||
+##G(#G)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 gamma|||
 garbage|||
 gateway|||
@@ -829,6 +849,9 @@ guid|<p>guides</p>||
 guidance|||
 guidelines|||
 gulp|||
+##H(#H)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 hack|<p>hacked<br>hacking<br>hacks</p>||
 hacker|<p>hackers</p>||
 haha|||
@@ -880,6 +903,9 @@ humidity|||
 hundreds|||
 hybrid|||
 hyper|||
+##I(#I)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 icon|<p>icons</p>||
 ident|<p>identical</p>||
 identified|<p>identifier<br>identifiers<br>identifying</p>||
@@ -997,6 +1023,9 @@ issued|<p>issues</p>||
 issuer|||
 italic|||
 iter|<p>iterable<br>iterate<br>iterating<br>iteration<br>iterations<br>iterator</p>||
+##J(#J)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 jack|||
 jackson|||
 jade|||
@@ -1022,6 +1051,9 @@ july|||
 june|||
 junk|||
 justified|||
+##K(#K)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 kafka|||
 karma|||
 kendo|||
@@ -1036,6 +1068,9 @@ kindly|||
 knew|||
 knockout|||
 known|||
+##L(#L)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 laid|||
 lambda|||
 lame|||
@@ -1090,6 +1125,9 @@ loopback|||
 looper|||
 lowercase|||
 lowest|||
+##M(#M)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 mach|||
 machines|||
 macro|<p>macros</p>||
@@ -1194,6 +1232,9 @@ multiplier|<p>multiply</p>||
 multiprocessing|||
 mutable|||
 mutate|<p>mutation</p>||
+##N(#N)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 naive|||
 nama|||
 nasa|||
@@ -1237,6 +1278,9 @@ nullable|||
 numeric|<p>numerical</p>||
 numero|||
 nunc|||
+##O(#O)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 oasis|||
 obscure|||
 observable|<p>observations<br>observed</p>||
@@ -1285,6 +1329,9 @@ overview|||
 overwrite|||
 overwritten|||
 ownership|||
+##P(#P)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 packaged|<p>packages<br>packaging</p>||
 packet|<p>packets</p>||
 pager|||
@@ -1446,6 +1493,9 @@ purple|||
 purposes|||
 puzzle|||
 python|||
+##Q(#Q)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 quad|||
 qualified|<p>qualifier</p>||
 quantity|||
@@ -1459,6 +1509,9 @@ quiz|||
 quot|<p>quoted<br>quotes</p>||
 quota|||
 quotation|||
+##R(#R)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 rabbit|||
 rack|||
 radians|||
@@ -1587,6 +1640,9 @@ runtime|||
 russia|||
 russian|||
 rust|||
+##S(#S)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 sadly|||
 safari|||
 safer|||
@@ -1827,6 +1883,9 @@ sync|||
 synchronization|<p>synchronize<br>synchronized<br>synchronous</p>||
 syntax|||
 synthesize|||
+##T(#T)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 tables|||
 tablet|<p>tablets</p>||
 tackle|||
@@ -1929,6 +1988,9 @@ twitter|||
 typeface|||
 typescript|||
 typo|||
+##U(#U)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 unauthorized|||
 unavailable|||
 unbind|||
@@ -1984,6 +2046,9 @@ usability|<p>usable</p>||
 usage|||
 useless|||
 util|<p>utilities<br>utilize</p>||
+##V(#V)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 vagrant|||
 vague|||
 valid|<p>validate<br>validated<br>validates<br>validating<br>validation<br>validations<br>validity</p>||
@@ -2023,6 +2088,9 @@ volley|||
 voltage|||
 volumes|||
 vulnerability|||
+##W(#W)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 wallet|||
 wallpaper|||
 wamp|||
@@ -2068,11 +2136,18 @@ wrapper|||
 writable|||
 written|||
 wrote|||
+##Y(#Y)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 yahoo|||
 yarn|||
 yeoman|||
 york|||
+##Z(#Z)
+Word|Alternatives|Meaning|Example
+----|------------|-------|-------
 zend|||
 zero|<p>zeros</p>||
 zoom|<p>zooming</p>||
+
 
