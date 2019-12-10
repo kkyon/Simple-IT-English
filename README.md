@@ -2219,7 +2219,7 @@ york|||
 
 
 ## Z
-[TO Head](#a)
+[To Head](#a)
 
 Word|Alternatives|Meaning|Example
 ----|------------|-------|-------
