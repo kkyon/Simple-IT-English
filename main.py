@@ -72,7 +72,7 @@ for w in sorted(words):
 
 def write_head(section,f):
     f.write('\n\n## '+section+'\n\n')
-    f.write('[TO Head](#a)\n\n')
+    f.write(f'<a name="{section}"></a>[TO Head](#A)\n\n')
     f.write('Word|Inflection|Meaning|Example\n')
     f.write('----|----------|-------|-------\n')
 
