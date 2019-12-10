@@ -42,8 +42,9 @@ and [common 3000](https://www.ef.com/wwen/english-resources/english-vocabulary/t
 ## A
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 abort|<p>aborted</p>||
 absent|||
 abstract|<p>abstraction</p>||
@@ -182,8 +183,9 @@ azure|||
 ## B
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 babel|||
 backbone|||
 backtrace|||
@@ -279,8 +281,9 @@ byte|<p>bytes</p>||
 ## C
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 cache|<p>cached<br>caches<br>caching</p>||
 calc|||
 calculated|<p>calculates<br>calculating<br>calculation<br>calculations<br>calculator</p>||
@@ -504,8 +507,9 @@ cycles|||
 ## D
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 daemon|||
 dagger|||
 damn|||
@@ -657,8 +661,9 @@ dynamic|<p>dynamically<br>dynamics</p>||
 ## E
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 earlier|||
 easier|||
 easiest|||
@@ -757,8 +762,9 @@ extract|<p>extracted<br>extracting<br>extraction</p>||
 ## F
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 facet|||
 facilities|||
 factorial|<p>factories</p>||
@@ -856,8 +862,9 @@ futures|||
 ## G
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 gamma|||
 garbage|||
 gateway|||
@@ -917,8 +924,9 @@ gulp|||
 ## H
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 hack|<p>hacked<br>hacking<br>hacks</p>||
 hacker|<p>hackers</p>||
 haha|||
@@ -975,8 +983,9 @@ hyper|||
 ## I
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 icon|<p>icons</p>||
 ident|<p>identical</p>||
 identified|<p>identifier<br>identifiers<br>identifying</p>||
@@ -1099,8 +1108,9 @@ iter|<p>iterable<br>iterate<br>iterating<br>iteration<br>iterations<br>iterator<
 ## J
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 jack|||
 jackson|||
 jade|||
@@ -1131,8 +1141,9 @@ justified|||
 ## K
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 kafka|||
 karma|||
 kendo|||
@@ -1152,8 +1163,9 @@ known|||
 ## L
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 laid|||
 lambda|||
 lame|||
@@ -1213,8 +1225,9 @@ lowest|||
 ## M
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 mach|||
 machines|||
 macro|<p>macros</p>||
@@ -1324,8 +1337,9 @@ mutate|<p>mutation</p>||
 ## N
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 naive|||
 nama|||
 nasa|||
@@ -1374,8 +1388,9 @@ nunc|||
 ## O
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 oasis|||
 obscure|||
 observable|<p>observations<br>observed</p>||
@@ -1429,8 +1444,9 @@ ownership|||
 ## P
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 packaged|<p>packages<br>packaging</p>||
 packet|<p>packets</p>||
 pager|||
@@ -1597,8 +1613,9 @@ python|||
 ## Q
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 quad|||
 qualified|<p>qualifier</p>||
 quantity|||
@@ -1617,8 +1634,9 @@ quotation|||
 ## R
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 rabbit|||
 rack|||
 radians|||
@@ -1752,8 +1770,9 @@ rust|||
 ## S
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 sadly|||
 safari|||
 safer|||
@@ -1999,8 +2018,9 @@ synthesize|||
 ## T
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 tables|||
 tablet|<p>tablets</p>||
 tackle|||
@@ -2108,8 +2128,9 @@ typo|||
 ## U
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 unauthorized|||
 unavailable|||
 unbind|||
@@ -2170,8 +2191,9 @@ util|<p>utilities<br>utilize</p>||
 ## V
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 vagrant|||
 vague|||
 valid|<p>validate<br>validated<br>validates<br>validating<br>validation<br>validations<br>validity</p>||
@@ -2216,8 +2238,9 @@ vulnerability|||
 ## W
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 wallet|||
 wallpaper|||
 wamp|||
@@ -2268,8 +2291,9 @@ wrote|||
 ## Y
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 yahoo|||
 yarn|||
 yeoman|||
@@ -2279,8 +2303,9 @@ york|||
 ## Z
 
 [TO Head](#a)
+
 Word|Inflection|Meaning|Example
-----|------------|-------|-------
+----|----------|-------|-------
 zend|||
 zero|<p>zeros</p>||
 zoom|<p>zooming</p>||
