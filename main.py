@@ -6,7 +6,7 @@ porter = PorterStemmer()
 
 def load_csv(top=None):
     words=set()
-    with  open('corpus/results-20191210-170511.csv') as f:
+    with  open('source/results-20191210-170511.csv') as f:
         skip_head=True
         c=0
         for l in f:
@@ -51,6 +51,17 @@ def load_exclude():
     return words|common
 
 
+def load_dict():
+    import csv
+    dict={}
+    with open('dictionary/ecdict.csv', mode='r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+
+        for row in csv_reader:
+           w=row['word']
+           dict[w]=row
+    return dict
+
 words=load_csv(16000)
 
 include=load_include()
@@ -73,11 +84,23 @@ for w in sorted(words):
 def write_head(section,f):
     f.write('\n\n## '+section+'\n\n')
     f.write(f'<a name="{section}"></a>[TO Head](#A)\n\n')
-    f.write('Word|Inflection|Meaning|Example\n')
-    f.write('----|----------|-------|-------\n')
+    f.write('Word|Phonetic|Inflection|Definition|Translation|Example\n')
+    f.write('----|--------|----------|----------|-----------|-------\n')
+
+def write_row(f,word,inflectioin=[],phonetic=' ',definition=' ',translation=' ',example=' '):
+    row=[]
+    definition=definition.replace('\\n','<br>')
+    translation = translation.replace('\\n', '<br>')
+    for i in [word,phonetic,'<br>'.join(inflectioin),definition,translation,example]:
+        if len(i)==0:
+            row.append(' ')
+        else:
+            row.append(i)
+    f.write('|'.join(row)+'\n')
 
 last_alpha=None
 
+dictionary=load_dict()
 
 with open('readme.md','w') as f,open('head.md') as h:
     for l in h:
@@ -92,9 +115,12 @@ with open('readme.md','w') as f,open('head.md') as h:
             if i[0]!=last_alpha:
                 write_head(i[0].upper(),f)
                 last_alpha=i[0]
-            if len(d[i])==1:
-                f.write(d[i][0]+'|||\n')
+            w=d[i][0]
+            if w in dictionary:
+                o=dictionary[w]
+                write_row(f,w,phonetic=o['phonetic'],inflectioin=d[i][1:],definition=o['definition'],translation=o['translation'])
             else:
-                f.write(d[i][0]+'|'+'<br>'.join(d[i][1:])+'||\n')
+                write_row(f, w, d[i][1:])
+
 #
 print('total words:',len(d.keys()))
