@@ -87,11 +87,11 @@ def write_head(section,f):
     f.write('Word|Phonetic|Inflection|Definition|Translation|Example\n')
     f.write('----|--------|----------|----------|-----------|-------\n')
 
-def write_row(f,word,inflectioin=[],phonetic=' ',definition=' ',translation=' ',example=' '):
+def write_row(f,word,inflection=[],phonetic=' ',definition=' ',translation=' ',example=' '):
     row=[]
     definition=definition.replace('\\n','<br>')
     translation = translation.replace('\\n', '<br>')
-    for i in [word,phonetic,'<br>'.join(inflectioin),definition,translation,example]:
+    for i in [word,phonetic,'<br>'.join(inflection),definition,translation,example]:
         if len(i)==0:
             row.append(' ')
         else:
@@ -101,6 +101,33 @@ def write_row(f,word,inflectioin=[],phonetic=' ',definition=' ',translation=' ',
 last_alpha=None
 
 dictionary=load_dict()
+result_dict=[]
+
+for i in d.keys():
+    w=i
+    if w in dictionary:
+        o = dictionary[w]
+        result_dict.append(
+            {
+                'word':w,
+                'phonetic':o['phonetic'],
+                'inflection':d[i][1:],
+                'definition':o['definition'],
+                'translation':o['translation']
+            }
+        )
+
+    else:
+        result_dict.append(
+            {
+                'word':w,
+                'phonetic':' ',
+                'inflection':d[i][1:],
+                'definition':' ',
+                'translation':' '
+            }
+        )
+
 
 with open('readme.md','w') as f,open('head.md') as h:
     for l in h:
@@ -111,16 +138,51 @@ with open('readme.md','w') as f,open('head.md') as h:
         c=chr(a)
         f.write(f'[{c}](#{c})  ')
     f.write('\n\n');
-    for i in d.keys():
-            if i[0]!=last_alpha:
-                write_head(i[0].upper(),f)
-                last_alpha=i[0]
-            w=d[i][0]
-            if w in dictionary:
-                o=dictionary[w]
-                write_row(f,w,phonetic=o['phonetic'],inflectioin=d[i][1:],definition=o['definition'],translation=o['translation'])
-            else:
-                write_row(f, w, d[i][1:])
+    for item in result_dict:
+            word=item['word']
+            if word[0]!=last_alpha:
+                write_head(word[0].upper(),f)
+                last_alpha=word[0]
+
+            write_row(f, word, phonetic=item['phonetic'], inflection=item['inflection'], definition=item['definition'],
+                      translation=item['translation'])
+
 
 #
 print('total words:',len(d.keys()))
+
+import genanki
+import copy
+my_model = genanki.Model(
+  1607392319,
+  'Simple Model',
+  fields=[
+      {'name': 'word'},
+      {'name': 'phonetic'},
+      {'name': 'definition'},
+      {'name': 'translation'},
+  ],
+  templates=[
+    {
+        'name': 'Card 1',
+        'qfmt': '<center><h1>{{word}}</h1><br>{{phonetic}}</center>',
+        'afmt': '<center><h1>{{word}}</h1><br>{{phonetic}}</center><hr id="answer">{{definition}}<br>{{translation}}',
+    },
+  ])
+my_deck = genanki.Deck(
+  10591234111,
+  'Simple-IT-English(en-cn)')
+
+for item in result_dict:
+
+    my_note = genanki.Note(
+      model=my_model,
+      fields=[item['word'],item['phonetic'],item['definition'],item['translation']])
+
+
+
+    my_deck.add_note(copy.deepcopy(my_note))
+genanki.Package(my_deck).write_to_file('Simple-IT-English(en-cn).apkg')
+
+
+

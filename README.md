@@ -60,53 +60,53 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 aaron|'eәrәn| |n. United States professional baseball player who hit more home runs than Babe Ruth (born in 1934)<br>n. (Old Testament) elder brother of Moses and first high priest of the Israelites; created the golden calf|n. 亚伦（男子名）；[圣经]亚伦（摩西之兄, 犹太教的第一祭司长）| 
 abbr|'æbr| | | abbreviation 缩写| 
-abbreviation|ә.bri:vi'eiʃәn| |n. a shortened form of a word or phrase<br>n. shortening something by omitting parts of it|n. 缩写词, 缩写, 缩短, 节略| 
-abilities| | |n the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment<br>n possession of the qualities (especially mental qualities) required to do something or get something done|n. 能力, 才能（ability的复数形式）| 
+abbrevi| | | | | 
+abil| | | |n. (Abil)人名；(西)阿维尔| 
 abort|ә'bɒ:t|aborted<br>aborting|n. the act of terminating a project or procedure before it is completed<br>v. terminate before completion<br>v. cease development, die, and be aborted<br>v. terminate a pregnancy by undergoing an abortion|vi. 流产, 中途失败<br>vt. 使流产, 使失败, 使中止| 
 absent|'æbsәnt| |v. go away or leave<br>a. not being in a specified place<br>s. lost in thought; showing preoccupation|a. 缺席的, 不在的, 缺乏的, 漫不经心的<br>vt. 使缺席| 
 abstract|'æbstrækt|abstraction<br>abstractions|v. consider a concept without thinking of a specific example; consider abstractly or theoretically<br>v. consider apart from a particular case or instance<br>v. give an abstract (of)<br>a. existing only in the mind; separated from embodiment|a. 抽象的, 深奥的<br>n. 摘要, 抽象概念<br>vt. 摘要, 提炼, 使抽象化<br>[计] 摘录; 摘要; 抽象| 
 absurd|әb'sә:d| |n. a situation in which life seems irrational and meaningless<br>s. inconsistent with reason or logic or common sense<br>s. incongruous; inviting ridicule|a. 荒谬的, 不合理的, 可笑的<br>n. 荒诞| 
-academy|ә'kædәmi| |n. a secondary school (usually private)<br>n. an institution for the advancement of art or science or literature<br>n. a school for special training<br>n. a learned establishment for the advancement of knowledge|n. 学院, 院校, 学会| 
-accelerate|әk'selәreit|accelerated<br>acceleration|v. move faster<br>v. cause to move faster|v. 加速, 促进| 
-accelerometer|әk.selә'rɒmitә| |n. an instrument for measuring the acceleration of aircraft or rockets|n. 加速度计<br>[化] 加速度计| 
+academi| | | | | 
+acceler| |accelerated<br>acceleration| | | 
+acceleromet| | | | | 
 accent|'æksәnt| |n. distinctive manner of oral expression<br>n. a diacritical mark used to indicate stress or placed above a vowel to indicate a special pronunciation|n. 重音, 口音, 特点, 注重点<br>vt. 重读, 加重音号于, 强调| 
 accessor| |accessors| |[计] 存取器| 
-accessories| |accessory|n clothing that is worn or carried, but not part of your main clothing<br>n a supplementary component that improves capability<br>n someone who helps another person commit a crime|n. 辅助程序；[计]附件（accessory的复数形式）| 
-accommodate|ә'kɒmәdeit| |v. provide with something desired or needed<br>v. have room for; hold without crowding<br>v. make (one thing) compatible with (another)|vt. 使适应, 调和, 通融, 容纳, 向...提供<br>vi. 适应| 
-accordingly|ә'kɒ:diŋli| |r. in accordance with|adv. 相应地, 因此, 于是| 
+accessori| |accessory| | | 
+accommod| | | | | 
+accordingli| | | | | 
 accordion|ә'kɒ:djәn| |n. a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player|n. 手风琴<br>a. 可折叠的| 
 acct| | | |abbr. 美国挑战性课程技术协会（Association for Challenge Course Technology）；帐目（account）| 
-accumulate|ә'kju:mjuleit|accumulated<br>accumulator|v. collect or gather|v. 积聚, 堆积| 
-accuracy|'ækjurәsi| |n. the quality of being near to the true value<br>n. (mathematics) the number of significant figures given in a number|n. 精确, 正确<br>[计] 准确度| 
-accurately|'ækjurәtli| |r. with few mistakes<br>r. strictly correctly|adv. 正确地, 精确地| 
-achieved|ә'tʃi:vd|achievements<br>achieving|v to gain with effort|a. 取得的；完成的| 
-acquired|ә'kwaiәd|acquiring|s. gotten through environmental forces|a. 获得的, 后天的<br>[医] 获得的, 后天的| 
-acquisition|.ækwi'ziʃәn| |n. the act of contracting or assuming or acquiring possession of something<br>n. something acquired|n. 获得, 获得物<br>[经] 收购, 招揽, 取得| 
+accumul| |accumulated<br>accumulator| | | 
+accuraci| | | | | 
+accur|ə'kɜ:| | |abbr. accuratissime (Latin=most accurately) （拉丁语）最精确的| 
+achiev| |achievements<br>achieving| | | 
+acquir| |acquiring| | | 
+acquisit| | | | | 
 acrobat|'ækrәbæt| |n. an athlete who performs acts requiring skill and agility and coordination|n. 表演特技者, 杂技演员| 
-activate|'æktiveit|activated<br>activating<br>activation<br>activator<br>actively<br>activities|v. make active or more active<br>v. make more adsorptive<br>v. aerate (sewage) so as to favor the growth of organisms that decompose organic matter<br>v. make (substances) radioactive|vt. 使活动, 使激活, 正式建成<br>vi. 有活力| 
+activ| |activated<br>activating<br>activation<br>activator<br>actively<br>activities| |活动（activity）<br>越南军事概念组（Army Concept Team in Vietnam）| 
 adam| | | | | 
 adaptor|ә'dæptә(r)| |n device that enables something to be used in a way different from that for which it was intended or makes different pieces of apparatus compatible|n. 改编者, 插座, 转接器, 接合器, 拾音器<br>[计] 适配器, 转接器| 
 adder|'ædә| |n. a person who adds numbers<br>n. a machine that adds numbers<br>n. small terrestrial viper common in northern Eurasia|n. 蝰蛇, 猪鼻蛇, 加法器<br>[计] 加法器| 
-additionally| |additions|r. in addition, by way of addition; furthermore|adv. 另外, 此外| 
+addit| |additions| | | 
 addr| | | | | 
-adjacency|ә'dʒeisәnsi|adjacent|n. the attribute of being so near as to be touching|n. 邻接, 邻接物<br>[计] 邻近; 邻接| 
+adjac| |adjacent| | | 
 admin| | | | | 
-admittedly|әd'mitidli| |r as acknowledged|adv. 公认地, 诚然| 
-adobe|ә'doubi| |n. the clay from which adobe bricks are made<br>n. sun-dried brick; used in hot dry climates|n. 风干土坯<br>[化] 风干砖; 土砖; 灰质粘土; 多孔粘土| 
-advances| | |n a movement forward<br>n a change for the better; progress in development<br>n a tentative suggestion designed to elicit the reactions of others<br>n the act of moving forward (as toward a goal)<br>n an amount paid before it is earned<br>n increase in price or value<br>v move forward, also in the metaphorical sense<br>v bring forward for consideration or acceptance<br>v increase or raise<br>v contribute to the progress or growth of<br>v cause to move forward<br>v obtain advantages, such as points, etc.<br>v develop in a positive way<br>v develop further<br>v give a promotion to or assign to a higher position<br>v pay in advance<br>v move forward<br>v rise in rate or price|n. 作友好表示, 求爱, 献殷勤<br>[机] 提早, 前进| 
-advantages| | |n the quality of having a superior or more favorable position<br>n (tennis) first point scored after deuce<br>n benefit resulting from some event or action<br>v give an advantage to|n. 优势；特点；有利；[经] 利益（advantage的复数）<br>v. 促进（advantage的三单形式）；有利于| 
+admittedli| | | | | 
+adob| | | | | 
+advanc| | | | | 
+advantag| | | | | 
 advert|әd'vә:t| |n a public promotion of some product or service<br>v give heed (to)<br>v make a more or less disguised reference to<br>v make reference to|vi. 提出看法, 引起注意, 留意<br>n. 广告| 
-advertise|'ædvәtaiz|advertised<br>advertisement<br>advertisers|v. call attention to<br>v. make publicity for; try to sell (a product)|vt. 做广告, 通知, 公布<br>vi. 做广告| 
-advices|әd'vaisis| |n a proposal for an appropriate course of action|pl. 消息| 
+advertis| |advertised<br>advertisement<br>advertisers| | | 
+advic| | | | | 
 aenean| | | | | 
-affiliate|ә'filieit| |n. a subordinate or subsidiary associate; a person who is affiliated with another or with an organization<br>n. a subsidiary or subordinate organization that is affiliated with another organization<br>v. join in an affiliation|vt. 使紧密联系, 使附属, 接纳, 收养<br>vi. 发生联系, 参加| 
-affinity|ә'finiti| |n. (immunology) the attraction between an antigen and an antibody<br>n. (anthropology) kinship by marriage or adoption; not a blood relationship<br>n. (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts<br>n. a close connection marked by community of interests or similarity in nature or character|n. 吸引, 姻亲关系, 类同<br>[化] 亲合力; 亲合能; 亲合势; 近似; 类似| 
-aforementioned|ә'fɒ:.menʃәnd| |s being the one previously mentioned or spoken of|a. 上述的, 前述的<br>[法] 前面提到过的, 前述的| 
+affili| | | | | 
+affin| | | | | 
+aforement| | | | | 
 africa| | | | | 
-afterwards|'ɑ:ftәwәdz| |r happening at a time subsequent to a reference time|adv. 然后, 后来| 
-aggregate|'ægrigәt|aggregated<br>aggregates<br>aggregation<br>aggregations<br>aggregator|n. material such as sand or gravel used with cement and water to make concrete, mortar, or plaster<br>n. a sum total of many heterogenous things taken together<br>v. amount in the aggregate to<br>v. gather in a mass, sum, or whole|n. 合计, 总计, 聚集体<br>a. 合计的, 聚集的<br>v. 聚集, 集合, 合计达<br>[计] 聚合体; 聚集| 
-agile|'ædʒail| |s. moving quickly and lightly<br>s. mentally quick|a. 敏捷的, 灵活的, 机敏的| 
-agnostic|æg'nɒstik| |n. someone who is doubtful or noncommittal about something<br>n. a person who claims that they cannot have true knowledge about the existence of God (but does not deny that God might exist)<br>a. of or pertaining to an agnostic or agnosticism|n. 不可知论者| 
+afterward|'ɑ:ftәwәd| |r happening at a time subsequent to a reference time|adv. 然后, 后来| 
+aggreg| |aggregated<br>aggregates<br>aggregation<br>aggregations<br>aggregator| | | 
+agil| | | | | 
+agnost| | | | | 
 airflow|'єәflәu| |n. the flow of air|n. 空气的流动, 气流| 
 ajax| | |n. a mythical Greek hero; a warrior who fought against Troy in the Iliad|创建交互式 Web 应用程序而无需牺牲浏览器兼容性的流行方法（Asynchronous JavaScript and XML）；爵士白；铅青铜轴承合金| 
 akin|ә'kin| |s. similar in quality or character<br>s. related by blood|a. 同类的, 同族的, 同源的| 
@@ -120,106 +120,106 @@ alex| | | | |
 alfresco|æl'freskәu| |s. in the open air|adv. 在户外<br>a. 在户外的| 
 algebra|'ældʒibrә| |n. the mathematics of generalized arithmetical operations|n. 代数学| 
 algorithm|'ælgәriðm|algorithms|n. a precise rule (or set of rules) specifying how to solve some problem|n. 算法<br>[计] 算法| 
-alias|'eiliæs| |n. a name that has been assumed temporarily<br>r. as known or named at another time or place|n. 别名, 化名<br>adv. 以化名为人所知<br>[计] 别名; 替换入口| 
-aliased|ˈeɪliəs|aliases<br>aliasing| |n. 假名；别名；化名；【计算机】<br>adv. [后接专名]以化名(或亦名)为人所知，别名为，化名为，或称，别称，又叫| 
-alice| | | | | 
+alia| | | |n. 艾莉雅（人名）| 
+alias|'eiliæs|aliases<br>aliasing|n. a name that has been assumed temporarily<br>r. as known or named at another time or place|n. 别名, 化名<br>adv. 以化名为人所知<br>[计] 别名; 替换入口| 
+alic| | | |abbr. Association of Life Insurance Counsel 生命保险辩护律师联合会| 
 alien|'eiljәn| |v. transfer property or ownership<br>s. not contained in or deriving from the essential nature of something<br>s. being or from or characteristic of another place or part of the world|n. 外国人, 外侨<br>a. 外国的, 相异的| 
 align|ә'lain|aligned<br>alignment|v. place in a line or arrange so as to be parallel or straight<br>v. be or come into adjustment with<br>v. align oneself with a group or a way of thinking<br>v. bring (components or parts) into proper or desirable coordination correlation|vi. 排列, 排成一行, 结盟<br>vt. 使结盟, 使成一行, 校正| 
-alike|ә'laik| |a. having the same or similar characteristics<br>r. equally<br>r. in a like manner|a. 相似的, 同样的<br>adv. 一样, 以同样的方式| 
+alik| | | | [人名] 亚历克| 
 alist|ә'list| | |a. 船向一边倾斜的<br>adv. 船向一边倾斜地| 
-allocate|'ælәukeit|allocated<br>allocates<br>allocating<br>allocation<br>allocations<br>allocator|v. distribute according to a plan or set apart for a special purpose|vt. 分派, 分配<br>[计] 分配| 
-alongside|ә'lɒŋ'said| |r side by side|adv. 在旁边, 靠拢着<br>prep. 在...旁边, 与...在一起| 
+alloc| |allocated<br>allocates<br>allocating<br>allocation<br>allocations<br>allocator| | | 
+alongsid| | | | | 
 alpha|'ælfә| |n. the 1st letter of the Greek alphabet<br>n. the beginning of a series or sequence<br>s. first in order of importance|n. 希腊字母表的第一个字母, 最初, 开端<br>[医] α(希腊文的第一个字母), 甲种| 
 alphabet|'ælfәbit|alphabetical<br>alphabetically<br>alphabets|n. a character set that includes letters and is used to write a language|n. 字母<br>[计] 字母表| 
-alphanumeric|.ælfәnju:'merik| |a. of or pertaining to alphanumeric characters|a. 字母数字的<br>[计] 字母数字的| 
-alpine|'ælpain| |a. relating to or characteristic of alps<br>a. relating to the Alps and their inhabitants<br>s. living or growing above the timber line|a. 高山的, 高山生长的| 
+alphanumer| | | | | 
+alpin| | | |n. (Alpin)人名；(英、俄)阿尔平| 
 alright|ɔ:l'rait| |s. nonstandard usage|a. 没问题的| 
-alternate|'ɒ:ltәnәt|alternately<br>alternatively<br>alternatives|v. go back and forth; swing back and forth between two states or conditions<br>v. exchange people temporarily to fulfill certain jobs and functions<br>v. do something in turns<br>s. every second one of a series|a. 交替的, 轮流的, 间隔的<br>v. 轮流, (使)交替| 
-altitude|'æltitju:d| |n. elevation especially above sea level or above the earth's surface<br>n. the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)|n. 高度, 海拔, 高处<br>[电] 高度| 
-altogether|.ɒ:ltә'geðә| |r. with everything included or counted|adv. 完全地, 总而言之| 
+altern|'ɔ:ltәn|alternately<br>alternatively<br>alternatives|a. Acting by turns; alternate.|a. [古]轮流的；交错的（等于alternate）| 
+altitud| | | | | 
+altogeth| | | | | 
 amazon|'æmәzɒn|amazons|n. a large strong and aggressive woman<br>n. (Greek mythology) one of a nation of women warriors of Scythia (who burned off the right breast in order to use a bow and arrow more effectively)<br>n. a major South American river; arises in the Andes and flows eastward into the South Atlantic; the world's 2nd longest river (4000 miles)|n. 亚马孙河<br>[医] 无乳腺者| 
 ambient|'æmbiәnt| |s. completely enveloping|a. 周围的<br>n. 周围环境| 
-ambiguity|.æmbi'gju:iti|ambiguous|n. an expression whose meaning cannot be determined from its context<br>n. unclearness by virtue of having more than one meaning|n. 不明确, 含糊<br>[计] 二义性; 多义性| 
+ambigu| |ambiguous| | | 
 america| | | | | 
 american| |americans| | | 
 amongst|ә'mʌŋst| |prep. Mixed or mingled; surrounded by.<br>prep. Conjoined, or associated with, or making part of the<br>   number of; in the number or class of.<br>prep. Expressing a relation of dispersion, distribution,<br>   etc.; also, a relation of reciprocal action.|prep. 在...当中, 在...之间, 在...之中| 
 ampersand|'æmpәsænd| |n. a punctuation mark (&) used to represent conjunction (and)|[计] "&"号| 
-amplitude|'æmplitju:d| |n. (physics) the maximum displacement of a periodic wave<br>n. the property of copious abundance<br>n. greatness of magnitude|n. 广阔, 充足, 幅度<br>[化] 振幅| 
+amplitud| | | | | 
 anaconda|,ænә'kɔndә| |n. large arboreal boa of tropical South America|n. [动]水蟒(产于南美洲),似水蟒的大蟒| 
 analog|'ænәlɔ^|analogous<br>analogy|n something having the property of being analogous to something else<br>a of a circuit or device having an output that is proportional to the input|[计] 模拟| 
-analyse|'ænәlaiz| |v consider in detail and subject to an analysis in order to discover essential features or meaning<br>v break down into components or essential features<br>v make a mathematical, chemical, or grammatical analysis of; break down into components or essential features<br>v subject to psychoanalytic treatment|vt. 分析, 细察, 分解<br>[经] 分析| 
-analytic|.ænә'litik|analytics|a. using or subjected to a methodology using algebra and calculus<br>a. using or skilled in using analysis (i.e., separating a whole--intellectual or substantial--into its elemental parts or basic principles)<br>a. expressing a grammatical category by using two or more words rather than inflection|a. 分析的, 善于分析的, 解析的<br>[医] 分析的| 
-analyzed| |analyzer<br>analyzing|a. examined carefully and methodically; broken down for consideration of constituent parts|v. 检讨；分析（analyze的过去式和过去分词）| 
+analys| | | | | 
+analyt| |analytics| |分析化学| 
+analyz| |analyzer<br>analyzing| | | 
 anchor|'æŋkә|anchors|n. a mechanical device that prevents a vessel from moving<br>n. a central cohesive source of support and stability<br>n. a television reporter who coordinates a broadcast to which several correspondents contribute<br>v. fix firmly and stably|n. 锚<br>vt. 抛锚停泊, 使固定<br>[计] 锚| 
 andrew|'ændru:| |n. (New Testament) disciple of Jesus; brother of Peter; patron saint of Scotland|n. 安德鲁（男子名）| 
 android|'ændrɒid| |n. an automaton that resembles a human being|n. 机器人<br>[医] 男性样的| 
-andy|'ændi| | |n. 安迪（男子名, 等于Andrew）| 
+andi| | | |安迪（名字）| 
 angel|'eindʒәl|angeles|n. spiritual being attendant upon God<br>n. invests in a theatrical production<br>n. the highest waterfall; has more than one leap; flow varies seasonally|n. 天使, 守护神, 善人| 
-angles|'æŋɡlz| |n the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians<br>n a biased way of looking at or presenting something<br>n a member of a Germanic people who conquered England and merged with the Saxons and Jutes to become Anglo-Saxons<br>v move or proceed at an angle<br>v to incline or bend from a vertical position<br>v seek indirectly<br>v fish with a hook<br>v present with a bias|n. 角度（angle的复数）| 
+angl| | | | | 
 angular|'æŋgjulә| |a. measured by an angle or by the rate of change of an angle<br>a. having angles or an angular shape|a. 有角的, 消瘦的, 有尖角的, 生硬的<br>[医] 角的, 角形的| 
-annotate|'ænәuteit|annotated<br>annotation<br>annotations|v. add explanatory notes to or supply with critical comments|v. 作注解, 注释<br>[计] 注释| 
-annoyed| |annoying|s. aroused to impatience or anger<br>s. troubled persistently especially with petty annoyances|a. 恼怒的；烦闷的| 
+annot| |annotated<br>annotation<br>annotations| | | 
+annoy|ә'nɒi|annoying|v. cause annoyance in; disturb, especially by minor irritations|vt. 使恼怒, 骚扰| 
 anon|ә'nɒn| |r. at another time<br>r. (old-fashioned or informal) in a little while|adv. 不久以后, 立刻, 以后| 
-anonymous|ә'nɒnimәs| |a. having no known name or identity or known source<br>s. not known or lacking marked individuality|a. 姓氏不详的, 无名的, 无特色的<br>[计] 无记录| 
+anonym|'ænәnim| |n a fictitious name used when the person performs a particular social role|n. 假名, 化名, 匿名者<br>[法] 化名者, 假名, 化名| 
 ansi| | | | | 
 anti|'ænti| |n. a person who is opposed (to an action or policy or practice etc.)<br>a. not in favor of (an action or proposal etc.)|n. 反对者, 反对论者<br>a. 反对的| 
 anyhow|'enihau| |r. used to indicate that a statement explains or supports a previous statement; anyhow, they're quiet"; anyway, it's gone"; in any case, there was a brief scuffle"<br>r. in any way whatsoever|adv. 无论如何, 至少| 
-anytime|'enitaim| | |adv. 任何时候；无例外地| 
-apache| | | | | 
+anytim| | | | | 
+apach| | | | | 
 apex|'eipeks| |n. the point on the celestial sphere toward which the sun and solar system appear to be moving relative to the fixed stars|n. 顶, 尖端, 最高潮<br>[医] 尖, 尖端| 
 apollo| | | | | 
-apostrophe|ә'pɒstrәfi| |n. address to an absent or imaginary person<br>n. the mark (') used to indicate the omission of one or more letters from a printed word|n. 撇号, 呼语法| 
+apostroph| | | | | 
 append|ә'pend|appended<br>appender<br>appending<br>appends|v. add to the very end<br>v. fix to; attach|vt. 附加, 增补, 盖章<br>[计] DOS外部命令:为数据文件(非执行文件)设定一个或多个磁盘路径<br>当程序执行时, DOS将在所设定的磁盘路径中查找不在当前路径下的文件| 
 appendix|ә'pendiks| |n. supplementary material that is collected and appended at the back of a book<br>n. a vestigial process that extends from the lower end of the cecum and that resembles a small pouch|n. 附录, 附加物, 阑尾<br>[化] 增补| 
-apples|'æplz| |n fruit with red or yellow or green skin and sweet to tart crisp whitish flesh<br>n native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits|n. 苹果（复数）；井架小零件| 
-applicable|'æplikәbl|applicant<br>applicants<br>applications<br>applicative|s. capable of being applied; having relevance|a. 合适的, 可应用的<br>[法] 适用的, 适应的| 
-applied|ә'plaid|applies<br>applying|a. concerned with concrete problems or data rather than with fundamental principles|a. 应用的<br>[机] 应用的; 应用, 申请| 
-appreciated|əˈpri:ʃieitid| |s. fully understood or grasped|v. 感激( appreciate的过去式和过去分词 ); 欣赏; （充分）意识到; 对…作（正确）评价| 
-appropriately| | |r. in an appropriate manner|adv. 适当的, 恰如其分的, 恰当的, 合适的| 
+appl|'æpl| | |abbr. applied 应用的; appliance 用具; applicable 可适用的; application 请求| 
+applic| |applicant<br>applicants<br>applications<br>applicative| | | 
+appli| |applies<br>applying| |n. 应用胶体与表面化学| 
+appreci| | | | | 
+appropri| | | | | 
 approx|ə'prɒks| | |abbr. 大约（Approximate）| 
-approximate|ә'prɒksimәt|approximation|v. be close or similar<br>s. not quite exact or correct<br>s. very close in resemblance<br>s. located close together|a. 大约的, 接近的, 近似的<br>vt. 接近, 使接近, 粗略估计<br>vi. 接近于| 
+approxim| |approximation| | | 
 april| | | | | 
-arabic| | | | | 
-arbitrarily|'ɑ:bitrәrili| |r in a random manner|adv. 任意地, 武断地, 专横地, 反复无常地| 
-arbitrary|'ɑ:bitrәri| |a. based on or subject to individual discretion or preference or sometimes impulse or caprice|a. 任意的, 武断的, 专治的, 霸道的| 
+arab| | | | | 
+arbitrarili| | | | | 
+arbitrari| | | | | 
 arch|ɑ:tʃ| |n. a curved shape in the vertical plane that spans an opening<br>n. a curved bony structure supporting or enclosing organs (especially the inner sides of the feet)<br>n. a passageway under a curved masonry construction<br>n. (architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it|n. 拱门, 拱形, 足弓<br>vt. 使成弓形<br>vi. 拱起, 成弓形<br>a. 主要的, 调皮的, 傲慢无礼的, 狡猾的| 
-archetype|'ɑ:tʃtaip| |n something that serves as a model or a basis for making copies|n. 原型| 
-architectural|.ɑ:ki'tektʃәrәl|architecture<br>architectures|a. of or pertaining to the art and science of architecture|a. 有关建筑的, 建筑学的| 
-archive|'ɑ:kaiv|archived<br>archives|n. a depository containing historical records and documents<br>v. put into an archive|vt. 把...存档<br>n. 档案馆, 档案文件<br>[计] 挡案库, 存档| 
+archetyp| | | | | 
+architectur| |architecture<br>architectures| | | 
+archiv| |archived<br>archives| | 档案| 
 aren| | | |n. 雅伦（英国的音响品牌）；爱伦（男子名）| 
 arena|ә'ri:nә| |n. the central area of an ancient Roman amphitheater where contests and spectacles were held; especially an area that was strewn with sand<br>n. a playing field where sports events take place|n. 角斗场, 舞台, 场地<br>[医] 尿沉渣, 尿沙; 脑沙| 
-arguably|'ɑ:ɡjuәbli| |r. as can be shown by argument|adv. 可论证地；可争辩地；正如可提出证据加以证明的那样地| 
+arguabl| | | | | 
 aria|'ɑ:riә| |n. an elaborate song for solo voice|n. 独唱特写镜头, 咏叹调| 
-arises| | |v come into existence; take on form or shape<br>v originate or come into being<br>v rise to one's feet<br>v result or issue<br>v move upward<br>v take part in a rebellion; renounce a former allegiance<br>v get up and out of bed|v. 出现；发生；站立| 
-arithmetic|ә'riθmәtik| |n. the branch of pure mathematics dealing with the theory of numerical calculations|n. 算术, 算术知识<br>[机] 算术; 算术的| 
-arranged| | |a. disposed or placed in a particular kind of order<br>s. planned in advance<br>s. deliberately arranged for effect|a. 安排的| 
+aris| | | |abbr. （宇宙飞船的）高度和速率指示系统（ltitude and rate indicating system）| 
+arithmet| | | | | 
+arrang| | | | | 
 array|ә'rei|arrays|n. an orderly arrangement<br>n. an impressive display<br>n. especially fine or decorative clothing<br>n. an arrangement of aerials spaced to give desired directional characteristics|n. 排列, 衣服, 大批, 军队<br>vt. 布署, 打扮, 排列<br>[计] 数组; 阵列| 
 arrow|'ærәu|arrows|n. a mark to indicate a direction or relation<br>n. a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow|n. 箭, 箭状物, 箭头记号| 
-articles| | |n nonfictional prose forming an independent part of a publication<br>n one of a class of artifacts<br>n a separate section of a legal document (as a statute or contract or will)<br>n (grammar) a determiner that may indicate the specificity of reference of a noun phrase<br>v bind by a contract; especially for a training period|n. 文章；冠词；物品；条款（article的复数）| 
+articl| | | | | 
 artifact|'ɑ:tifækt|artifacts|n. a man-made object taken as a whole|n. 人工制品<br>[医] 人为现象, 人工产物| 
-artificial|.ɑ:ti'fiʃәl| |a. contrived by art rather than nature<br>s. artificially formal<br>s. not arising from natural growth or characterized by vital processes|a. 人造的, 假的, 非原地产的<br>[医] 人工的, 人造的, 伟牟| 
+artifici| | | | | 
 artisan|.ɑ:ti'zæn| |n a skilled worker who practices some trade or handicraft|n. 工匠, 技工<br>[经] 熟练技术工, 匠人| 
 artwork|'ɑ:twә:k| |n. photographs or other visual representations in a printed publication|n. 插图, 艺术作品<br>[计] 原图| 
 asap| | |r. as soon as possible|abbr. 尽快（As Soon As Possible）| 
-ascending|ә'sendiŋ| |a. moving or going or growing upward|a. 上升的, 向上的<br>[计] 递增| 
+ascend|ә'send| |v. travel up, "We ascended the mountain"<br>v. go back in order of genealogical succession<br>v. become king or queen<br>v. appear to be moving upward, as by means of tendrils|vi. 上升, 追溯, 登高<br>vt. 攀登| 
 ascii| | | | | 
 asia| | | | | 
 asian| | | | | 
-assemble|ә'sembl|assembler<br>assemblies<br>assembly|v. create by putting components or members together<br>v. get people together|vt. 集合, 收集, 装配<br>vi. 集合<br>[计] 汇编| 
+assembl| |assembler<br>assemblies<br>assembly| | | 
 assoc| | | |abbr. 协会（association）| 
-associated| |associations<br>associative|v make a logical or causal connection<br>v keep company with; hang out with<br>v bring or come into association or action|a. 联合的<br>[计] 关联的; 结合的| 
-assumed|ә'sju:md|assumes<br>assuming|s. adopted in order to deceive|a. 假装的, 装的, 假定的<br>[法] 设想的, 假定的, 被承担的| 
-assumptions|ə'sʌmpʃnz| |n. a statement that is assumed to be true and from which a conclusion can be drawn<br>n. a hypothesis that is taken for granted<br>n. the act of taking possession of or power over something|n. 假定, 臆断( assumption的复数形式 ); （责任的）承担; （他人债务的）承继; [the A-][基督教]1)。 圣母升天| 
-assured|ә'ʃuәd| |s. marked by assurance; exhibiting confidence<br>s. characterized by certainty or security|a. 确定的, 自信的<br>[经] 被保险人, 被保证者, 投保人| 
+associ| |associations<br>associative| | | 
+assum| |assumes<br>assuming| |阿萨姆（人名）| 
+assumpt| | | | | 
+assur| | | | | 
 asterisk|'æstәrisk| |n. a star-shaped character * used in printing|n. 星号<br>[计] 星号, 星号通配符| 
-aswell| | | |n. (Aswell)人名；(英)阿斯韦尔| 
+aswel| | | | | 
 async| | | |异步的| 
-asynchronous|ei'siŋkrәnәs|asynchronously|a. (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself<br>a. not synchronous; not occurring or existing at the same time or having the same period or phase|a. 不同时的, 不同期的, 异步的<br>[计] 异步的| 
-atlas|'ætlәs| |n. (Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders<br>n. a collection of maps in book form<br>n. the 1st cervical vertebra<br>n. a figure of a man used as a supporting column|n. 地图集, 图表集<br>[计] 自动测试和负载分析系统| 
+asynchron| |asynchronously| | | 
+atla| | | |abbr. 脂肪组织脂蛋白脂酶活性（adipose tissue lipoprotein lipase activity）| 
 atom|'ætәm|atomic<br>atomically<br>atoms|n. (physics and chemistry) the smallest component of an element having the chemical properties of the element<br>n. (nontechnical usage) a tiny piece of anything|n. 原子, 核能, 微粒, 微量<br>[计] 原子| 
-attendees|ˌætenˈdi:z| |n. a person who is present and participates in a meeting|n. （会议等的）出席者( attendee的复数形式 )| 
+attende| | | | | 
 attrib| | | | | 
-attributed|ə'trɪbjuːtɪd|attributes<br>attribution|imp. & p. p. of Attribute|v. 认为...是( attribute的过去式和过去分词 ); 把...归于; 把...品质归于某人; 认为某事[物]属于某人[物]| 
+attribut| |attributes<br>attribution| | | 
 auction|'ɒ:kʃәn| |n. a variety of bridge in which tricks made in excess of the contract are scored toward game; now generally superseded by contract bridge<br>n. the public sale of something to the highest bidder<br>v. sell at an auction|n. 拍卖<br>vt. 拍卖| 
 auctor| | | |[法] 卖主, 拍卖人| 
 audio|'ɒ:diou| |n. the audible part of a transmitted signal<br>n. an audible acoustic wave frequency<br>n. the sound elements of television|a. 音频的, 声音的<br>[电] 声频| 
@@ -229,19 +229,19 @@ aurelia|ɔ:'ri:liә| |n. The chrysalis, or pupa of an insect, esp. when reflecti
 austin|'ɔ:stin| |n. state capital of Texas on the Colorado River; site of the University of Texas|n. 奥斯丁（人名）；英国制汽车牌名| 
 australia| | | | | 
 auth| | | |abbr. 自生的（authentic）；授权的（authorized）| 
-authenticate|ɒ:'θentikeit|authenticated<br>authenticating<br>authentication<br>authenticator<br>authenticity|v. establish the authenticity of something|vt. 证明可信, 证实为真, 使具法律效力<br>[法] 认证, 鉴定, 证明| 
-autoincrement| | | |[计] 自动增量, 自动加数, 自动加1, 自动递减| 
-autoloader|'ɔ:tәu,lәudә| |n. a firearm that reloads itself|[计] 软盘自动异控器| 
-automate|'ɔ:tәmeit|automated<br>automation|v make automatic or control or operate automatically|vt.vi. (使)自动化<br>[计] 自动化| 
-automatic|.ɒ:tә'mætik|automatically|a. operating with minimal human intervention; independent of external control<br>s. resembling the unthinking functioning of a machine<br>s. without volition or conscious control|n. 自动手枪, 自动机械<br>a. 自动的, 机械的, 必然的, 无意识的| 
-auxiliary|ɒ:g'ziljәri| |s. functioning in a supporting capacity|n. 辅助者, 辅助物, 附属机构, 助动词<br>a. 辅助的, 备用的| 
+authent| |authenticated<br>authenticating<br>authentication<br>authenticator<br>authenticity| | | 
+autoincr| | | | | 
+autoload|'ɔ:tәu,lәud| | |自动加载[装填, 装卸, 上料, 送料]| 
+autom| |automated<br>automation| | | 
+automat|'ɒ:tәumæt|automatically|n. a vending machine from which you can get food<br>n. a cafeteria where food is served from machines|n. 自动售货机, 自动贩卖式餐馆<br>[化] 自动机; 自动装置| 
+auxiliari| | | | | 
 avail|ә'veil|availability|n. a means of serving<br>v. use to one's advantage<br>v. be of use to, be useful to<br>v. take or use|vi. 有用, 有利<br>vt. 有利于<br>n. 效用, 利益| 
 avatar|.ævә'tɑ:| |n. the manifestation of a Hindu deity (especially Vishnu) in human or superhuman or animal form|n. 天神下凡化作人形, 化身| 
 await|ә'weit|awaiting|v look forward to the probable occurrence of|vt. 等候<br>vi. 等待着| 
-awesome|'ɒ:sәm| |s inspiring awe or admiration or wonder|a. 引起敬畏的, 可怕的| 
-awhile|ә'hwail| |r. for a short time|adv. 片刻, 一会儿| 
+awesom| | | | | 
+awhil| | | | | 
 awkward|'ɒ:kwәd| |s. causing inconvenience<br>a. lacking grace or skill in manner or movement or performance<br>s. difficult to handle or manage especially because of shape<br>s. not elegant or graceful in expression|a. 笨拙的, 棘手的| 
-azure|'æʒә| |n. a light shade of blue<br>v. color azure<br>s. of a deep somewhat purplish blue color similar to that of a clear October sky|n. 天蓝色, 碧空<br>a. 蔚蓝的| 
+azur| | | |n. （法）蓝色| 
 
 
 ## B
@@ -251,73 +251,73 @@ azure|'æʒә| |n. a light shade of blue<br>v. color azure<br>s. of a deep somew
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 babel| | | | | 
-backbone|'bækbәun| |n. fortitude and determination<br>n. the part of a network that connects other networks together|n. 脊椎, 志气, 骨干, 支柱<br>[计] 主干网, 主干网点| 
+backbon| | | | | 
 backdrop|'bækdrɒp| |n. scenery hung at back of stage|n. 背景幕, 背景| 
 backlog|'bæklɔ^| |n. an accumulation of jobs not done or materials not processed that are yet to be dealt with (especially unfilled customer orders for products or services)<br>n. the large log at the back of a hearth fire<br>v. accumulate and create a backlog|n. 积压待办的事务, 积压而未交付的订货, 积压的工作<br>vt. 储备, 把...积压起来<br>[计] 储备, 后备, 积压| 
 backslash|'bækdlæʃ|backslashes| |[计] 反斜杠| 
-backspace|'bækspeis| |v. hit the backspace key on a computer or typewriter keyboard|vi. 退后一格<br>n. 退格<br>[计] 退格| 
-backtrace| | | |[计] 回溯| 
-backtracking| | |v retrace one's course|[计] 回溯法| 
+backspac| | | | | 
+backtrac| | | | | 
+backtrack|'bæktræk| |v. retrace one's course|vi. 返回, 退走, 撤退, 放弃<br>[化] 回溯| 
 backup|'bækʌp|backups|n. an accumulation caused by clogging or a stoppage<br>n. (computer science) a copy of a file or directory on a separate storage device|n. 倒车, 后退, 后援, 支持, 阻塞<br>vt. 做备份<br>a. 候补的, 支持的<br>[计] 备份; DOS外部命令:通常使用于将硬磁盘上指定的文件复制到软盘上| 
 backward|'bækwәd|backwards|a. directed or facing toward the back or rear<br>a. (used of temperament or behavior) marked by a retiring nature<br>s. retarded in intellectual development<br>s. having made less than normal progress|adv. 向后地, 相反地<br>a. 向后的, 相反的<br>[计] 倒推| 
 bacon|'beikәn| |n. back and sides of a hog salted and dried or smoked; usually sliced thin and fried<br>n. English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)<br>n. English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)|n. 熏猪肉<br>[机] 腌肉| 
-badge|bædʒ| |n. an emblem (a small piece of plastic or cloth or metal) that signifies your status (rank or membership or affiliation etc.)<br>n. any feature that is regarded as a sign of status (a particular power or quality or rank)<br>v. put a badge on|n. 徽章, 标记<br>[计] 标记| 
+badg| | | | | 
 bamboo|bæm'bu:| |n. the hard woody stems of bamboo plants; used in construction and crafts and fishing poles<br>n. woody tropical grass having hollow woody stems; mature canes used for construction and furniture|n. 竹子<br>[医] 竹类| 
 banana|bә'nɑ:nә|bananas|n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits<br>n. elongated crescent-shaped yellow fruit with soft sweet flesh|n. 香蕉| 
 bandwidth|'bændwidθ| |n. a data transmission rate; the maximum amount of information (bits/second) that can be transmitted along a channel|n. 频带宽度, 通带宽度<br>[计] 带宽, 频宽| 
 bang|bæŋ| |n. a sudden very loud noise<br>n. a border of hair that is cut short and hangs across the forehead<br>n. the swift release of a store of affective force<br>v. to produce a sharp often metallic explosive or percussive sound|n. 重击, 突然巨响, 刘海<br>v. 发巨响, 重击<br>adv. 砰然地, 突然巨响地, 直接地<br>[计] 撞击符| 
 banner|'bænә|banners|n. long strip of cloth or paper used for decoration or advertising<br>s. unusually good; outstanding|n. 旗帜<br>a. 显著的, 特别好的| 
 bare|bєә| |v. lay bare<br>s. completely unclothed<br>s. lacking in amplitude or quantity<br>a. lacking its natural or customary covering|a. 赤裸的, 缺少的, 无遮蔽的, 坦率的<br>vt. 使赤裸, 露出| 
-baseline|'beislain| |n. an imaginary line or standard by which things are measured or compared<br>n. the lines a baseball player must follow while running the bases|n. 基线, 基准<br>[计] 基线, 基准| 
-basename| | | | | 
+baselin| | | | | 
+basenam| | | | | 
 bash|bæʃ| |n. an uproarious party|v. 猛击, 打坏<br>n. 猛撞, 猛击| 
 batch|bætʃ|batches|n. all the loaves of bread baked at the same time<br>n. (often followed by `of') a large number or amount or extent<br>n. a collection of things or persons to be handled together<br>v. batch together; assemble or process as a batch|n. 一次所烘的面包, 一次所制之量, 一组, 批, 成批, 分批<br>v. 成批, 分批处理<br>[计] 一批| 
-batteries| | |n group of guns or missile launchers operated together at one place<br>n a device that produces electricity; may have several primary or secondary cells arranged in parallel or series<br>n a collection of related things intended for use together<br>n a unit composed of the pitcher and catcher<br>n a series of stamps operated in one mortar for crushing ores<br>n the heavy fire of artillery to saturate an area rather than hit a specific target<br>n an assault in which the assailant makes physical contact|n. 电池（battery的复数形式）| 
+batteri| | | | | 
 baud|bɔ:d| |n. (computer science) a data transmission rate (bits/second) for modems|[计] 波特| 
 beacon|'bi:kn|beacons|n. a fire (usually on a hill or tower) that can be seen from a distance<br>n. a tower with a light that gives warning of shoals to passing ships<br>v. shine like a beacon<br>v. guide with a beacon|n. 烽火, 灯塔<br>v. 照亮| 
 beam|bi:m| |n. long thick piece of wood or metal or concrete, etc., used in construction<br>n. a group of nearly parallel lines of electromagnetic radiation<br>n. a column of light (as from a beacon)<br>n. (nautical) breadth amidships|n. 横梁, 杆, 光线, 容光焕发<br>vi. 用梁支承, 微笑, 射出光线<br>vt. 照耀, 感到欣喜<br>[计] 束| 
 beanstalk|'bi:nstɒ:k| |n. stem of a bean plant|n. 豆茎| 
 bearer|'bєәrә| |n. a messenger who bears or presents|n. 带信人, 票据持有人, 搬运者<br>[经] 持票人, 持有人, 不(无)记名| 
 beast|bi:st| |n. a cruelly rapacious person|n. 畜生, 动物, 野兽, 兽性| 
-became|bi'keim| |v enter or assume a certain state or condition<br>v undergo a change or development<br>v come into existence<br>v enhance the appearance of|become的过去式| 
+becam| | | | | 
 beef|bi:f| |n. cattle that are reared for their meat<br>n. meat from an adult domestic bovine|n. 牛肉, 肌肉<br>vt. 养(牛), 宰(牛)<br>vi. 抱怨, 告发| 
 been|bi:n| |v have the quality of being; (copula, used with an adjective or a predicate noun)<br>v be identical to; be someone or something<br>v occupy a certain position or area; be somewhere<br>v have an existence, be extant<br>v happen, occur, take place; this was during the visit to my parents' house"<br>v be identical or equivalent to<br>v form or compose<br>v work in a specific place, with a specific subject, or in a specific function<br>v represent, as of a character on stage<br>v spend or use time<br>v have life, be alive<br>v to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form<br>v be priced at|be的过去分词| 
 beep|bi:p| |n. a short high tone produced as a signal or warning<br>v. call, summon, or alert with a beeper|n. 短而尖的声音, 嘟<br>v. 嘟嘟响| 
 beforehand|bi'fɒ:hænd| |s being ahead of time or need<br>r ahead of time; in anticipation|adv. 预先| 
 began|bi'gæn| |v take the first step or steps in carrying out an action<br>v have a beginning, in a temporal, spatial, or evaluative sense<br>v set in motion, cause to start<br>v begin to speak or say<br>v be the first item or point, constitute the beginning or start, come first in a series<br>v have a beginning, of a temporal event<br>v have a beginning characterized in some specified way<br>v begin an event that is implied and limited by the nature or inherent function of the direct object<br>v achieve or accomplish in the least degree, usually used in the negative<br>v begin to speak, understand, read, and write a language|begin的过去式| 
-beginner|bi'ginә|beginners|n someone new to a field or activity<br>n a person who founds or establishes some institution|n. 初学者| 
+beginn| |beginners| | | 
 behalf|bi'hɑ:f| |n. as the agent of or on someone's part (usually expressed as "on behalf of" rather than "in behalf of"); <br>n. for someone's benefit (usually expressed as `in behalf' rather than `on behalf' and usually with a possessive)|n. 利益, 方面| 
-behave|bi'heiv|behaves<br>behaving|v. behave in a certain manner<br>v. behave well or properly|vi. 举止端正, 行为规矩<br>vt. 检点(自己的)行为, 使表现好| 
+behav|'bɪhəv|behaves<br>behaving| |abbr. behavior 行为; 举止（机器等发生作用的）情况; behavioral 行为的; behaviorist(ic) 行为主义者（的）| 
 behaviour|bi'heivjә| |n the action or reaction of something (as a machine or substance) under specified circumstances<br>n (behavioral attributes) the way a person behaves toward other people<br>n (psychology) the aggregate of the responses or reactions or movements made by an organism in any situation<br>n manner of acting or controlling yourself|n. 行为, 举止<br>[计] 特性, 性能, 特点, 行为, 动作, 状态| 
 bellow|'belәu| |n. a very loud utterance (like the sound of an animal)<br>n. United States author (born in Canada) whose novels influenced American literature after World War II (1915-2005)<br>v. make a loud noise, as of animal|v. 怒吼| 
 benchmark| |benchmarking<br>benchmarks|n. a standard by which something can be measured or judged<br>n. a surveyor's mark on a permanent object of predetermined position and elevation used as a reference point|[计] 基准程序; 基准| 
-beneficial|.beni'fiʃәl| |s. promoting or enhancing well-being|a. 有益的, 受益的<br>[经] 有使用权的, 可享利益的| 
+benefici| | | | | 
 berkeley|'bɑ:kli, 'bә:kli| |n. Irish philosopher and Anglican bishop who opposed the materialism of Thomas Hobbes (1685-1753)<br>n. a city in California on the eastern shore of San Francisco Bay; site of the University of California at Berkeley|n. 伯克利（姓氏）；贝克莱（爱尔兰主教及哲学家）；伯克利（美国港市）| 
 berlin| | | | | 
 beta|'beitә| |n. the 2nd letter of the Greek alphabet<br>n. beets<br>s. second in order of importance|n. 希腊字母表的第二个字母<br>[医] β(希腊文的第二个字母), 乙种| 
-beware|bi'wєә| |v. be on one's guard; be cautious or wary about; be alert to|v. 小心, 谨防| 
-biased|'baiәst|biases|s. favoring one person or side over another|a. 有偏见的<br>[计] 边缘的| 
-bicycle|'baisikl| |n. a wheeled vehicle that has two wheels and is moved by foot pedals<br>v. ride a bicycle|n. 自行车| 
-bidirectional|,baidi'rekʃәnәl| |a. reactive or functioning or allowing movement in two usually opposite directions|[计] 双向的| 
+bewar| | | | | 
+bias|'baiәs|biases|n. a partiality that prevents objective consideration of an issue or situation<br>v. influence in an unfair way<br>v. cause to be biased<br>s. slanting diagonally across the grain of a fabric|n. 偏见, 斜纹<br>a. 偏斜的<br>adv. 偏斜<br>vt. 使有偏见<br>[计] 偏流; 偏压; 偏磁; 偏离| 
+bicycl| | | | | 
+bidirect| | | | | 
 bigger| | |s. large or big relative to something else|a. 更大的（big的比较级）| 
 biggest| | |a above average in size or number or quantity or magnitude or extent<br>s significant<br>s very intense<br>s loud and firm<br>s conspicuous in position or importance<br>s prodigious<br>s exhibiting self-importance<br>s feeling self-importance<br>s (of animals) fully developed<br>s marked by intense physical force<br>s generous and understanding and tolerant<br>s given or giving freely<br>s in an advanced stage of pregnancy|a. 最大的（big的最高级）| 
-binaries| |binary|n a system of two stars that revolve around each other under their mutual gravitation<br>n a pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system|n. 双星| 
-bindable| | |s capable of being fastened or secured with a rope or bond|可绑定的（bind的变体）| 
+binari| |binary| | | 
+bindabl| | | | | 
 binder|'baindә| |n. a machine that cuts grain and binds it in sheaves<br>n. something used to bind separate particles together or facilitate adhesion to a surface<br>n. holds loose papers or magazines<br>n. something used to tie or bind|n. 捆缚者, 用以绑缚之物, 活页夹<br>[化] 粘结剂| 
 bing|biŋ| |n. A heap or pile; as, a bing of wood.|n. 堆；材料堆；微软公司的搜索引擎产品| 
-binomial|bai'nәumjәl| |n. (mathematics) a quantity expressed as a sum or difference of two terms; a polynomial with two terms<br>a. of or relating to or consisting of two terms<br>s. having or characterized by two names, especially those of genus and species in taxonomies|a. 包含两个名词(或名称的), 二项式的, 双名的<br>n. 二项式, 双名| 
+binomi| | | | | 
 birt| | | | | 
 bison|'baisәn| |n. any of several large humped bovids having shaggy manes and large heads and short horns|n. 野牛| 
 bitmap| | |n. an image represented as a two dimensional array of brightness values for pixels|n. 位图<br>[计] 位图| 
-bitwise| | | |[计] 按位| 
-bizarre|bi'zɑ:| |s. conspicuously or grossly unconventional or unusual|a. 奇异的| 
-blackberry|'brækbәri| |n. large sweet black or very dark purple edible aggregate fruit of any of various bushes of the genus Rubus<br>n. bramble with sweet edible black or dark purple berries that usually do not separate from the receptacle<br>v. pick or gather blackberries|n. 刺, 黑莓<br>[医] 黑果莓| 
+bitwis| | | | | 
+bizarr| | | | | 
+blackberri| | | | | 
 blacklist|'blæklist| |n. a list of people who are out of favor<br>v. put on a blacklist so as to banish or cause to be boycotted|n. 黑名单| 
 blah|blɑ:| |n pompous or pretentious talk or writing|n. 废话| 
 blank|blæŋk|blanks|n. a piece of material ready to be made into something<br>n. a cartridge containing an explosive charge but no bullet<br>v. keep the opposing (baseball) team from winning<br>s. (of a surface) not written or printed on|n. 空格, 空白<br>a. 空白的, 空虚的, 完全的, 无色的<br>vi. 消失, 成为空白<br>vt. 使无效, 取消, 封锁<br>[计] 空白| 
 blend|blend| |n. an occurrence of thorough mixing<br>n. a new word formed by joining two others and combining their meanings<br>n. the act of blending components together thoroughly<br>v. combine into one|vt. 混合<br>n. 混合| 
 blender|'blendә| |n. an electrically powered mixer with whirling blades that mix or chop or liquefy foods|n. 混合者, 混合器, 搅拌器<br>[化] 掺合机; 捏和机; 混合机; 搅拌机; 搅切器; 捣碎器| 
-blindly|'blaindli| |r. without seeing or looking<br>r. without preparation or reflection; without a rational basis|adv. 轻率地, 盲目地| 
+blindli| | | | | 
 blink|bliŋk| |n. a reflex that closes and opens the eyes rapidly<br>v. briefly shut the eyes|vi. 眨眼, 闪亮<br>vt. 眨眼, 使闪亮<br>n. 眨眼, 瞬间, 闪光, 闪烁<br>[计] 闪烁| 
 blit| | | |n. 位块传送, 位块传输| 
 blob|blɒb|blobs|n. an indistinct shapeless form|n. 一滴, 小斑点<br>vt. 溅污| 
@@ -325,24 +325,24 @@ blown|blәun| |s. being moved or acted upon by moving air or vapor<br>s. breathi
 bluebird|'blu:bә:d| |n. blue North American songbird|n. 蓝色鸣鸟(北美产)| 
 blueprint|'blu:'print| |n. something intended as a guide for making something else<br>n. photographic print of plans or technical drawings etc.<br>v. make a blueprint of|n. 蓝图, 设计图, (周详的)计划<br>vt. 制成蓝图, 计划| 
 blur|blә:|blurred|n. a hazy or indistinct representation<br>v. to make less distinct or clear<br>v. make dim or indistinct<br>v. become vague or indistinct|vt. 使模糊, 弄脏<br>vi. 弄脏, 模糊| 
-bogus|'bәugәs| |s. fraudulent; having a misleading appearance|a. 假的, 伪造的<br>[经] 伪的, 伪造的| 
-boilerplate|'bɔilәpleit| |n. standard formulations uniformly found in certain types of legal documents or news stories<br>n. thick plate iron used in the production of boilers|n. 样板文件| 
+bogu| | | | | 
+boilerpl| | | | | 
 bold|bәuld| |a. fearless and daring<br>s. clear and distinct|a. 大胆的<br>n. 粗体<br>[计] 粗体| 
 bolt|bәult| |n. a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech<br>n. the part of a lock that is engaged or withdrawn with a key<br>n. a roll of cloth or wallpaper of a definite length<br>n. a screw that screws into a nut to form a fastener|n. 门闩, 螺钉, 筛子, 闪电, 意外事件<br>vt. 闩住, 发射, 脱口而出, 筛, 囫囵吞下<br>vi. 囫囵吞枣, 射箭, 脱缰, 退出党派<br>adv. 突然| 
-bonus|'bәunәs| |n. anything that tends to arouse<br>n. an additional payment (or other remuneration) to employees as a means of increasing output|n. 奖金, 红利<br>[经] 奖金, 红利, 额外补贴| 
+bonu| | | | | 
 bookmark|'bukmɑ:k|bookmarks|n. a marker (a piece of paper or ribbon) placed between the pages of a book to mark the reader's place|n. 书签<br>[计] 书签| 
 bool| | | | | 
 boolean| |booleans| | | 
 boost|bu:st| |n. the act of giving hope or support to someone<br>n. the act of giving a push<br>v. give a boost to; be beneficial to<br>v. increase or raise|n. 推进, 吹捧<br>vt. 推进, 提高, 宣扬, 促进| 
-bootloader| | | | | 
+bootload| | | | | 
 bootstrap|'bu:tstræp|bootstrapping|n. a strap that is looped and sewn to the top of a boot for pulling it on<br>v. help oneself, often through improvised means|n. 解靴带<br>[计] 引导程序, 引导自举| 
-bored| |boring|s. tired of the world|a. 无聊的；烦人的；无趣的| 
+bore|bɒ:|boring|n. a person who evokes boredom<br>n. diameter of a tube or gun barrel<br>n. a hole or passage made by a drill; usually made for exploratory purposes<br>v. cause to be bored|n. 令人讨厌的人, 激浪, 枪膛, 孔<br>vt. 使烦扰, 钻孔<br>vi. 钻孔<br>bear的过去式<br>[计] 内径; 孔径| 
 boston| | | | | 
 bottleneck|'bɒtlnek| |n. the narrow part of a bottle near the top<br>v. slow down or impede by creating an obstruction<br>v. become narrow, like a bottleneck|n. 瓶颈<br>[经] 瓶颈, 增产障碍| 
 bought|bɒ:t| |v obtain by purchase; acquire by means of a financial transaction<br>v make illegal payments to in exchange for favors or influence<br>v be worth or be capable of buying<br>v acquire by trade or sacrifice or exchange<br>v accept as true|a. 买来的<br>buy的过去式和过去分词| 
-bounce|bauns| |n. the quality of a substance that is able to rebound<br>n. rebounding from an impact (or series of impacts)<br>v. spring back; spring away from an impact<br>v. hit something so that it bounces|n. 跳, 跳跃, 弹力, 撞击<br>vi. 反跳, 弹跳<br>vt. 使跳回, 撞击<br>[计] 打回| 
+bounc| | | | | 
 bound|baund|bounded<br>bounding<br>bounds|v. form the boundary of; be contiguous to<br>a. confined by bonds<br>a. held with another element, substance or material in chemical or physical union<br>a. secured with a cover or binding; often used as a combining form|n. 跃, 回跳, 范围, 边界<br>a. 受约束的, 装有封面的, 有义务的, 关联的, 被束缚的, 准备去...的, 便秘的<br>vi. 跳跃, 弹起<br>vt. 使跳, 限制, 形成...的疆界<br>bind过去式和过去分词<br>[计] 装订的| 
-boundaries|'baʊndri| |pl.  of Boundary|n. 分界线( boundary的名词复数 ); 范围; 使球越过边界线的击球（得加分）; 疆界| 
+boundari| | | | | 
 bower|'bauә| |n a framework that supports climbing plants<br>v enclose in a bower|n. 凉亭, 树阴处| 
 brace|breis|braces|n. a support that steadies or strengthens something else<br>n. either of two punctuation marks ({ or }) used to enclose textual material<br>n. a rope on a square-rigged ship that is used to swing a yard about and secure it<br>n. elastic straps that hold trousers up (usually used in the plural)|n. 支柱, 曲柄, 支撑, 一对<br>vt. 紧缚, 支撑, 激励<br>vi. 打起精神<br>[计] 花括号| 
 bracket|'brækit|brackets|n. a category falling within certain defined limits<br>n. either of two punctuation marks (`<' or `>') used in computer programming and sometimes used to enclose textual material<br>n. either of two punctuation marks ([ or ]) used to enclose textual material<br>n. a support projecting from a wall (as to hold a shelf)|n. 支架, 括弧, 托架<br>vt. 装托架, 括入括弧<br>[计] 方括号; 括号| 
@@ -351,8 +351,8 @@ breadth|bredθ| |n. the capacity to understand a broad range of topics|n. 宽度
 breakdown|'breikdaun| |n. a mental or physical breakdown<br>n. a cessation of normal operation<br>n. an analysis into mutually exclusive categories|n. 崩溃, 故障<br>[化] 事故; 击穿| 
 breakpoint| |breakpoints| |[计] 断点| 
 breed|bri:d| |n. a special variety of domesticated animals within a species<br>n. a special type<br>v. copulate with a female, used especially of horses<br>v. cause to procreate (animals)|n. 种类, 品种<br>v. 养育, 引起, 饲养, 繁殖| 
-breeze|bri:z| |n. a slight wind (usually refreshing)<br>v. blow gently and lightly<br>v. to proceed quickly and easily|n. 微风, 煤屑, 轻而易举的事<br>vi. 吹微风, 逃走| 
-brevity|'breviti| |n. the use of brief expressions<br>n. the attribute of being brief or fleeting|n. 短暂, 简短| 
+breez| | | | | 
+breviti| | | | | 
 brew|bru:| |n. drink made by steeping and boiling and fermenting rather than distilling<br>v. prepare by brewing<br>v. sit or let sit in boiling water so as to extract the flavor|n. 酿造酒, 酝酿<br>v. 酿造, 酝酿| 
 brian|'braiәn| | |n. 布莱恩（男子名）| 
 british| | | | | 
@@ -360,22 +360,22 @@ broader|brɔːdə| |a having great (or a certain) extent from one side to the ot
 broke|brәuk| |s. lacking funds|a. 一文不名的<br>break的过去式| 
 broker|'brәukә|brokers|v. act as a broker|n. 掮客, 经纪人<br>[经] 经纪人, 掮客| 
 brought|brɒ:t| |v take something or somebody with oneself somewhere<br>v cause to come into a particular state or condition<br>v cause to happen or to occur as a consequence<br>v go or come after and bring or take back<br>v bring into a different state<br>v be accompanied by<br>v advance or set forth in court<br>v bestow a quality on<br>v be sold for a certain price<br>v attract the attention of<br>v induce or persuade|bring的过去式和过去分词| 
-browse|brauz|browsing|n. vegetation (such as young shoots, twigs, and leaves) that is suitable for animals to eat<br>n. reading superficially or at random<br>n. the act of feeding by continual nibbling<br>v. look around casually and randomly, without seeking anything in particular|v. 浏览, 吃草<br>n. 浏览, 吃草<br>[计] 浏览| 
+brows| |browsing|n the part of the face above the eyes<br>n the arch of hair above each eye<br>n the peak of a hill|n. 眉毛（brow的复数）| 
 browser|'brauzә|browsers|n. a viewer who looks around casually without seeking anything in particular<br>n. a program used to view HTML documents|n. 吃嫩叶的动物, 浏览书本的人<br>[计] 浏览程序| 
 brute|bru:t| |n a cruelly rapacious person<br>n a living organism characterized by voluntary movement<br>s resembling a beast; showing lack of human sensibility|n. 畜生, 残忍或好色之人<br>a. 残忍的, 无理性的, 畜生的| 
-bubble|'bʌbl|bubbles<br>bubbling|n. a hollow globule of gas (e.g., air or carbon dioxide)<br>n. an impracticable and illusory idea<br>n. a dome-shaped covering made of transparent glass or plastic<br>v. form, produce, or emit bubbles|n. 泡沫<br>vi. 冒泡, 沸腾<br>vt. 使冒泡, 滔滔不绝地说| 
+bubbl| |bubbles<br>bubbling| | | 
 bucket|'bʌkit|buckets|n. a roughly cylindrical vessel that is open at the top<br>n. the quantity contained in a bucket<br>v. put into a bucket<br>v. carry in a bucket|n. 桶<br>[计] 存储桶; 桶| 
-buddy|'bʌdi| |n. a close friend who accompanies his buddies in their activities|n. 好朋友, 伙伴| 
+buddi| | | | | 
 buff|bʌf| |n. a soft thick undyed leather from the skins of e.g. buffalo or oxen<br>n. bare skin; naked<br>n. an implement consisting of soft material mounted on a block; used for polishing (as in manicuring)<br>v. polish and make shiny|n. 暗黄色, 暗黄色皮革, 人的皮肤<br>vt. 擦亮, 使柔软<br>a. 暗黄色的| 
 buffer|'bʌfә|buffered<br>buffering<br>buffers|n. (chemistry) an ionic compound that resists changes in its pH<br>n. (computer science) a part of RAM used for temporary storage of data that is waiting to be sent to a device; used to compensate for differences in the rate of flow of data between components of a computer system<br>n. a power tool used to buff surfaces<br>n. a cushion-like device that reduces shock due to an impact|n. 缓冲器, 缓冲区<br>vt. 缓冲<br>[计] 缓冲区, 缓冲器| 
-buggy|'bʌgi| |n. a small lightweight carriage; drawn by a single horse<br>s. infested with bugs|a. 多虫的<br>n. 双轮单座轻马车, 四轮单座马车| 
+buggi| | | | | 
 builder|'bildә|builders|n. a substance added to soaps or detergents to increase their cleansing action<br>n. a person who creates a business or who organizes and develops a country<br>n. someone who contracts for and supervises construction (as of a building)|n. 建立者<br>[机] 组份| 
 built|bilt| |s. (used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness|build的过去式和过去分词| 
 builtin| | | |n. 执行内建的函数；内键指令| 
 bulk|bʌlk| |n. the property of something that is great in magnitude<br>n. the property possessed by a large mass<br>v. stick out or up|n. 大小, 体积, 大块, 大多数<br>vt. 显得大, 显得重要| 
 bullshit|'bulʃit| |n. obscene words for unacceptable behavior|n. 胡说| 
 bump|bʌmp| |n. a lump on the body caused by a blow<br>v. knock against with force or violence<br>v. dance erotically or dance with the pelvis thrust forward|n. 撞击, 肿块<br>vt. 碰撞<br>vi. 撞, 颠簸而行| 
-bundle|'bʌndl|bundled<br>bundles<br>bundling|n. a package of several things tied together for carrying or storing<br>v. make into a bundle<br>v. sleep fully clothed in the same bed with one's betrothed|n. 捆, 束<br>vt. 包扎, 胡乱塞进<br>vi. 匆忙离开| 
+bundl| |bundled<br>bundles<br>bundling| | | 
 bundler|'bʌndlә| | |打包机, 捆束机| 
 burger|'bә:ɡә| |n. United States jurist appointed chief justice of the United States Supreme Court by Richard Nixon (1907-1995)|n. 汉堡包（等于hamburger）| 
 butt|bʌt| |n. thick end of the handle<br>n. the part of a plant from which the roots spring or the part of a stalk or trunk nearest the roots<br>n. a victim of ridicule or pranks<br>n. a large cask (especially one holding a volume equivalent to 2 hogsheads or 126 gallons)|n. 粗大的一头, 烟头, 靶, 笑柄<br>[医] 对核| 
@@ -391,78 +391,78 @@ byte|bait|bytes|n. a sequence of 8 bits (enough to represent one character of al
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 cabal|kә'bæl| |n. a clique (often secret) that seeks power usually through intrigue|n. 秘密结社, (尤指政治上的)阴谋<br>vi. 策划阴谋| 
-cache|kæʃ|cached<br>caches<br>caching|n. a hidden storage space (for money or provisions or weapons)<br>n. (computer science) RAM memory that is set aside as a specialized buffer storage that is continually updated; used to optimize data transfers between system elements with different characteristics|n. 隐藏所, 隐藏的粮食或物资, 贮藏物, 高速缓冲存储器<br>vt. 隐藏, 窖藏<br>[计] 高速缓冲存储器, 高速缓冲| 
+cach| |cached<br>caches<br>caching| |abbr. Central American Clearing House 中美洲票据交换所| 
 cafe|kɑ:'fei| |n. a small restaurant where drinks and snacks are sold|n. 咖啡馆, 酒店| 
 cairo| | | | | 
 calc| | | |[计] 计算| 
-calculated|'kælkjuleitid|calculates<br>calculating<br>calculation<br>calculations<br>calculator|v make a mathematical calculation or computation<br>v judge to be probable<br>v keep an account of<br>v predict in advance<br>v specifically design a product, event, or activity for a certain public<br>v have faith or confidence in<br>s carefully thought out in advance|a. 有计划的, 适当的, 适合的, 计算出的<br>[机] 算清了的| 
-calculus|'kælkjulәs| |n. a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body<br>n. the branch of mathematics that is concerned with limits and with the differentiation and integration of functions|n. 结石；微积分学| 
+calcul| |calculates<br>calculating<br>calculation<br>calculations<br>calculator| | | 
+calculu| | | | | 
 calendar|'kælindә|calendars|n. a system of timekeeping that defines the beginning and length and divisions of the year<br>n. a list or register of events (appointments or social events or court cases etc)<br>n. a tabular array of the days (usually for one year)<br>v. enter into a calendar|n. 日历, 日程表<br>vt. 列入表中<br>[计] 日历| 
-calender|'kælindә| |n. a machine that smooths or glazes paper or cloth by pressing it between plates or passing it through rollers<br>v. press between rollers or plates so as to smooth, glaze, or thin into sheets|n. 轧光机<br>vt. 以轧光机压光| 
-calibration|.kæli'breiʃәn| |n. the act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument|n. 口径测定, 刻度, 校准<br>[化] 校准| 
+calend| | | | | 
+calibr| | | | | 
 california| | | | | 
-callable|'kɒ:lәbl| |s. subject to a demand for payment before due date|a. 请求即付的, 随时可偿还的<br>[经] 可回收的| 
+callabl| | | | | 
 callback|'kɒ:lbæk|callbacks|n a request by the manufacturer of a defective product to return the product (as for replacement or repair)|n. 收回| 
 caller|'kɒ:lә|callers|n. a social or business visitor<br>n. an investor who buys a call option<br>n. the bettor in a card game who matches the bet and calls for a show of hands<br>n. a person who announces the changes of steps during a dance|n. 访客, 召集员, 传唤员<br>a. 新鲜的<br>[计] 呼叫方标识| 
 callout| | | |n. 插图编号| 
-calories| | |n a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food<br>n unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure|n. 卡路里（热量单位, calorie的复数）| 
+calori| | | | | 
 came|keim| |v move toward, travel toward something or somebody or approach something or somebody<br>v reach a destination; arrive by movement or progress<br>v come to pass; arrive, as in due course<br>v reach or enter a state, relation, condition, use, or position<br>v to be the product or result<br>v be found or available; The furniture comes unassembled"<br>v come forth<br>v be a native of<br>v extend or reach<br>v exist or occur in a certain point in a series<br>v cover a certain distance<br>v come under, be classified or included<br>v happen as a result<br>v add up in number or quantity<br>v develop into<br>v be received<br>v come to one's mind; suggest itself<br>v come from; be connected by a relationship of blood, for example<br>v proceed or get along<br>v experience orgasm<br>v have a certain priority|come的过去式| 
 camel|'kæml| |n. cud-chewing mammal used as a draft or saddle animal in desert regions|n. 骆驼, 打捞浮筒| 
 canada| | | | | 
 canadian| | | | | 
-candy|'kændi| |n. a rich sweet made of flavored sugar and often combined with fruit or nuts|n. 糖果, 冰糖<br>vt. 用糖煮, 使结晶为砂糖<br>vi. 结晶为砂糖| 
+candi| | | |n. (Candi)人名；(意)坎迪| 
 cannot|'kænɒt| | Am, is, or are, not able; -- written either as one word or<br>   two.|aux. 无法, 不能| 
-canonical|kә'nɔnikәl| |a appearing in a biblical canon<br>a of or relating to or required by canon law<br>s reduced to the simplest and most significant form possible without loss of generality<br>s conforming to orthodox or recognized rules|a. 依教规的, 被认为圣典的, 权威的, 典型的<br>[建] 正则的| 
+canon|'kænәn| |n. a rule or especially body of rules or principles generally established as valid and fundamental in a field or art or philosophy<br>n. a priest who is a member of a cathedral chapter<br>n. a contrapuntal piece of music in which a melody in one part is imitated exactly in other parts<br>n. a complete list of saints that have been recognized by the Roman Catholic Church|n. 教会法规, 圣典, 准则, 标准, 教士<br>[医] 规范, [加农]炮| 
 cant|kænt| |n. insincere talk about religion or morals<br>v. heel over|n. 伪善之言, 黑话, 斜面, 角落<br>vi. 讲黑话, 倾斜| 
-canvas|'kænvәs| |n. a heavy, closely woven fabric (used for clothing or chairs or sails or tents)<br>n. an oil painting on canvas fabric<br>n. the setting for a narrative or fictional or dramatic account<br>n. the mat that forms the floor of the ring in which boxers or professional wrestlers compete|n. 帆布, 画布, 油画<br>[化] 帆布| 
-capabilities|ˌkeɪpəˈbɪlɪti:z| |pl.  of Capability|n. 能力( capability的名词复数 ); 可能; 容量; [复数]潜在能力| 
+canva| | | | | 
+capabl| | | | | 
 caption|'kæpʃәn|captions|n. taking exception; especially a quibble based on a captious argument<br>n. brief description accompanying an illustration<br>v. provide with a caption, as of a photograph or a drawing|n. 说明, 字幕, 标题<br>vt. 加上标题, 加上说明<br>[计] 标题| 
 capybara|,kæpi'bɑ:rә| |n. pig-sized tailless South American amphibious rodent with partly webbed feet; largest living rodent|n. [动]水豚(产于南美湖泊溪流间的啮齿动物)| 
-cardinality|,kɑ:di'næliti| |n. (mathematics) the number of elements in a set or group (considered as a property of that grouping)|[计] 基数| 
+cardin|'kɑ:din| | |[医] 牛心浸膏| 
 caret|'kærәt| |n. a mark used by an author or editor to indicate where something is to be inserted into a text|n. 脱字符<br>[计] ^符号| 
 cargo|'kɑ:gәu| |n. goods carried by a large vehicle|n. 货物<br>[经] 货柜| 
 carid| | | | | 
 carousel|kә'rauzәl| |n. a conveyer belt that carries luggage to be claimed by air travelers<br>n. a large, rotating machine with seats for children to ride or amusement|n. 竞技比武大会| 
-carriage|'kæridʒ| |n. a vehicle with wheels drawn by one or more horses<br>n. characteristic way of bearing one's body<br>n. a machine part that carries something else|n. 马车, 客车, 举止, 运输<br>[经] 搬运费, 运费| 
+carriag| | | | | 
 cart|kɑ:t| |n. a heavy open wagon usually having two wheels and drawn by an animal<br>v. transport something in a cart|n. 二轮运货马车<br>vi. 驾运货马车<br>vt. 用车装载| 
 cartesian| | | | | 
-cascade|kæ'skeid|cascading|n. a small waterfall or series of small waterfalls<br>n. a succession of stages or operations or processes or units<br>v. rush down in big quantities, like a cascade<br>v. arrange (open windows) on a computer desktop so that they overlap each other, with the title bars visible|n. 小瀑布, 瀑布状物<br>vi. 成瀑布落下<br>[计] 层叠, 级联| 
+cascad| |cascading| | | 
 casper|'kæspә(r)| |n. a city of east central Wyoming on the North Platte river|一个卡通造型, 为一可爱的小精灵| 
 cassandra| | | | | 
-castle|'kæsl. 'kɑ:sl| |n. a large building formerly occupied by a ruler and fortified against attack<br>n. (chess) the piece that can move any number of unoccupied squares in a direction parallel to the sides of the chessboard<br>n. interchanging the positions of the king and a rook<br>v. move the king two squares toward a rook and in the same move the rook to the square next past the king|n. 城堡, 象棋中的车<br>vt. 置于城堡中, 盘踞于| 
+castl| | | | | 
 casual|'kæʒjuәl| |s. marked by blithe unconcern<br>s. without or seeming to be without plan or method; offhand<br>s. appropriate for ordinary or routine occasions<br>s. occurring or appearing or singled out by chance|a. 偶然的, 不经意的, 便装的<br>n. 临时工, 待命士兵| 
 catalina|.kætә'li:nә| | |n. 远程轰炸机| 
 catalog|'kætәlɒg| |n. a book or pamphlet containing an enumeration of things<br>n. a complete list of things; usually arranged systematically|n. 目录, 大学概况手册<br>vt. 编目录<br>[计] 目录; 编目| 
-catalogue|'kætәlɒg| |v. make an itemized list or catalog of; classify<br>v. make a catalogue, compile a catalogue|n. 目录, 大学情况一览<br>vt. 编入目录| 
+catalogu| | | | | 
 catalyst|'kætәlist| |n. (chemistry) a substance that initiates or accelerates a chemical reaction without itself being affected<br>n. something that causes an important event to happen|n. 触媒, 接触剂, 催化剂, 刺激因素, 促进因素<br>[计] 催化剂| 
-categorical|.kæti'gɒrikl| |a. relating to or included in a category or categories|a. 范畴的, 绝对的, 明确的| 
-categories| | |n a collection of things sharing a common attribute<br>n a general concept that marks divisions or coordinations in a conceptual scheme|n. 分类；类别（category的复数）| 
+categor| | | | | 
+categori| | | | | 
 caught|kɒ:t| |v discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state<br>v perceive with the senses quickly, suddenly, or momentarily<br>v reach with a blow or hit in a particular spot<br>v take hold of so as to seize or restrain or stop the motion of<br>v succeed in catching or seizing, especially after a chase<br>v to hook or entangle<br>v attract and fix<br>v capture as if by hunting, snaring, or trapping<br>v reach in time<br>v get or regain something necessary, usually quickly or briefly<br>v catch up with and possibly overtake<br>v be struck or affected by<br>v check oneself during an action<br>v hear, usually without the knowledge of the speakers<br>v see or watch<br>v cause to become accidentally or suddenly caught, ensnared, or entangled<br>v detect a blunder or misstep<br>v grasp with the mind or develop an understanding of<br>v contract<br>v start burning<br>v perceive by hearing<br>v suffer from the receipt of<br>v attract; cause to be enamored<br>v apprehend and reproduce accurately<br>v take in and retain<br>v spread or be communicated<br>v be the catcher<br>v become aware of<br>v delay or hold up; prevent from proceeding on schedule or as planned|catch的过去式和过去分词| 
 caution|'kɒ:ʃәn| |n. the trait of being cautious; being attentive to possible danger<br>n. a warning against certain acts<br>n. judiciousness in avoiding harm or danger<br>v. warn strongly; put on guard|n. 小心, 慎重, 警示<br>vt. 警告<br>[计] 警告| 
 caveat|'keiviæt|caveats|n. (law) a formal notice filed with a court or officer to suspend a proceeding until filer is given a hearing|n. 中止诉讼程序的申请, 警告<br>[经] 停止支付的广告, 货物出门概不退换| 
 ceil|si:l| |v. t. To overlay or cover the inner side of the roof of; to<br>   furnish with a ceiling; as, to ceil a room.<br>v. t. To line or finish a surface, as of a wall, with plaster,<br>   stucco, thin boards, or the like.|vt. 装天花板, 装船内衬板| 
-celery|'selәri| |n. widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked<br>n. stalks eaten raw or cooked or used as seasoning|n. 芹菜<br>[医] 芹菜, 糖蒿| 
+celeri| | | | | 
 cellar|'selә| |n. storage space where wines are stored|n. 地窖, 地下室, 藏酒| 
 cellular|'seljulә| |a. relating to cells<br>a. characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)|a. 细胞的<br>[医] 细胞的| 
-celsius|'selsiәs| |n. Swedish astronomer who devised the centigrade thermometer (1701-1744)|a. 摄氏的| 
-census|'sensәs| |n. a periodic count of the population<br>v. conduct a census|n. 户口普查<br>vt. 实施统计调查| 
+celsiu| | | | | 
+censu| | | | | 
 cent|sent|cents|n. a fractional monetary unit of several countries|n. 分<br>[经] 美分| 
-centos| | |pl.  of Cento|abbr. 社区企业操作系统（Community Enterprise Operating System）| 
-centre|'sentә| |n. a low-lying region in central France|n. 中心, 中心点, 中锋<br>a. 中央的, 位在正中的<br>vt. 集中, 定中心<br>vi. 居中| 
+cento|'sentәu| |n. A literary or a musical composition formed by selections<br>   from different authors disposed in a new order.|n. 抄袭拼凑而成的文艺作品(或乐曲), 拼凑物, 杂烩| 
+centr| | | | | 
 centric|'sentrik| |s. having or situated at or near a center|a. 中心的, 中央的<br>[医] 中心的, 中枢的| 
 centroid|'sentrɒid| |n. the center of mass of an object of uniform density|n. 质心<br>[机] 瞬心线| 
 cert|sә:t| |n. an absolute certainty|n. 必然的事情<br>[计] 计算机紧急反应小组| 
-certificate|sә'tifikeit|certificates<br>certification|n. a document attesting to the truth of certain stated facts<br>v. present someone with a certificate<br>v. authorize by certificate|n. 证书, 证明书<br>vt. 发给证明书, 用证书批准, 用证书证明| 
-certified|'sә:tifaid| |a. endorsed authoritatively as having met certain requirements<br>s. holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill|a. 证明合格的<br>[化] 检定的; 证明的; 书面证明的| 
+certif| |certificates<br>certification| | | 
+certifi| | | | | 
 cest| | |s being ten more than ninety|abbr. 广州电气安全检验所（Guangzhou Electrical Safety Testing）；中欧夏令时（Central European Summer Time）| 
 chai|tʃai| | |n. 印度奶茶, 印度茶；混合茶| 
-challenges|ˈtʃælindʒz|challenging|n a demanding or stimulating situation<br>n a call to engage in a contest or fight<br>n questioning a statement and demanding an explanation<br>n a formal objection to the selection of a particular person as a juror<br>n a demand by a sentry for a password or identification<br>v take exception to<br>v issue a challenge to<br>v ask for identification<br>v raise a formal objection in a court of law|n. 挑战( challenge的名词复数 ); 要求; （警卫等）查问口令; 怀疑| 
+challeng| |challenging| | | 
 chan| | | |n. 通道（槽, 沟）| 
 char|tʃɑ:|chars|n. a charred substance<br>n. any of several small trout-like fish of the genus Salvelinus<br>v. burn to charcoal<br>v. burn slightly and superficially so as to affect color|n. 家庭杂务, 炭<br>vi. 打杂, 烧焦| 
-characteristics|.kærәktә'ristiks| |n a prominent attribute or aspect of something<br>n a distinguishing quality<br>n the integer part (positive or negative) of the representation of a logarithm; in the expression log 643 = 2.808 the characteristic is 2<br>n any measurable property of a device measured under closely specified conditions|n. 特性, 特征；特质；特色（characteristic的复数）| 
-characters| | |n an imaginary person represented in a work of fiction (play or film or story)<br>n a characteristic property that defines the apparent individual nature of something<br>n the inherent complex of attributes that determines a persons moral and ethical actions and reactions<br>n an actor's portrayal of someone in a play<br>n a person of a specified kind (usually with many eccentricities)<br>n good repute<br>n a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability<br>n a written symbol that is used to represent speech<br>n (genetics) an attribute (structural or functional) that is determined by a gene or group of genes<br>v engrave or inscribe characters on|n. 特性；人物角色（character复数）| 
-charles|tʃɑ:lz| |n. King of France from 1560 to 1574 whose reign was dominated by his mother Catherine de Medicis (1550-1574)<br>n. King of France who began his reign with most of northern France under English control; after the intervention of Jeanne d'Arc the French were able to defeat the English and end the Hundred Years' War (1403-1461)<br>n. as Charles II he was Holy Roman Emperor and as Charles I he was king of France (823-877)|n. 查尔斯（人名）| 
-charlie| | | | | 
+characterist| | | | | 
+charact| | | | | 
+charl| | | |abbr. Charlottenburg 洛滕堡宫| 
+charli| | | | | 
 charm|tʃɑ:m| |n. something believed to bring good luck<br>n. (physics) one of the six flavors of quark<br>v. control by magic spells, as by practicing witchcraft<br>v. protect through supernatural powers or charms|n. 吸引力, 魔力, 符咒<br>vt. 迷住, 使陶醉, 行魔法<br>vi. 用符咒, 有魅力| 
 chat|tʃæt|chats|n. an informal conversation|n. 闲谈<br>vi. 闲谈, 聊天| 
 cheaper| | |a relatively low in price or charging low prices<br>s tastelessly showy<br>s of very poor quality; flimsy<br>s embarrassingly stingy|a. 成本更低, 比较便宜的| 
@@ -473,21 +473,21 @@ checkmark|'tʃek,ma:k| | |n. 选择目录；检查标志；注销记录|
 checkout|'tʃekaut| |n. the latest time for vacating a hotel room<br>n. a counter in a supermarket where you pay for your purchases|n. 结帐台<br>[计] 检验| 
 checkpoint|'tʃekpɒint| |n. a place (as at a frontier) where travellers are stopped for inspection and clearance|n. 检查站<br>[计] 检查点| 
 checksum| | |n. a digit representing the sum of the digits in an instance of digital data; used to check whether errors have occurred in transmission or storage|[计] 检查和, 检验和| 
-cherry|'tʃeri| |n. wood of any of various cherry trees especially the black cherry<br>n. any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood<br>n. a red fruit with a single hard stone|n. 樱桃, 樱桃树, 樱桃色<br>[医] 樱桃| 
+cherri| | | | | 
 chess|tʃes| |n. weedy annual native to Europe but widely distributed as a weed especially in wheat<br>n. a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king|n. 国际象棋<br>[建] 雀麦| 
 chevron|'ʃevrәn| |n. V-shaped sleeve badge indicating military rank and service<br>n. an inverted V-shaped charge|n. V形袖章, 锯齿形花饰<br>[计] 人字形| 
 chicago| | | | | 
 china| | | | | 
-chinese| | | | | 
-choices| | |n the person or thing chosen or selected<br>n the act of choosing or selecting<br>n one of a number of things from which only one can be chosen|n. 选择（choice的复数）| 
+chines| | |n cut of meat or fish including at least part of the backbone<br>n backbone of an animal<br>v cut through the backbone of an animal<br>v raise oneself while hanging from one's hands until one's chin is level with the support bar|n. 脊柱（chine的复数）| 
+choic| | | | | 
 chomp|tʃɒmp| |v. chew noisily|vi. 使劲地嚼, 格格地咬| 
 chooser|'tʃu:zә| |n a person who chooses or selects out|n. 选择者, 选举人| 
-choreographer|.kɒri'ɒgrәfә| |n. someone who creates new dances|n. 舞蹈指导| 
+choreograph|'kɒriәgrɑ:f| |v. compose a sequence of dance steps, often to music<br>v. plan and oversee the development and details of|v. 设计舞蹈动作| 
 chose|tʃәuz| |v pick out, select, or choose from a number of alternatives<br>v select as an alternative over another<br>v see fit or proper to act in a certain way; decide to act in a certain way|n. 动产<br>choose的过去式| 
 chosen|'tʃouzn| |n. one who is the object of choice; who is given preference<br>n. the name for Korea as a Japanese province (1910-1945)<br>n. an exclusive group of people|choose的过去分词| 
-chris|kris| | |n. 克里斯（男子名）；克莉丝（女子名）| 
+chri| | | | [电影]谢利| 
 christian| | | | | 
-christmas| | | | | 
+christma| | | | | 
 chrome|krәum| |n. another word for chromium when it is used in dyes or pigments<br>v. plate with chromium<br>v. treat with a chromium compound|n. 铬, 铬合金<br>[医] 铬(24号元素)| 
 chromium|'krәumiәm| |n. a hard brittle multivalent metallic element; resistant to corrosion and tarnishing|n. 铬<br>[化] 铬Cr| 
 chunk|tʃʌŋk|chunked<br>chunks|n. a substantial amount|n. 大块, 矮胖的人(或物)<br>[经] 定样| 
@@ -495,56 +495,56 @@ cipher|'saifә|ciphers|n. a message written in a secret code<br>n. a person of n
 ciphertext|'saifәtekst| | |[计] 密文| 
 circuit|'sә:kit| |n. an electrical device that provides a path for electrical current to flow<br>n. an established itinerary of venues or events that a particular group of people travel to<br>n. (law) a judicial division of a state or the United States (so-called because originally judges traveled and held court in different locations); one of the twelve groups of states in the United States that is covered by a particular circuit court of appeals<br>v. make a circuit|n. 电路, 环(行)道, 巡回<br>[计] 线路; 电路| 
 circular|'sә:kjulә| |n. an advertisement (usually printed on a page or in a leaflet) intended for wide distribution<br>s. describing a circle; moving in a circle|a. 圆形的, 循环的, 间接的<br>[医] 环状的, 循环的| 
-circumstances| | |n. a person's financial situation (good or bad)|[法] 事件, 事项, 详细情节| 
-circumvent|.sә:kәm'vent| |v surround so as to force to give up<br>v beat through cleverness and wit<br>v avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)|vt. 绕行, 陷害, 包围, 智取| 
+circumst| | | | | 
+circumv| | | | | 
 cisco|'siskәu| |n. important food fish of cold deep lakes of North America|n. 加拿大白鲑| 
-citation|sai'teiʃәn| |n. an official award (as for bravery or service) usually given as formal public statement<br>n. (law) the act of citing (as of spoken words or written passages or legal precedents etc.)<br>n. a short note recognizing a source of information or of a quoted passage<br>n. a summons that commands the appearance of a party at a proceeding|n. 引用, 引证, 引用文<br>[建] 引证, 指引| 
+citat| | | | | 
 clamp|klæmp| |n. a device (generally used by carpenters) that holds things firmly together<br>v. fasten or fix with a clamp<br>v. impose or inflict forcefully|n. 夹钳<br>vt. 夹紧, 强加| 
 clang|klæŋ| |n. a loud resonant repeating noise<br>v. make a loud noise|n. 当当声, 铿锵声<br>vi. 发出当当声, 发铿锵声<br>vt. 使发铿锵声| 
-clarification|.klærifi'keiʃәn| |n. an interpretation that removes obstacles to understanding|n. 澄清, 净化<br>[计] 澄清报告; 澄清| 
-clarify|'klærifai| |v. make clear and (more) comprehensible<br>v. make clear by removing impurities or solids, as by heating|vi. 澄清, 阐明<br>vt. 使明晰| 
-clarity|'klærәti| |n. free from obscurity and easy to understand; the comprehensibility of clear expression|n. 清楚, 明晰<br>[化] 透明度; 透明性; 清晰性| 
-classification|.klæsifi'keiʃәn| |n. a group of people or things arranged by class or category<br>n. the basic cognitive process of arranging into classes or categories<br>n. restriction imposed by the government on documents or weapons that are available only to certain authorized people|n. 分类, 分级<br>[化] 分级; 分粒; 分类| 
-classified|'klæsifaid|classifier<br>classify|a. arranged into classes<br>a. official classification of information or documents; withheld from general circulation|a. 分类的, 被归入某类的, 被指定为机密的<br>[建] 分了类的, 分了级的| 
-clause|klɒ:z|clauses|n. (grammar) an expression including a subject and predicate but not constituting a complete sentence|n. 子句, 条款<br>[计] 子句| 
+clarif| | | | | 
+clarifi| | | | | 
+clariti| | | | | 
+classif| | | | | 
+classifi| |classifier<br>classify| | | 
+claus| |clauses| |n. 克劳斯（男子名）| 
 cleaner|'kli:nә| |n. the operator of dry-cleaning establishment<br>n. someone whose occupation is cleaning|n. 清洁工人, 清洁剂, 干洗商<br>[化] 滤清器; 除垢器; 洗净剂; 清洁剂| 
 cleanest| | |a free from dirt or impurities; or having clean habits<br>s free of restrictions or qualifications<br>s (of sound or color) free from anything that dulls or dims<br>s free from impurities<br>s (of a record) having no marks of discredit or offense<br>a ritually clean or pure<br>a not spreading pollution or contamination; especially radioactive contamination<br>a (of behavior or especially language) free from objectionable elements; fit for all observers<br>s free from sepsis or infection<br>s morally pure<br>s (of a manuscript) having few alterations or corrections<br>s (of a surface) not written or printed on<br>s exhibiting or calling for sportsmanship or fair play<br>s without difficulties or problems<br>s thorough and without qualification<br>s not carrying concealed weapons<br>s free from clumsiness; precisely or deftly executed<br>s free of drugs|清洁的（clean的最高级）| 
-cleanly|'klenli| |s. habitually clean<br>r. in a manner that minimizes dirt and pollution<br>r. without difficulty or distortion|a. 爱清洁的, 干净的, 清洁的<br>adv. 干净地, 利索地, 熟练地| 
+cleanli| | | | | 
 cleanup|'kli:nʌp| |n. (baseball) the fourth position in the batting order (usually filled by the best batter on the team)|n. 清除, 暴利<br>[经] 清扫工作, 扫除| 
 clearer|'kliәrә| |a readily apparent to the mind<br>s free from confusion or doubt<br>s affording free passage or view<br>a allowing light to pass through<br>s free from contact or proximity or connection<br>s characterized by freedom from troubling thoughts (especially guilt)<br>s (of sound or color) free from anything that dulls or dims<br>s (especially of a title) free from any encumbrance or limitation that presents a question of fact or law<br>s clear and distinct to the senses; easily perceptible<br>a accurately stated or described<br>a free from clouds or mist or haze<br>s free of restrictions or qualifications<br>s free from flaw or blemish or impurity<br>s clear of charges or deductions<br>s easily deciphered<br>s freed from any question of guilt<br>s characterized by ease and quickness in perceiving|[医] 澄清剂, 透明剂; 洗剂(牙)<br>[经] (票据)交换员| 
 clever|'klevә| |s. showing inventiveness and skill|a. 聪明的, 精明的| 
 click|klik|clicked<br>clicking<br>clicks|n. depression of a button on a computer mouse<br>v. make a clicking or ticking sound<br>v. produce a click<br>v. become clear or enter one's consciousness or emotions|n. 咔哒声, 啪嗒声<br>vi. 作咔哒声<br>vt. 使发咔哒声<br>[计] 单击| 
 clip|klip|clipped<br>clipping<br>clips|n. any of various small fasteners used to hold loose articles together<br>n. an article of jewelry that can be clipped onto a hat or dress<br>n. the act of clipping or snipping<br>n. a sharp slanting blow|n. 修剪, 夹子, 回形针, 剪下来的东西<br>vt. 修剪, 痛打, 夹牢, 剪报<br>vi. 剪报| 
 clipboard|'klipbɒ:d| |n. a small writing board with a clip at the top for holding papers|n. 有纸夹的写字板, 剪贴板<br>[计] 剪贴板| 
-clockwise|'klɒkwaiz| |a. in the same direction as the rotating hands of a clock<br>r. in the direction that the hands of a clock move|a. 顺时针方向的<br>adv. 顺时针方向地| 
+clockwis| | | | | 
 clone|klәun|cloned<br>clones<br>cloning|n. a group of genetically identical cells or organisms derived from a single cell or individual by some kind of asexual reproduction<br>v. make multiple identical copies of|n. 无性系<br>[计] 代用件| 
 closest| | |a at or within a short distance in space or time or having elements near each other<br>a close in relevance or relationship<br>a not far distant in time or space or degree or circumstances<br>s rigorously attentive; strict and thorough<br>s marked by fidelity to an original<br>s (of a contest or contestants) evenly matched<br>s crowded<br>s lacking fresh air<br>s of textiles<br>s strictly confined or guarded<br>s confined to specific persons<br>s fitting closely but comfortably<br>s used of hair or haircuts<br>s giving or spending with reluctance<br>s inclined to secrecy or reticence about divulging information<br>r (superlative of `near' or `close') within the shortest distance|a. 最靠近的（close的最高级）| 
-closure|'klәuʒә|closures|n. a rule for limiting or ending debate in a deliberative body<br>n. a Gestalt principle of organization holding that there is an innate tendency to perceive incomplete objects as complete and to close or fill gaps and to perceive asymmetric stimuli as symmetric<br>n. termination of operations<br>v. terminate debate by calling for a vote|n. 关闭<br>vt. 使终止| 
+closur| |closures| | | 
 clueless|ˈklu:ləs| |s. totally uninformed about what is going on; not having even a clue from which to infer what is occurring|a. 无能的, 笨的| 
 clutter|'klʌtә| |n. a confused multitude of things<br>n. unwanted echoes that interfere with the observation of signals on a radar screen<br>v. fill a space in a disorderly way|n. 杂乱<br>vt. 弄乱, 使凌乱| 
-coalesce|.kәuә'les| |v. fuse or cause to grow together|vi. 合并, 联合, 合生<br>[计] 结合| 
-coarse|kɒ:s| |a. of textures that are rough to the touch or substances consisting of relatively large particles<br>s. lacking refinement or cultivation or taste<br>s. of low or inferior quality or value|a. 粗糙的, 下等的, 粗俗的<br>[计] 粗略的| 
+coalesc| | | | | 
+coars| | | | | 
 cobol| | | | | 
 cocoa|'kәukәu| |n. a beverage made from cocoa powder and milk and sugar; usually drunk hot<br>n. powder of ground roasted cacao beans with most of the fat removed|n. 可可粉, 可可茶, 可可色<br>[医] 可可, 可可豆| 
-cocos| | | | [医]椰子; [地名] [巴西] 科库斯| 
+coco|'kәukәu| |n tall palm tree bearing coconuts as fruits; widely planted throughout the tropics|n. 椰子树, 椰子<br>[医] 斐济群岛类雅司病| 
 codec| |codecs| |[计] 编码译码器| 
 coder|'kәudә|coders|n a person who designs and writes and tests computer programs|n. 编码器<br>[计] 编码员| 
 codex|'kәudeks| |n. an official list of chemicals or medicines etc.<br>n. an unbound manuscript of some ancient classic (as distinguished from a scroll)|n. 手抄本, 法典, 药典<br>[计] 编译码器, 压缩/解压程序| 
 coef|'kəʊf| | |abbr. coefficient 系数| 
 coeff| | | | [计]= COEFFicient,系数| 
-coefficient|kәui'fiʃәnt|coefficients|n. a constant number that serves as a measure of some property or characteristic|n. 系数<br>[计] 系数| 
-coerce|kәu'ә:s| |v. to cause to do through pressure or necessity, by physical, moral or intellectual means :"She forced him to take a job in the city"|vt. 强制, 强迫| 
+coeffici| |coefficients| | | 
+coerc| | | | | 
 coin|kɒin|coins|n. a flat metal piece (usually a disc) used as money<br>v. make up|n. 硬币, 金钱, 货币<br>vt. 铸币, 创造, 杜撰| 
-coincidence|kәu'insidәns| |n. an event that might have been arranged although it was really accidental<br>n. the quality of occupying the same position or area in space|n. 巧合, 同时发生<br>[电] 符合计数器| 
+coincid| | | | | 
 cola|'kәulә| |n. large genus of African trees bearing kola nuts<br>n. carbonated drink flavored with extract from kola nuts (`dope' is a southernism in the United States)|结肠, 冒号, 科朗<br>[化] 可乐果; 可乐果属; 可乐果干子叶| 
 coll| | |v. t. To embrace.|n. 胶原；胶质（等于colloid）| 
-collaboration|kә.læbә'ræʃәn| |n. act of working jointly<br>n. act of cooperating traitorously with an enemy that is occupying your country|n. 合作, 勾结<br>[法] 通敌卖国者, 奸细| 
-collapsed| |collapsible<br>collapsing|v break down, literally or metaphorically<br>v collapse due to fatigue, an illness, or a sudden attack<br>v fold or close up<br>v fall apart<br>v cause to burst<br>v suffer a nervous breakdown<br>v lose significance, effectiveness, or value|a. 倒塌的；暴跌的；收缩的；倾陷了的| 
-collate|kә'leit|collation|v. compare critically; of texts<br>v. to assemble in proper sequence|vt. 校对, 校勘<br>[计] 整理| 
-colleagues| | |n an associate that one works with<br>n a person who is member of one's class or profession|n. 同事；同行（colleague的复数）| 
+collabor| | | | | 
+collaps| |collapsible<br>collapsing| | | 
+collat| |collation| |配页| 
+colleagu| | | | | 
 collector|kә'lektә|collectors|n. a person who collects things<br>n. a person who is employed to collect payments (as for rent or taxes)<br>n. a crater that has collected cosmic material hitting the earth<br>n. the electrode in a transistor through which a primary flow of carriers leaves the region between the electrodes|n. 收集家, 收取款项的人<br>[化] 集电极; 捕收剂| 
-collide|kә'laid| |v. cause to collide<br>v. crash together with violent impact|vi. 碰撞, 互撞, 抵触| 
-collision|kә'liʒәn|collisions|n. (physics) a brief event in which two or more bodies come together<br>n. an accident resulting from violent impact of a moving object<br>n. a conflict of opposed ideas or attitudes or goals|n. 碰撞, 冲突, 抵触<br>[计] 冲突| 
+collid| | | | | 
+collis| |collisions| | | 
 colon|'kәulәn|colons|n. the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted<br>n. the basic unit of money in El Salvador; equal to 100 centavos<br>n. the basic unit of money in Costa Rica; equal to 100 centimos<br>n. a port city at the Caribbean entrance to the Panama Canal|n. 冒号, 结肠<br>[医] 结肠| 
 colour|'kʌlә|colours|n any material used for its color<br>n a race with skin pigmentation different from the white race (especially Blacks)<br>n (physics) the characteristic of quarks that determines their role in the strong interaction<br>n interest and variety and intensity<br>n the timbre of a musical sound<br>n a visual attribute of things that results from the light they emit or transmit or reflect<br>n an outward or token appearance or form that is deliberately misleading<br>n the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation<br>v modify or bias<br>v decorate with colors<br>v give a deceptive explanation or excuse for<br>v affect as in thought or feeling<br>v add color to<br>v change color, often in an undesired manner<br>a having or capable of producing colors|n. 颜色, 面色, 颜料, 外貌<br>vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲<br>vi. 变色| 
 columna| | | |[医] 柱| 
@@ -554,53 +554,53 @@ comet|'kɒmit| |n. (astronomy) a relatively small extraterrestrial body consisti
 comic|'kɒmik| |a. of or relating to or characteristic of comedy|n. 连环漫画, 喜剧演员, 滑稽的人<br>a. 滑稽的, 有趣的, 喜剧的| 
 comm| | | |abbr. 委员会（committee）；通信（communication）；商业, 贸易（commerce）；佣金, 委任书（commission）| 
 comma|'kɒmә|commas|n. a punctuation mark (,) used to indicate the separation of elements within the grammatical structure of a sentence<br>n. anglewing butterfly with a comma-shaped mark on the underside of each hind wing|n. 逗点, 逗号| 
-commentary|'kɒmәntәri| |n a written explanation or criticism or illustration that is added to a book or other textual material|n. 注释, 评论, 说明<br>[法] 注释, 评注, 评论| 
-commerce|'kɒmә:s| |n. transactions (sales and purchases) having the objective of supplying commodities (goods and services)<br>n. social exchange, especially of opinions, attitudes, etc.|n. 商业, 商务, 贸易<br>[经] 商业, 贸易, 商务| 
-commodity|kә'mɒditi| |n. articles of commerce|n. 农产品, 商品, 有用的物品<br>[经] 商品, 货物, 日用品| 
-commonly|'kɒmәnli| |r under normal conditions|adv. 一般, 普通, 通常| 
+commentari| | | | | 
+commerc| | | | | 
+commod| | | | | 
+commonli| | | | | 
 comp|kɔmp| |n an intensive examination testing a student's proficiency in some special field of knowledge|[计] 电脑及相关知识; DOS内部命令:比较两个文件的内容| 
 compact|kәm'pækt| |n. a small cosmetics case with a mirror; to be carried in a woman's purse<br>n. a small and economical car<br>v. have the property of being packable or of compacting easily<br>a. closely and firmly united or packed together|a. 紧凑的, 紧密的, 简洁的<br>vt. 使紧密结合, 压缩<br>vi. 变坚实| 
 companion|kәm'pænjәn| |n. a friend who is frequently in the company of another<br>n. a traveler who accompanies you<br>n. one paid to accompany or assist or live with another|n. 朋友, 陪伴, 指南, 升降口围罩<br>vt. 陪伴| 
 compass|'kʌmpәs| |n. navigational instrument for finding directions<br>n. the limit of capability<br>n. drafting instrument used for drawing circles<br>v. bring about; accomplish|n. 指南针, 范围, 音域<br>vt. 包围, 达到, 图谋, 理解| 
-compatibility|kәm.pætә'biliti|compatible|n. a feeling of sympathetic understanding<br>n. capability of existing or performing in harmonious or congenial combination|n. 兼容性<br>[计] 兼容性| 
-compelling|kәm'peliŋ| |s. driving or forcing<br>s. tending to persuade by forcefulness of argument|a. 强制的, 强迫性的, 激发兴趣的| 
-compensate|'kɒmpenseit|compensation|v. adjust for<br>v. make amends for; pay compensation for<br>v. make payment to; compensate|v. 偿还, 补偿, 付报酬| 
-compilation|.kɒmpi'leiʃәn|compile<br>compiled<br>compiler<br>compilers<br>compiles<br>compiling|n. something that is compiled (as into a single book or file)<br>n. the act of compiling (as into a single book or file or list)|n. 编辑, 编纂, 编辑(编纂)物<br>[计] 编译| 
+compat| |compatible| |n. 兼容| 
+compel|kәm'pel| |v. force somebody to do something<br>v. necessitate or exact|vt. 强迫, 迫使| 
+compens| |compensation| |n. 补偿控制线保护系统| 
+compil| |compile<br>compiled<br>compiler<br>compilers<br>compiles<br>compiling| | | 
 complement|'kɒmplimәnt| |n. a word or phrase used to complete a grammatical construction<br>n. a complete number or quantity<br>n. number needed to make up a whole force<br>n. something added to complete or embellish or make perfect|n. 补足物, 补语, 补数<br>vt. 补充, 补足<br>[计] 补码; 反相器; 补数| 
-compliance|kәm'plaiәns| |n acting according to certain accepted standards<br>n a disposition or tendency to yield to the will of others<br>n the act of submitting; usually surrendering power to another|n. 遵从, 顺从, 屈从<br>[化] 柔顺; 顺应| 
+complianc| | | | | 
 compliant|kәm'plaiәnt| |a. disposed or willing to comply|a. 顺从的, 屈从的<br>[电] 适用于, 配合...使用| 
-complicate|'kɒmplikeit| |v. make more complicated<br>v. make more complex, intricate, or richer|vt. 弄复杂, 使错综, 使恶化<br>vi. 变复杂| 
-comply|kәm'plai| |v. act in accordance with someone's rules, commands, or wishes|vi. 顺从, 依从<br>[法] 遵守, 承诺, 照做| 
-components| | |n an abstract part of something<br>n something determined in relation to something that includes it<br>n an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system|n. 部件；组件；成份（component复数）| 
-composed|kәm'pәuzd|composer|a. serenely self-possessed and free from agitation especially in times of stress|a. 镇静的, 沉着的| 
-composite|kәm'pɒzit| |n. considered the most highly evolved dicotyledonous plants, characterized by florets arranged in dense heads that resemble single flowers<br>s. consisting of separate interconnected parts<br>a. of or relating to or belonging to the plant family Compositae|a. 合成的, 混合成的, 菊科的<br>n. 合成物, 复合材料, 菊科| 
+complic| | | | | 
+compli| | | | | 
+compon| | | | | 
+compos| |composer| |n. 混合涂料（compo的复数形式）| 
+composit| | | |a. 合成的；复合的| 
 compound|kәm'paund| |n. a whole formed by a union of two or more elements or parts<br>n. (chemistry) a substance formed by chemical union of two or more elements or ingredients in definite proportion by weight<br>n. an enclosure of residences and other building (especially in the Orient)<br>v. put or add together|n. 混合物, 复合词, 化合物, 院子<br>a. 复合的, 混合的, 化合的<br>vi. 化合, 和解, 妥协<br>vt. 使复合, 使化合| 
-comprehension|.kɒmpri'henʃәn| |n. an ability to understand the meaning or importance of something (or the knowledge acquired as a result)|n. 理解, 包含| 
+comprehens| | | | | 
 compress|kәm'pres|compressed<br>compressing<br>compression|n. a cloth pad or dressing (with or without medication) applied firmly to some part of the body (to relieve discomfort or reduce fever)<br>v. make more compact by or as if by pressing<br>v. squeeze or press together|vt. 压缩, 压紧<br>vi. 受压缩小<br>[计] 压缩程序| 
 compressor|kәm'presә| |n. a mechanical device that compresses gasses|n. 压缩物, 压缩机, 压肌<br>[化] 压缩机| 
-concatenate|kɒn'kætәneit|concatenated<br>concatenating<br>concatenation|v. combine two strings to form a single one<br>v. add by linking or joining so as to form a chain or series|vt. 如锁链般连接, 使连锁, 连结<br>a. 连锁的, 连结的| 
-conceptual|kәn'septʃuәl|conceptually|s. being or characterized by concepts or their formation|a. 概念的<br>[医] 概念的| 
-concise|kәn'sais| |a. expressing much in few words|a. 简洁的, 简明的| 
-conclusions|kənk'lu:ʒnz| |n. a position or opinion or judgment reached after consideration<br>n. an intuitive assumption<br>n. the temporal end; the concluding time|n. 结束( conclusion的复数形式 ); 结论; 推论; 签订| 
-concurrency| |concurrent<br>concurrently|n agreement of results or opinions<br>n acting together, as agents or circumstances or events|[计] 并发性; 并行性| 
+concaten| |concatenated<br>concatenating<br>concatenation| | | 
+conceptu| |conceptually| | | 
+concis| | | | | 
+conclus| | | | | 
+concurr| |concurrent<br>concurrently| | | 
 cond| | |v. t. To con, as a ship.|n. 气孔导度；电导率；条件数| 
-condensed|kәn'denst| |v undergo condensation; change from a gaseous to a liquid state and fall in drops<br>v make more concise<br>v remove water from<br>v cause a gas or vapor to change into a liquid<br>v become more compact or concentrated<br>v develop due to condensation<br>v compress or concentrate|a. 浓缩的；扼要的| 
+condens| | | | | 
 conf| | | |abbr. conference 会议; confer (Latin=compare) （拉丁语）比较; confine 限制; confident 确信的| 
-configurable| |configuration<br>configurations<br>configure<br>configured<br>configuring| |a. 结构的；可配置的| 
-confluence|'kɒnfluәns| |n. a place where things merge or flow together (especially rivers)<br>n. a flowing together|n. 合流, 合流点, 集合, 人群<br>[医] 融合, 汇合| 
+configur| |configuration<br>configurations<br>configure<br>configured<br>configuring| | | 
+confluenc| | | | | 
 confluent|'kɒnfluәnt| |s. flowing together|a. 合流的, 汇合的, 融合性的<br>n. 支流| 
 conform|kәn'fɒ:m|conforming<br>conforms|v. be similar, be in line with|vt. 使一致, 使遵守, 使符合<br>vi. 一致, 符合, 适应| 
-confuse|kәn'fju:z|confused<br>confuses<br>confusing|v. mistake one thing for another<br>v. be confusing or perplexing to; cause to be unable to think clearly<br>v. cause to feel embarrassment<br>v. make unclear, indistinct, or blurred|vt. 使混乱, 使狼狈, 使困惑<br>[法] 混淆| 
-congrats|kәn'græts| | |interj. 祝贺词, 祝贺语<br>n. 祝贺词, 祝贺语| 
-conjunction|kәn'dʒʌŋkʃәn| |n. an uninflected function word that serves to conjoin words or phrases or clauses or sentences<br>n. the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction<br>n. (astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac|n. 连接词, 联合, 结合<br>[计] 合取| 
+confus| |confused<br>confuses<br>confusing| | | 
+congrat| | | |abbr. congratulation 祝贺| 
+conjunct|kәn'dʒʌŋkt| |a. progressing melodically by intervals of a second<br>s. bound in close association|a. 结合的, 聚合的| 
 conn|kɒn| |v. conduct or direct the steering of a ship or plane|vt. 指挥操舵<br>n. 指挥操舵| 
 connector|kә'nektә|connectors|n an instrumentality that connects|n. 连结者, 联系者, 连结物<br>[计] 连接口| 
-conscious|'kɒnʃәs| |s. intentionally conceived<br>a. knowing and perceiving; having awareness of surroundings and sensations and thoughts<br>s. (followed by `of') showing realization or recognition of something|a. 有意识的, 知觉的, 觉察的<br>[医] 有意识的, 清醒的| 
-consecutive|kәn'sekjutiv| |s. in regular succession without gaps<br>r. in a consecutive manner|a. 连续的, 联贯的<br>[计] 连续的; 连接的| 
+consciou| | | | | 
+consecut| | | | | 
 consent|kәn'sent| |n. permission to do something|n. 同意, 许可<br>vi. 同意, 赞同| 
-consequences|ˈkɔnsikwənsiz|consequently|n. a phenomenon that follows and is caused by some previous phenomenon<br>n. the outcome of an event especially as relative to an individual<br>n. having important effects or influence|n. 重要（性）( consequence的复数形式 ); 结果; 重要地位; 因果关系| 
-console|kәn'sәul| |n. a scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system)<br>n. an ornamental scroll-shaped bracket (especially one used to support a wall fixture)|vt. 安慰, 藉慰<br>n. 控制台<br>[计] 控制台| 
-conspiracy|kәn'spirәsi| |n. a secret agreement between two or more people to perform an unlawful act<br>n. a plot to carry out some harmful or illegal act (especially a political plot)<br>n. a group of conspirators banded together to achieve some harmful or illegal purpose|n. 同谋, 阴谋, 阴谋集团<br>[法] 阴谋, 通谋, 共谋| 
+consequ| |consequently| | | 
+consol|'kɔnsәl| | |康索尔（多区无线电信标, 电子方位仪）| 
+conspiraci| | | | | 
 const| | | |n. 常量, 常数| 
 constr| | | |abbr. 施工技术（construction）| 
 constrain|kәn'strein|constrained|v hold back<br>v restrict|vt. 强迫, 限制, 关押| 
@@ -608,97 +608,97 @@ constraint|kәn'streint|constraints|n. the state of being physically constrained
 constructor|kәn'strʌktә|constructors|n someone who contracts for and supervises construction (as of a building)|n. 建造者, 造船技师<br>[计] 结构符, 构造符, 构造器, 构造程序, 构造操作| 
 consul|'kɒnsәl| |n. a diplomat appointed by a government to protect its commercial interests and help its citizens in a foreign country|n. 领事, 执政官<br>[经] 领事| 
 consult|kәn'sʌlt|consulting|v. get or ask advice from<br>v. seek information from<br>v. advise professionally|vi. 商讨, 商量, 协商, 会诊<br>vt. 向...请教, 查阅, 考虑| 
-consumed| |consumers<br>consumes<br>consuming|v eat immoderately<br>v serve oneself to, or consume regularly<br>v spend extravagantly<br>v destroy completely<br>v use up (resources or materials)<br>v engage fully|a. 充满的；对…著迷的| 
+consum| |consumers<br>consumes<br>consuming| | | 
 cont| | | |abbr. 内容（contents）；连续的（continued）| 
-contextual|kɒn'tekstjuәl| |a. relating to or determined by or in context|a. 上下文的, 前后关系的| 
-contiguous|kәn'tigjuәs| |s. very close or connected in space or time|a. 邻近的, 接近的<br>[医] 接触的| 
+contextu| | | | | 
+contigu| | | | | 
 continuum|kәn'tinjuәm| |n. a continuous nonspatial whole or extent or succession in which no part or portion is distinct or distinguishable from adjacent parts|n. 连续统一体, 连续统, 闭联集<br>[化] 连续区; 连续谱; 连续介质| 
 contour|'kɒntuә|contours|n. a line drawn on a map connecting points of equal height<br>n. a feature (or the order or arrangement of features) of anything having a complex structure<br>v. form the contours of|n. 轮廓<br>vt. 画轮廓<br>a. 显示轮廓的<br>[计] 轮廓| 
 contractor|'kɒntræktә| |n. someone (a person or firm) who contracts to build things<br>n. the bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps<br>n. (law) a party to a contract|n. 立契约的人, 承包商<br>[化] 承包者; 承包工厂| 
-contrary|'kɒntrәri| |n. exact opposition<br>n. a logical relation such that two propositions are contraries if both cannot be true but both can be false<br>s. very opposed in nature or character or purpose<br>s. of words or propositions so related that both cannot be true but both may be false|a. 相反的, 矛盾的, 对立的<br>n. 相反, 对立面<br>adv. 相反地| 
+contrari| | | | | 
 contrib| | | |n. 普通发布版| 
-contributed| |contributing<br>contributions|v bestow a quality on<br>v contribute to some cause<br>v be conducive to<br>v provide|a. 已缴入的；贡献的, 分配的| 
+contribut| |contributing<br>contributions| | | 
 contributor|kәn'tribjutә|contributors|n. a writer whose work is published in a newspaper or magazine or as part of a book|n. 贡献者, 捐助者, 赠送者, 投稿者<br>[法] 捐助人, 捐赠人, 投搞人| 
-contrived|kәn'traivd| |s. showing effects of planning or manipulation|a. 人造的, 勉强的, 不自然的| 
+contriv| | | | | 
 conv| | | |abbr. 卷积和多项式相乘（convolution）| 
-convenience|kә'vi:njәns|convenient<br>conveniently|n. the state of being suitable or opportune<br>n. the quality of being useful and convenient|n. 方便, 便利的事物, 方便的时候| 
-conversations|ˌkɔnvəˈseiʃənz|conversion<br>conversions|n. the use of speech for informal exchange of views or ideas or information etc.|n. 交谈( conversation的复数形式 ); 交往; 谈话技巧; [自动数据处理]（特指通过键盘和计算机进行的）人机对话| 
+conveni| |convenient<br>conveniently| | | 
+convers| |conversion<br>conversions|plural of conver|(conver 的复数) n. 转换| 
 convex|'kɒnveks| |a. curving or bulging outward|a. 中凸的, 凸圆的, 凸面的<br>n. 凸状, 凸面体, 凸面结构| 
 convey|kәn'vei| |v. make known; pass on, of information<br>v. transfer to another<br>v. transmit a title or property|vt. 传达, 运输, 转让<br>[经] 转让(财产等), 搬运| 
-convinced|kәn'vinst|convincing|s. persuaded of; very sure<br>a. having a strong belief or conviction|a. 确信的, 深信的| 
-convoluted|'kɔnvәlju:tid|convolution|v curl, wind, or twist together<br>v practice sophistry; change the meaning of or be vague about in order to mislead or deceive<br>s rolled longitudinally upon itself<br>s highly complex or intricate and occasionally devious|a. 盘绕的, 回旋的, 旋绕的, 卷绕的, 复杂的<br>[医] 卷曲的, 回旋的| 
+convinc| |convincing| | | 
+convolut| |convolution| | | 
 cookbook|'kukbuk| |n. a book of recipes and cooking directions|n. 食谱| 
-cookies| | |n any of various small flat sweet cakes (`biscuit' is the British term)<br>n the cook on a ranch or at a camp<br>n a short line of text that a web site puts on your computer's hard drive when you access the web site<br>n the cook on a ranch or at a camp<br>n any of various small flat sweet cakes (`biscuit' is the British term)|n. 饼干| 
-coordinate|kәu'ɒ:dineit|coordinates<br>coordinator|n. a number that identifies a position relative to an axis<br>v. bring into common action, movement, or condition<br>v. be co-ordinated<br>s. of equal importance, rank, or degree|n. 同等的人(或物), 坐标<br>a. 同等的, 并列的<br>v. (使)协调| 
+cooki| | | | | 
+coordin| |coordinates<br>coordinator| | | 
 copyright|'kɒpirait| |n. a document granting exclusive right to publish and sell literary or musical or artistic work<br>v. secure a copyright on a written work|n. 版权, 著作权<br>[法] 著作权| 
-coroutine|,kәru:'ti:n|coroutines| |[计] 协同程序, 联立程序, 共行程序| 
+coroutin| |coroutines| | | 
 corp| | |n a business firm whose articles of incorporation have been approved in some state|[经] 公司| 
-corporations| | |n a business firm whose articles of incorporation have been approved in some state<br>n slang for a paunch|n. 公司, 企业（corporation的复数形式）| 
-corpus|'kɒ:pәs| |n. a collection of writings<br>n. the main part of an organ or other bodily structure|n. (事物的)主体, 文集, 本金, 语料库<br>[医] 体| 
+corpor| | | | | 
+corpu| | | | | 
 corr| | | |[经] 更正| 
-correctly|kә'rektli| |r. in an accurate manner|adv. 对, 正确, 恰当, 符合一般性准则, 符合行为准则, 端正, 符合| 
-correlate|'kɒrәleit|correlated<br>correlation|n. either of two or more related or complementary variables<br>v. to bear a reciprocal or mutual relation<br>v. bring into a mutual, complementary, or reciprocal relation|n. 有相互关系的东西, 相关物<br>vt. 使有相互关系<br>vi. 相关| 
+correctli| | | | | 
+correl| |correlated<br>correlation| |abbr. 有相互关系的（correlative）| 
 correspond|.kɒri'spɒnd|corresponding<br>corresponds|v. exchange messages|vi. 符合, 通信, 相当<br>[法] 符合, 一致, 相当| 
 corrupt|kә'rʌpt|corrupted<br>corruption|v. corrupt morally or by intemperance or sensuality<br>v. alter from the original<br>a. lacking in integrity<br>s. containing errors or alterations|a. 腐败的, 贪污的, 讹误充斥的<br>vt. 使腐烂, 腐蚀, 使恶化<br>vi. 腐烂, 堕落| 
 cortex|'kɒ:teks| |n. the tissue forming the outer layer of an organ or structure in plant or animal|n. 皮层<br>[医] (树)皮; 皮质, 皮层| 
-cosine|'kәusain| |n. ratio of the adjacent side to the hypotenuse of a right-angled triangle|n. 余弦<br>[电] 余弦| 
-costly|'kɒstli| |s. having a high price|a. 昂贵的, 奢华的, 费用大的| 
+cosin| | | |[医] 苦辛, 苦苏苦素(苦苏花的一种驱肠虫树脂)| 
+costli| | | | | 
 couldn| | | | | 
 couldnt| | | | | 
 countdown|'kauntdaun| |n. counting backward from an arbitrary number to indicate the time remaining before some event (such as launching a space vehicle)|n. 倒计数<br>[电] 指示串联中的操作数固定的记录减少| 
 countless|'kauntlis| |s. too numerous to be counted|a. 数不尽的, 无数的| 
-coupled|'kʌpld|coupling|s. connected by a link, as railway cars or trailer trucks|v. 联接的；成对的；耦合的；共轭的（couple的过去分词形式）| 
+coupl| |coupling| | | 
 coupon|'ku:pɒn|coupons|n. a negotiable certificate that can be detached and redeemed as needed<br>n. a test sample of some substance|n. 息票, 赠券<br>[经] 息票, 利息单, 联票| 
 courier|'kuriә| |n a person who carries a message|n. 送快信的人, 伴游服务员<br>[法] 信使, 送急件者| 
-courses| | |n education imparted in a series of lessons or meetings<br>n a connected series of events or actions or developments<br>n general line of orientation<br>n a mode of action<br>n a line or route along which something travels or moves<br>n a body of students who are taught together<br>n part of a meal served at one time<br>n (construction) a layer of masonry<br>n facility consisting of a circumscribed area of land or water laid out for a sport<br>v move swiftly through or over<br>v move along, of liquids<br>v hunt with hounds|[医] 月经| 
-covariance|kәu'vєәriәns| |n. (statistics) the mean value of the product of the deviations of two variates from their respective means|n. 协方差<br>[化] 协方差| 
-coyote|'kɒiәut| |n. small wolf native to western North America<br>n. someone who smuggles illegal immigrants into the United States (usually across the Mexican border)<br>n. a forest fire fighter who is sent to battle remote and severe forest fires (often for days at a time)|n. 丛林狼, 讨厌的家伙| 
+cours| | |plural of cour|(cour 的复数) abbr. courant (French=current) （法语）当前的; 通用的; 流通的; 电流| 
+covari| | | | | 
+coyot| | | | | 
 cran|'kræn| |n. a capacity unit used for measuring fresh herring|n. 鲱斗（计量鲱鱼用单位, 等于37.5加仑）；凹口| 
 crap|kræp| |n. obscene terms for feces|n. 废物, 废话<br>vi. 掷骰子| 
-crappy|'kræpi| |s very bad|a. <俚>蹩脚的, 没价值的, 讨厌的| 
+crappi| | | | | 
 crate|kreit| |n. a rugged box (usually made of wood); used for shipping<br>n. the quantity contained in a crate<br>v. put into a crate; as for protection|n. 板条箱, 装货箱<br>[建] 篓, 筐| 
 crawl|krɒ:l|crawling|n. a very slow movement<br>n. a swimming stroke; arms are moved alternately overhead accompanied by a flutter kick<br>n. a slow mode of locomotion on hands and knees or dragging the body<br>v. move slowly; in the case of people or animals with the body near the ground|n. 爬行, 匍匐而行, 养鱼池<br>v. 爬行| 
 crawler|'krɔ:lә| |n. a person who crawls or creeps along the ground|n. 爬行者, 蠕动的东西, 虱, (澳)马屁精, 奴颜婢膝的人, 婴儿的罩衣| 
-creativity|.kri:ei'tiviti| |n. the ability to create|n. 创造力, 创造性| 
+creativ| | | | | 
 creator| |creators| | | 
-credential|kri'denʃәl|credentials|n a document attesting to the truth of certain stated facts|n. 国书, 凭据, 证明书<br>[经] 凭证, 证书| 
+credenti| |credentials| | | 
 crit|krit| | |n. （核反应堆）保持一种自身支持的链式反应；暴击；评判| 
 criterion|krai'tiәriәn| |n. the ideal in terms of which something can be judged|n. 标准, 准则, 规范<br>[化] 判据| 
-crooked|'krukid| |a. having or marked by bends or angles; not straight or aligned<br>a. not straight; dishonest or immoral or evasive|a. 弯曲的, 歪的, 邪恶的| 
+crook|kruk| |n. a long staff with one end being hook shaped<br>v. bend or cause to bend|n. 钩, 弯曲部分, 坏蛋<br>vt. 使弯曲, 诈骗<br>vi. 弯曲| 
 crud|krʌd| |n. heavy wet snow that is unsuitable for skiing<br>n. an ill-defined bodily ailment|n. 令人厌恶的人<br>[机] 积垢| 
 crude|kru:d| |s. not carefully or expertly made<br>s. conspicuously and tastelessly indecent<br>s. belonging to an early stage of technical development; characterized by simplicity and (often) crudeness<br>s. not processed or subjected to analysis|a. 天然的, 未成熟的, 粗糙的, 粗鲁的<br>n. 天然的物质| 
 crypt|kript| |n. a cellar or vault or underground burial chamber (especially beneath a church)|n. 土窖, 地穴, 地下室<br>[医] 隐窝; 滤泡, 腺管| 
 crypto|'kriptәu| | |n. 秘密成员, 秘密赞同者| 
-cryptographic|kriptә'græfik| |a of or relating to cryptanalysis|a. 关于暗号的, 用密码写的| 
-cryptography|krip'tɒgrәfi| |n. act of writing in code or cipher|n. 密码使用法, 密码学<br>[计] 密码学| 
+cryptograph|'kriptәu,^ræf| |n. a device for deciphering codes and ciphers|n. 密码机, 密码, 暗号, 暗记, 密码文, 暗号文<br>vt. 把...译成密码<br>[计] 密码, 密码打字机| 
+cryptographi| | | | | 
 crystal|'kristl| |n. a solid formed by the solidification of a chemical and having a highly regular atomic structure<br>n. a crystalline element used as a component in various electronic devices<br>n. a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces<br>n. glassware made of quartz|n. 水晶, 水晶装饰品, 结晶<br>a. 水晶的, 水晶一样的, 透明的| 
 ctrl| | | |n. 计算机的Ctrl按键（控制键）| 
 cube|kju:b|cubes|n. a hexahedron with six equal squares as faces<br>n. the product of three equal terms<br>n. any of several tropical American woody plants of the genus Lonchocarpus whose roots are used locally as a fish poison and commercially as a source of rotenone<br>n. a block in the (approximate) shape of a cube|n. 立方体, 立方<br>[机] 立方体, 立方| 
 cubic|'kju:bik| |a. having three dimensions|a. 立方体的, 立方的<br>[机] 立方的, 立方体的| 
-cucumber|'kju:kәmbә| |n. a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit<br>n. cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons|n. 黄瓜<br>[医] 黄瓜, 胡瓜| 
+cucumb| | | | | 
 cuda| | | | | 
 culpa|'kulpә, 'kʌl-| |n. Negligence or fault, as distinguishable from dolus (deceit,<br>   fraud), which implies intent, culpa being imputable to defect of<br>   intellect, dolus to defect of heart.|[法] 过失, 疏忽, 过错| 
 culprit|'kʌlprit| |n someone who perpetrates wrongdoing|n. 犯人, 罪犯, 刑事被告<br>[法] 犯罪者, 犯人, 罪犯| 
-cumbersome|'kʌmbәsәm| |s. difficult to handle or use especially because of size or weight|a. 笨重的, 麻烦的, 累赘的| 
-cumulative|'kju:mjulәtiv| |s increasing by successive addition|a. 累积的<br>[医] 蓄积的, 累积的| 
-curiosity|.kjuәri'ɒsiti| |n. a state in which you want to learn more about something|n. 好奇心, 新奇的事物, 珍品| 
+cumbersom| | | | | 
+cumul| | | | | 
+curios|'kjʊəri:ˌəʊθ| |pl.  of Curio|n. 小件珍奇物品( curio的名词复数 )| 
 curl|kә:l| |n. American chemist who with Richard Smalley and Harold Kroto discovered fullerenes and opened a new branch of chemistry (born in 1933)<br>v. form a curl, curve, or kink<br>v. twist or roll into coils or ringlets<br>v. play the Scottish game of curling|n. 拳曲, 鬈发<br>vt. 弄卷<br>vi. 拳曲, 弯曲| 
-curly|'kә:li| |a. (of hair) having curls or waves|a. 拳曲的, 卷毛的, 弯曲的| 
+curli| | | | | 
 curr|kә:| |v. i. To coo.|vi. 发咕咕声, 低语| 
-currencies|ˈkʌrənsiz|currency|pl.  of Currency|n. 通货( currency的名词复数 ); 货币; 流通; 市价| 
-curry|'kʌri. 'kә:ri| |n. (East Indian cookery) a pungent dish of vegetables or meats flavored with curry powder and usually eaten with rice<br>v. season with a mixture of spices; typical of Indian cooking<br>v. treat by incorporating fat|n. 咖哩粉, 咖哩饭菜<br>vt. 用咖哩粉调味, 用马梳梳, 制革| 
-curses|kə:siz| |n profane or obscene expression usually of surprise or anger<br>n an appeal to some supernatural power to inflict evil on someone or some group<br>n an evil spell<br>n something causing misery or death<br>n a severe affliction<br>v utter obscenities or profanities<br>v heap obscenities upon<br>v wish harm upon; invoke evil upon<br>v exclude from a church or a religious community|n. 诅咒( curse的名词复数 ); 咒语; 骂人的话; 祸害| 
+currenc| |currency| | | 
+curri| | | | | 
+curs| | |n an inferior dog or one of mixed breed<br>n a cowardly and despicable person|n. 杂种狗；卑鄙的人（cur的复数）| 
 cursor|'kә:sә|cursors|n. (computer science) indicator consisting of a movable spot of light (an icon) on a visual display; moving it allows the user to point to commands or screen positions|n. 游标, 光标<br>[计] 光标| 
-cursus| | | | | 
-curve|kә:v|curves|n. the trace of a point whose direction of motion changes<br>n. a line on a graph representing data<br>n. a pitch of a baseball that is thrown with spin so that its path curves as it approaches the batter|n. 曲线, 弯曲, 曲线球<br>vt. 弯, 使弯曲<br>vi. 成曲形| 
+cursu| | | | | 
+curv| |curves| | | 
 cust| | | |abbr. 海关（Customs）| 
-customizable| | | |[计] 可定制的| 
+customiz| | | | | 
 cute|kju:t| |s. obviously contrived to charm|a. 可爱的, 聪明的, 伶俐的<br>[医] 品他病| 
 cutoff|'kʌtɒf| |n. a designated limit beyond which something cannot function or must be terminated<br>n. a device that terminates the flow in a pipe|n. 近路, 切断, 捷径, 切掉, 中止<br>[电] 截止| 
 cyan|'saiæn| |n. a primary subtractive color for light; has a blue-green color|n. 蓝绿色, 青色<br>[建] 氰基| 
-cycles| |cycling|n an interval during which a recurring sequence of events occurs<br>n a series of poems or songs on the same theme<br>n a periodically repeated sequence of events<br>n the unit of frequency; one hertz has a periodic interval of one second<br>n a single complete execution of a periodically repeated phenomenon<br>n a wheeled vehicle that has two wheels and is moved by foot pedals<br>v cause to go through a recurring sequence<br>v pass through a cycle<br>v ride a motorcycle<br>v ride a bicycle<br>v recur in repeating sequences|n. 循环动作；圈数；周期（cycle的复数）| 
+cycl| |cycling| | | 
 cyclic|'saiklik| |a. conforming to the Carnot cycle<br>a. forming a whorl or having parts arranged in a whorl<br>a. of a compound having atoms arranged in a ring structure|a. 周期的, 轮转的, 循环的, 轮列的, 轮卷的, 环状的, 环的, 组诗的, 始末的<br>[计] 循环的, 周期的| 
-cylinder|'silindә| |n. a solid bounded by a cylindrical surface and two parallel planes (the bases)<br>n. a surface generated by rotating a parallel line around a fixed line<br>n. a chamber within which piston moves<br>n. a cylindrical container for oxygen or compressed air|n. 圆筒, 圆筒状物, 汽缸, 柱面<br>[计] 柱面| 
+cylind| | | | | 
 cypher|'saifә| |n a mathematical element that when added to another number yields the same number<br>n a quantity of no importance<br>n a person of no influence<br>n a secret method of writing<br>n a message written in a secret code<br>v convert ordinary language into code<br>v make a mathematical calculation or computation|n. 零, 零的记号, 密码索引书<br>v. 计算, 用密码书写| 
 
 
@@ -708,11 +708,11 @@ cypher|'saifә| |n a mathematical element that when added to another number yiel
 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
-dados|ˈdeidəuz| |n panel forming the lower part of an interior wall when it is finished differently from the rest of the wall<br>n the section of a pedestal between the base and the surbase<br>n a rectangular groove cut into a board so that another piece can fit into it<br>v provide with a dado<br>v cut a dado into or fit into a dado|n. 护墙板, 台座( dado的名词复数 )| 
+dado|'deidәu| |n. the section of a pedestal between the base and the surbase<br>n. a rectangular groove cut into a board so that another piece can fit into it<br>v. provide with a dado|n. 护墙板, 台座| 
 daemon|'di:mәn| |n. a person who is part mortal and part god|[计] 无交互后台程序| 
 dagger|'dægә| |n. a short knife with a pointed blade used for piercing or stabbing<br>n. a character used in printing to indicate a cross reference or footnote|n. 匕首<br>vt. 用剑刺| 
 damn|dæm| |n. something of little value<br>s. used as expletives|n. 一点, 诅咒, 丝毫<br>interj. 该死, 该死的<br>vt. 诅咒, 罚...下地狱<br>vi. 指责, 谴责, 骂...该死, 证明...有罪| 
-dangling| | |n the act of suspending something (hanging it from above so it moves freely)<br>v hang freely<br>v cause to dangle or hang freely|[计] 悬挂的, 悬浮的, 悬摆的| 
+dangl| | | | | 
 daniel|'dænjәl| |n. (Old Testament) a youth who was taken into the court of Nebuchadnezzar and given divine protection when thrown into a den of lions (6th century BC)<br>n. a wise and upright judge<br>n. an Old Testament book that tells of the apocalyptic visions and the experiences of Daniel in the court of Nebuchadnezzar|n. 丹尼尔（男子名）| 
 dapper|'dæpә| |s. marked by up-to-dateness in dress and manners|a. 整洁的, 整齐的, 短小精悍的| 
 darker| | |a devoid of or deficient in light or brightness; shadowed or black<br>a (used of color) having a dark hue<br>s brunet (used of hair or skin or eyes)<br>s stemming from evil characteristics or forces; wicked or dishonorable<br>s secret<br>s showing a brooding ill humor<br>s lacking enlightenment or knowledge or culture<br>s marked by difficulty of style or expression<br>s causing dejection<br>s having skin rich in melanin pigments<br>s not giving performances; closed|a. 较暗, 比较暗的| 
@@ -720,146 +720,146 @@ dart|dɑ:t| |n. a small narrow pointed missile that is thrown or shot<br>n. a ta
 darwin| | | | | 
 dash|dæʃ|dashed<br>dashes|n. distinctive and stylish elegance<br>n. a quick run<br>n. a footrace run at top speed<br>n. the longer of the two telegraphic signals used in Morse code|n. 冲撞, 破折号, 短跑<br>vi. 猛冲, 冲撞<br>vt. 泼溅, 使猛撞, 搀和, 使破灭, 使沮丧| 
 dashboard|'dæʃbɒ:d| |n. instrument panel on an automobile or airplane containing dials and controls|n. 仪表板, 挡泥板| 
-database|'deitәbeis|databases|n. an organized body of related information|n. 数据库<br>[计] 数据库| 
-datafile| | | | | 
+databas| |databases| | | 
+datafil| | | | | 
 dataflow|deɪ'təfləʊ| | | 数据流| 
 dataset| |datasets| |[电] 资料组| 
-datatype| |datatypes| | | 
-datos| | | |abbr. drug abuse treatment outcome study 药物滥用治疗后果研究| 
+datatyp| |datatypes| | | 
+dato| | | |n. 拿督（马国封衔的一种）| 
 datum|'deitәm| |n. an item of factual information derived from measurement or research|n. 论据, 材料, 资料, 已知数<br>[医] 材料, 资料, 论据| 
 dave|deiv| | |n. 戴夫（男子名）| 
 david|'deivid| |n. patron saint of Wales (circa 520-600)<br>n. French neoclassical painter who actively supported the French Revolution (1748-1825)<br>n. (Old Testament) the 2nd king of the Israelites; as a young shepherd he fought Goliath (a giant Philistine warrior) and killed him by hitting him in the head with a stone flung from a sling; he united Israel with Jerusalem as its capital; many of the Psalms are attributed to David (circa 1000-962 BC)|n. 大卫；戴维（男子名）| 
 daylight|'deilait| |n. light during the daytime|n. 白昼, 日光<br>vt. 使沐浴于日光<br>vi. 享有日光| 
-deactivate|di:'æktiveit| |v. remove from active military status or reassign|vt. 撤消遣散, 复员, 使无效, 使不活动| 
-deadline|'dedlain| |n. the point in time at which something must be completed|n. 最后期限, 截止期限<br>[经] 截止日期| 
+deactiv| | | | | 
+deadlin| | | | | 
 deadlock|'dedlɒk| |n. a situation in which no progress can be made or no advancement is possible|n. 僵局, 停顿<br>v. (使)停顿, (使)相持不下<br>[计] 死锁| 
-deallocate| |deallocated| |[计] 解除分配, 再分配, 解除分配, 释放| 
+dealloc| |deallocated| | | 
 dealt|delt| |v act on verbally or in some form of artistic expression<br>v take into consideration for exemplifying purposes<br>v take action with respect to (someone or something)<br>v come to terms with<br>v administer or bestow, as in small portions<br>v do business; offer for sale as for one's livelihood<br>v be in charge of, act on, or dispose of<br>v behave in a certain way towards others<br>v distribute cards to the players in a game<br>v direct the course of; manage or control<br>v give out as one's portion or share<br>v give (a specific card) to a player<br>v sell|deal的过去式和过去分词| 
 debit|'debit| |n. an accounting entry acknowledging sums that are owing<br>v. enter as debit|n. 借方, 借<br>vt. 记入借方| 
 debug|di:'bʌg|debugged<br>debugging|v. locate and correct errors in a computer program code|vt. 除错, 改正有毛病部分, 除去窃听器, 调试<br>[计] 调试; DOS外部命令:其功能是对命令文件或执行文件进行调试或测试<br>也可用于编写小的命令文件| 
-debugger|di:'bʌ^ә| |n. a program that helps in locating and correcting programming errors|[计] 调试程序, 排错程序| 
-decades|ˈdekeidz| |n. a period of 10 years<br>n. the cardinal number that is the sum of nine and one; the base of the decimal system|n. 十年, 十年间( decade的复数形式 )| 
+debugg| | | | | 
+decad|'dekæd| |n. A decade.|n. 十, 由十个构成的一组| 
 decay|di'kei| |n. the process of gradually becoming inferior<br>n. a gradual decrease; as of stored charge or current<br>n. the organic phenomenon of rotting<br>n. an inferior state resulting from the process of decaying|n. 衰退, 腐败<br>v. (使)衰退, (使)腐败| 
-december| | | | | 
+decemb| | | | | 
 decent|'di:sәnt| |s. socially or conventionally correct; refined or virtuous<br>a. conforming to conventions of sexual behavior<br>s. decently clothed<br>s. observing conventional sexual mores in speech or behavior or dress|a. 有分寸的, 得体的, 大方的| 
-decimal|'desimәl|decimals|n. a number in the decimal system<br>s. numbered or proceeding by tens; based on ten|a. 十进位的, 小数的<br>n. 十进制, 小数<br>[计] 十进制, 小数点| 
-decisions| | |n the act of making up your mind about something<br>n a position or opinion or judgment reached after consideration<br>n (boxing) a victory won on points when no knockout has occurred<br>n the outcome of a game or contest<br>n the trait of resoluteness as evidenced by firmness of character or purpose|n. 决断；决策；決定（decision的复数）| 
+decim| |decimals| | | 
+decis| | | | | 
 decl| | | | | 
-decode|di:'kәud|decoded<br>decoder<br>decoding|v. convert code into ordinary language|vt. 解码, 译解<br>[计] 译码| 
-decomposition|.di:kɒmpә'ziʃәn| |n. the analysis of a vector field<br>n. in a decomposed state<br>n. (chemistry) separation of a substance into two or more substances that may differ from each other and from the original substance|n. 分解, 腐败, 变质<br>[化] 分解; 裂解| 
+decod| |decoded<br>decoder<br>decoding| | | 
+decomposit| | | | | 
 decompress|.di:kәm'pres| |v. restore to its uncompressed form|v. (使)减压| 
-decorate|'dekәreit|decorated<br>decoration<br>decorator<br>decorators|v. make more attractive by adding ornament, colour, etc.<br>v. award a mark of honor, such as a medal, to|v. 装饰| 
+decor|'deikɔ:(r); (?@) dei'kɔ:r|decorated<br>decoration<br>decorator<br>decorators|n decoration consisting of the layout and furnishings of a livable interior|n. 装饰, 布置| 
 decrement|'dekrimәnt| |n the amount by which something decreases<br>n a process of becoming smaller or shorter|n. 渐减, 减少, 减少量<br>[计] 减量; 减| 
 decrypt|di:'kript|decrypted<br>decryption|v convert code into ordinary language|vt. 解...的密码<br>[计] 解密, 译码| 
-dedicated|'dedikeitid| |a. devoted to a cause or ideal or purpose|a. 专注的, 献身的| 
-deduce|di'dju:s| |v. reason by deduction; establish by deduction<br>v. conclude by reasoning; in logic|vt. 推论, 演绎出<br>[法] 推断, 推出, 演绎| 
-deduction|di'dʌkʃәn| |n. an amount or percentage deducted<br>n. something that is inferred (deduced or entailed or implied)<br>n. reasoning from the general to the particular (or from cause to effect)|n. 减除, 扣除, 减除额, 推论<br>[医] 演绎, 推论| 
+dedic| | | | | 
+deduc| | | | | 
+deduct|di'dʌkt| |v make a subtraction<br>v retain and refrain from disbursing; of payments<br>v reason by deduction; establish by deduction|vt. 扣除, 减去<br>[经] 扣除, 减去, 折扣| 
 deeper| | |a relatively deep or strong; affecting one deeply<br>s marked by depth of thinking<br>a having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center; sometimes used in combination<br>s very distant in time or space<br>s extreme<br>s having or denoting a low vocal or instrumental range<br>s strong; intense<br>s relatively thick from top to bottom<br>s extending relatively far inward<br>s (of darkness) very intense<br>s large in quantity or size<br>s with head or back bent low<br>s of an obscure nature<br>s difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge<br>s exhibiting great cunning usually with secrecy<br>r to a great depth psychologically<br>r to a great depth; far down|a. 更深| 
 default|di'fɒ:lt|defaulting<br>defaults|n. loss due to not showing up<br>n. act of failing to meet a financial obligation<br>v. fail to pay up|n. 违约, 不履行责任, 缺席, 默认值<br>v. 疏怠职责, 缺席, 拖欠, 默认<br>[计] 默认; 默认值; 缺省值| 
 defect|di'fekt| |n. an imperfection in a bodily system<br>n. a failing or deficiency<br>n. an imperfection in an object or machine<br>v. desert (a cause, a country or an army), often in order to join the opposing cause, country, or army|n. 缺点<br>[医] 缺损, 缺陷| 
 defer|di'fә:|deferred|v hold back to a later time<br>v yield to another's wish or opinion|vi. 推迟, 延期, 听从<br>vt. 使推迟, 使延期| 
-definite|'definit|definitions<br>definitive|a. precise; explicit and clearly defined<br>s. known for certain|a. 明确的, 一定的<br>[法] 明确的, 确切的, 一定的| 
-deflate|di'fleit| |v. collapse by releasing contained air or gas<br>v. release contained air or gas from<br>v. reduce or lessen the size or importance of<br>v. produce deflation in|vt. 放气, 抽出空气, 使缩小<br>vi. 缩小| 
-delete|di'li:t|deleted<br>deletes<br>deleting<br>deletion|v. remove or make invisible|vt. 删除<br>[计] 删除| 
+definit| |definitions<br>definitive| | | 
+deflat| | | | | 
+delet| |deleted<br>deletes<br>deleting<br>deletion| | | 
 delhi|'deli| |n. a city in north central India|n. 德里（印度城市名）| 
-deliberately|di'libәrәtli| |r with intention; in an intentional manner<br>r in a deliberate unhurried manner|adv. 故意地| 
+deliber| | | | | 
 delim| | | | | 
-delimited| |delimiter<br>delimiters|v determine the essential quality of<br>v be opposite to; of angles and sides, in geometry<br>v set, mark, or draw the boundaries of something<br>s having the limits or boundaries established|v. 划定…的界限；限定（delimit的过去分词）| 
-delivered|di'livәd|delivering<br>delivers|v deliver (a speech, oration, or idea)<br>v bring to a destination, make a delivery<br>v to surrender someone or something to another<br>v free from harm or evil<br>v hand over to the authorities of another country<br>v pass down<br>v utter (an exclamation, noise, etc.)<br>v save from sins<br>v carry out or perform<br>v relinquish possession or control over<br>v throw or hurl from the mound to the batter, as in baseball<br>v cause to be born|a. 业已交货| 
+delimit|di'limit|delimiter<br>delimiters|v determine the essential quality of<br>v be opposite to; of angles and sides, in geometry<br>v set, mark, or draw the boundaries of something|vt. 定界限, 划界<br>[计] 定界| 
+deliv| |delivering<br>delivers| | | 
 dell|del| |n. a small wooded hollow|n. 小谷, 小溪谷<br>[医] 小凹, 浅窝| 
 delta|'deltә| |n. a low triangular area of alluvial deposits where a river divides before entering a larger body of water<br>n. an object shaped like an equilateral triangle<br>n. the 4th letter of the Greek alphabet|n. 三角洲, 希腊字母的第四个字<br>[医] δ(希腊文的第四个字母), 丁种, 三角, 三角形区| 
 demo| |demos| | | 
-denominator|di'nɒmineitә| |n. the divisor of a fraction|n. 分母, 命名者<br>[经] 分母, 共同特性, 标准| 
-denote|di'nәut|denotes|v. be a sign or indication of<br>v. have as a meaning|vt. 指示, 表示| 
-dense|dens| |s. permitting little if any light to pass through because of denseness of matter<br>s. hard to pass through because of dense growth<br>s. having high relative density or specific gravity<br>s. slow to learn or understand; lacking intellectual acuity|a. 密集的, 浓厚的| 
-density|'densiti| |n. the amount per unit size|n. 密度<br>[化] 密度| 
-departments|dɪ'pɑ:tmənts| |n. a specialized division of a large organization<br>n. the territorial and administrative division of some countries (such as France)<br>n. a specialized sphere of knowledge|n. 部( department的复数形式 ); （任何事物的）部分; （企业单位负责特定活动的、零售商店中专售某类商品的）部门; （学校、学术机构等的）系| 
-departure|di'pɑ:tʃә| |n. the act of departing|n. 离开, 出发, 违背, 偏离<br>[经] 启运| 
+denomin| | | | | 
+denot| |denotes| | | 
+dens|denz| |n the habitation of wild animals<br>n a hiding place; usually a remote place used by outlaws<br>n a unit of 8 to 10 cub scouts<br>n a room that is comfortable and secluded|[医] 牙, 齿| 
+densiti| | | | | 
+depart|di'pɑ:t| |v. leave<br>v. go away or leave|vi. 离开, 出发, 背离, 违反, 去世| 
+departur| | | | | 
 deposit|di'pɒzit| |n. the phenomenon of sediment or gravel accumulating<br>n. money deposited in a bank or some similar institution<br>n. money given as security for an article acquired for temporary use<br>n. a payment given as a guarantee that an obligation will be met|n. 存款, 定金, 堆积物<br>vt. 存放, 堆积<br>vi. 沉淀| 
 depot|'depәu| |n station where transport vehicles load or unload passengers or goods<br>n a depository for goods|n. 停车场, 车站, 贮藏所, 仓库<br>[医] 仓库, 贮存, 积存| 
-deprecated|ˈdeprikeitid|deprecation|imp. & p. p. of Deprecate|v. 不赞成, 反对( deprecate的过去式和过去分词 )| 
+deprec| |deprecation| | | 
 dept| | | |n. 部, 学部, 学校, 研究室, 系, 科室, 部门, 科, 处, 局, 司, 车间| 
-dequeue| | | |[计] 解队, 离队, 出队| 
-derby|'dɑ:bi| |n a felt hat that is round and hard with a narrow brim|n. 德比(英国中部都市), 德比赛马, 大赛马| 
-dereference| | | |复引用| 
-dereferencing| | | |[计] 非关联化, 分散查询, 间接引用| 
-derivative|di'rivәtiv|derivatives<br>derived<br>derives<br>deriving|n. a compound obtained from, or regarded as derived from, another compound<br>n. (linguistics) a word that is derived from another word<br>s. resulting from or employing derivation|a. 引出的, 派生的<br>n. 引出之物, 派生物, 衍生字| 
+dequeu| | | | | 
+derbi| | | | | 
+derefer| | | | | 
+dereferenc| | | | | 
+deriv|'dɪrɪv|derivatives<br>derived<br>derives<br>deriving| |abbr. derivation 引出; derivative 引出的; derive 引伸出; derived 引伸出的| 
 desc| | | |abbr. 降序排列（descend 的缩写）；美国国防电子器材供应中心（The Defense Energy Support Center）| 
-descendant|di'sendәnt|descendants<br>descending|n. a person considered as descended from some ancestor or race<br>s. going or coming down<br>s. proceeding by descent from an ancestor|n. 后裔, 子孙<br>a. 传下的, 下降的| 
+descend|di'send|descendants<br>descending|v. move downward and lower, but not necessarily all the way|vi. 下降, 世代相传, 屈尊, 袭击<br>vt. 下降| 
 descent|di'sent| |n. a movement downward<br>n. the act of changing your location in a downward direction<br>n. the kinship relation between an individual and the individual's progenitors<br>n. a downward slope or bend|n. 降落, 家系, 侵袭, 血统<br>[医] 下降, 世代, 血统| 
-descriptions| |descriptive|n a statement that represents something in words<br>n the act of describing something<br>n sort or variety|n. 说明, 说明书；摘要；描述（description的复数形式）| 
+descript| |descriptive| | | 
 descriptor|dis'kriptә|descriptors|n. a piece of stored information that is used to identify an item in an information storage and retrieval system|[计] 描述符; 描述词; 解说符| 
 deselect|.di:si'lekt| | |n. 取消...的受训资格<br>[计] 取消选定| 
-deserves|diˈzə:vz| |v be worthy or deserving|v. 应受, 应得, 值得( deserve的第三人称单数 ); 应受报答; 应得报酬; 应得赔偿| 
+deserv| | | | | 
 desktop|'desktɔp| |n. the top of a desk|n. 桌面<br>[计] 桌面| 
-destination|.desti'neiʃәn|destinations|n. the ultimate goal for which something is done|n. 目的地, 目标, 目的<br>[计] 目的文件, 目的单元| 
+destin| |destinations|n. Destiny.|n. 德斯坦（美国佛罗里达州著名旅游地）| 
 destructor|di'strʌktә|destructors|n. A destroyer.|n. (导弹等的)自炸装置, 垃圾焚毁炉<br>[化] 焚烧炉| 
 detach|di'tætʃ|detached|v. cause to become detached or separated; take off<br>v. separate (a small unit) from a larger, especially for a special assignment<br>v. come to be detached|vt. 使分离, 分遣<br>[机] 摘下, 分离, 卸下| 
 detector|di'tektә| |n. any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner<br>n. rectifier that extracts modulation from a radio carrier wave<br>n. electronic equipment that detects the presence of radio signals or radioactivity|n. 发现者, 检验器, 检波器<br>[计] 检波器; 检测器| 
-determined|di'tә:mind|determines<br>determining|s. characterized by great determination<br>a. having been learned or found or determined especially by investigation<br>s. devoting full strength and concentrated attention to<br>s. determined or decided upon as by an authority|a. 坚决的, 已下决心的| 
-deterministic|di.tә:mi'nistik| |s. an inevitable consequence of antecedent sufficient causes|a. 决定论的, 命运注定论的| 
+determin| |determines<br>determining| | | 
+determinist|di't\\\\:minist| |n anyone who submits to the belief that they are powerless to change their destiny|n. 宿命论者, 决定论者, 定数论者| 
 devel|'devәl| | |n. 重击；猛击| 
-deviation|.di:vi'eiʃәn| |n. a variation that deviates from the standard or norm<br>n. the difference between an observed value and the expected value of a variable or function<br>n. the error of a compass due to local magnetic disturbances|n. 背离<br>[化] 偏差; 误差; 偏斜| 
-devise|di'vaiz| |n. a will disposing of real property<br>n. (law) a gift of real property by will<br>v. give by will, especially real property|vt. 设计, 发明, 图谋, 遗赠给<br>n. 遗赠| 
+deviat| | | | | 
+devis| | | |abbr. devised 设计，发明| 
 diag| | | |abbr. 诊断, 判断（diagnostic）；特征（diagnosis）；对角线的（diagonal）；图示（diagram）；用图解法表示（diagram）| 
-diagnose|'daiәgnәuz| |v. determine or distinguish the nature of a problem or an illness through a diagnostic analysis<br>v. subject to a medical analysis|v. 诊断| 
-diagnosis|.daiәg'nәusis| |n. identifying the nature or cause of some phenomenon|n. 诊断<br>[计] 诊断| 
-diagnostic|daiәg'nɒstik|diagnostics|a. concerned with diagnosis; used for furthering diagnosis<br>s. characteristic or indicative of a disease|a. 诊断的, 有助于诊断的, 特征的<br>n. 诊断, 病的征候, 诊断法<br>[计] 诊断的| 
-diagonal|dai'ægәnl| |n. (geometry) a straight line connecting any two vertices of a polygon that are not adjacent<br>n. a line or cut across a fabric that is not at right angles to a side of the fabric<br>n. an oblique line of squares of the same color on a checkerboard<br>n. (mathematics) a set of entries in a square matrix running diagonally either from the upper left to lower right entry or running from the upper right to lower left entry|a. 对角线的, 斜的, 斜纹的<br>n. 对角线, 斜线, 斜列| 
+diagnos| | | | | 
+diagnosi| | | | | 
+diagnost| |diagnostics| | | 
+diagon| | | | | 
 diagram|'daiәɡræm|diagrams|n. a drawing intended to explain how something works; a drawing showing the relation between the parts<br>v. make a schematic or technical drawing of that shows interactions among variables or how something is constructed|n. 图表；图解| 
 dial|'daiәl| |n. the face of a timepiece; graduated to show the hours<br>n. the control on a radio or television set that is used for tuning<br>n. the circular graduated indicator on various measuring instruments<br>n. a disc on a telephone that is rotated a fixed distance for each number called|n. 刻度盘, 钟面, 转盘<br>v. 拨| 
 dialect|'daiәlekt| |n. the usage or vocabulary that is characteristic of a specific group of people|n. 方言, 同源语| 
 dialog|'daiәlɒg|dialogs|n a conversation between two persons<br>n the lines spoken by characters in drama or fiction<br>n a literary composition in the form of a conversation between two people|n. 会话, 对话<br>[计] 对话| 
 diam| | |n the length of a straight line passing through the center of a circle and connecting two points on the circumference|n. 直径| 
-diameter|dai'æmitә| |n. the length of a straight line passing through the center of a circle and connecting two points on the circumference<br>n. a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)|n. 直径<br>[医] 直经, 径| 
+diamet| | | | | 
 diamond|'daiәmәnd|diamonds|n. a transparent piece of diamond that has been cut and polished and is valued as a precious gem<br>n. very hard native crystalline carbon valued as a gem<br>n. a playing card in the minor suit that has one or more red rhombuses on it|n. 钻石, 菱形<br>[计] 菱形| 
 dice|dais| |v. play dice|n. 骰子<br>vt. 切成方块<br>vi. 掷骰子| 
 dict| | | | | 
-dictionaries|'dɪkʃənərɪ|dictionary|pl.  of Dictionary|n. 词典, 字典( dictionary的名词复数 )| 
+dictionari| |dictionary| | | 
 dictum|'diktәm| |n an authoritative declaration<br>n an opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding|n. 声明, 格言, 法官意见<br>[法] 宣言, 声明, 法官的意见| 
 didn| | | | | 
 didnt| | | | | 
 diff|dif| | |abbr. 扩散器（diffuser）；[数]微分；差速器（differential）| 
-differential|difә'renʃәl|differentiate|n. a quality that differentiates between similar things<br>a. relating to or showing a difference<br>a. involving or containing one or more derivatives|a. 差别的, 特异的, 微分的<br>n. 差别, 两路线运费差额, 工资差额| 
-difficulties|ˈdifikəltiz| |n an effort that is inconvenient<br>n a factor causing trouble in achieving a positive result or tending to produce a negative result<br>n a condition or state of affairs almost beyond one's ability to deal with and requiring great effort to bear or overcome<br>n the quality of being difficult|n. 困难( difficulty的名词复数 ); 难度; 难事; 麻烦| 
-diffuse|di'fju:z| |v. move outward<br>s. spread out; not concentrated in one place<br>s. lacking conciseness|v. 散播, 传播<br>a. 散开的, 弥漫的| 
+differenti| |differentiate| | | 
+difficulti| | | | | 
+diffus| | | | | 
 digest|di'dʒest| |n. a periodical that summarizes the news<br>v. convert food into absorbable substances<br>v. arrange and integrate in the mind<br>v. put up with something or somebody unpleasant|n. 文摘<br>vi. 消化<br>vt. 消化, 理解<br>[计] 摘要| 
 digit|'didʒit|digits|n. one of the elements that collectively form a system of numeration<br>n. a finger or toe in human beings or corresponding body part in other vertebrates|n. 数字, 位数, 指头<br>[计] 数位; 位| 
 dilemma|di'lemә| |n. state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options|n. 困境, (进退两难的)窘境| 
-dimensions| | |n the magnitude of something in a particular direction (especially length or width or height)<br>n a construct whereby objects or individuals can be distinguished<br>n one of three Cartesian coordinates that determine a position in space<br>n magnitude or extent<br>v indicate the dimensions on<br>v shape or form to required dimensions|n. 面积, 大小, 容积| 
-directories| |directory|n an alphabetical list of names and addresses<br>n (computer science) a listing of the files stored in memory (usually on a hard disk)|n. 目录, 名录；指南；计算机文件或程序的目录（directory的复数）| 
-disable|dis'eibl|disabled<br>disables<br>disabling|v. make unable to perform a certain action<br>v. injure permanently|vt. 使失去能力, 使残废, (律)使无资格<br>[计] 使无效, 禁止, 关闭| 
-disadvantage|.disәd'vɑ:ntidʒ|disadvantages|n. the quality of having an inferior or less favorable position<br>v. put at a disadvantage; hinder, harm|n. 缺点, 不利, 坏处| 
+dimens| | | | | 
+directori| |directory| | | 
+disabl| |disabled<br>disables<br>disabling| | | 
+disadvantag| |disadvantages| | | 
 disallow|.disә'lau| |v command against|vt. 不许, 不准, 驳回<br>[法] 拒绝接受, 拒绝承认, 不允许| 
-disappointed|.disә'pɒintid| |v fail to meet the hopes or expectations of<br>s disappointingly unsuccessful|a. 失望的| 
+disappoint|.disә'pɒint| |v. fail to meet the hopes or expectations of|vt. 使失望| 
 disc|disk| |n sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove<br>n something with a round shape resembling a flat circular plate<br>n (computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored<br>n a flat circular plate|n. 圆盘, 唱片<br>vt. 灌唱片| 
 discard|dis'kɑ:d|discarded|n. anything that is cast aside or discarded<br>n. (cards) the act of throwing out a useless card or of failing to follow suit<br>n. getting rid something that is regarded as useless or undesirable<br>v. throw or cast away|vt. 丢弃, 抛弃<br>vi. 垫牌<br>n. 垫牌, 抛弃| 
-disclaimer|dis'kleimә| |n. (law) a voluntary repudiation of a person's legal claim to something|n. 放弃, 拒负责任, 不承诺<br>[经] 弃权或不申诉条款| 
-disclosure|dis'klәuʒә| |n. the speech act of making something evident|n. 揭发, 泄露, 揭发(或暴露)的事实<br>[经] 揭示, 披露| 
+disclaim|dis'kleim| |v. renounce a legal claim or title to<br>v. make a disclaimer about|v. 放弃, 弃权, 拒绝承认| 
+disclosur| | | | | 
 disconnect|.diskә'nekt|disconnected|v. make disconnected, disjoin or unfasten|vt. 使分离, 使不相连, 拆开<br>vi. 断开<br>[计] 断开| 
 discord|'diskɒ:d| |n. lack of agreement or harmony<br>n. disagreement among those expected to cooperate<br>n. strife resulting from a lack of agreement|n. 不调和, 不和<br>vi. 不一致, (声音)刺耳| 
 discount|'diskaunt| |n. the act of reducing the selling price of merchandise<br>v. give a reduction in price on|n. 折扣, 贴现率<br>vt. 打折扣<br>vi. 贴现| 
-discouraged|dis'kʌridʒd| |s. lacking in resolution|a. 气馁的| 
-discrete|dis'kri:t| |s. constituting a separate entity or part|a. 不连续的, 离散的<br>[计] 离散的| 
-discriminator|dis'krimineitә| |n a person who (or that which) differentiates|n. 辨别者, 鉴别器<br>[电] 鉴别器| 
+discourag| | | | | 
+discret| | | | | 
+discrimin| | | | | 
 disk|disk|disks|n. something with a round shape resembling a flat circular plate<br>n. a flat circular plate|n. 圆盘, 磁盘<br>[计] 磁盘| 
-dislike|dis'laik| |n. a feeling of aversion or antipathy<br>v. have or feel a dislike or distaste for|n. 嫌恶<br>vt. 讨厌, 不喜欢| 
+dislik| | | | | 
 disp| | | |abbr. 显示器（display）；药剂师（dispenser）；诊疗所（dispensary）；派遣（dispatch）| 
 dispatch|dis'pætʃ|dispatched<br>dispatcher<br>dispatching|n. an official report (usually sent in haste)<br>n. the act of sending off something<br>n. the property of being prompt and efficient<br>n. killing a person or animal|vt. 派遣<br>n. 派遣, 急件<br>[计] 调度| 
-disposable|dis'pәuzәbl|dispose<br>disposed<br>disposing|n. an item that can be disposed of after it has been used<br>a. free or available for use or disposition<br>a. designed to be disposed of after use|a. 可任意处理的<br>[法] 可任意处理或处置的, 可自由使用的| 
-disposition|.dispә'ziʃәn| |n. your usual mood<br>n. a natural or acquired habit or characteristic tendency in a person or thing|n. 性情, 处置, 处理, 布置<br>[医] 素因, 性情| 
+dispos| |dispose<br>disposed<br>disposing| | | 
+disposit| | | | | 
 disregard|.disri'gɑ:d| |n. lack of attention and due care<br>n. willful lack of care and attention|n. 忽视, 漠视<br>vt. 忽视, 不顾| 
 dist| | | |abbr. 距离（distance）；分配（distribution）| 
-distributed|di'stribju:tid|distributing<br>distributions|a. spread out or scattered about or divided up|a. 分布式的<br>[计] 分散对齐, 分布式处理| 
+distribut| |distributing<br>distributions| | | 
 distributor|dis'tribjutә| |n. someone who markets merchandise<br>n. a company that markets merchandise<br>n. electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence|n. 分发者, 分布者, 散布者, 分配者, 销售者, 分配器, 配电盘, 自动拆版机<br>[计] 分配器| 
 dividend|'dividend| |n. that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly<br>n. a number to be divided by another number<br>n. a bonus; something extra (especially a share of a surplus)|n. 被除数, 股利<br>[计] 被除数| 
-divisible|di'vizәbl|divisions|a. capable of being or liable to be divided or separated|a. 可分的, 可分割的, 除得尽的<br>[法] 可分的, 可分割的| 
+divis| |divisions|plural of divi|(divi 的复数) n. 红刺| 
 divisor|di'vaizә| |n. one of two or more integers that can be exactly divided into another integer<br>n. the number by which a dividend is divided|n. 除数, 公约数<br>[计] 除数| 
-doable|'du:әbl| |s capable of existing or taking place or proving true; possible to do|a. 可做的, 切实可行的| 
+doabl| | | | | 
 dock|dɒk| |n. an enclosure in a court of law where the defendant sits during the trial<br>n. any of certain coarse weedy plants with long taproots, sometimes used as table greens or in folk medicine<br>n. a platform where trucks or trains can be loaded or unloaded<br>n. landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out|n. 码头, 船坞, 被告席, 尾巴的骨肉部分<br>vt. 使靠码头, 使(船)进港, 剪短<br>vi. 进港| 
 docker|'dɒkә| |n a laborer who loads and unloads vessels in a port|n. 码头工人| 
-doctrine|'dɒktrin| |n. a belief (or system of beliefs) accepted as authoritative by some group or school|n. 教条, 学说<br>[医] 学说| 
-dodge|dɒdʒ| |n. a quick evasive movement<br>n. a statement that evades the question by cleverness or trickery<br>v. make a sudden movement in a new direction so as to avoid<br>v. move to and fro or from place to place usually in an irregular course|v. 避开, 躲避<br>n. 诡计, 躲藏| 
+doctrin| | | | | 
+dodg| | | | | 
 doesn| | | | | 
 doesnt| | | | | 
 doit|dɒit| |n. A small Dutch coin, worth about half a farthing; also, a<br>   similar small coin once used in Scotland; hence, any small piece of<br>   money.<br>n. A thing of small value; as, I care not a doit.|n. 荷兰古代小铜币, 无价值的东西| 
@@ -867,46 +867,46 @@ dojo|'dәudʒәu| | |n. （日）道场；柔道训练学校|
 dolor|'dәulә| |n. (poetry) painful grief|[医] [疼]痛| 
 domain|dәu'mein|domains|n. territory over which rule or control is exercised<br>n. (mathematics) the set of values of the independent variable for which a function is defined|n. 领域, 领土, 产业, 范围<br>[计] 域, 区域, 支配命令| 
 domino|'dɒminәu| |n. United States rhythm and blues pianist and singer and composer (born in 1928)<br>n. a loose hooded cloak worn with a half mask as part of a masquerade costume<br>n. a mask covering the upper part of the face but with holes for the eyes<br>n. a small rectangular block used in playing the game of dominoes; the face of each block has two equal areas that can bear 0 to 6 dots|n. 化装外衣, 面具, 骨牌, 多米诺骨牌| 
-donate|'dәuneit|donation<br>donations|v. give to a charity or good cause|v. 捐赠| 
+donat| |donation<br>donations|n. A grammar.| [人名] [英格兰人姓氏] 多纳特来源于中世纪拉丁语教名, 含义是“给”(to give)| 
 done|dʌn| |s. having finished or arrived at completion<br>s. cooked until ready to serve|a. 完成了的, 好了的<br>do的过去分词| 
 donec| | | | | 
 dont| | | | | 
 donut|'dәu,nʌt| |n a small ring-shaped friedcake|[医] 电子回旋加速器环状真空室, 同步加速器环状真空室| 
 dose|dәus| |n. a measured portion of medicine taken at any one time<br>n. the quantity of an active agent (substance or radiation) taken in or absorbed at any one time<br>v. treat with an agent; add (an agent) to|n. 剂量, 服用量<br>vt. 给药, (用药)医治<br>vi. 服药| 
-doubled| |doubles|v increase twofold<br>v hit a two-base hit<br>v bend over or curl up, usually with laughter or pain<br>v do double duty; serve two purposes or have two functions<br>v bridge: make a demand for (a card or suit)<br>v make or do or perform again<br>s twice as great or many|v. 两倍；加倍努力；快步走（double的过去式和过去分词）| 
-downgrade|'dajn^reid| |n. the property possessed by a slope or surface that descends<br>v. rate lower; lower in value or esteem|vt. 降低, 贬低<br>n. 下坡<br>a. 下坡<br>adv. 下坡| 
+doubl| |doubles| | | 
+downgrad| | | | | 
 download| |downloadable<br>downloaded<br>downloading<br>downloads|v. transfer a file or program from a central computer to a smaller computer or to a computer at a remote location|[计] 卸载, 下栽| 
-downside|'daunsaid| |n. a negative aspect of something that is generally positive|n. 底侧；下降趋势| 
+downsid| | | | | 
 downstream|'daun'stri:m| |a. in the direction of a stream's current|adv. 下游地<br>a. 下游的| 
-downtime|'dauntaim| |n. a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)|n. 停工期<br>[计] 故障停机时间| 
+downtim| | | | | 
 dragon|'drægәn| |n. a creature of Teutonic mythology; usually represented as breathing fire and having a reptilian body and sometimes wings<br>n. a fiercely vigilant and unpleasant woman<br>n. any of several small tropical Asian lizards capable of gliding by spreading winglike membranes on each side of the body|n. 龙, 凶暴的人<br>[法] 凶恶的人, 凶恶严厉的监护人| 
 drain|drein| |n. emptying something accomplished by allowing liquid to run out of it<br>n. tube inserted into a body cavity (as during surgery) to remove unwanted material<br>n. a pipe through which liquid is carried away<br>n. a gradual depletion of energy or resources|n. 排水沟, 消耗, 排水<br>vt. 排出, 喝光, 耗尽<br>vi. 排水, 流干| 
-drastically|'dræstikәli| |r. in a drastic manner|adv. 激烈地, 彻底地| 
-drawable|'drɔ:әbl| |a. Capable of being drawn.|a. 可拉的, 可曳的| 
+drastic|'dræstik| |s. forceful and extreme and rigorous|a. 激烈的<br>[医] 峻泻药, 剧烈的| 
+drawabl| | | | | 
 drawback|'drɒ:bæk|drawbacks|n. the quality of being a hindrance|n. 缺点, 退税<br>[法] 退款, 退税| 
 drawer|'drɒ:ә| |n. a boxlike container in a piece of furniture; made so as to slide in and out<br>n. the person who writes a check or draft instructing the drawee to pay someone else|n. 抽屉, 开票人<br>[计] 抽屉| 
 drawn|drɒ:n| |s. having the curtains or draperies closed or pulled shut|a. 拔出的<br>draw的过去分词| 
-drawstring|'drɒ:striŋ| |n. a tie consisting of a cord that goes through a seam around an opening|n. 束带, 拉绳| 
+drawstr| | | | | 
 drew|dru:| |n. United States actor (born in Ireland); father of Georgiana Emma Barrymore (1827-1862)|draw的过去式| 
 drill|dril| |n. a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)<br>n. similar to the mandrill but smaller and less brightly colored<br>n. (military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms<br>v. train in the military, e.g., in the use of weapons|n. 钻孔机, 钻子, 播种机, 粗斜纹布<br>v. 训练, 钻孔| 
 driven|'drivn| |s. compelled forcibly by an outside agency<br>s. urged or forced to action through moral pressure|a. 有紧迫感的<br>drive的过去分词| 
 drone|drәun| |n. stingless male bee in a colony of social bees (especially honeybees) whose sole function is to mate with the queen<br>n. an aircraft without a pilot that is operated by remote control<br>n. a pipe of the bagpipe that is tuned to produce a single continuous tone<br>v. make a monotonous low dull sound|n. 雄蜂, 懒惰者, 嗡嗡的声音, 无人驾驶飞机(或船)<br>vi. 嗡嗡作声, 混日子<br>vt. 低沉地说| 
-drools|dru:lz| |n pretentious or silly talk or writing<br>n saliva spilling from the mouth<br>v be envious, desirous, eager for, or extremely happy about something<br>v let saliva drivel from the mouth|v. 流口水( drool的第三人称单数 ); 对某人或某物流露出痴迷的神情; 痴情地看; 迷恋地看| 
+drool|dru:l| |n. saliva spilling from the mouth|vi. 流口水, 淌, 胡说八道<br>vt. 从嘴淌下, 过分动感情地表示<br>n. 口水, 胡说| 
 dropout|'drɒpaut| |n. someone who quits school before graduation<br>n. someone who withdraws from a social group or environment|n. 退学学生, 中途退学<br>[电] 离去| 
 drupal| | |a. Drupaceous.|n. 文档管理；联盟网站| 
 dual|'dju:әl| |s. a grammatical number category referring to two items or units as opposed to one item (singular) or more than two items (plural)|a. 双重的, 双的<br>n. 双数| 
 duck|dʌk| |n. small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs<br>n. (cricket) a score of nothing by a batsman<br>n. flesh of a duck (domestic or wild)<br>n. a heavy cotton fabric of plain weave; used for clothing and tents|n. 鸭子<br>vi. 没入水中, 闪避<br>vt. 猛按...入水, 躲避| 
 dude|dju:d| |n an informal form of address for a man<br>n a man who is much concerned with his dress and appearance|n.<美国、加拿大>纨绔子弟，花花公子； <俚>男人，家伙；<br>vt.<俚>打扮得讲究或花哨| 
 dumb|dʌm| |s. lacking the power of human speech<br>s. unable to speak because of hereditary deafness|a. 哑的, 不说话的, 无声音的<br>[医] 哑的| 
-dummies|ˈdʌmi:z|dummy|pl.  of Dummy|n. 仿制品( dummy的名词复数 ); 橡皮奶头; 笨蛋; 假传球| 
+dummi| |dummy| | | 
 dump|dʌmp|dumped<br>dumping<br>dumps|n. a piece of land where waste materials are dumped<br>n. (computer science) a copy of the contents of a computer storage device; sometimes used in debugging programs<br>n. a place where supplies can be stored<br>v. throw away as refuse|n. 垃圾场<br>vt. 倾倒, 倾销<br>vi. 倒垃圾, 倾销商品<br>[计] 转出; 转储; 倾卸; 切断电源| 
 dumper|'dʌmpә| |n truck whose contents can be emptied without handling; the front end of the platform can be pneumatically raised so that the load is discharged by gravity|n. 垃圾车, 卸货车, 自动倾卸车, 清洁工人, 倾卸者, 倾销者<br>[化] 卸料器| 
 dunno|dʌ'nәj| | |v. <口>(我)不知道| 
-duplicate|'dju:plikeit|duplicated<br>duplicates<br>duplicating<br>duplication|n. a copy that corresponds to an original exactly<br>v. make or do or perform again<br>v. make a duplicate or duplicates of<br>s. identically copied from an original|n. 副本, 复本, 复制品<br>a. 复制的, 二重的<br>vt. 复制, 使加倍<br>[计] 复制| 
-durable|'djurәbl| |s. existing for a long time<br>s. capable of withstanding wear and tear and decay<br>s. very long lasting|a. 持久的, 耐用的| 
-duration|dju'reiʃәn| |n. the period of time during which something continues<br>n. the property of enduring or continuing in time<br>n. continuance in time|n. 持续时间, 持续<br>[计] 持续时间| 
+duplic| |duplicated<br>duplicates<br>duplicating<br>duplication| | | 
+durabl| | | | | 
+durat| | | | | 
 dutch| | | | | 
-dynamic|dai'næmik|dynamically<br>dynamics|a. characterized by action or forcefulness or force of personality<br>a. of or relating to dynamics|a. 动态的, 有活力的, 有力的, 动力的, 不断变化的<br>n. 动力, 动态<br>[计] 动态的| 
+dynam|daɪ'næm|dynamically<br>dynamics|n. A unit of measure for dynamical effect or work; a foot<br>   pound. See Foot pound.|n. 力学, 动力学| 
 
 
 ## E
@@ -920,119 +920,119 @@ earliest|'iәliist| |s (comparative and superlative of `early') more early than;
 easier|'i:ziә| |a posing no difficulty; requiring little effort<br>s not hurried or forced<br>a free from worry or anxiety<br>s affording pleasure<br>s having little impact<br>s readily exploited or tricked<br>s in fortunate circumstances financially; moderately rich<br>s marked by moderate steepness<br>s affording comfort<br>s casual and unrestrained in sexual behavior<br>s less in demand and therefore readily obtainable<br>s obtained with little effort or sacrifice, often obtained illegally|a. 更简单；较早的；容易些（easy的比较级形式）| 
 easiest|'i:ziist| |a posing no difficulty; requiring little effort<br>s not hurried or forced<br>a free from worry or anxiety<br>s affording pleasure<br>s having little impact<br>s readily exploited or tricked<br>s in fortunate circumstances financially; moderately rich<br>s marked by moderate steepness<br>s affording comfort<br>s casual and unrestrained in sexual behavior<br>s less in demand and therefore readily obtainable<br>s obtained with little effort or sacrifice, often obtained illegally|a. 轻松的；容易的| 
 echo|'ekәu|echoed<br>echoing|n. the repetition of a sound resulting from reflection of the sound waves<br>n. (Greek mythology) a nymph who was spurned by Narcissus and pined away until only her voice remained<br>n. a reply that repeats what has just been said<br>n. a reflected television or radio or radar beam|n. 回声, 回音, 回波<br>vi. 发回声, 随声附和<br>vt. 摹仿, 重复, 反射<br>[计] 回显; DOS批处理命令:控制MS-DOS命令是否在屏幕上显示| 
-eclipse|i'klips| |n. one celestial body obscures another<br>v. cause an eclipse of (a celestial body) by intervention|n. 日食, 月食, (地位名誉等的)消失<br>vt. 引起日食, 引起月食, 使黯然失色| 
+eclips| | | |n. 一款软件名称| 
 ecosystem|'i:kәu.sistәm| |n. a system formed by the interaction of a community of organisms with their physical environment|n. 生态系统<br>[医] 生态系| 
 edit|'edit|editable<br>edited<br>editing<br>editions<br>edits|v. prepare for publication or presentation by correcting, revising, or adapting<br>v. supervise the publication of<br>v. cut and assemble the components of<br>v. cut or eliminate|vt. 编辑, 编校, 修订, 剪辑<br>[计] 编辑; DOS外部命令:该命令是一个用于编辑文本文件的全屏幕编辑程序| 
-efficiently|i'fiʃәntli| |r. with efficiency; in an efficient manner|adv. 生效, 能胜任, 有能力, 效率高, 有效| 
-elaborate|i'læbәreit| |v. add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing<br>v. produce from basic elements or sources; change into a more developed product<br>v. work out in detail<br>s. marked by complexity and richness of detail|a. 精细的, 详尽的, 精心计划(或制作)的<br>vt. 详细地说明, 用心地制作, 发挥<br>vi. 变复杂, 作详细说明| 
-elapsed| | |a. (of time) having passed or slipped by|v. 时间过去；消逝（elapse的过去分词）| 
-elastic|i'læstik| |n. a fabric made of yarns containing an elastic material<br>a. capable of resuming original shape after stretching or compression; springy<br>s. able to adjust readily to different conditions|n. 松紧带, 橡皮筋<br>a. 有弹性的, 能伸缩的, 可通融的| 
+effici| | | | | 
+elabor| | | | | 
+elaps| | | | | 
+elast| | | | | 
 electron|i'lektrɒn|electronics|n. an elementary particle with negative charge|n. 电子<br>[化] 电子| 
-elegant|'eligәnt| |a. refined and tasteful in appearance or behavior or style<br>s. suggesting taste, ease, and wealth<br>s. displaying effortless beauty and simplicity in movement or execution|a. 优雅的, 端庄的, 高雅的| 
+eleg| | | | | 
 elem| | | |[机] 伊特姆| 
-elephant|'elifәnt| |n. five-toed pachyderm<br>n. the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874|n. 象| 
-elevated|'eliveitid|elevation|s. raised above the ground|a. 提高的| 
-eligible|'elidʒәbl| |a. qualified for or allowed or worthy of being chosen|a. 有资格当选的, 合格的<br>n. 有资格者, 合格者, 适任者| 
-eliminated|iˈlimineitid|eliminates<br>eliminating|v terminate, end, or take out<br>v do away with<br>v kill in large numbers<br>v dismiss from consideration or a contest<br>v eliminate from the body<br>v remove from a contest or race<br>v remove (an unknown variable) from two or more equations|v. 排除( eliminate的过去式和过去分词 ); 消除; 除掉; <口>干掉| 
+eleph| | | | | 
+elev|ɪ'lev|elevation| | [医]Elevator| 
+elig| | | | | 
+elimin| |eliminates<br>eliminating| | | 
 elixir|i'liksә| |n. a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste<br>n. a substance believed to cure all ills|n. 炼金药, 不老长寿药, 万能药<br>[化] 酏剂| 
-ellipse|i'lips| |n. a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it|n. 椭圆, 椭圆形<br>[计] 椭圆| 
-ellipsis|i'lipsis| |n. omission or suppression of parts of words or sentences|n. 省略, 省略符号<br>[计] 省略号| 
-eloquent|'elәkwәnt| |s. expressing yourself readily, clearly, effectively|a. 雄辩的, 有口才的, 有说服力的| 
+ellips| | | | | 
+ellipsi| | | | | 
+eloqu| | | | | 
 email|'i:'meil| |n (computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in<br>v communicate electronically on the computer|n. 电子信函| 
 embarcadero|em,bɑ:kә'derәu| | |n. (尤指美国西部城镇的) 内河码头| 
-embedded|im'bedid|embedding|s. enclosed firmly in a surrounding mass<br>s. inserted as an integral part of a surrounding whole|a. 植入的, 内含的, 深入的| 
+embed|im'bed|embedding|v. attach to, as a journalist to a military unit when reporting on a war|vt. 使插入, 使嵌入, 使深留脑中<br>[计] 嵌入| 
 ember|'embә| |n. a hot fragment of wood or coal that is left from a fire and is glowing or smoldering|n. 灰烬, 余烬| 
 emit|i'mit|emits<br>emitted|v. expel (gases or odors)<br>v. give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.|vt. 发出, 放射, 发表(意见等), 散发, 发行<br>[化] 放射| 
-emitter|i'mitә| |n. the electrode in a transistor where electrons originate|n. 发射体, 发射极<br>[计] 发射极; 发射器| 
-emplace|im'pleis, em-| |v. provide a new emplacement for guns<br>v. put into place or position|v. 放列, 安置,安放| 
-employees| | |n a worker who is hired to perform a job|n. 员工；雇员；从业人员（emploee的复数）| 
-emulate|'emjuleit|emulated<br>emulation<br>emulator<br>emulators|v. strive to equal or match, especially by imitating<br>v. imitate the function of (another system), as by modifying the hardware or the software<br>v. compete with successfully; approach or reach equality with|vt. 效法, 尽力赶上, 同...竞争<br>[计] 仿真| 
-enabled|i'neibl|enables<br>enabling|v render capable or able for some task|a. 激活的, 使可行的<br>[计] 激活的| 
-encapsulate|in'kæpsәleit|encapsulated<br>encapsulation|v. enclose in a capsule or other small container<br>v. put in a short or concise form; reduce in volume|vt. 装入胶囊, 封进内部, 压缩<br>vi. 做成胶囊| 
-enclose|in'klәuz|enclosed<br>enclosing|v. close in; darkness enclosed him"<br>v. surround completely|vt. 围绕, 圈起, 放入封套, 附上| 
-encode|in'kәud|encoded<br>encoder<br>encodes<br>encoding<br>encodings|v. convert information into code|vt. 把(电文、情报等)译成密码<br>[计] 编码| 
-encountered| |encountering<br>encounters|v come together<br>v come upon, as if by accident; meet with<br>v be beset by<br>v experience as a reaction<br>v contend against an opponent in a sport, game, or battle|v. 遇到；曾遭遇（encounter的过去式）| 
-encouraged| | |v contribute to the progress or growth of<br>v inspire with confidence; give hope or courage to<br>v spur on<br>s inspired with confidence|a. 受到鼓舞的| 
+emitt| | | | | 
+emplac| | | | | 
+employe|,emplɔi'i:, im'plɔii| |n. One employed by another; a clerk or workman in the service<br>   of an employer.|n. 受雇者, 雇员, 雇工<br>[化] 职工; 雇员| 
+emul| |emulated<br>emulation<br>emulator<br>emulators| | | 
+enabl| |enables<br>enabling| | | 
+encapsul| |encapsulated<br>encapsulation| | | 
+enclos| |enclosed<br>enclosing| | | 
+encod| |encoded<br>encoder<br>encodes<br>encoding<br>encodings| | | 
+encount| |encountering<br>encounters| | | 
+encourag| | | | | 
 encrypt|in'kript|encrypted<br>encrypting<br>encryption|v convert ordinary language into code|[计] 加密| 
 endless|'endlis| |s. tiresomely long; seemingly without end<br>s. infinitely great in number<br>s. having the ends united so as to form a continuous whole|a. 不停的, 无穷尽的, 无尽的<br>[机] 无端的, 环状的| 
 endpoint|'end.pɔint|endpoints|n a place where something ends or is complete|n. 端点；末端, 终结点| 
-engagement|in'geidʒdmәnt| |n. employment for performers or performing groups that lasts for a limited period of time<br>n. contact by fitting together<br>n. the act of sharing in the activities of a group|n. 诺言, 约会, 婚约, 交战<br>[医] 衔接| 
+engag| | | | | 
 england| | | | | 
 english| | | | | 
-enhanced|in'hɑ:nst. -'hænst|enhancement|s. increased or intensified in value or beauty or quality|a. 增大的；加强的| 
+enhanc| |enhancement| | | 
 enlighten|in'laitn| |v. make understand<br>v. give spiritual insight to; in religion|vt. 教育, 启发, 启蒙, 开导, 教导| 
-enqueue| | | |[计] 入队, 排队| 
-enquiry|in'kwaiәri| |n an instance of questioning<br>n a search for knowledge<br>n a systematic investigation of a matter of public interest|n. 询问<br>[经] 询价, 询盘| 
-enrollment|in'rәulmәnt| |n the act of enrolling<br>n the body of people (such as students) who register or enroll at the same time|n. 登记, 注册, 入伍<br>[经] 登记, 注册| 
-ensures|inˈʃuəz|ensuring|v make certain of<br>v be careful or certain to do something; make certain of something|v. 确保( ensure的第三人称单数 ); 担保获得[避免]; 使（某人）获得; 使安全| 
-entirety|in'taiәti| |n. the state of being total and complete|n. 全部, 整体<br>[法] 共有制, 整体, 全部| 
-entities|ˈentitiz|entity|pl.  of Entity|n. 实体对像; 实体, 独立存在体, 实际存在物( entity的名词复数 )| 
-entitled|in'taitld| |s. qualified for by right according to law|a. 有资格的；给与名称的| 
+enqueu| | | | | 
+enquiri| | | | | 
+enrol|in'rәul| |v register formally as a participant or member|vt. 登记, 使加入<br>vi. 参军, 注册| 
+ensur| |ensuring| | | 
+entireti| | | | | 
+entiti| |entity| | | 
+entitl| | | | | 
 entrepreneur|.ɒntrәprә'nә:|entrepreneurs|n. someone who organizes a business venture and assumes the risk for it|n. 企业家, 主办人<br>[经] 承包商, 企业家| 
-entries| | |n an item inserted in a written record<br>n the act of beginning something new<br>n a written record of a commercial transaction<br>n something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)<br>n something that provides access (to get in or get out)<br>n the act of entering|n. 进入；（词典所列的）词目（entry的复数形式）| 
-entropy|'entrәpi| |n (communication theory) a numerical measure of the uncertainty of an outcome<br>n (thermodynamics) a thermodynamic quantity representing the amount of energy in a system that is no longer available for doing mechanical work|n. 熵<br>[计] 熵| 
-enumerable|i'nju:mәrәbl|enumerate<br>enumerated<br>enumeration<br>enumerator|s that can be counted|a. 可点数的, 可列举的<br>[计] 可数的, 可枚举的| 
-envelope|'envәlәup| |n. a flat (usually rectangular) container for a letter, thin package, etc.<br>n. any wrapper or covering<br>n. a curve that is tangent to each of a family of curves<br>n. a natural covering (as by a fluid)|n. 信封, 封套, 封袋<br>[医] 膜, 包袋| 
+entri| | | | | 
+entropi| | | | | 
+enumer| |enumerate<br>enumerated<br>enumeration<br>enumerator| | | 
+envelop|in'velәp| |v. enclose or enfold completely with or as if with a covering|vt. 包封, 遮盖, 包围<br>n. 信封| 
 epic|'epik| |s. very imposing or impressive; surpassing the ordinary (especially in size or scale)<br>a. constituting or having to do with or suggestive of a literary epic|n. 史诗, 叙事诗<br>a. 史诗的, 叙事诗的| 
-episodes| | |n a happening that is distinctive in a series of related events<br>n a brief section of a literary or dramatic work that forms part of a connected series<br>n a part of a broadcast serial<br>n film consisting of a succession of related shots that develop a given subject in a movie|n. 发作, 插曲（episode复数）| 
+episod| | | | | 
 epoch|'i:pɒk|epochs|n. (astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded<br>n. a unit of geological time that is a subdivision of a period and is itself divided into ages|n. 新纪元, 时代, 时期| 
 epsilon|ep'sailәn. 'epsilɔn| |n. the 5th letter of the Greek alphabet|n. 希腊语字母之第五字| 
-equation|i'kweiʃәn|equations|n. a mathematical statement that two expressions are equal<br>n. the act of regarding as equal|n. 相等, 等式, 平衡<br>[化] 方程式; 等式; 反应式; 公式| 
+equat| |equations| | | 
 equinox|'i:kwәnɒks| |n. either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length|n. 昼夜平分点, 春分, 秋分| 
-equity|'ekwiti| |n. the difference between the market value of a property and the claims held against it<br>n. the ownership interest of shareholders in a corporation|n. 公平, 公正<br>[经] 权益, 产权| 
+equiti| | | | | 
 equiv| | | |abbr. electrochemical equivalent 电化学当量; equivalent 相等的, 等价物| 
-equivalent|i'kwivәlәnt|equivalents|n. a person or thing equal to another in value or measure or force or effect or significance etc<br>n. the atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen<br>s. being essentially equal to something|n. 同等物, 等价物, 相等物<br>a. 相等的, 相当的, 同意义的<br>[计] 等价的| 
-erase|i'reis|erased|v. remove from memory or existence<br>v. remove by or as if by rubbing or erasing<br>v. wipe out digitally or magnetically recorded information|vt. 抹去, 擦掉<br>[计] 清洗; 擦除; 抹除; DOS内部命令:从磁盘上删除一个或多个文件| 
-erasure|i'reiʃә| |n. a correction made by erasing<br>n. a surface area where something has been erased|n. 擦除, 抹掉<br>[电] 擦掉| 
+equival| |equivalents| | | 
+eras| |erased|n a period marked by distinctive character or reckoned from a fixed point or event<br>n a major division of geological time; an era is usually divided into two or more periods<br>n (baseball) a measure of a pitcher's effectiveness; calculated as the average number of earned runs allowed by the pitcher for every nine innings pitched|n. 纪元, 时代；年代（era的复数形式）| 
+erasur| | | | | 
 erat| | | | | 
 eric|'erik| |n. A recompense formerly given by a murderer to the relatives of<br>   the murdered person.|abbr. 科教资源信息中心（Educational Resources Information Center）；电子遥控与独立控制（Electronic Remote and Independent Control）| 
-erroneous|i'rәuniәs| |s. containing or characterized by error|a. 错误的, 不正确的<br>[法] 错误的, 不正确的| 
+erron|'erɒn| | |abbr. erroneous 错误的; erroneously 错误地| 
 espresso|e'spresәu| |n. strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans|n. （用汽加压煮出的）浓咖啡| 
-essence|'esns| |n. any substance possessing to a high degree the predominant properties of a plant or drug or other natural product from which it is extracted|n. 实质, 本质, 香精<br>[化] 香精| 
-essentials| | |n anything indispensable|n. 要件, 概要；基本营养素；生活必需品（essential的复数）| 
+essenc| | | | | 
+essenti| | | | | 
 estado| | | | | 
 ethernet| | | | | 
-ethical|'eθikәl| |a. of or relating to the philosophical study of ethics<br>a. conforming to accepted standards of social or professional behavior<br>s. adhering to ethical and moral principles|a. 伦理的, 民族的, 民族特有的<br>[医] 伦理的, 道德的| 
+ethic|'eθik| |n. the principles of right and wrong that are accepted by an individual or a social group<br>n. a system of principles governing morality and acceptable conduct|n. 道德规范, 伦理| 
 etiam| | | | | 
 euclidean| | | | | 
 euler| | | | | 
 eureka|juә'ri:kә| |n. a town in northwest California on an arm of the Pacific Ocean|interj. 找到了, 有了<br>n. 优铜| 
 euro|'juәrәu| |n. the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies|n. 欧元（欧盟的统一货币单位）| 
-europe| | | | | 
+europ| | | | | 
 european| | | | | 
 eval| | |a. Relating to time or duration.|n. 重新运算求出参数的内容| 
-evaluated| |evaluates<br>evaluating<br>evaluator|v evaluate or estimate the nature, quality, ability, extent, or significance of<br>v form a critical opinion of|vi. 评估；估…的价（evaluate的过去分词形式）| 
-evenly|'i:vәnli| |r. in equal amounts or shares; in a balanced or impartial way<br>r. in a level and regular way|adv. 平衡地, 平坦地, 平等地| 
-eventual|i'ventʃuәl| |s. expected to follow in the indefinite future from causes already operating|a. 最后的, 终于的| 
-evolved| | |v work out<br>v undergo development or evolution<br>v gain through experience|n. 进化了的| 
+evalu| |evaluates<br>evaluating<br>evaluator| | | 
+evenli| | | | | 
+eventu| | | | | 
+evolv| | | | | 
 exam|ig'zæm|exams|n a set of questions or exercises evaluating skill or knowledge|n. 考试, 测验| 
-exceeds|ikˈsi:dz| |v be greater in scope or size than some standard<br>v be superior or better than some standard<br>v be or do something to a greater degree|v. 超过( exceed的第三人称单数 ); 超越; （在数量和质量等方面）胜过; 越过…的界限| 
+exce| | | | | 
 excerpt|'eksә:pt| |n. a passage selected from a larger work<br>v. take out of a literary work in order to cite or copy|n. 摘录<br>v. 引用, 摘录| 
 excess|ik'ses|excessive|n. a quantity much larger than is needed<br>n. immoderation as a consequence of going beyond sufficient or permitted limits<br>s. more than is needed, desired, or required|n. 过度, 剩于, 超过, 超额<br>a. 过量的, 额外的| 
-excited|ik'saitid| |a. in an aroused state|a. 兴奋的, 已励磁的, 已激发的, 激昂的, 激动的| 
-exclamation|.eksklә'meiʃәn| |n. an abrupt excited utterance<br>n. a loud complaint or protest or reproach|n. 惊呼, 激烈言词, 惊叹词| 
-exclude|iks'klu:d|excluded<br>excludes<br>excluding|v. prevent from being included or considered or accepted<br>v. prevent from entering; shut out<br>v. lack or fail to include|vt. 除外, 排除, 排斥<br>[医] 除外(诊断)| 
-exclusion|ik'sklu:ʒәn|exclusions<br>exclusive<br>exclusively|n. the state of being excluded|n. 排除, 除外, 逐出<br>[医] 排除, 除外, 分离术| 
+excit| | | | | 
+exclam| | | | | 
+exclud| |excluded<br>excludes<br>excluding| | | 
+exclus| |exclusions<br>exclusive<br>exclusively| | | 
 exec|i^'zek| |n the chief executive department of the United States government|n. 主任参谋, 副舰长<br>[计] 执行, 执行程序| 
 executor|ig'zekjutә|executors|n. a person appointed by a testator to carry out the terms of the will|n. 执行者<br>[经] 指定遗嘱执行人, 执行者| 
-exercitation|ek,zә:si'teiʃәn| |n. exercise; practice; use.|n. 实习, 训练, <古>练习| 
-exhausted|iɡ'zɔ:stid| |s. drained of energy or effectiveness; extremely tired; completely exhausted<br>a. depleted of energy, force, or strength<br>s. drained physically|a. 耗尽的；疲惫的| 
+exercit| | | | | 
+exhaust|ig'zɒ:st| |n. gases ejected from an engine as waste products<br>n. system consisting of the parts of an engine through which burned gases or steam are discharged<br>v. wear out completely<br>v. use up the whole supply of|n. 排气, 排气装置, 废气<br>vt. 抽完, 用尽, 耗尽, 使精疲力尽<br>vi. 排气| 
 exit|'eksit|exited<br>exiting<br>exits|n. an opening that permits escape or release<br>n. the act of going out<br>v. move out of or depart from<br>v. lose the lead|n. 出口, 退场, 离去, 去世<br>vi. 退出, 脱离, 去世<br>[计] 退出; DOS内部命令:本命令用于退出当前的命令处理器(COMMAND.COM)<br>恢复前一个命令处理器| 
-expenses| | |n amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)<br>n a detriment or sacrifice<br>n money spent to perform work and usually reimbursed by an employer<br>v reduce the estimated value of something|n. 开支, 经费, 费用<br>[法] 开支, 支出, 经费| 
-experienced|ik'spiәriәnst|experiencing|a. having experience; having knowledge or skill from observation or participation|a. 富有经验的, 老练的, 熟练的| 
-expertise|.ekspә:'ti:z| |n skillfulness by virtue of possessing special knowledge|n. 专家意见, 专门技术<br>[法] 专门知识, 专家意见| 
-expiration|.ekspi'reiʃәn|expire<br>expired<br>expires|n a coming to an end of a contract period<br>n euphemistic expressions for death<br>n the act of expelling air from the lungs|n. 终止, 满期, 呼出, 呼气<br>[医] 呼[气], 断气, 死亡| 
-expiry|ik'spairi| |n a coming to an end of a contract period<br>n the event of dying or departure from life|n. 终结, 满期, 呼气, 断气<br>[经] 满期, 到期| 
-explanations|eksplə'neɪʃnz| |n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.<br>n. thought that makes something comprehensible<br>n. the act of explaining; making something plain or intelligible|n. 解释, 说明( explanation的复数形式 ); 能说明某事缘由的言语、事实、情况等| 
-explanatory|ik'splænәtәri| |s. serving or intended to explain or make clear|a. 说明的, 解释的, 辩明的<br>[法] 解释的, 说明的| 
+expens| | | | | 
+experienc| |experiencing| | | 
+expertis| | | | | 
+expir| |expire<br>expired<br>expires| | | 
+expiri| | | | | 
+explan| | | | | 
+explanatori| | | | | 
 explicit|ik'splisit| |a. precisely and clearly expressed or readily observable; leaving nothing to implication|a. 详述的, 清楚的, 直言的| 
-explicitly| | |r. in an explicit manner|adv. 明确地；明白地| 
+explicitli| | | | | 
 exploit|'eksplɒit| |v. use or manipulate to one's advantage<br>v. draw from; make good use of|n. 功绩, 勋绩<br>vt. 开发, 利用, 开拓, 剥削| 
 expo|'ekspәu| |n a collection of things (goods or works of art etc.) for public display|[经] 展览会, 市集, 义卖| 
-exponent|ik'spәunәnt| |n. someone who expounds and interprets or explains<br>n. a mathematical notation indicating the number of times a quantity is multiplied by itself|n. 说明者, 倡导者, 说明物, 指数<br>a. 说明的<br>[计] 指数| 
-exponential|.ekspәu'nenʃәl| |n. a function in which an independent variable appears as an exponent<br>a. of or involving exponents|a. 指数的<br>n. 指数<br>[计] 指数| 
-exposed|ik'spәuzd|exposes<br>exposing|s. with no protection or shield<br>s. not covered with clothing|a. 暴露的, 无掩蔽的, 易受攻击的| 
-extensibility|ik.stensi'biliti|extensible<br>extensions<br>extensively|n. The quality of being extensible; the capacity of<br>   being extended; as, the extensibility of a fiber, or of a plate of<br>   metal.|n. 可延长性, 展开性<br>[计] 可扩充性| 
+expon| | | | | 
+exponenti| | | | | 
+expos| |exposes<br>exposing|plural of expo<br>n a collection of things (goods or works of art etc.) for public display|(expo 的复数) [经] 展览会, 市集, 义卖| 
+extens| |extensible<br>extensions<br>extensively| | | 
 extern|eks'tә:n|externally<br>externals|n. a nonresident doctor or medical student; connected with a hospital but not living there|n. 走读生, 走读医学实习生<br>[医] 实习医学生| 
 extract|ik'strækt|extracted<br>extracting<br>extraction<br>extracts|v. remove, usually with some force or effort; also used in an abstract sense<br>v. get despite difficulties or obstacles<br>v. separate (a metal) from an ore<br>v. calculate the root of a number|n. 榨出物, 精汁, 摘录, 选段<br>vt. (费力地)取出, 采掘, 榨取, 摘录, 吸取<br>[计] 提取| 
 extractor|ik'stræktә| |n. an instrument for extracting tight-fitting components|n. 抽出器, 拔取的人, 抽出者<br>[计] 抽取字; 析取字| 
@@ -1044,67 +1044,67 @@ extractor|ik'stræktә| |n. an instrument for extracting tight-fitting component
 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
-facade|fә'sɑ:d|facades|n. the face or front of a building<br>n. a showy misrepresentation intended to conceal something unpleasant|n. 建筑物的正面, 外观, 表面| 
+facad| |facades| | | 
 facet|'fæsit|facets|n. a smooth surface (as of a bone or cut gemstone)|n. (多面体的)面, 方面, 琢面<br>[医] 小平面, 小面| 
-facilitate|fә'siliteit| |v. make easier<br>v. increase the likelihood of (a response)|vt. 使容易, 促进, 帮助<br>[法] 使容易, 使便利, 推进| 
-facilities| | |n a building or place that provides a particular service or is used for a particular industry<br>n skillful performance or ability without difficulty<br>n a natural effortlessness<br>n something designed and created to serve a particular function and to afford a particular convenience or service<br>n a service that an organization or a piece of equipment offers you|n. 工具, 设施, 设备| 
+facilit| | | | | 
+facil|'ʃæsɪl| | |abbr. facility 容易; 简易; 灵巧; 熟练| 
 fadeout|ˊfeidaut| |n. a slow or gradual disappearance<br>n. a gradual temporary loss of a transmitted signal due to electrical disturbances|n. 渐隐,渐没| 
 fahrenheit|'færәnhait| |n. German physicist who invented the mercury thermometer and developed the scale of temperature that bears his name (1686-1736)<br>a. of or relating to a temperature scale proposed by the inventor of the mercury thermometer|a. 华氏温度计的<br>n. 华氏温度计| 
-failures| | |n an act that fails<br>n an event that does not accomplish its intended purpose<br>n lack of success<br>n a person with a record of failing; someone who loses consistently<br>n an unexpected omission<br>n inability to discharge all your debts as they come due<br>n loss of ability to function normally|n. 失败（failure的复数）| 
+failur| | | | | 
 fake|feik| |n. something that is a counterfeit; not what it seems to be<br>s. not genuine or real; being an imitation of the genuine article; it's real synthetic fur"|n. 假货, 欺骗, 诡计<br>a. 假的<br>vt. 假造, 仿造<br>vi. 伪装| 
 faker|'feikә| |n a person who makes deceitful pretenses|n. 骗子, (卖滑头货的)摊贩<br>[经] 伪造者, 骗子| 
 fallback|'fɒ:lbæk| |n to break off a military action with an enemy|n. 可依靠的东西, 退却<br>[计] 撤退| 
-fancy|'fænsi| |n. a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination<br>v. have a fancy or particular liking or desire for<br>a. not plain; decorative or ornamented|n. 想象力, 幻想, 喜好<br>a. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的<br>vt. 想象, 设想, 相信, 喜爱<br>vi. 想象, 幻想| 
-fantastic|fæn'tæstik| |s. extraordinarily good or great; used especially as intensifiers<br>s. fanciful and unrealistic; foolish<br>s. existing in fancy only<br>s. extravagantly fanciful in design, construction, appearance|a. 奇妙的, 稀奇的, 空想的| 
+fanci| | | | | 
+fantast|'fæntæst| |n. someone who predicts the future|n. 幻想家, 梦想家<br>[医] 幻想者| 
 fare|fєә| |n. the sum charged for riding in a public conveyance<br>n. a paying (taxi) passenger<br>n. the food and drink that are regularly served or consumed<br>v. eat well|n. 费用, 旅客, 食物<br>vi. 进展, 进步, 经营, 过活| 
-fascinating|'fæsineitiŋ| |v cause to be interested or curious<br>v to render motionless, as with a fixed stare or by arousing terror or awe<br>v attract; cause to be enamored<br>s capable of arousing and holding the attention<br>s capturing interest as if by a spell|a. 迷人的, 吸引人的, 使人神魂颠倒的| 
+fascin| | | | | 
 faster| | |a acting or moving or capable of acting or moving quickly<br>a (used of timepieces) indicating a time ahead of or later than the correct time<br>a at a rapid tempo<br>s (of surfaces) conducive to rapid speeds<br>s resistant to destruction or fading<br>s unrestrained by convention or morality<br>s hurried and brief<br>s securely fixed in place<br>s unwavering in devotion to friend or vow or cause<br>s (of a photographic lens or emulsion) causing a shortening of exposure time<br>r more quickly|[计] 加快| 
 fastest| | |a acting or moving or capable of acting or moving quickly<br>a (used of timepieces) indicating a time ahead of or later than the correct time<br>a at a rapid tempo<br>s (of surfaces) conducive to rapid speeds<br>s resistant to destruction or fading<br>s unrestrained by convention or morality<br>s hurried and brief<br>s securely fixed in place<br>s unwavering in devotion to friend or vow or cause<br>s (of a photographic lens or emulsion) causing a shortening of exposure time<br>r most quickly|a. 最快速的（far 的最高级）| 
 fatal|'feitәl| |a. bringing death<br>s. controlled or decreed by fate; predetermined|a. 致命的, 重大的, 命运注定的, 粗心的, 不幸的<br>[医] 致命的, 致死的| 
-faulty|'fɒ:lti| |s. characterized by errors; not agreeing with a model or not following established rules; the wrong side of the road"|a. 有过失的, 有缺点的, 不完美的, 应受责备的<br>[经] 缺点多的| 
-favorites| | |n something regarded with special favor or liking<br>n a special loved one<br>n a competitor thought likely to win|n. 收藏夹；偏爱（favorite的复数）| 
+faulti| | | | | 
+favorit| | | | | 
 favour|'feivә| |n a feeling of favorable regard<br>n an inclination to approve<br>n an advantage to the benefit of someone or something<br>n souvenir consisting of a small gift given to a guest at a party<br>n an act of gracious kindness<br>v treat gently or carefully<br>v bestow a privilege upon<br>v promote over another<br>v consider as the favorite|n. 好感, 偏爱, 喜爱, 相信, 庇护, 赞同, 支持, 信赖, 善行, 恩惠, 徽章, 礼物<br>vt. 赞成, 帮助, 支持, 喜爱, 偏袒, 关切, 赐与, 给与, 有利于, 有助于, 像, 体恤| 
-favourite|'feivәrit| |n a competitor thought likely to win<br>n a special loved one<br>n something regarded with special favor or liking<br>s appealing to the general public<br>s preferred above all others and treated with partiality|n. 喜欢的事物<br>a. 喜爱的, 宠爱的| 
-feasible|'fi:zәbl| |s. capable of being done with means at hand and circumstances as they are|a. 能实行的, 可行的, 适宜的<br>[法] 可行的, 可执行的, 可完成的| 
+favourit| | | | | 
+feasibl| | | | | 
 feat|fi:t| |n. a notable achievement|n. 壮举, 功绩, 技艺表演<br>a. 灵巧的, 合适的, 整洁的| 
-featured|'fi:tʃәd|features|s. made a feature or highlight; given prominence<br>s. having facial features as specified; usually used in combination|a. 面貌秀丽的, 被作为特色的| 
-february| | | | | 
+featur| |features| | | 
+februari| | | | | 
 fedora|fi'dɒ:rә| |n. a hat made of felt with a creased crown|n. 男式浅顶软呢帽| 
 feedback|'fi:dbæk| |n. the process in which part of the output of a system is returned to its input in order to regulate its further output<br>n. response to an inquiry or experiment|n. 反馈, 反应<br>[计] 反馈| 
 feet|fi:t| |n the part of the leg of a human being below the ankle joint<br>n a linear unit of length equal to 12 inches or a third of a yard<br>n the lower part of anything<br>n the pedal extremity of vertebrates other than human beings<br>n lowest support of a structure<br>n any of various organs of locomotion or attachment in invertebrates<br>n travel by walking<br>n a member of a surveillance team who works on foot or rides as a passenger<br>n an army unit consisting of soldiers who fight on foot<br>n (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm<br>n a support resembling a pedal extremity|pl. 脚<br>n. 尺| 
-felis|'fi:lis| |n. A genus of carnivorous mammals, including the domestic cat,<br>   the lion, tiger, panther, and similar animals.| 猫属; [人名] 费利斯| 
+feli| | | | | 
 felix|'fi:liks| | |n. 菲力克斯（男子名）；费力克斯制导炸弹| 
 fell|fel| |n. seam made by turning under or folding together and stitching the seamed materials to avoid rough edges<br>n. the act of felling something (as a tree)<br>v. cause to fall by or as if by delivering a blow<br>v. sew a seam by folding the edges|vt. 击倒<br>n. 一季所伐的木材, 折缝<br>a. 凶猛的, 可怕的<br>fall的过去式| 
 felt|felt| |n. a fabric made of compressed matted animal fibers<br>v. mat together and make felt-like<br>v. cover with felt|n. 毛毯, 毡<br>vt. 制毡, 使粘结<br>vi. 粘结<br>feel的过去式和过去分词| 
 fermentum|fә:'mentәm| | |<拉>n.[宗](中世纪教会中主教留给神父作弥撒时用的)一份圣饼| 
 fetch|fetʃ|fetched<br>fetches<br>fetching|n. the action of fetching<br>v. be sold for a certain price<br>v. take away or remove|n. 取得, 拿, 诡计, 魂<br>vt. 接来, 取来, 售得, 带来, 推出, 引出, 杀死, 吸引, 到达<br>vi. 取物, 前进<br>[计] 取| 
-fiddle|'fidl|fiddling|v. avoid (one's assigned duties)<br>v. commit fraud and steal from one's employer<br>v. play the violin or fiddle<br>v. play on a violin|n. 小提琴, 提琴类乐器<br>vt. 虚度时光, 拉小提琴<br>vi. 拉小提琴, (无目的地)拨弄, 瞎搞| 
+fiddl| |fiddling| | | 
 fiddler|'fidlә| |n a musician who plays the violin<br>n someone who manipulates in a nervous or unconscious manner<br>n an unskilled person who tries to fix or mend|n. 拉提琴的人, 游荡者, 骗子| 
 fifo| | | | | 
-figured|'fi^әd|figures<br>figuring|s. (of e.g. fabric design) adorned with patterns|a. 有形状的, 有图案的, 用图表表现的, 用图画表现的| 
-filename|fail'neim|filenames|n. (computer science) the name given to a computer file in order to distinguish it from other files; may contain an extension that indicates the type of file|n. 文件名<br>[计] 文件名| 
+figur| |figures<br>figuring| | | 
+filenam| |filenames| | | 
 filler|'filә| |n. used for filling cracks or holes in a surface<br>n. 100 filler equal 1 forint in Hungary<br>n. copy to fill space between more important articles in the layout of a magazine or newspaper<br>n. the tobacco used to form the core of a cigar|n. 装填者, 补白, 装填物<br>[计] 填充符| 
 filter|'filtә|filterable<br>filtered<br>filtering<br>filters|n. device that removes something from whatever passes through it<br>n. an electrical device that alters the frequency spectrum of signals passing through it<br>v. remove by passing through a filter|n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器<br>vt. 过滤, 渗透, 走漏<br>vi. 滤过, 渗入<br>[计] 过滤器, 筛选| 
 finder|'faindә| |n. someone who comes upon something after searching<br>n. someone who is the first to observe something<br>n. optical device that helps a user to find the target of interest|a. 发现者, 寻星镜<br>[医] 寻觅器, 探示器| 
 fingerprint|'fiŋgәprint| |n. a print made by an impression of the ridges in the skin of a finger; often used for biometric identification in criminal investigations<br>n. a generic term for any identifying characteristic<br>v. take an impression of a person's fingerprints|n. 指纹<br>vt. 采指纹| 
-finite|'fainait| |a. bounded or limited in magnitude or spatial or temporal extent<br>a. of verbs; relating to forms of the verb that are limited in time by a tense and (usually) show agreement with number and person|a. 有限的, 有穷的, 限定的<br>n. 有限物| 
-firebase|'faiәbeis| |n. an artillery base to support advancing troops|n. 重火力点(向敌人发射重型炮火的军事基地)| 
+finit| | | | | 
+firebas| | | | | 
 firebird|'faiәbә:d| |n the male is bright red with black wings and tail<br>n eastern subspecies of northern oriole<br>n tropical American flycatcher found as far north as southern Texas and Arizona; adult male has bright scarlet and black plumage|n. 北美黄鹂鸟| 
 firebug|'faiәbʌg| |n. a true bug: brightly colored bug that can exude a stain|n. 放火者, 放火狂, 萤火虫| 
-firewall| | |n. (colloquial) the application of maximum thrust<br>n. (computing) a security system consisting of a combination of hardware and software that limits the exposure of a computer or computer network to attack from crackers; commonly used on local area networks that are connected to the internet<br>n. a fireproof (or fire-resistant) wall designed to prevent the spread of fire through a building or a vehicle|[计] 放火墙, 隔离| 
-firmware|'fә:m,weә| |n. (computer science) coded instructions that are stored permanently in read-only memory|[计] 固件| 
-firstly|'fә:stli| |r before anything else|adv. 第一, 首先| 
+firewal| | | | | 
+firmwar| | | | | 
+firstli| | | | | 
 fiscal|'fiskәl| |a. involving financial matters|a. 财政的, 国库的<br>[经] 财政上的, 会计的, 国库的| 
 fist|fist| |n. a hand with the fingers clenched in the palm (as for hitting)|n. 拳头, 手<br>vt. 拳打, 握成拳, 紧握| 
-fixture|'fikstʃә|fixtures|n. an object firmly fixed in place (especially in a household)|n. 固定(状态), 固定物, 设备<br>[计] 夹具| 
+fixtur| |fixtures| | | 
 flash|flæʃ| |n. a sudden intense burst of radiant energy<br>n. a momentary brightness<br>n. a short vivid experience<br>n. a sudden brilliant understanding|n. 闪光, 闪现, 一瞬间<br>vi. 闪光, 闪现, 反射<br>vt. 使闪光, 反射| 
 flask|flæsk| |n. bottle that has a narrow neck<br>n. the quantity a flask will hold|n. 细颈瓶, 烧瓶, 小水瓶<br>[化] 瓶; 烧瓶| 
 flatten|'flætn|flattened|v. make flat or flatter<br>v. become flat or flatter<br>v. lower the pitch of (musical notes)|vi. 使...不活跃, 变平<br>vt. 弄平, 打倒, 使失去光泽| 
 flaw|flɒ:|flawed<br>flaws|n. defect or weakness in a person's character<br>n. an imperfection in a plan or theory or legal document that causes it to fail or that reduces its effectiveness<br>v. add a flaw or blemish to; make imperfect or defective|n. 缺点, 裂纹, 瑕疵, 一阵狂风<br>[化] 划痕; 裂缝; 裂纹| 
-flawlessly|'flɔ:lisli| |r. in an adroit manner|adv. 无瑕地, 完美地| 
+flawlessli| | | | | 
 fleet|fli:t| |n. group of aircraft operating together under the same ownership<br>n. group of motor vehicles operating together under the same ownership<br>n. a group of steamships operating together under the same ownership<br>n. a group of warships organized as a tactical unit|n. 舰队, 港湾, 小河<br>a. 快速的, 敏捷的, 浅的, 短暂的<br>adv. 浅<br>vi. 疾驰, 飞逝, 掠过<br>vt. 消磨, 变换船(或船员)的位置| 
 flex|'fleks| |n. the act of flexing<br>v. contract<br>v. exhibit the strength of<br>v. bend a joint|vt. 弯曲, 伸缩, 折曲<br>vi. 弯曲<br>n. 屈曲, 折曲| 
-flexibility|.fleksi'biliti|flexible|n. the property of being flexible; easily bent or shaped<br>n. the quality of being adaptable or variable|n. 弹性, 适应性<br>[计] 灵活性; 适应性| 
+flexibl| |flexible| | | 
 flicker|'flikә|flickering|n. a momentary flash of light<br>n. North American woodpecker<br>v. move back and forth very rapidly<br>v. shine unsteadily|n. 闪烁, 闪光, 颤动<br>vi. 闪动, 闪烁, 摇动, 扑动翅膀<br>vt. 使摇曳, 使闪烁| 
 flip|flip|flipped<br>flipping|n. hot or cold alcoholic mixed drink containing a beaten egg<br>n. a sudden, quick movement<br>n. the act of flipping a coin<br>n. a dive in which the diver somersaults before entering the water|vt. 掷, 弹, 轻击, 空翻<br>vi. 用指轻弹, 抽打, 蹦跳<br>n. 抛, 弹, 筋斗<br>a. 无礼的<br>[计] 翻转| 
 florida| | | | | 
@@ -1122,54 +1122,54 @@ followup| | | |v. 把…探究到底；回答<br>[网络] 追踪，跟踪；跟�
 font|fɒnt|fonts|n. a specific size and style of type within a type family|n. 字体, 字形, 洗礼盘, 泉<br>[计] 字体| 
 foobar| | | | | 
 footer|'futә| |n. (used only in combinations) the height or length of something in feet|n. 墩基, 墙基, 足球比赛<br>[计] 页脚| 
-footnote|'futnәut| |n. a printed note placed below the text on a printed page|n. 脚注<br>[计] 脚注| 
+footnot| | | | | 
 footprint|'futprint| |n. a mark of a foot or shoe on a surface<br>n. a trace suggesting that something was once present or felt or otherwise important<br>n. the area taken up by some object|n. 足迹<br>[计] 印迹| 
 forbidden|fә'bidn| |s. excluded from use or mention|a. 被禁止的, 严禁的<br>forbid的过去分词| 
 ford|fɒ:d| |n. United States film maker (1896-1973)<br>n. grandson of Henry Ford (1917-1987)<br>n. son of Henry Ford (1893-1943)<br>n. English writer and editor (1873-1939)|n. 浅滩, 福特汽车<br>v. 涉过, 涉水| 
 forecast|'fɒ:kɑ:st| |v. predict in advance|n. 预想, 预测, 预报<br>vt. 预想, 预测, 预报<br>[计] 趋势预测| 
 foreground|'fɒ:graund| |n. the part of a scene that is near the viewer<br>n. (computer science) a window for an active application<br>v. move into the foreground to make more visible or prominent|n. 前景, 最显著的位置<br>[计] 前景, 前台| 
-forename|'fɒ:neim| |n the name that precedes the surname|n. 名| 
-forge|fɒ:dʒ| |n. furnace consisting of a special hearth where metal is heated before shaping<br>n. a workplace where metal is worked by heating and hammering<br>v. create by hammering<br>v. make a copy of with the intent to deceive|n. 熔炉, 铁工厂<br>vt. 打制, 锻造, 伪造<br>vi. 锻造, 伪造| 
+forenam| | | | | 
+forg| | | | | 
 forgot|fә'gɒt| |v dismiss from the mind; stop remembering<br>v be unable to remember<br>v forget to do something<br>v leave behind unintentionally|forget的过去式和过去分词| 
 forgotten|fә'gɒtn| |v dismiss from the mind; stop remembering<br>v be unable to remember<br>v forget to do something<br>v leave behind unintentionally<br>s not noticed inadvertently|forget的过去分词| 
 fork|fɒ:k|forked<br>forking<br>forks|n. cutlery used for serving and eating food<br>n. the region of the angle formed by the junction of two branches<br>n. an agricultural tool used for lifting or digging; has a handle and metal prongs<br>v. place under attack with one's own pieces, of two enemy pieces|n. 叉子, 叉状物, 分岔<br>vi. 分支, 分歧<br>vt. 做成叉形, 叉起<br>[计] 派生指令| 
 format|'fɒ:mæt|formats<br>formatted<br>formatting|n. the organization of information according to preset specifications (usually for computer processing)<br>n. the general appearance of a publication<br>v. set (printed matter) into a specific format<br>v. determine the arrangement of (data) for storage and display (in computer science)|n. 开本, 版式, 形式, 格式<br>vt. 格式化<br>[计] 格式; DOS外部命令:对磁盘进行格式化| 
-formatter|'fɔ:mætә|formatters| |[计] 划盘程序; 格式化程序; 格式器| 
+formatt| |formatters| | | 
 formular|'fɔ:mju:lә| | |a. 公式的| 
 fortran| | | | | 
-fortunately|'fɒitʃәnitli| |r. by good fortune|adv. 幸运地, 幸亏| 
+fortun| | | | | 
 forum|'fɒ:rәm|forums|n. a public meeting or assembly for open discussion<br>n. a public facility to meet for open discussion|n. 论坛, 公开讨论的广场, 法庭, 讨论会<br>[法] 讨论会, 专题讨论, 公共论坛| 
-foursquare|'fɒ:'skwєә| |s. characterized by firm and unwavering conviction<br>r. in a square position|a. 正方形的, 直爽的, 坚定的<br>adv. 正方形地, 正直地<br>n. 正方形, 四角| 
+foursquar| | | | | 
 fraction|'frækʃәn|fractional<br>fractions|n. a component of a mixture that has been separated by a fractional process<br>n. a small part or item forming a piece of a whole<br>n. the quotient of two rational numbers|n. 小部分, 破片, 分数<br>[医] 部分, 成分, 分散| 
 frag|fræɡ| | |vt. 蓄意杀伤| 
-fragile|'frædʒail| |s. vulnerably delicate|a. 易碎的, 脆的<br>[医] 脆弱的, 脆的| 
+fragil| | | | | 
 fragment|'frægmәnt|fragmentation<br>fragments|n. a piece broken off or cut off of something else<br>n. an incomplete piece|n. 碎片, 破片, 片段<br>[计] 段落; 片段; 分段| 
-france| | | | | 
+franc|fræŋk| |n. the basic monetary unit in many countries; equal to 100 centimes|n. 法郎| 
 francisco|fræn'siskәu| | |n. 弗朗西斯科（男子名, 等于Francis）| 
 frank|fræŋk| |n. a member of the ancient Germanic peoples who spread from the Rhine into the Roman Empire in the 4th century<br>n. a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll<br>v. exempt by means of an official pass or letter, as from customs or other checks<br>s. clearly manifest; evident|a. 坦白的, 率直的, 老实的<br>vt. 免费邮寄<br>n. 免费邮寄特权| 
-frankly|'fræŋkli| |r (used as intensives reflecting the speaker's attitude) it is sincerely the case that|adv. 坦白地| 
+frankli| | | | | 
 fraud|frɒ:d| |n. intentional deception resulting in injury to another person<br>n. something intended to deceive; deliberate trickery intended to gain an advantage|n. 欺骗, 欺诈, 诡计, 骗子<br>[经] 欺诈, 舞弊, 骗子| 
 fred|fred| |n. Peace; -- a word used in composition, especially in proper<br>   names; as, Alfred; Frederic.|n. 佛瑞德（男子名）| 
 freed| | |v grant freedom to; free from confinement<br>v relieve from<br>v remove or force out from a position<br>v grant relief or an exemption from a rule or requirement to<br>v make (information) available for publication<br>v free from obligations or duties<br>v free or remove obstruction from<br>v let off the hook<br>v part with a possession or right<br>v release (gas or energy) as a result of a chemical reaction or physical decomposition<br>v make (assets) available|a. 释放的| 
-freely|'fri:li| |r. in a free manner|adv. 自由地, 随意地, 无拘束地, 直率地, 坦白地, 慷慨地, 免费地, 大量地<br>[计] 浮动地| 
+freeli| | | | | 
 french| | | | | 
 freq| | | |[电] 频率| 
-frequencies| | |n the number of occurrences within a given time period<br>n the ratio of the number of observations in a statistical category to the total number of observations<br>n the number of observations in a given statistical category|n. 频率（frequency的复数形式）；频数分析；次数分配表| 
+frequenc| | | | | 
 friction|'frikʃәn| |n. the resistance encountered when one body is moved in contact with another<br>n. effort expended in moving one object over another with pressure|n. 摩擦, 摩擦治疗, 不和<br>[医] 摩擦| 
 friday| | | | | 
 fringilla| | | | | 
-fromfile| | | | | 
+fromfil| | | | | 
 frozen|'frәuzn| |a. turned into ice; affected by freezing or by long and severe cold<br>s. absolutely still<br>s. not thawed<br>s. not convertible to cash|a. 冻结的, 冰冷的, 严寒的, 冻伤的, 冷酷的<br>freeze的过去分词| 
-frustrated|frʌ'streitid|frustrating|v hinder or prevent (the efforts, plans, or desires) of<br>v treat cruelly<br>s disappointingly unsuccessful|a. 失意的, 挫败的；泄气的| 
+frustrat| |frustrating| | | 
 fuck|fʌk|fucking|n. slang for sexual intercourse|vt. 与...性交, 欺骗, 诅咒<br>vi. 性交<br>n. 性交, 些微, 杂种<br>interj. 他妈的, 混帐| 
-fulfill|ful'fil|fulfilled|v put in effect<br>v meet the requirements or expectations of<br>v fill or meet a want or need|vt. 实践, 履行, 实行, 完成, 结束, 满足<br>[法] 履行, 完成, 达到| 
+fulfil|ful'fil|fulfilled|v put in effect<br>v fill or meet a want or need<br>v meet the requirements or expectations of|vt. 实践, 履行, 实行, 完成, 结束, 满足<br>[经] 履行(契约), 满期| 
 functor|'fʌŋktә| | |n. 起功能作用的东西, 函子, 功能词| 
-fundamentally|fʌndә'mentәli|fundamentals|r in essence; at bottom or by one's (or its) very nature|adv. 基础, 首要, 主要, 十分重要, 基本, 根本, 原始, 基频, 基音, 基谐波| 
-funky|'fʌŋki| |s. (of jazz) having the soulful feeling of early blues<br>s. stylish and modern in an unconventional way<br>s. in a state of cowardly fright|a. 畏缩的, 怯懦的, 恶臭的| 
+fundament|'fʌndәmәnt|fundamentals|n the fundamental assumptions from which something is begun or developed or calculated or explained<br>n the fleshy part of the human body that you sit on<br>n lowest support of a structure|n. 基础, 臀部, 肛门<br>[医] 基底, 基础, 原基, 臀部| 
+funki| | | | | 
 further|'fә:ðә| |s. more distant in especially degree<br>r. to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense)<br>r. in addition or furthermore; further, they should be here already"|a. 更远的, 此外的, 更多的<br>vt. 促进, 增进, 助长<br>adv. 更进一步地, 更远地, 此外| 
 fuse|fju:z| |n. an electrical device that can interrupt the flow of electrical current when it is overloaded<br>n. any igniter that is used to initiate the burning of a propellant<br>v. become plastic or fluid or liquefied from heat<br>v. equip with a fuse; provide with a fuse|n. 保险丝, 导火线<br>v. 熔化, 融合| 
 fusion|'fju:ʒәn| |n. an occurrence that involves the production of a union<br>n. the merging of adjacent sounds or syllables or words<br>n. a nuclear reaction in which nuclei combine to form more massive nuclei with the simultaneous release of energy<br>n. the combining of images from the two eyes to form a single visual percept|n. 熔合物, 结合, 熔合<br>[化] 熔融; 熔化; 聚变| 
-fuzzy|'fʌzi| |s. confused and not coherent; not clearly thought out|a. 有微毛的, 模糊的<br>[电] 微毛| 
+fuzzi| | | | | 
 
 
 ## G
@@ -1179,29 +1179,29 @@ fuzzy|'fʌzi| |s. confused and not coherent; not clearly thought out|a. 有微�
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 gadget|'gædʒit| |n a device or control that is very useful for a particular job|n. 小配件, 小玩意, 诡计| 
-galleries| | |n spectators at a golf or tennis match<br>n a porch along the outside of a building (sometimes partly enclosed)<br>n a room or series of rooms where works of art are exhibited<br>n a long usually narrow room used for some specific purpose<br>n a covered corridor (especially one extending along the wall of a building and supported with arches or columns)<br>n narrow recessed balcony area along an upper floor on the interior of a building; usually marked by a colonnade<br>n a horizontal (or nearly horizontal) passageway in a mine|n. 美术馆（gallery的复数）；图表种类| 
+galleri| | | | | 
 gamma|'^æmә| |n. the 3rd letter of the Greek alphabet<br>n. a unit of magnetic field strength equal to one-hundred-thousandth of an oersted|n. 希腊语的第三个字母(Γ,γ)<br>[医] γ(希腊文第三个字母), 丙种, 微克(千分之一毫克)| 
-garbage|'gɑ:bidʒ| |n. food that is discarded (as from a kitchen)<br>n. a receptacle where waste can be discarded|n. 垃圾, 废物<br>[计] 无用信息| 
+garbag| | | | | 
 gateway|'geitwei| |n. an entrance that can be closed by a gate|n. 门, 通路<br>[计] 网关| 
-gauge|geidʒ| |n. a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain etc.<br>n. accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared<br>n. the distance between the rails of a railway or between the wheels of a train<br>n. the thickness of wire|n. 标准度量, 计量器<br>vt. 精确计量, 估计<br>[计] 线规| 
+gaug| | | | | 
 gaussian| | | | | 
 gave|geiv| |v cause to have, in the abstract sense or physical sense<br>v be the cause or source of<br>v transfer possession of something concrete or abstract to somebody<br>v convey or reveal information<br>v convey, as of a compliment, regards, attention, etc.; bestow<br>v organize or be responsible for<br>v convey or communicate; of a smile, a look, a physical gesture<br>v give as a present; make a gift of<br>v cause to happen or be responsible for<br>v dedicate<br>v give or supply<br>v transmit (knowledge or skills)<br>v bring about<br>v leave with; give temporarily<br>v emit or utter<br>v endure the loss of<br>v place into the hands or custody of<br>v give entirely to a specific person, activity, or cause<br>v give (as medicine)<br>v give or convey physically<br>v bestow<br>v bestow, especially officially<br>v move in order to make room for someone for something<br>v give food to<br>v contribute to some cause<br>v break down, literally or metaphorically<br>v estimate the duration or outcome of something<br>v execute and deliver<br>v deliver in exchange or recompense<br>v afford access to<br>v present to view<br>v perform for an audience<br>v be flexible under stress of physical force<br>v propose<br>v accord by verdict<br>v manifest or show<br>v offer in good faith<br>v submit for consideration, judgment, or use<br>v guide or direct, as by behavior of persuasion<br>v allow to have or take<br>v inflict as a punishment<br>v occur<br>v consent to engage in sexual intercourse with a man<br>v proffer (a body part)|give的过去式| 
 gawk|gɒ:k| |n an awkward stupid person<br>v look with amazement; look stupidly|n. 笨人, 呆子, 笨拙的人<br>vi. 痴呆着看| 
 gecko|'gekәu| |n. any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless|n. 壁虎<br>[医] 蛤蚧| 
 geek|gi:k| |n. a carnival performer who does disgusting acts|n. 做低级滑稽表演的人| 
-genius|'dʒi:njәs| |n. someone who has exceptional intellectual ability and originality<br>n. exceptional creative ability|n. 天才, 天赋, 精神, 神魔<br>[医] 特征| 
-genre|'ʒɒŋrә|genres|n. a kind of literary or artistic work<br>n. a class of art (or artistic endeavor) having a characteristic form or technique|n. 类型, 流派| 
-genuine|'dʒenjuin|genuinely|a. not fake or counterfeit<br>s. not pretended; sincerely felt or expressed|a. 真正的, 真实的, 诚恳的<br>[医] 真性的| 
-geography|dʒi'ɒgrәfi| |n. study of the earth's surface; includes people's responses to topography and climate and soil and vegetation|n. 地理学, 地理<br>[医] 地理| 
+geniu| | | | | 
+genr| |genres| | | 
+genuin| |genuinely| | | 
+geographi| | | | | 
 geom|d'ʒəʊm| | |abbr. geometry 几何学; geometric 几何学的; geometer 几何学家; geometrician 几何学家| 
-geometry|dʒi'ɒmәtri| |n. the pure mathematics of points and lines and curves and surfaces|n. 几何学<br>[机] 几何学| 
-george|dʒɔ:dʒ| |n. Christian martyr; patron saint of England; hero of the legend of Saint George and the Dragon in which he slew a dragon and saved a princess (?-303)<br>n. King of Great Britain and Ireland and emperor of India from 1936 to 1947; he succeeded Edward VIII (1895-1952)<br>n. King of Great Britain and Ireland and emperor of India from 1910 to 1936; gave up his German title in 1917 during World War I (1865-1936)|n. 乔治（男子名）；自动操纵装置；英国最高勋爵勋章上的圣乔治诛龙图| 
+geometri| | | | | 
+georg| | | |n. 格奥尔格（人名）| 
 georgia| | | | | 
 german| | | | | 
-germany| | | | | 
-gestures|'dʒɛstʃɚ| |n motion of hands or body to emphasize or help to express a thought or feeling<br>n the use of movements (especially of the hands) to communicate familiar or prearranged signals<br>n something done as an indication of intention<br>v show, express or direct through movement|n. 手势( gesture的名词复数 ); 姿势; 姿态; 表示<br>v. 做手势( gesture的第三人称单数 )| 
+germani| | | | | 
+gestur| | | | | 
 getid| | | | | 
-gettable|'^etәbl| |s. capable of being obtained|a. 可以获得的| 
+gettabl| | | | | 
 getter|'getә|getters|n. One who gets, gains, obtains, acquires, begets, or<br>   procreates.|n. 获取的人, 吸气剂, 毒饵<br>[医] 收气剂, 减压剂(真空管内残气压力)| 
 gimp|gimp| |n disability of walking due to crippling of the legs or feet<br>v walk impeded by some physical limitation or injury|n. 绒丝带, 花边, (用金属丝做心的)丝制钓绳, 精神, 瘸子<br>vi. 跛行<br>vt. 用镶边带装饰| 
 gist|dʒist| |n the central meaning or theme of a speech or literary work<br>n the choicest or most essential or most vital part of some idea or experience|n. 要点, 要旨, 依据<br>[法] 依据, 要旨, 要点| 
@@ -1212,7 +1212,7 @@ glide|glaid| |n. the activity of flying a glider<br>v. move smoothly and effortl
 glitch|^litʃ| |n a fault or defect in a computer program, system, or machine|[计] 假信号| 
 glob|^lɔb| |n a compact mass|n. 一滴,一小滴水珠, (可塑性物质的)一团| 
 globe|glәub| |n. a sphere on which a map (especially of the earth) is represented|n. 球, 球状物, 地球仪, 天体<br>v. (使)成球状| 
-glossary|'glɒsәri| |n. an alphabetical list of technical terms in some specialized field of knowledge; usually published as an appendix to a text on that field|n. 专业词典, 术语集, 词表<br>[计] 图文集| 
+glossari| | | | | 
 glue|glu:| |n. cement consisting of a sticky substance that is used as an adhesive<br>v. join or attach with or as if with glue<br>v. be fixed as if by glue|n. 胶, 粘性物<br>vt. 粘合, 胶合| 
 glut|glʌt| |n. the quality of being so overabundant that prices fall|n. 大量, 供过于求<br>vt. 使充满, 使吃饱, 过多供应<br>vi. 吃得过多, 狼吞虎咽| 
 glyph|glif| |n. glyptic art in the form of a symbolic figure carved or incised in relief|[计] 符号, 点符| 
@@ -1220,31 +1220,31 @@ gnome|nәum| |n. a legendary creature resembling a tiny old man; lives in the de
 goback| | | | | 
 gone|gɒn| |s. no longer retained|a. 离去的, 死去的, 用完的<br>go的过去分词| 
 gonna|'ɡɔnә| | |abbr. （美）将要（等于going to）| 
-goodbye|gud'bai| |n a farewell remark|interj. 再见| 
+goodby|.ɡud'bai| |n a farewell remark|int. 再见（等于goodbye）| 
 goog| | | | 蛋| 
 goto| | | |v. 转到<br>[计] 转到; DOS批处理命令:改变批处理文件的流程| 
 gotta|'^ɔtә| | |必须, 有, 拥有| 
 gotten|'gɒtn| |v come into the possession of something concrete or abstract<br>v enter or assume a certain state or condition<br>v cause to move; cause to be in a certain position or condition<br>v receive a specified treatment (abstract)<br>v reach a destination; arrive by movement or progress<br>v go or come after and bring or take back<br>v go through (mental or physical states or experiences)<br>v take vengeance on or get even<br>v achieve a point or goal<br>v cause to do; cause to act in a specified manner<br>v succeed in catching or seizing, especially after a chase<br>v come to have or undergo a change of (physical features and attributes)<br>v be stricken by an illness, fall victim to an illness<br>v communicate with a place or person; establish communication with, as if by telephone<br>v give certain properties to something<br>v move into a desired direction of discourse<br>v grasp with the mind or develop an understanding of<br>v attract and fix<br>v reach with a blow or hit in a particular spot<br>v reach by calculation<br>v acquire as a result of some effort or action<br>v purchase<br>v perceive by hearing<br>v suffer from the receipt of<br>v receive as a retribution or punishment<br>v leave immediately; used usually in the imperative form<br>v reach and board<br>v irritate<br>v evoke an emotional response<br>v apprehend and reproduce accurately<br>v earn or achieve a base by being walked by the pitcher<br>v overcome or destroy<br>v be a mystery or bewildering to<br>v take the first step or steps in carrying out an action<br>v undergo (as of injuries and illnesses)<br>v make children|get的过去分词| 
-graceful|'greisful|gracefully|a. characterized by beauty of movement, style, form, or execution|a. 优美的| 
+grace|greis|gracefully|n. (Christian theology) a state of sanctification by God; the state of one who is under such divine influence<br>n. elegance and beauty of movement or expression<br>n. a disposition to kindness and compassion<br>n. (Greek mythology) one of three sisters who were the givers of beauty and charm; a favorite subject for sculptors|n. 优雅, 风度, 慈悲, 恩惠, 体面, 赦免, 恩典, 谢恩祷告<br>vt. 使优美| 
 grad|ɡræd| |n. one-hundredth of a right angle|n. 毕业生；校友| 
 gradient|'greidiәnt|gradients|n. a graded change in the magnitude of some physical quantity or dimension<br>n. the property possessed by a line or surface that departs from the horizontal|n. 倾斜度, 梯度, 坡度, 斜率<br>a. 渐升的, 渐降的, 步行的| 
-grails| | |plural of grail<br>n. the object of any prolonged endeavor<br>n. (legend) chalice used by Christ at the Last Supper|(grail 的复数) n. 长期以来梦寐以求的东西| 
+grail|^reil| |n. the object of any prolonged endeavor<br>n. (legend) chalice used by Christ at the Last Supper|n. 长期以来梦寐以求的东西| 
 gram|græm| |n. a metric unit of weight equal to one thousandth of a kilogram<br>n. Danish physician and bacteriologist who developed a method of staining bacteria to distinguish among them (1853-1938)|n. 克, 绿豆, 鹰嘴豆<br>[医] 克| 
 grammar|'græmә| |n. the branch of linguistics that deals with syntax and morphology (and sometimes also deals with semantics)|n. 语法学, 入门书<br>[计] 语法检查| 
 grandchild|'^rændtʃaild| |n. a child of your son or daughter|n. 孙, 外孙女, 外孙, 孙女, 孙子| 
-grandparent|'grændperәnt| |n. a parent of your father or mother|n. 祖父母| 
-granularity|.grænju'læriti| |n the quality of being composed of relatively large particles|n. 间隔尺寸<br>[计] 间隔尺寸| 
+grandpar| | | | | 
+granular|'grænjulә| |s composed of or covered with particles resembling meal in texture or consistency<br>a having a granular structure like that of chondrites|a. 颗粒的, 粒状的<br>[医] 粒状的, 颗粒状的| 
 grape|greip| |n. any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters<br>n. any of numerous woody vines of genus Vitis bearing clusters of edible berries|n. 葡萄, 葡萄树<br>[医] 葡萄| 
 graph|græf|graphs|n. a visual representation of the relations between certain quantities plotted with reference to a set of axes<br>v. represent by means of a graph<br>v. plot upon a graph|n. 曲线图, 图表, 图形<br>[计] 图形| 
 graphic|'græfik|graphical<br>graphics|n. an image that is generated by a computer<br>s. written or drawn or engraved<br>s. describing nudity or sexual activity in graphic detail<br>a. of or relating to the graphic arts|a. 生动的, 轮廓分明的, 绘画似的, 图解的<br>[计] 图形的| 
 grasp|græsp| |v. hold firmly|n. 把握, 抓紧, 理解, 抓, 柄, 控制<br>vt. 抓住, 紧握, 领会<br>vi. 抓| 
-grateful|'greitful| |a. feeling or showing gratitude<br>s. affording comfort or pleasure|a. 感谢的, 感激的, 令人快意的, 受欢迎的| 
+grate|^reit| |n. a frame of iron bars to hold a fire<br>n. a harsh rasping sound made by scraping something<br>n. a barrier that has parallel or crossed bars blocking a passage but admitting air<br>v. furnish with a grate|n. 炉格, 炉篦, 炉栅, 火炉, 壁炉, 格栅<br>vt. 装格栅于, 磨擦, 轧碎, 磨碎, 使焦急, 触怒, 使人烦躁, 刺激, 激怒<br>vt.vi. 擦响, 发出刺耳的尖厉声| 
 gravida|'^rævidә| |n. the number of the pregnancy that a woman is in<br>n. a pregnant woman|n. 孕妇<br>[医] 孕妇| 
-gravity|'græviti| |n. (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface<br>n. a solemn and dignified feeling|n. 地心引力, 重力<br>[化] 重力| 
+graviti| | | | | 
 greater|'^reitә(r)| |a. greater in size or importance or degree|[计] 大的| 
-greatly|'greitli| |r. to an extraordinary extent or degree|adv. 很, 非常| 
-greece| | | | | 
-greedy|'gri:di| |s. wanting to eat or drink more than one can reasonably consume|a. 贪婪的, 贪得的, 贪吃的| 
+greatli| | | | | 
+greec| | | | | 
+greedi| | | | | 
 greek| | | | | 
 greet|gri:t|greeting<br>greetings|v. express greetings upon meeting someone<br>v. send greetings to<br>v. react to in a certain way<br>v. be perceived by|vt. 问候, 致敬, 欢迎, 映入眼帘| 
 greg|greg| | |n. 格雷格（男子名, 等于Gregory）| 
@@ -1253,19 +1253,19 @@ gremlin|'gremlin| |n (folklore) fairies that are somewhat mischievous|n. 小鬼,
 grew|gru:| |v pass into a condition gradually, take on a specific property or attribute; become<br>v become larger, greater, or bigger; expand or gain<br>v increase in size by natural process<br>v cause to grow or develop<br>v develop and reach maturity; undergo maturation<br>v come into existence; take on form or shape<br>v cultivate by growing, often involving improvements by means of agricultural techniques<br>v come to have or undergo a change of (physical features and attributes)<br>v grow emotionally or mature<br>v become attached by or as if by the process of growth|grow的过去式| 
 grey|grei| |n. United States writer of western adventure novels (1875-1939)<br>n. Queen of England for nine days in 1553; she was quickly replaced by Mary Tudor and beheaded for treason (1537-1554)<br>n. Englishman who as Prime Minister implemented social reforms including the abolition of slavery throughout the British Empire (1764-1845)<br>n. any organization or party whose uniforms or badges are grey|n. 灰色<br>a. 灰色的, 阴沉的<br>v. (使)成灰色| 
 grid|grid|grids|n. a pattern of regularly spaced horizontal and vertical lines<br>n. a perforated or corrugated metal plate used in a storage battery as a conductor and support for the active material<br>n. an electrode placed between the cathode and anode of a vacuum tube to control the flow of electrons through the tube<br>n. a cooking utensil of parallel metal bars; used to grill fish or meat|n. 格子, 栅格<br>[计] 网格| 
-grizzly|'grizli| |n. powerful brownish-yellow bear of the uplands of western North America|a. 略为灰色的, 呈灰色的<br>n. 灰熊| 
-groovy|'gru:vi| |s. (British informal) very chic|a. 槽的, 墨守成规的| 
+grizzli| | | | | 
+groovi| | | | | 
 gross|grәus| |n. twelve dozen<br>n. the entire amount of income before any deductions are made<br>v. earn before taxes, expenses, etc.<br>a. before any deductions|n. 总数, 总量<br>a. 总共的, 未打折扣的, 恶劣的, 粗野的<br>vt. 总共收入| 
 grown|grәun| |v pass into a condition gradually, take on a specific property or attribute; become<br>v become larger, greater, or bigger; expand or gain<br>v increase in size by natural process<br>v cause to grow or develop<br>v develop and reach maturity; undergo maturation<br>v come into existence; take on form or shape<br>v cultivate by growing, often involving improvements by means of agricultural techniques<br>v come to have or undergo a change of (physical features and attributes)<br>v grow emotionally or mature<br>v become attached by or as if by the process of growth<br>s (of animals) fully developed|a. 长大的, 成年的, 长满某物的<br>grow的过去分词| 
 grunt|grʌnt| |n. the short low gruff noise of the kind made by hogs<br>n. an unskilled or low-ranking soldier or other worker<br>n. medium-sized tropical marine food fishes that utter grunting sounds when caught<br>v. issue a grunting, low, animal-like noise|vi. 作呼噜声<br>vt. 咕哝<br>n. 呼噜声, 咕哝| 
 guardian|'gɑ:diәn| |n a person who cares for persons or property|n. 看守者, 监护人, 保护人<br>a. 保护的| 
 guava|'^wɑ:vә| |n. small tropical shrubby tree bearing small yellowish fruit<br>n. small tropical American shrubby tree; widely cultivated in warm regions for its sweet globular yellow fruit<br>n. tropical fruit having yellow skin and pink pulp; eaten fresh or used for e.g. jellies|n. 番石榴| 
-guidance|'gaidns| |n. something that provides direction or advice as to a decision or course of action<br>n. the act of guiding or showing the way|n. 指导, 领导<br>[医] 导| 
-guidelines| | |n a light line that is used in lettering to help align the letters<br>n a detailed plan or explanation to guide you in setting standards or determining a course of action<br>n a rule or principle that provides guidance to appropriate behavior|n. 指导方针| 
+guidanc| | | | | 
+guidelin| | | | | 
 guitar|gi'tɑ:| |n. a stringed instrument usually having six strings; played by strumming or plucking|n. 吉他| 
 gulp|gʌlp| |n. a large and hurried swallow<br>n. a spasmodic reflex of the throat made as if in swallowing<br>v. to swallow hurriedly or greedily or in one draught<br>v. utter or make a noise, as when swallowing too quickly|vt. 吞, 大口大口地吸气, 吸收, 抑制<br>vi. 吞咽<br>n. 吞咽<br>[计] 字节组| 
 guru|'guru:| |n. a Hindu or Buddhist religious leader and spiritual teacher<br>n. each of the first ten leaders of the Sikh religion<br>n. a recognized leader in some field or of some movement|n. 古鲁(印度教导师)<br>[医] 柯拉子| 
-guzzle|'gʌzl| |v. drink greedily or as if with great thirst|v. 狂饮, 暴食, 喝酒化掉(钱)| 
+guzzl| | | | | 
 
 
 ## H
@@ -1276,36 +1276,36 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 hack|hæk|hacked<br>hacking<br>hacks|n. one who works hard at boring tasks<br>n. a mediocre and disdained writer<br>n. a tool (as a hoe or pick or mattock) used for breaking up the surface of the soil<br>n. an old or over-worked horse|n. 劈, 砍, 砍痕, 出租车, 干咳, 晒架, 鹤嘴锄<br>vt. 劈, 砍, 出租, 用旧<br>vi. 劈, 砍, 干咳, 驾驶出租车<br>a. 出租的| 
 hacker|'hækә|hackers|n. someone who plays golf poorly<br>n. a programmer who breaks into computer systems in order to steal or change or destroy information as a form of cyber-terrorism<br>n. a programmer for whom computing is its own reward; may enjoy the challenge of breaking into other computers but does no harm|[计] 计算机窃贼, 计算机新技术挑战者, 黑客| 
-hacky|'hæki| | |n. 出租汽车司机| 
+hacki| | | | | 
 haha| | | |n. 哈哈（笑）| 
 halfway|'hɑ:f'wei| |s. at a point midway between two extremes<br>s. including only half or a portion<br>r. at half the distance; at the middle|a. 中途的, 不彻底的, 部分的<br>adv. 半路地, 在中途, 在半途| 
-hamburger|'hæmbә:gә| |n. a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients|n. 汉堡(德国港口), 肉饼, 汉堡包, 纯精牛肉, 汉堡牛排| 
+hamburg|'hæmbә:^| |n. a port city in northern Germany on the Elbe River that was founded by Charlemagne in the 9th century and is today the largest port in Germany; in 1241 it formed an alliance with Lubeck that became the basis for the Hanseatic League|n. 汉堡（德国城市）| 
 hammer|'hæmә| |n. the part of a gunlock that strikes the percussion cap when the trigger is pulled<br>n. a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking<br>n. a heavy metal sphere attached to a flexible wire; used in the hammer throw<br>n. a striker that is covered in felt and that causes the piano strings to vibrate|n. 锤, 铁锤, 钉锤<br>vt. 锤打, 敲打, 钉<br>vi. 连续锤打<br>[计] 锤头| 
 handbook|'hænd,buk| |n. a concise reference book providing specific information about a subject or location|n. 手册<br>[计] 手册| 
-handlebars|'hændlbɑ:z| |n. the shaped bar used to steer a bicycle|n. （自行车等的）把手; 手把, 八字胡( handlebar的复数形式 )| 
-handled| |handles<br>handling|a. having a usually specified type of handle|a. 有把手的；有把柄的| 
+handlebar|'hændlbɑ:| |n. the shaped bar used to steer a bicycle|n. 手把, 八字胡| 
+handl| |handles<br>handling| | | 
 handler|'hændlә|handlers|n. an agent who handles something or someone|n. 处理者, 操作者, 拳击教练<br>[经] 管理者| 
-handshake|'hændʃeik| |n. grasping and shaking a person's hand (as to acknowledge an introduction or to agree on a contract)|n. 握手| 
-handy|'hændi| |n. United States blues musician who transcribed and published traditional blues music (1873-1958)<br>s. easy to reach<br>s. easy to use<br>s. skillful with the hands|a. 便利的, 敏捷的, 容易取得的<br>[化] 便于使用的; 易操作的| 
-happily|'hæpili| |r. in a joyous manner<br>r. in an unexpectedly lucky way|adv. 幸福地, 快乐地, 幸好| 
+handshak| | | | | 
+handi| | | | | 
+happili| | | | | 
 harder| | |a not easy; requiring great physical or mental effort to accomplish or comprehend or endure<br>a dispassionate; <br>a resisting weight or pressure<br>s very strong or vigorous<br>s characterized by effort to the point of exhaustion; especially physical effort<br>a produced without vibration of the vocal cords<br>a (of light) transmitted directly from a pointed light source<br>a (of speech sounds); produced with the back of the tongue raised toward or touching the velum<br>s given to excessive indulgence of bodily appetites especially for intoxicating liquors<br>s being distilled rather than fermented; having a high alcoholic content<br>s unfortunate or hard to bear<br>s dried out<br>r with effort or force or vigor<br>r with firmness<br>r earnestly or intently<br>r causing great damage or hardship<br>r slowly and with difficulty<br>r indulging excessively<br>r into a solid condition<br>r very near or close in space or time<br>r with pain or distress or bitterness<br>r to the full extent possible; all the way|a. 更难的；更努力的；更坚固的（hard的比较级）| 
 hardest| | |a not easy; requiring great physical or mental effort to accomplish or comprehend or endure<br>a dispassionate; <br>a resisting weight or pressure<br>s very strong or vigorous<br>s characterized by effort to the point of exhaustion; especially physical effort<br>a produced without vibration of the vocal cords<br>a (of light) transmitted directly from a pointed light source<br>a (of speech sounds); produced with the back of the tongue raised toward or touching the velum<br>s given to excessive indulgence of bodily appetites especially for intoxicating liquors<br>s being distilled rather than fermented; having a high alcoholic content<br>s unfortunate or hard to bear<br>s dried out<br>r with effort or force or vigor<br>r with firmness<br>r earnestly or intently<br>r causing great damage or hardship<br>r slowly and with difficulty<br>r indulging excessively<br>r into a solid condition<br>r very near or close in space or time<br>r with pain or distress or bitterness<br>r to the full extent possible; all the way|a. 极难| 
-hardware|'hɑ:dwєә| |n. major items of military weaponry (as tanks or missile)<br>n. instrumentalities (tools or implements) made of metal<br>n. (computer science) the mechanical, magnetic, electronic, and electrical components making up a computer system|n. 硬件, 五金器具, 零件<br>[计] 硬件| 
-harmony|'hɑ:mәni| |n. compatibility in opinion and action<br>n. the structure of music with respect to the composition and progression of chords<br>n. a harmonious state of things in general and of their properties (as of colors and sounds); congruity of parts with one another and with the whole<br>n. agreement of opinions|n. 协调, 和睦, 调和<br>[电] 和声学| 
-harry|'hæri| |v. make a pillaging or destructive raid on (a place), as in wartimes|vt. 掠夺, 使苦恼, 强使前行, 折磨, 骚扰| 
+hardwar| | | | | 
+harmoni| | | | | 
+harri| | | |n. (Harri)人名；(法)阿里；(芬)哈里| 
 harsh|hɑ:ʃ| |s. unpleasantly stern<br>s. disagreeable to the senses<br>s. unkind or cruel or uncivil<br>s. severe|a. 粗糙的, 刺耳的, 严厉的<br>[法] 粗糙的, 严厉的, 苛刻的| 
 harvard| | | | | 
 hash|hæʃ|hashed<br>hashes<br>hashing|n. chopped meat mixed with potatoes and browned<br>v. chop up|n. 剁碎的食物, 杂乱无章的的一大堆, 杂烩, 复述<br>vt. 切碎, 搞糟| 
 hasn| | | | | 
-hassle|'hæsl| |n. disorderly fighting|n. 激烈而持久的争论<br>vi. 争论<br>vt. 与...争辩, 使烦恼| 
+hassl| | | | | 
 haven|'heivn| |n. a shelter serving as a place of safety or sanctuary|n. 港, 避难所, 安息所<br>vt. 安置...于港中, 庇护, 入港| 
 havent| | | | | 
 haystack|'heistæk| |n. a stack of hay|n. 干草堆| 
-headache|'hedeik|headaches|n. pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs|n. 头痛, 令人头痛之事<br>[医] 头痛| 
+headach| |headaches| | | 
 header|'hedә|headers|n. horizontal beam used as a finishing piece over a door or window<br>n. brick that is laid sideways at the top of a wall<br>n. a framing member crossing and supporting the ends of joists, studs, or rafters so as to transfer their weight to parallel joists, studs, or rafters<br>n. a machine that cuts the heads off grain and moves them into a wagon|n. 收割台<br>n. 顶梁, 域名<br>[计] 页眉, 域名, 数据头, 电子邮件头| 
 headless|'hedlis| |a. not having a head or formed without a head|a. 无头的, 无领导者的, 无知的| 
-headlines|ˈhedlainz| |n the heading or caption of a newspaper article<br>v publicize widely or highly, as if with a headline<br>v provide (a newspaper page or a story) with a headline|n. 大字标题( headline的名词复数 ); 新闻提要| 
-healthcare|'helθkεә| |n. the preservation of mental and physical health by preventing or treating illness through services offered by the health profession|n. 医疗保健；卫生保健；健康护理, 健康服务| 
+headlin| | | | | 
+healthcar| | | | | 
 heap|hi:p| |v. bestow in large quantities<br>v. fill to overflow|n. 堆, 许多, 累积<br>vt. 堆积, 装满<br>[计] 堆| 
 heard|hә:d| |s. detected or perceived by the sense of hearing|hear的过去式和过去分词| 
 heartbeat|'hɑ:tbi:t| |n. an animating or vital unifying force|n. 心跳| 
@@ -1313,43 +1313,43 @@ heck|hek| |n. The bolt or latch of a door.<br>n. A rack for cattle to feed at.<b
 held|held| |a. occupied or in the control of; often used in combination|hold的过去式和过去分词| 
 helm|helm| |n. steering mechanism for a vessel; a mechanical device by which a vessel is steered<br>n. a position of leadership<br>v. be at or take the helm of|n. 舵, 驾驶盘, 枢机, 头盔<br>vt. 给...掌舵, 指挥, 给...戴头盔| 
 helper|'helpә|helpers|n a person who contributes to the fulfillment of a need or furtherance of an effort or purpose<br>n a person who helps people or institutions (especially with financial help)|n. 帮忙者, 有益的东西<br>[机] 助手| 
-hence|hens| |r. from this place<br>r. from this time|adv. 因此, 从此| 
-hesitate|'heziteit| |v. pause or hold back in uncertainty or unwillingness<br>v. interrupt temporarily an activity before continuing|vi. 犹豫, 迟疑, 踌躇, 支吾, 停顿| 
-heuristic|hju'ristik| |n. a commonsense rule (or set of rules) intended to increase the probability of solving some problem<br>a. of or relating to or using a general formulation that serves to guide investigation|a. 启发式的, 探索的<br>n. 启发式教育法| 
-hexadecimal|'heksәdesimәl| |a. of or pertaining to a number system having 16 as its base|a. 十六进制的<br>n. 十六进制<br>[计] 十六进制| 
-hibernate|'haibәneit| |v. sleep during winter<br>v. be in an inactive or dormant state|vi. 过冬, 冬眠, 避寒| 
+henc| | | | | 
+hesit| | | | | 
+heurist| | | | | 
+hexadecim| | | | | 
+hibern| | | | | 
 hidden|'hidn| |s. designed to elude detection<br>s. difficult to find|a. 隐藏的<br>hide的过去分词<br>[计] 隐藏的| 
-hierarchical|,haiә'rɑ:kikәl| |a. classified according to various criteria into successive levels or layers|[计] 分级的, 分层的, 层次的| 
-hierarchy|'haiәrɑ:ki| |n. a series of ordered groupings of people or things within a system<br>n. the organization of people at different ranks in an administrative body|n. 等级制度, 僧侣统治, 等级体系<br>[计] 分级结构; 分层结构; 新闻组, 新闻组分层| 
+hierarch|'haiәrɑ:k| |n. a person who holds a high position in a hierarchy|n. 教主, 高僧, 掌权者| 
+hierarchi| | | | | 
 higher|'haiә| |s. advanced in complexity or elaboration<br>s. of education beyond the secondary level|[经] 上扬| 
 highest|'haiist| |a greater than normal in degree or intensity or amount<br>a (literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like `knee-high')<br>s standing above others in quality or position<br>a used of sounds and voices; high in pitch or frequency<br>s happy and excited and energetic<br>s (used of the smell of meat) smelling spoiled or tainted<br>s slightly and pleasantly intoxicated from alcohol or a drug (especially marijuana)|[计] 最高| 
 hint|hint|hints|n. an indirect suggestion<br>n. a slight indication<br>v. drop a hint; intimate by a hint|n. 暗示, 提示<br>v. 暗示, 示意| 
 hist|hist| |interj. Hush; be silent; -- a signal for silence.|interj. 嘘| 
 histogram|'histәgræm| |n. a bar chart representing a frequency distribution; heights of the bars represent observed frequencies|n. 直方图<br>[计] 直方图| 
-historically|his'tɔrikәli| |r. throughout history<br>r. with respect to history|adv. 历史上地；从历史观点上说| 
+histor| | | | | 
 hive|haiv| |n. a teeming multitude<br>v. store, like bees<br>v. move together in a hive or as if in a hive<br>v. gather into a hive|n. 蜂房, 闹区, 蜜蜂群<br>vi. 进入蜂房, 储藏蜜于蜂房, 如蜂般群居<br>vt. 使进蜂房, 储备<br>[计] 蜂巢| 
-hobbies| |hobby|n an auxiliary activity<br>n a child's plaything consisting of an imitation horse mounted on rockers; the child straddles it and pretends to ride<br>n small Old World falcon formerly trained and flown at small birds|n. 嗜好；兴趣爱好；燕隼；[英方]小马（hobby的复数）| 
+hobbi| |hobby| | | 
 holder|'hәuldә|holders|n. a holding device<br>n. a person who holds something<br>n. the person who is in possession of a check or note or bond or document of title that is endorsed to him or to whoever holds it|n. 持有人, 所有人, 支持物<br>[化] 夹持器; 夹具; 贮罐| 
 homebrew|'həʊmbru:| | |n. 自酿（啤）酒; 公司自产自用| 
 homestead|'hәumsted| |n. the home and adjacent grounds occupied by a family<br>n. land acquired from the United States public lands by filing a record and living on and cultivating it under the homestead law<br>n. dwelling that is usually a farmhouse and adjoining land<br>v. settle land given by the government and occupy it as a homestead|n. 家园, 田产<br>[法] 宅基地, 住宅| 
 homework|'hәumwә:k| |n. preparatory school work done outside school (especially at home)|n. 家庭作业, 家里做的工作<br>[经] 家庭作业| 
 honda|'hɔndә| | |n. 本田汽车公司| 
-honestly|'ɒnistli| |r. (used as intensives reflecting the speaker's attitude) it is sincerely the case that<br>r. in an honest manner|adv. 真诚地, 公正地| 
+honestli| | | | | 
 hood|hud| |n. an aggressive and violent young criminal<br>n. a protective covering that is part of a plant<br>n. (slang) a neighborhood<br>n. a tubular attachment used to keep stray light out of the lens of a camera|n. 头巾, 兜帽, 覆盖, 强盗<br>vt. 罩上, 覆盖| 
 hook|huk|hooked<br>hooking<br>hooks|n. a catch for locking a door<br>n. a sharp curve or crook; a shape resembling a hook<br>n. a mechanical device that is curved or bent to suspend or hold or pull something<br>n. a curved or bent implement for suspending or pulling something|n. 钩, 钩状, 镰刀, 陷阱<br>vt. 挂...于钩上, 钩住, 引上钩, 偷窃<br>vi. 弯成钩状, 钩紧<br>[计] 钩| 
-horizontal|.hɒri'zɒntәl|horizontally|n. something that is oriented horizontally<br>a. parallel to or in the plane of the horizon or a base line|n. 水平线, 水平面, 水平位置<br>a. 水平线的, 平坦的, 横的<br>n. 水平<br>[计] 水平| 
-hourly|'auәli| |s. occurring every hour or payable by the hour<br>r. every hour; by the hour|a. 每小时的, 以小时计的, 频繁的<br>adv. 每小时地, 频繁地, 不绝地| 
+horizont| |horizontally| | | 
+hourli| | | | | 
 hover|'hʌvә|hovered<br>hovering<br>hovers|v. be undecided about something; waver between conflicting positions or courses of action<br>v. move to and fro<br>v. hang in the air; fly or be suspended above|vi. 盘旋, 翱翔, 徘徊<br>vt. 孵<br>n. 翱翔| 
 hudson| | | | | 
 hull|hʌl| |n. dry outer covering of a fruit or seed or nut<br>n. persistent enlarged calyx at base of e.g. a strawberry or raspberry<br>n. United States naval officer who commanded the `Constitution' during the War of 1812 and won a series of brilliant victories against the British (1773-1843)<br>n. United States diplomat who did the groundwork for creating the United Nations (1871-1955)|n. 壳, 皮, 船体<br>vt. 去壳| 
-humidity|hju:'miditi| |n. wetness in the atmosphere|n. 湿气, 潮湿, 湿度<br>[计] 湿度| 
-hundreds| | |n ten 10s|n. 数百| 
+humid|'hju:mid| |s. containing or characterized by a great deal of water vapor|a. 潮湿的, 湿润的, 多湿气的| 
+hundr| | | | | 
 hung|hʌŋ| |v be suspended or hanging<br>v cause to be hanging or suspended<br>v kill by hanging<br>v let drop or droop<br>v fall or flow in a certain way<br>v be menacing, burdensome, or oppressive<br>v give heed (to)<br>v be suspended or poised<br>v hold on tightly or tenaciously<br>v be exhibited<br>v prevent from reaching a verdict, of a jury<br>v decorate or furnish with something suspended<br>v be placed in position as by a hinge<br>v place in position as by a hinge so as to allow free movement in one direction<br>v suspend (meat) in order to get a gamey taste|hang的过去式和过去分词| 
 hybrid|'haibrid| |n. a composite of mixed origin<br>n. (genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species<br>s. produced by crossbreeding|n. 混血儿, 杂种, 混合物<br>a. 混合的, 杂种的, 混合语的<br>[计] NetWare的主机实用程序, 双重用户建立程序| 
 hype|haip| |v. publicize in an exaggerated and often misleading manner|n. 大肆宣传；皮下注射| 
 hyper|'haipә| | |a. 亢奋的；高度紧张的| 
 hyphen|'haifәn|hyphens|n. a punctuation mark (-) used between parts of a compound word or between the syllables of a word when the word is divided at the end of a line of text|n. 连字符<br>vt. 用连字符连接| 
-hypothetical|,haipәu'θetikәl| |n. a hypothetical possibility, circumstance, statement, proposal, situation, etc.|a. 假设的, 有待证实的, 假定的, 有前提的<br>[计] 理想的| 
+hypothet| | | | | 
 
 
 ## I
@@ -1362,145 +1362,145 @@ icon|'aikɒn|icons|n. (computer science) a graphic symbol (usually a simple pict
 iconv| | | | | 
 ident|ai'dent|identical<br>identities| |n. 识别, 鉴别| 
 idiom|'idiәm| |n. an expression whose meanings cannot be inferred from the meanings of the words that make it up|n. 习语, 成语, 惯用语法, 方言| 
-idiomatic|.idiә'mætik| |a. of or relating to or conforming to idiom|a. 符合语言习惯的, 惯用的, 有许多习语的| 
+idiomat| | | | | 
 idiot|'idiәt| |n. a person of subnormal intelligence|n. 白痴, 极蠢之人<br>[医] 白痴者, 痴子| 
 ieee| | | | | 
-ignite|ig'nait| |v. cause to start burning; subject to fire or great heat|vt. 点燃, 使灼热, 使兴奋| 
-ignorable| |ignorance<br>ignorant<br>ignored<br>ignores<br>ignoring| |a. 可忽略的, 可忽视的| 
-illuminate|i'lju:mineit| |v. add embellishments and paintings to (medieval manuscripts)|vt. 照明, 用灯装饰, 阐明, 说明, 使灿烂<br>vi. 照亮, 用灯装饰| 
-illustrated|'ilәstreitid|illustrates<br>illustration|v clarify by giving an example of<br>v depict with an illustration<br>v supply with illustrations|n. 有插画的报章杂志| 
+ignit| | | | | 
+ignor| |ignorance<br>ignorant<br>ignored<br>ignores<br>ignoring| | | 
+illumin| | | | | 
+illustr| |illustrates<br>illustration| | | 
 imagen| | | |n. （西）画像| 
-images| |imaging|n an iconic mental representation<br>n (Jungian psychology) a personal facade that one presents to the world<br>n a visual representation (of an object or scene or person or abstraction) produced on a surface<br>n a standard or typical example<br>n language used in a figurative or nonliteral sense<br>n someone who closely resembles a famous person (especially an actor)<br>n (mathematics) the set of values of the dependent variable for which a function is defined<br>n the general impression that something (a person or organization or product) presents to the public<br>n a representation of a person (especially in the form of sculpture)<br>v render visible, as by means of MRI<br>v imagine; conceive of; see in one's mind|n. 图片；意象（image的复数）| 
-imaginary|i'mædʒinәri| |n (mathematics) a number of the form a+bi where a and b are real numbers and i is the square root of -1<br>s not based on fact; unreal|a. 想像的, 虚构的, 假想的| 
-immutable|i'mju:tәbl| |a. not subject or susceptible to change or variation in form or quality or nature|a. 不可变的, 不变的, 不能变的| 
-imperative|im'perәtiv| |n. some duty that is essential and urgent<br>a. requiring attention or action<br>a. relating to verbs in the imperative mood|n. 命令, 必要的事, 规则, 祈使语气<br>a. 命令式的, 急需的, 势在必行的, 强制的| 
-impersonate|im'pә:sәneit|impersonation|v. assume or act the character of<br>v. represent another person with comic intentions|vt. 模仿, 扮演, 体现, 使人格化<br>[法] 体现, 模仿, 拟人| 
-implications| | |n something that is inferred (deduced or entailed or implied)<br>n a meaning that is not expressly stated but can be inferred<br>n an accusation that brings into intimate and usually incriminating connection<br>n a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false<br>n a relation implicated by virtue of involvement or close connection (especially an incriminating involvement)|n. 蕴涵式；卷入（implication的复数）| 
+imag| |imaging| |n. 复数虚部；图像放大| 
+imaginari| | | | | 
+immut| | | | | 
+imper| | | | imperative 命令, 紧急的| 
+imperson| |impersonation| | | 
+implic| | | | | 
 implicit|im'plisit| |a. implied though not directly expressed; inherent in the nature of something<br>s. being without doubt or reserve|a. 暗示的, 含蓄的, 固有的, 绝对的<br>[经] 不讲明的, 含蓄的| 
-implicitly| | |r. without doubting or questioning<br>r. without ever expressing so clearly|adv. 含蓄, 不言明, 暗示, 暗指, 内含, 固有, 无疑, 绝对, 无保留<br>[计] 隐含地| 
-implied|'implaid|implies<br>implying|v express or state indirectly<br>v suggest as a logically necessary consequence; in logic<br>v have as a logical consequence<br>v suggest that someone is guilty<br>v have as a necessary feature|a. 暗指的, 含蓄的<br>[经] 暗指的, 含蓄的| 
-implode|im'plәud| |v. burst inward|vi. 内爆, 向内破裂, 爆裂<br>[电] 内裂| 
-importantly| | |r. in an important way or to an important degree<br>r. in an important way|adv. 重要地；大量地；有名望地；自命不凡地| 
-inaccessible|.inæk'sesәbl| |a. capable of being reached only with great difficulty or not at all<br>s. not capable of being obtained|a. 难得到的, 难接近的, 难达成的| 
-inaccurate|in'ækjurit| |a. not exact|a. 错误的, 不准确的<br>[化] 不精确| 
-inactive|in'æktiv| |s. (chemistry) not participating in a chemical reaction; chemically inert<br>a. (pathology) not progressing or increasing; or progressing slowly<br>a. not exerting influence or change<br>a. lacking activity; lying idle or unused|a. 不活动的, 停止的, 怠惰的, 闲置的<br>[计] 非活动的| 
-inappropriate|.inә'prәupriәt| |a. not suitable for a particular occasion etc<br>s. not in keeping with what is correct or proper|a. 不适当的, 不相称的| 
+implicitli| | | | | 
+impli| |implies<br>implying| | | 
+implod| | | | | 
+importantli| | | | | 
+inaccess| | | | | 
+inaccur| | | | | 
+inact| | | |非活性的| 
+inappropri| | | | | 
 inbound|'in'baund| |s. directed or moving inward or toward a center|a. 归本国的, 入境的<br>[计] 不装订| 
 inbuilt|'in'bilt| |s existing as an essential constituent or characteristic|a. 内藏的；嵌入的；内置的| 
-incase|in'keis| |v enclose in, or as if in, a case|v. 装进箱,筒,鞘等容器内, 包| 
-incentives|ɪn'sentɪvz| |n. a positive motivational influence<br>n. an additional payment (or other remuneration) to employees as a means of increasing output|n. 激励某人做某事的事物( incentive的复数形式 ); 刺激; 诱因; 动机| 
+incas| | |plural of inca<br>n. a ruler of the Incas (or a member of his family)<br>n. a member of the Quechuan people living in the Cuzco valley in Peru<br>n. the small group of Quechua living in the Cuzco Valley in Peru who established hegemony over their neighbors in order to create an empire that lasted from about 1100 until the Spanish conquest in the early 1530s|(inca 的复数) n. 印加；印加人| 
+incent|in'sent| | |vt. 激励| 
 inch|intʃ|inches|n. a unit of length equal to one twelfth of a foot|n. 英寸, 身高, 小岛<br>vi. 慢慢前进, 慢慢移动<br>vt. 使缓慢地移动| 
-inclined|in'klaind| |a. (often followed by `to') having a preference, disposition, or tendency<br>a. at an angle to the horizontal or vertical position|a. 倾向于...的, 想要...的, 可能的, 趋向于...的| 
-inclusion|in'kluʒәn|inclusive|n. the state of being included<br>n. the relation of comprising something<br>n. the act of including|n. 包含, 内含物<br>[计] 蕴含| 
-incoming|'inkʌmiŋ| |a. arriving at a place or position<br>a. entering upon a position of office vacated by another|a. 进来的, 刚开始的, 新来的<br>n. 进来| 
-incompatible|.inkәm'pætәbl| |a. not compatible<br>a. incapable of being used with or connected to other devices or components without modification<br>s. used especially of solids or solutions; incapable of blending into a stable homogeneous mixture|a. 不相容的, 不能并存的, 矛盾的<br>[化] 不协调| 
-incomplete|.inkәm'pli:t| |a. not complete or total; not completed<br>s. not yet finished|a. 不完全的, 未完成的, 不完善的<br>[机] 不完全的| 
-inconsistent|.inkәn'sistәnt| |a. displaying a lack of consistency<br>s. not capable of being made consistent or harmonious|a. 不一致的, 易变的, 前后矛盾的<br>[法] 矛盾的, 不一致的, 不协调的| 
-inconvenient|.nkәn'vi:njәnt| |a. not suited to your comfort, purpose or needs<br>s. not conveniently timed|a. 不便的, 有困难的| 
-incorporated|in'kɔ:pәreitid| |s. introduced into as a part of the whole|a. 根据法律组成的公司, 公司<br>[法] 组成法人组织的, 法人的, 合并的| 
+inclin| | | | | 
+inclus| |inclusive| | | 
+incom| | | |n. 印康（电影星球大战中的一个设计飞船的公司）| 
+incompat| | | | | 
+incomplet| | | | | 
+inconsist| | | | | 
+inconveni| | | | | 
+incorpor| | | | | 
 incorrect|.inkә'rekt| |a. not correct; not in conformity with fact or truth<br>s. (of a word or expression) not agreeing with grammatical principles|a. 不正确的<br>[法] 不正确, 错误的, 不适当的| 
-incorrectly| | |r. in an inaccurate manner|adv. 错误地；不适当地| 
+incorrectli| | | | | 
 incr| | | |abbr. increase （价值, 价格, 库存, 金额, 生产等）增加; increasing 增加; increased 增加的; incremental 增加的| 
-incredibly|in'kredәbli| |r. not easy to believe|adv. 不能相信地| 
+incred| | | | | 
 increment|'inkrimәnt|incremental<br>incremented<br>incrementing<br>increments|n a process of becoming larger or longer or more numerous or more important<br>n the amount by which something increases|n. 增加, 增值, 盈余<br>[计] 增量| 
-incubator|'inkjubeitә| |n. apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants|n. 孵卵器, 细菌培养器, 早产儿保育器<br>[化] 恒温箱; 孵化箱| 
-indefinitely| | |r. to an indefinite extent; for an indefinite time|adv. 无期限地| 
+incub| | | | | 
+indefinit| | | | | 
 indent|in'dent|indentation<br>indented|n. an order for goods to be exported or imported<br>v. set in from the margin<br>v. cut or tear along an irregular line so that the parts can later be matched for authentication|n. 契约, 订货单, 凹痕<br>vi. 切割成锯齿状<br>vt. 缩排, 定货, 印凹痕<br>[计] 缩进| 
-indeterminate|.indi'tә:minәt| |a. not precisely determined or established; not fixed or known in advance<br>a. having a capacity for continuing to grow at the apex<br>s. of uncertain or ambiguous nature|a. 不明确的, 不确定的, 含混的<br>[法] 不明确的, 无定期的, 不确定的| 
+indetermin| | | | | 
 india| | | | | 
 indian| | | | | 
-indicated|ˈindikeitid|indicates<br>indicating<br>indicator<br>indicators<br>indices|v be a signal for or a symptom of<br>v indicate a place, direction, person, or thing; either spatially or figuratively<br>v to state or express briefly<br>v give evidence of<br>v suggest the necessity of an intervention; in medicine|a. 表明的; 指示的<br>v. 标示( indicate的过去式和过去分词 ); 指示; 象征; 表明或暗示…的可能性| 
+indic| |indicates<br>indicating<br>indicator<br>indicators<br>indices| | | 
 indigo|'indigәu| |n. deciduous subshrub of southeastern Asia having pinnate leaves and clusters of red or purple flowers; a source of indigo dye<br>n. a blue-violet color<br>s. having a color between blue and violet|n. 靛青, 靛蓝色<br>a. 靛蓝色的| 
 indirect|.indi'rekt|indirection|s. having intervening factors or persons or influences<br>a. not direct in spatial dimension; not leading by a straight line or course to a destination<br>a. extended senses; not direct in manner or language or behavior or action<br>s. not as a direct effect or consequence|a. 间接的, 非直截了当的, 不坦率的<br>[医] 间接的| 
-indirectly| | |r. not in a forthright manner|adv. 间接, 曲折, 迂回, 不直截了当, 不诚实, 不坦率<br>[计] 间接地| 
-inefficient|.ini'fiʃәnt| |a. not producing desired results; wasteful|a. 无效率的, 无能的<br>[医] 无效的, 无效力的| 
-inequality|.ini'kwɒliti| |n. lack of equality|n. 不平等, 不同, 不平坦, 不平均<br>n. 不平等, 不等式<br>[计] 不等式| 
-inevitable|in'evitәbl|inevitably|n. an unavoidable event<br>a. incapable of being avoided or prevented<br>s. invariably occurring or appearing|a. 不可避免的, 必然的<br>[法] 不可避免的, 无法规避的, 必然的| 
+indirectli| | | | | 
+ineffici| | | | | 
+inequ| | | | | 
+inevit| |inevitably| | | 
 infer|in'fә:|inference<br>inferred|v reason by deduction; establish by deduction<br>v draw from specific cases for more general cases<br>v conclude by reasoning; in logic<br>v guess correctly; solve by guessing<br>v believe to be the case|vt. 推论出, 推断<br>vi. 作推论| 
 inferior|in'fiәriә| |n. one of lesser rank or station or quality<br>a. of or characteristic of low rank or importance<br>a. of low or inferior quality<br>a. having an orbit between the sun and the Earth's orbit|a. 次等的, 较差的, 下方的, 下级的<br>n. 部下, 次品, 下标(符号)| 
-infile| | | | | 
-infinite|'infinit|infinitely|a. having no limits or boundaries in time or space or extent or magnitude<br>a. of verbs; having neither person nor number nor mood (as a participle or gerund or infinitive)<br>s. total and all-embracing|n. 无限, 神<br>a. 无穷的, 无限的, 极大的| 
-infinity|in'finiti| |n time without end|n. 无限大, 无限<br>[计] 无穷| 
+infil| | | | | 
+infinit| |infinitely| | | 
+infin| | | | | 
 infix|in'fiks| |n. an affix that is inserted inside the word<br>v. attach a morpheme into a stem word|vt. 钻进, 把...印入, 深植<br>n. 插入词, 中缀| 
 info|'infәu|infos|n a message received and understood|n. 信息<br>[计] 信息| 
-infrastructure|'infrәstrʌktʃә| |n. the basic structure or features of a system or organization<br>n. the stock of basic facilities and capital equipment needed for the functioning of a country or area|n. 基础结构, 基础设施<br>[经] 基础设施| 
-ingredients| | |n a component of a mixture or compound<br>n an abstract part of something<br>n food that is a component of a mixture in cooking|材料；作料| 
+infrastructur| | | | | 
+ingredi| | | | | 
 ingress|'ingres| |n. (astronomy) the disappearance of a celestial body prior to an eclipse|n. 进入, 入口, 准许进入<br>[法] 进入, 入境, 入口| 
-inherent|in'hiәrәnt|inherently|s existing as an essential constituent or characteristic<br>s in the nature of something though not readily apparent|a. 固有的, 与生俱来的<br>[医] 固有的, 生来的| 
+inher| |inherently| |abbr. isonicotinic acid hydrazide| 
 inherit|in'herit|inheritance<br>inherited<br>inheriting<br>inherits|v. obtain from someone after their death<br>v. receive from a predecessor<br>v. receive by genetic transmission|vt. 继承, 遗传<br>vi. 接受遗产| 
 init| | | |abbr. 初始化（initialization）| 
-initialisation|ɪnɪʃəlaɪ'zeɪʃən|initialise<br>initialised| |n. 初始化| 
-initialization|i,niʃәlai'zeiʃәn|initialize<br>initialized<br>initializer<br>initializers<br>initializes<br>initializing<br>initials<br>initiate<br>initiated<br>initiating|n (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position|[计] 初始化, 赋初值, 预置| 
+initialis| |initialise<br>initialised| | | 
+initi| |initialize<br>initialized<br>initializer<br>initializers<br>initializes<br>initializing<br>initials<br>initiate<br>initiated<br>initiating| | | 
 injector|in'dʒektә| |n. a contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.)|n. 注射者, 注射器, 注水器<br>[化] 注射器; 喷射器| 
-inline| | | |[计] 内联| 
-innovation|.inәu'veiʃәn|innovative|n a creation (a new device or process) resulting from study and experimentation<br>n the creation of something in the mind<br>n the act of starting something for the first time; introducing something new|n. 改革, 创新<br>[法] 创新, 改革, 刷新| 
+inlin| | | | | 
+innov| |innovative| | | 
 input|'input|inputs<br>inputted<br>inputting|n. a component of production; something that goes into the production of output<br>v. enter (data or a program) into a computer|n. 输入, 输入电路<br>vt. 输入<br>[计] 输入| 
-inputfile| | | | | 
-insecure|.insi'kjuә| |a. not firm or firmly fixed; likely to fail or give way<br>a. lacking in security or safety<br>a. lacking self-confidence or assurance<br>s. not safe from attack|a. 不安全的, 不牢靠的, 不坚固的, 不稳定的| 
-insensitive|in'sensitiv| |a. not responsive to physical stimuli<br>a. deficient in human sensibility; not mentally or morally sensitive|a. 对...没有感觉的, 感觉迟钝的<br>[医] 感觉迟钝的| 
+inputfil| | | | | 
+insecur| | | | | 
+insensit| | | | | 
 insert|in'sә:t|inserted<br>inserting<br>insertion<br>inserts|n. a folded section placed between the leaves of another publication<br>n. an artifact that is inserted or is to be inserted<br>v. put or introduce into something<br>v. introduce|n. 插入物<br>vt. 插入, 把(人造卫星)射入(轨道), 添写<br>vi. 附着<br>[计] 插入| 
 inset|'inset|insets|n. a small picture inserted within the bounds or a larger one<br>v. set or place in|vt. 嵌入<br>n. 插入物, 插页, 插图| 
 inspector|in'spektә| |n. a high ranking police officer|n. 检查员, 巡视员<br>[化] 检查员| 
-inspiration|.inspә'reiʃәn|inspired|n. arousal of the mind to special unusual activity or creativity<br>n. a product of your creative thinking and work<br>n. a sudden intuition as part of solving a problem|n. 灵感, 鼓舞人心的人或物, 妙计, 吸气<br>[医] 吸[气]| 
+inspir| |inspired| | | 
 inst| | |s in or of the present month|abbr. 立刻的（instant）；学院（institute）；机构（Institution）| 
-installation|.instә'leiʃәn|installations<br>installed<br>installer<br>installers<br>installing<br>installs|n. the act of installing something (as equipment)|n. 安装, 装置, 就职<br>[医] 结构, 装置, 设立| 
-instances|ˈinstənsiz| |n an occurrence of something<br>n an item of information that is typical of a class or group<br>v clarify by giving an example of|n. 例子, 实例( instance的名词复数 )| 
+instal| |installations<br>installed<br>installer<br>installers<br>installing<br>installs|v set up for use<br>v put into an office or a position<br>v place|vt. 任命, 使就任, 使就职, 安装, 装置, 设置, 安顿, 安置| 
+instanc| | | | | 
 instant|'instәnt| |s. in or of the present month|n. 立即, 瞬间<br>a. 紧急的, 立即的, 即时的| 
-instantiate|in'stænʃieit|instantiated<br>instantiates<br>instantiating<br>instantiation|v. represent by an instance<br>v. find an instance of (a word or particular usage of a word)|vt. 例示| 
-instantly|'instәntli| |r without delay or hesitation; with no time intervening<br>r without any delay|adv. 立即地, 即刻地| 
-institute|'institju:t|institutions|n. an association organized to promote art or science or education<br>v. advance or set forth in court|n. 学会, 学院, 协会<br>vt. 创立, 开始, 制定, 任命| 
+instanti| |instantiated<br>instantiates<br>instantiating<br>instantiation| | | 
+instantli| | | | | 
+institut|ɪnstɪ'tʌt|institutions| | [医]会，协会，研究所| 
 instr| | | |abbr. 指示书（instruction）；指导人（instructor）| 
 instruct|in'strʌkt|instructions|v. give instructions or directions for some task<br>v. make aware of|vt. 教, 教育, 命令, 通知<br>[法] 托办, 指导, 指示| 
-insufficient|.insә'fiʃәnt| |a. of a quantity not able to fulfill a need or requirement|a. 不够的, 不能胜任的, 不充足的<br>[法] 不足的, 不充分的, 不能胜任的| 
+insuffici| | | | | 
 intact|in'tækt| |s. (of a woman) having the hymen unbroken<br>s. undamaged in any way|a. 尚未被人碰过的, 原封不动的, 完整的<br>[医] 完整的, 无伤的| 
-integer|'intidʒә|integers|n. any of the natural numbers (positive or negative) or zero|n. 完整的事物, 整体, 整数<br>[计] 整数, 整型| 
-integral|'intigrәl|integrate<br>integrated<br>integrates<br>integrating<br>integration<br>integrity|n. the result of a mathematical integration; F(x) is the integral of f(x) if dF/dx = f(x)<br>s. constituting the undiminished entirety; lacking nothing essential especially not damaged<br>a. of or denoted by an integer|n. 整体, 积分, 整数<br>a. 固有的, 整体的, 整数的, 积分的<br>[计] 积分| 
+integ| |integers| | | 
+integr| |integrate<br>integrated<br>integrates<br>integrating<br>integration<br>integrity| | | 
 intel| | | |n. 美国英特尔公司（财富500强公司之一, 以生产CPU芯片著称）| 
 intent|in'tent|intentional<br>intentionally<br>intentions<br>intents|n. the intended meaning of a communication|n. 意图, 含义, 故意<br>a. 专心的, 决心的, 热心的| 
 inter|in'tә:| |v place in a grave or tomb|vt. 埋葬<br>prep. 在中间| 
 interact|.intәr'ækt|interacting<br>interactions<br>interactive<br>interactively<br>interactivity<br>interacts|v. act together or towards others or with others|vi. 互相影响, 交互作用<br>n. 幕间剧, 幕间休息| 
 intercept|.intә'sept| |n. the point at which a line intersects a coordinate axis<br>v. seize on its way|n. 截取, 妨碍, 截距<br>vt. 拦截, 阻止, 截取| 
 interceptor|.intә'septә|interceptors|n. a fast maneuverable fighter plane designed to intercept enemy aircraft|n. 阻止的人, 妨碍者, 拦截战斗机<br>[法] 窃听器, 截取者, 障碍物| 
-interestingly|'intristiŋli| |r. in an interesting manner|adv. 有趣地| 
-interface|'intәfeis|interfaces|n. (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases)<br>n. (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system<br>n. the overlap where two theories or phenomena affect each other or have links with each other<br>n. (computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)|n. 分界面, 接触面, 界面<br>[计] 接口, 界面| 
-interfering|,intә'fiәriŋ| |s. intrusive in a meddling or offensive manner|a. 干涉的, 多管闲事的| 
+interestingli| | | | | 
+interfac| |interfaces| | | 
+interf| | | | | 
 interior|in'tiәriә| |a. situated within or suitable for inside a building<br>s. inside and toward a center<br>s. of or coming from the middle of a region or country|n. 内部, 内政<br>a. 内部的, 心灵的, 内地的, 内政的| 
-intermediary|.intә'mi:diәri| |n a negotiator who acts as a link between parties|n. 仲裁者, 调解者, 媒介物, 中间人<br>a. 中间的, 媒介的| 
-intermediate|.intә'mi:diәt|intermediates|n. a substance formed during a chemical process before the desired product is obtained<br>a. lying between two extremes in time or space or state|n. 中间物, 调停者, 中级<br>a. 中间的, 中级的<br>vi. 起媒介作用<br>[计] 中级| 
+intermediari| | | | | 
+intermedi| |intermediates| | | 
 internet|'intәnet| |n. a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange|[计] 因特网, 国际互连网, 网际网络, 互连网络, 广域网| 
-interpolate|in'tә:pәuleit|interpolated<br>interpolation|v. estimate the value of<br>v. insert words into texts, often falsifying it thereby|v. 篡改, 插入新语句, 添写进去| 
+interpol| |interpolated<br>interpolation| | | 
 interprocess| | | |[计] 进程| 
 interrupt|.intә'rʌpt|interrupted<br>interrupts|n. a signal that temporarily stops the execution of a program so that another procedure can be carried out<br>v. make a break in<br>v. destroy the peace or tranquility of<br>v. interfere in someone else's activity|vt. 中断, 妨碍, 插嘴<br>vi. 打断<br>n. 中断<br>[计] 中断| 
 intersect|.intә'sekt|intersection<br>intersects|v. meet at a point|vt. 贯穿, 横穿<br>vi. 交错, 相交| 
-interstitial|.intә'stiʃәl| |a. of or relating to interstices|a. 空隙的, 裂缝的, 有空隙的<br>[医] 间隙的, 间质的| 
-interval|'intәvәl|intervals|n. a set containing all points (or all real numbers) between two given endpoints<br>n. the distance between things<br>n. the difference in pitch between two notes|n. 间隔, 距离, 间歇, 间隙<br>[计] 时间间隔| 
+interstiti| | | | | 
+interv| |intervals| | | 
 intl| | | |[经] 国际的| 
 intranet|'intrәnet| |n. a restricted computer network; a private network created using World Wide Web software|n. [计]内联网；企业内部网| 
-intrinsic|in'trinsik| |a. belonging to a thing by its very nature<br>s. situated within or belonging solely to the organ or body part on which it acts|a. 本质的, 原有的, 真正的<br>[医] 内部的, 内在的| 
+intrins| | | | | 
 intro|'intrәu| |n. a brief introductory passage to a piece of popular music|n. 介绍<br>[计] 简介| 
-introduced|ɪntrəd'ju:st|introduces<br>introducing|v cause to come to know personally<br>v bring something new to an environment<br>v introduce<br>v bring in a new person or object into a familiar environment<br>v bring in or establish in a new place or environment<br>v put or introduce into something<br>v bring before the public for the first time, as of an actor, song, etc.<br>v put before (a body)<br>v furnish with a preface or introduction<br>v be a precursor of|a. [医]引种的, 引进的<br>v. 提出( introduce的过去式和过去分词 ); 介绍; 引进; 作为…的开头| 
+introduc| |introduces<br>introducing| | | 
 intuit|in'tjuit|intuition<br>intuitive|v. know or grasp by intuition or feeling|v. 由直觉知道| 
 invalid|in'vælid|invalidate<br>invalidated|n. someone who is incapacitated by a chronic illness or injury<br>v. force to retire, remove from active duty, as of firemen<br>a. having no cogency or legal force<br>s. no longer valid|n. 病人, 残废者<br>a. 有病的, 无效的| 
-invariant|in'vєәriәnt| |n. a feature (quantity or property or function) that remains unchanged when a particular transformation is applied to it<br>s. unaffected by a designated operation or transformation|a. 无变化的, 不变的<br>n. 不变量| 
-inventory|'invәntәri| |n. a detailed list of all the items in stock<br>n. (accounting) the value of a firm's current assets including raw materials and work in progress and finished goods<br>n. making an itemized list of merchandise or supplies on hand<br>v. make or include in an itemized record or report|n. 详细目录, 存货清单<br>vt. 列入详细目录, 清点存货<br>[计] 存货清单| 
-inverse|in'vә:s|inversion|n. something inverted in sequence or character or effect<br>s. reversed (turned backward) in order or nature or effect<br>a. opposite in nature or effect or relation to another quantity|a. 倒转的, 相反的<br>n. 反向, 反面<br>[计] 反白, 反色| 
+invari| | | | | 
+inventori| | | | | 
+invers| |inversion| | | 
 invert|in'vә:t|inverted|v. make an inversion (in a musical composition)<br>v. reverse the position, order, relation, or condition of|a. 转化的<br>vt. 使反转, 使颠倒, 使转化<br>n. 颠倒的事物<br>[计] 倒置; 反转| 
-invisible|in'vizәbl| |a. impossible or nearly impossible to see; imperceptible by the eye|a. 看不见的, 无形的<br>[经] 无形的, 表面上看不见的, 未列在公开帐目的| 
-invocation|.invәu'keiʃәn|invocations|n. a prayer asking God's help as part of a religious service<br>n. an incantation used in conjuring or summoning a devil<br>n. the act of appealing for help|n. 祈祷, 符咒| 
-invoice|'invɒis|invoices|v. send an bill to|n. 发票, 发货单<br>v. 开发票, 记清单| 
-invoke|in'vәuk|invoked<br>invoker<br>invokes<br>invoking|v. cite as an authority; resort to|vt. 祈求, 恳求, 实行, 援引, 引起<br>[计] 调用; 请求| 
+invis| | | | | 
+invoc| |invocations| | | 
+invoic| |invoices| | | 
+invok| |invoked<br>invoker<br>invokes<br>invoking| | | 
 ionic|ai'ɒnik| |a. containing or involving or occurring in the form of ions<br>a. of or pertaining to the Ionic order of classical Greek architecture<br>a. of or relating to Ionia or its inhabitants or its language|a. 离子的, 爱奥尼亚的, 爱奥尼亚韵律的, 爱奥尼亚式的<br>n. 爱奥尼亚方言| 
 ireland| | | | | 
-irrelevant|i'relәvәnt| |a. having no bearing on or connection with the subject at issue|a. 不恰当的, 无关系的, 不相干的<br>[法] 无关的, 不相干的, 离题的| 
-irrespective|.iri'spektiv| |r in spite of everything; without regard to drawbacks|a. 不顾的, 无关的, 没关系的| 
+irrelev| | | | | 
+irrespect| | | | | 
 isnt| | | |abbr. 原位缺口平移（In Situ Nick Translation）| 
-isolate|'aisәleit|isolated<br>isolation|v. place or set apart<br>v. obtain in pure form<br>v. separate (experiences) from the emotions relating to them|vt. 使隔离, 使孤立, 使绝缘<br>n. 隔离种群| 
-isotope|'aisәutәup| |n. one of two or more atoms with the same atomic number but with different numbers of neutrons|n. 同位素<br>[化] 同位素| 
+isol|'aisɔl|isolated<br>isolation| |n. 孤点元, 隔离| 
+isotop| | | | | 
 israel| | | | | 
 issuer|'iʃjuә| |n. an institution that issues something (securities or publications or currency etc.)|n. 发行者<br>[法] 发行人, 发布人| 
 italian| | | | | 
-italic|i'tælik| |n. a style of handwriting with the letters slanting to the right<br>n. a branch of the Indo-European languages of which Latin is the chief representative<br>n. a typeface with letters slanting upward to the right|a. 斜体的<br>n. 斜体字, 斜体<br>[计] 斜体| 
-italy| | | | | 
+ital| | | |n. 意大利, 斜体字| 
+itali| | | | | 
 iter| |iterable<br>iterate<br>iterated<br>iterates<br>iterating<br>iteration<br>iterations<br>iterative<br>iterator<br>iterators|n. A passage; esp., the passage between the third and fourth<br>   ventricles in the brain; the aqueduct of Sylvius.|[医] 导管, 通路| 
 
 
@@ -1515,39 +1515,39 @@ jack|dʒæk| |n. a small worthless amount<br>n. a small ball at which players ai
 jackson|'dʒæksn| |n. English film actress who later became a member of British Parliament (born in 1936)<br>n. United States singer who began singing with his four brothers and later became a highly successful star during the 1980s (born in 1958)<br>n. United States singer who did much to popularize gospel music (1911-1972)|n. 杰克逊（男子名）；杰克逊（美国密西西比州的城市）| 
 jacob|'dʒeikәb| |n. French biochemist who (with Jacques Monod) studied regulatory processes in cells (born in 1920)<br>n. (Old Testament) son of Isaac; brother of Esau; father of the twelve patriarchs of Israel; Jacob wrestled with God and forced God to bless him, so God gave Jacob the new name of Israel (meaning `one who has been strong against God')|n. [圣经]雅各（以色列人的祖先）；雅各布（男子名）| 
 jade|dʒeid| |n. a semiprecious gemstone that takes a high polish; is usually green but sometimes whitish; consists of jadeite or nephrite<br>s. of something having the color of jade; especially varying from bluish green to yellowish green|n. 玉, 翡翠, 老马<br>a. 绿色的, 玉制的<br>v. (使)疲倦| 
-james|dʒeimz| |n. a Stuart king of Scotland who married a daughter of Henry VII; when England and France went to war in 1513 he invaded England and died in defeat at Flodden (1473-1513)<br>n. the last Stuart to be king of England and Ireland and Scotland; overthrown in 1688 (1633-1701)<br>n. the first Stuart to be king of England and Ireland from 1603 to 1625 and king of Scotland from 1567 to 1625; he was the son of Mary Queen of Scots and he succeeded Elizabeth I; he alienated the British Parliament by claiming the divine right of kings (1566-1625)|n. 詹姆斯（姓氏, 男子名）；[圣]《雅各书》| 
+jame| | | | 灰岩井| 
 jane|dʒein| |n. A coin of Genoa; any small coin.<br>n. A kind of twilled cotton cloth. See Jean.|n. 简（女子名）| 
-january| | | | | 
+januari| | | | | 
 japan| | | | | 
-japanese| | | | | 
-jasmine|'dʒæsmin| |n. any of several shrubs and vines of the genus Jasminum chiefly native to Asia|n. 茉莉, 淡黄色<br>[医] 素馨属植物, 钩吻根| 
+japanes| | | | | 
+jasmin|'dʒæsmin| | |n. 茉莉属, 茉莉属的植物；茉莉花| 
 jason| | |n. (Greek mythology) the husband of Medea and leader of the Argonauts who sailed in quest of the Golden Fleece|n. 詹森（男子名）| 
 jasper|'dʒæspә| |n. an opaque form of quartz; red or yellow or brown or dark green in color; used for ornamentation or as a gemstone|n. 碧玉<br>[化] 碧玉| 
 java| | | | | 
 jeff|dʒef| | |n. 杰夫（男子名, 等于Jeffrey）| 
-jekyll| | | | | 
-jelly|'dʒeli| |n. a preserve made of the jelled juice of fruit<br>n. any substance having the consistency of jelly or gelatin|n. 果冻, 果冻甜食, 胶状物<br>v. (使)结冻, (使)成胶状| 
+jekyl| | | | | 
+jelli| | | | | 
 jersey|'dʒә:zi| |n. the largest of the Channel Islands<br>n. a close-fitting pullover shirt<br>n. a slightly elastic machine-knit fabric<br>n. a breed of diary cattle developed on the island of Jersey|n. 运动衫| 
 jest|dʒest| |n. activity characterized by good humor|n. 笑柄, 笑话<br>vi. 讲笑话, 嘲笑, 开玩笑<br>vt. 嘲笑| 
-jetty|'dʒeti| |n a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away|n. 突堤, 防波堤, 码头<br>a. 黑玉般的, 乌黑发亮的<br>vi. 伸出| 
+jetti| | | | | 
 jinja| | | | [地名] [乌干达] 金贾| 
-jobname| | | | | 
+jobnam| | | | | 
 joel| | | | | 
 john|dʒɔn| |n. youngest son of Henry II; King of England from 1199 to 1216; succeeded to the throne on the death of his brother Richard I; lost his French possessions; in 1215 John was compelled by the barons to sign the Magna Carta (1167-1216)<br>n. (New Testament) disciple of Jesus; traditionally said to be the author of the 4th Gospel and three epistles and the book of Revelation<br>n. the last of the four Gospels in the New Testament|n. 盥洗室, 厕所, 嫖客| 
 johnson|'dʒɔnsn| |n. English writer and lexicographer (1709-1784)<br>n. 36th President of the United States; was elected vice president and succeeded Kennedy when Kennedy was assassinated (1908-1973)<br>n. 17th President of the United States; was elected vice president and succeeded Lincoln when Lincoln was assassinated; was impeached but acquitted by one vote (1808-1875)|n. 约翰逊（姓氏）| 
 jonathan|'dʒɔnәθәn| |n. red late-ripening apple; primarily eaten raw|n. 乔纳森（男子名）| 
-jones|dʒәunz| |n. United States labor leader (born in Ireland) who helped to found the Industrial Workers of the World (1830-1930)<br>n. United States railroad engineer who died trying to stop his train from crashing into another train; a friend wrote a famous ballad describing the incident (1864-1900)<br>n. United States golfer (1902-1971)|n. 琼斯（姓氏）| 
+jone| | | |n. 约恩（男子名）| 
 jose| | | |n. 约瑟（人名）| 
 josh|dʒɒʃ| |v be silly or tease one another|v. 戏弄, 说笑<br>n. 无恶意的戏谑, 玩笑| 
 judgement|'dʒʌdʒmәnt| |n the legal document stating the reasons for a judicial decision<br>n an opinion formed by judging something<br>n the cognitive process of reaching a decision or drawing conclusions<br>n the mental ability to understand and discriminate between relations<br>n the capacity to assess situations or circumstances shrewdly and to draw sound conclusions<br>n (law) the determination by a court of competent jurisdiction on matters submitted to it<br>n the act of judging or assessing a person or situation or event|n. 审判, 判决, 判断<br>[经] 判定, 审定, 鉴定| 
 julia|'dʒu:ljә| | |n. 朱莉娅（女子名）| 
-july| | | | | 
+juli| | |pl.  of Julus|n. (Juli)人名；(西)胡利；(捷)尤利| 
 junction|'dʒʌŋkʃәn| |n. the place where two or more things come together<br>n. the state of being joined together<br>n. something that joins or connects<br>n. an act of joining or adjoining things|n. 连接, 会合处, 交叉点<br>[医] 接[合]处, 接点.[接]界| 
 june| | | | | 
 junk|dʒʌŋk| |n. any of various Chinese boats with a high poop and lugsails|n. 垃圾, 乌七八糟的东西, 舢板<br>[计] 清除| 
-jupiter| | | | | 
-justification|.dʒʌstifi'keiʃәn| |n. something (such as a fact or circumstance) that shows an action to be reasonable or necessary<br>n. a statement in explanation of some action or belief<br>n. the act of defending or explaining or making excuses for by reasoning|n. 辩护, 证明正当, 释罪<br>[计] 调整| 
-justified| | |s. having words so spaced that lines have straight even margins|a. 有道理的, 合乎情理的<br>[计] 两端对齐的| 
+jupit| | | | | 
+justif| | | | | 
+justifi| | | | | 
 justin|'dʒʌstin| | |n. 贾斯廷（男子名）| 
 justo| | | |n. 胡斯托（人名）| 
 
@@ -1570,11 +1570,11 @@ keyboard|'ki:bɒ:d|keyboards|n. device consisting of a set of keys on a piano or
 keypad|'ki:pæd| |n a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard|n. 键区<br>[计] 键区| 
 keypress| | | | [医]按键（计算机病毒名）| 
 keyset|'ki:set| | |n. (打字机等的)键盘| 
-keystroke|'ki:strәuk|keystrokes|n. the stroke of a key; one depression of a key on a keyboard|n. 键击<br>[计] 按键, 击键| 
+keystrok| |keystrokes| | | 
 keyword|'ki:wәd|keywords| |[计] 关键字| 
-kindle|'kindl| |v. catch fire<br>v. cause to start burning|vt. 点燃, 使着火, 引起, 照亮<br>vi. 着火, 激动, 发亮| 
-kindly|'kaindli| |s. pleasant and agreeable<br>r. in a kind manner or out of kindness|a. 和蔼的, 温和的, 爽快的<br>adv. 温和地, 亲切地| 
-kinetic|kai'netik| |a. relating to the motion of material bodies and the forces associated therewith<br>s. characterized by motion|a. 运动的, 运动引起的, 动力学的, 活动的<br>[医] 运动的, 动的, 动力的| 
+kindl| | | | | 
+kindli| | | | | 
+kinet| | | | | 
 kingdom|'kiŋdәm| |n. a domain in which something is dominant<br>n. a country with a king as head of state<br>n. the domain ruled by a king or queen<br>n. a monarchy with a king or queen as head of state|n. 王国, 领域<br>[医] 界(动物,植物,矿物)| 
 knew|nju:| |v be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about<br>v know how to do or perform something<br>v be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt<br>v be familiar or acquainted with a person or an object<br>v have firsthand knowledge of states, situations, emotions, or sensations<br>v accept (someone) to be what is claimed or accept his power and authority<br>v have fixed in the mind<br>v have sexual intercourse with<br>v know the nature or character of<br>v be able to distinguish, recognize as being different<br>v perceive as familiar|know的过去式| 
 knockout|'nɔ'kaut| |n. a blow that renders the opponent unconscious|n. (拳击)击倒对方, 被击倒, 击倒, (非正式)令人倾慕的人/物, 轰动的事物<br>a. 击倒的, 引人注目的, 轰动的, 使昏迷的| 
@@ -1600,84 +1600,84 @@ lang|læŋ| |a. & adv. Long.|abbr. 语言（language）|
 laptop| | |n. a portable computer small enough to use in your lap|[计] 膝上型的| 
 larger| | |s large or big relative to something else<br>a above average in size or number or quantity or magnitude or extent<br>s fairly large or important in effect; influential<br>s ostentatiously lofty in style<br>s generous and understanding and tolerant<br>s conspicuous in position or importance<br>s having broad power and range and scope<br>s in an advanced stage of pregnancy|a. 大的；多量的| 
 largest| | |a above average in size or number or quantity or magnitude or extent<br>s fairly large or important in effect; influential<br>s ostentatiously lofty in style<br>s generous and understanding and tolerant<br>s conspicuous in position or importance<br>s having broad power and range and scope<br>s in an advanced stage of pregnancy|a. 多量的, 最大的（large的最高级）| 
-larry| | | | | 
+larri| | | | | 
 laser|'leizә| |n. an acronym for light amplification by stimulated emission of radiation; an optical device that produces an intense monochromatic beam of coherent light|n. 激光<br>[计] 激光器| 
-lastly|'lɑ:stli| |r the item at the end|adv. 最后, 终于| 
+lastli| | | | | 
 latch|lætʃ| |n. spring-loaded doorlock that can only be opened from the outside with a key<br>n. catch for fastening a door or gate; a bar that can be lowered or slid into a groove<br>v. fasten with a latch|n. 门闩<br>vi. 上闩, 抓住, 占有<br>vt. 闩上<br>[计] 门闩线路; 锁存器| 
-latency|'leitnsi| |n. the state of being not yet evident or active|n. 潜伏, 潜在<br>[计] 传输时间, 传输延迟时间| 
+latenc| | | | | 
 latest|'leitist| |n. the most recent news or development<br>s. in the current fashion or style|a. 最近的| 
 latex|'leiteks| |n. a milky exudate from certain plants that coagulates on exposure to air|n. 乳液, 胶乳<br>[化] 胶乳| 
 latin| | | | | 
-latitude|'lætitju:d| |n. the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself<br>n. freedom from normal restraints in conduct<br>n. an imaginary line around the Earth parallel to the equator<br>n. scope for freedom of e.g. action or thought; freedom from restriction|n. 纬度, 范围<br>[化] 宽容度; 伟度| 
-lattice|'lætis| |n. an arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions<br>n. framework consisting of an ornamental design made of strips of wood or metal|n. 格子, 组合格子, 格子状东西<br>vt. 制做格子, 使成格子状<br>[计] 格| 
+latitud| | | | | 
+lattic| | | | | 
 launcher|'lɒ:ntʃә| |n. armament in the form of a device capable of launching a rocket|n. 发射者, 发射台| 
 launchpad| | |n a platform from which rockets or space craft are launched| [计][OS/2]快速启动板| 
 layout|'leiaut|layouts|n. a plan or design of something that is laid out<br>n. the act of laying out (as by making plans for something)|n. 布局, 陈列, 规划图, 页面布局, 版面编排<br>[计] 页面布局, 版面| 
-lazily|'leizili| |r. in a slow and lazy manner|adv. 懒洋洋地| 
-lazy|'leizi| |s. moving slowly and gently|a. 懒惰的, 怠惰的, 缓慢的<br>vi. 懒散| 
+lazili| | | | | 
+lazi| | | | | 
 leaflet|'li:flit| |n. part of a compound leaf|n. 小叶, 传单<br>[医] 小叶| 
 leap|li:p| |n. a light, self-propelled movement upwards or forwards<br>n. an abrupt transition<br>n. the distance leaped (or to be leaped)<br>v. pass abruptly from one state or topic to another|n. 跳跃, 剧增, 急变, 被越过之物<br>vi. 跳跃, 突然经过<br>vt. 跃过, 使跃过| 
 learnt|lә:nt| |v gain knowledge or skills<br>v get to know or become aware of, usually accidentally<br>v commit to memory; learn by heart<br>v be a student of a certain subject<br>v impart skills or knowledge to<br>v find out, learn, or determine with certainty, usually by making an inquiry or other effort|learn的过去式和过去分词| 
-lease|li:s| |n. property that is leased or rented out or let<br>n. a contract granting use or occupation of property during a specified time for a specified payment<br>n. the period of time during which a contract conveying property to a person is in effect<br>v. grant use or occupation of under a term of contract|n. 租约, 租期, 租<br>vt. 出租, 租出, 租得| 
-lecture|'lektʃә|lectures|n. a speech that is open to the public<br>n. a lengthy rebuke<br>n. teaching by giving a discourse on some subject (typically to a class)<br>v. deliver a lecture or talk|n. 演讲, 谴责, 讲稿<br>vt. 演讲, 训诫, 说教<br>vi. 讲演| 
+leas|'li:z| |n. a unit of length of thread or yarn<br>n. a field covered with grass or herbage and suitable for grazing by livestock|abbr. leading-edge actuation system 翼或螺旋桨之前缘刺激系统; lower-echelon automatic switchboard 低级梯阵自动配电盘, 低梯形自动配电环| 
+lectur| |lectures| | | 
 ledger|'ledʒә| |n. a record in which commercial accounts are recorded|n. 分类帐, 分户总帐, 盖墓石板, 横木<br>[经] 分户帐, 分类帐| 
 legit|l ә'dʒit| | |a. 合法的, 正统的, 守法的| 
 lemma|'lemә| |n. a subsidiary proposition that is assumed to be true in order to prove another proposition<br>n. the lower and stouter of the two glumes immediately enclosing the floret in most Gramineae<br>n. the heading that indicates the subject of an annotation or a literary composition or a dictionary entry|n. 辅助定理, 论点, 引理<br>[医] 膜, 衣| 
-lengthy|'leŋθi| |s relatively long in duration; tediously protracted|a. 冗长的, 漫长的| 
+lengthi| | | | | 
 leopard|'lepәd| |n. the pelt of a leopard<br>n. large feline of African and Asian forests usually having a tawny coat with black spots|n. 豹, 美洲豹| 
 lesser|'lesә| |a. of less size or importance<br>s. smaller in size or amount or value|a. 较少的, 较小的, 次要的| 
-leverage|'levәridʒ| |n. the mechanical advantage gained by being in a position to use a lever<br>n. strategic advantage; power to act effectively<br>n. investing with borrowed money as a way to amplify potential gains (at the risk of greater losses)<br>v. supplement with leverage|n. 杠杆作用, 杠杆装置, 杠杆效率<br>[医] 杠杆率| 
-lexical|'leksikl| |a. of or relating to words<br>a. of or relating to dictionaries|a. 字典的, 词汇的| 
-liability|laiә'biliti| |n. the state of being legally obliged and responsible<br>n. the quality of being something that holds you back|n. 责任, 债务, 倾向<br>[经] 责任, 义务, 负债| 
-liberty|'libәli| |n. freedom of choice<br>n. personal freedom from servitude or confinement or oppression|n. 自由, 特权, 许可, 冒失<br>[法] 自由, 自由权, 自由区域| 
-libraries| | |n a room where books are kept<br>n a collection of literary documents or records kept for reference or borrowing<br>n a depository built to contain books and other materials for reading and study<br>n (computing) a collection of standard programs and subroutines that are stored and available for immediate use<br>n a building that houses a collection of books and other materials|n. 图书馆查询系统；函数库；图书馆（library的复数）| 
-licence|'laisns| |n excessive freedom; lack of due restraint<br>n freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech)<br>n a legal document giving official permission to do something<br>v authorize officially|n. 执照, 许可证, 特许<br>vt. 许可, 特许, 认可| 
-licensed|'laisnst|licenses<br>licensing|v authorize officially<br>s given official approval to act|a. 得到许可的<br>[经] 领有执照的, 领到许可证的| 
+leverag| | | | | 
+lexic|'leksik| | |a. 词汇的| 
+liabil| | | | | 
+liberti| | | | | 
+librari| | | | | 
+licenc| | | | | 
+licens| |licenses<br>licensing| | | 
 lighter|'laitә| |n. a device for lighting or igniting fuel or charges or fires<br>v. transport in a flatbottom boat|n. 点火者, 点灯工人, 打火机, 驳船<br>vt. 以驳船搬运| 
 lightweight|'laitweit| |n. a professional boxer who weighs between 131 and 135 pounds<br>n. an amateur boxer who weighs no more than 132 pounds<br>n. a wrestler who weighs 139-154 pounds<br>s. weighing relatively little compared with another item or object of similar use|n. 不到平均重量的人/物, 轻量级, 无足轻重的人, 性格不够强的人<br>a. 平均重量以下的, 重量轻的<br>[计] 轻便的, 轻量的| 
 ligula|'li^julә| |n. See Ligule.<br>n. The central process, or front edge, of the labium of<br>   insects. It sometimes serves as a tongue or proboscis, as in bees.<br>n. A tongue-shaped lobe of the parapodia of annelids. See<br>   Parapodium.|n. [动] (昆虫的)唇舌| 
 likelihood|'laiklihud| |n. the probability of a specified outcome|n. 可能, 可能性| 
-likewise|'laikwaiz| |r in like or similar manner<br>r in addition<br>r equally|adv. 同样地, 也| 
+likewis| | | | | 
 lime|laim| |n. any of various related trees bearing limes<br>n. the green acidic fruit of any of various lime trees<br>v. cover with lime so as to induce growth|n. 石灰, 粘鸟胶, 酸橙<br>vt. 以石灰处理, 粘鸟胶于, 撒石灰| 
 linear|'liniә| |a. designating or involving an equation whose terms are of the first degree<br>a. of or in or along or relating to a line; involving a single dimension<br>s. (of a leaf shape) long and narrow<br>s. measured lengthwise|a. 线的, 直线的, 线状的<br>[计] 线性| 
-linenumber| | | | | 
+linenumb| | | | | 
 liner|'lainә| |n. (baseball) a hit that flies straight out from the batter<br>n. a piece of cloth that is used as the inside surface of a garment<br>n. a large commercial ship (especially one that carries passengers on a regular schedule)|n. 班机, 划线者, 定期船, 衬里<br>[化] 衬垫; 垫带; 套管| 
-linkage|'liŋkidʒ| |n. an associative relation<br>n. (genetics) traits that tend to be inherited together as a consequence of an association between their genes; all of the genes of a given chromosome are linked (where one goes they all go)<br>n. a mechanical system of rods or springs or pivots that transmits power or motion<br>n. the act of linking things together|n. 联合, 连锁, 结合, 联动<br>[计] 连接| 
+linkag| | | | | 
 linker|'liŋkә| | |[计] 连接程序, 链接程序| 
 lint|lint| |n. fine ravellings of cotton or linen fibers<br>n. cotton or linen fabric with the nap raised on one side; used to dress wounds|n. 绷带用麻布, 皮棉<br>[医] 绒布(外科用布)| 
 lion|'laiәn| |n. large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male<br>n. a celebrity who is lionized (much sought after)|n. 狮子, 狮子(星)座, 国际狮子会会员| 
 lisp|lisp| |n. a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'<br>n. a flexible procedure-oriented programing language that manipulates symbols in the form of lists<br>v. speak with a lisp|v. 咬着舌说<br>n. 口齿不清| 
 lite|lait| |s having relatively few calories|a. 低盐的；清淡的；简化的| 
-literal|'litәrәl|literals|s. without interpretation or embellishment<br>a. limited to the explicit meaning of a word or text<br>s. avoiding embellishment or exaggeration (used for emphasis)|a. 逐字的, 字面上的, 文字的, 字母的<br>n. 印刷错误<br>[计] 文字; 直接量; 字面量; 句节| 
+liter|'li:tә|literals|n. a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)|n. 公升<br>[化] 升| 
 loader|'lәudә|loaders|n. an attendant who loads guns for someone shooting game|n. 载入程序, 载入者, 装货的人<br>[计] 装入程序| 
-located| |locating<br>locations<br>locator|s. situated in a particular spot or position|a. 处于, 位于；坐落的| 
+locat| |locating<br>locations<br>locator| |abbr. 血脂冠脉动脉造影试验| 
 locker|'lɒkә| |n. a fastener that locks or closes|n. 抽屉, 小柜, 上锁人<br>[机] 锁柜| 
 logger|'lɒgә|loggers|n a person who fells trees|n. 樵夫, 圆木装车机<br>[计] 记录器; 注册器; 登记器| 
 logic|'lɒdʒik|logical<br>logically|n. the branch of philosophy that analyzes inference<br>n. reasoned and reasonable judgment<br>n. the principles that guide reasoning within a given field or situation<br>n. the system of operations performed by a computer that underlies the machine's representation of logical operations|n. 逻辑, 逻辑学, 推理的方法, 推理, 逻辑性<br>[计] 逻辑| 
 login| |logins| |[计] 注册(程序), 登记, 用户注册程序| 
-logistic|lәu'dʒistik| |a. of or relating to logistics|a. 逻辑的, 后勤学的| 
+logist| | | | | 
 logo|'lәugәu|logos|n. a company emblem or device|n. 连合活字, 商标, 徽标<br>[计] 徽标| 
 logout|'lɔ^aut| | |[计] 退网, 注销, 退网程序| 
 lollipop|'lɒlipɒp| |n. hard candy on a stick|n. 棒棒糖| 
 london| | | | | 
 longer|'lɔŋɡә. 'lɔ:ŋ-| |n. a person with a strong desire for something<br>r. for more time|adv. 比较久| 
 longest|'lɔŋɡist. 'lɔ:ŋ-| |r. for the most time|a. 最长的| 
-longitude|'lɒndʒitju:d| |n. the angular distance between a point on any meridian and the prime meridian at Greenwich|n. 经度, 经线<br>[电] 经度| 
+longitud| | | | | 
 lookahead| | | | | 
 lookup|'ljkʌp|lookups|n an operation that determines whether one or more of a set of items has a specified property|n. 查找, 检查| 
 loop|lu:p|looped<br>looping<br>loops|n. anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)<br>n. an inner circle of advisors (especially under President Reagan)<br>n. the basic pattern of the human fingerprint<br>n. a computer program that performs a series of instructions repeatedly until some specified condition is satisfied|n. 环, 圈, 弯曲部分, 循环<br>vt. 使成环, 以圈结, 以环连结<br>vi. 打环, 翻筋斗<br>[计] 循环| 
 loopback| | | |[计] 回送| 
 looper|'lu:pә| |n small hairless caterpillar having legs on only its front and rear segments; mostly larvae of moths of the family Geometridae|n. 打环的人, 套口机| 
-loosely|'lu:sli| |r. in a relaxed manner; not rigid<br>r. in a loose manner<br>r. knitted in a loose manner|adv. 松弛地, 宽松地, 不紧| 
-lottery|'lɒtәri| |n. something that is regarded as a chance event<br>n. players buy (or are given) chances and prizes are distributed by casting lots|n. 奖券, 彩票, 运气<br>[经] 抽彩给奖法| 
-lotus|'lәjtәs| |n. native to eastern Asia; widely cultivated for its large pink or white flowers<br>n. annual or perennial herbs or subshrubs<br>n. white Egyptian lotus: water lily of Egypt to southeastern Africa; held sacred by the Egyptians|n. 莲, 莲花, 荷花, 荷<br>[电] LOTUS, 莲花公司| 
-lowercase|'lәuәkeis| |a. relating to small (not capitalized) letters that were kept in the lower half of a compositor's type case; a and b and c etc"|n. 小写字母| 
+loos| | |n. Austrian architect (1870-1933)|n. 损耗, 洗手间（loo复数形式）| 
+lotteri| | | | | 
+lotu| | | | | 
+lowercas| | | | | 
 lowest|'lәuist| |r. in the lowest position; nearest the ground|[法] 最低的, 基层的| 
-luckily|'lʌkili| |r by good fortune|adv. 幸运地, 幸亏, 侥幸| 
+luckili| | | | | 
 luke|lu:k| |n. (New Testament) the Apostle closely associated with St. Paul and traditionally assumed to be the author of the third Gospel<br>n. one of the four Gospels in the New Testament; contains details of Jesus's birth and early life|n. 卢克（男子名）；路加（基督教早期信徒之一）；[圣经]路加福音| 
-luxury|'lʌkʃәri| |n. something that is an indulgence rather than a necessity<br>n. wealth as evidenced by sumptuous living|n. 奢侈, 豪华<br>a. 奢侈的, 豪华的| 
-lvalue| | | |n. 左值| 
-lyrics| | |n the text of a popular song or musical-comedy number<br>n a short poem of songlike quality<br>v write lyrics for (a song)|n. 歌词| 
+luxuri| | | | | 
+lvalu| | | | | 
+lyric|'lirik| |n. the text of a popular song or musical-comedy number<br>n. a short poem of songlike quality<br>v. write lyrics for (a song)<br>s. expressing deep emotion|n. 抒情诗, 歌词<br>a. 抒情的| 
 
 
 ## M
@@ -1690,147 +1690,147 @@ mach| | | | |
 macintosh| | | | | 
 macro|'mækrәu|macros|n. a single computer instruction that results in a series of instructions in machine language<br>s. very large in scale or scope or capability|pref. 宏<br>a. 巨大的, 大量的<br>[计] 宏| 
 made|meid| |s. produced by a manufacturing process; rope and nails"<br>a. (of a bed) having the sheets and blankets set in order<br>s. successful or assured of success|a. 人工制成的, 成功的, 创造的<br>make的过去式和过去分词| 
-maecenas| | | | | 
+maecena| | | | | 
 mage|meidʒ| |n. A magician.|n. 博学者；魔术师| 
 magenta|mә'dʒentә| |n. a primary subtractive color for light; a dark purple-red color; the dye for magenta was discovered in 1859, the year of the battle of Magenta<br>n. a battle in 1859 in which the French and Sardinian forces under Napoleon III defeated the Austrians under Francis Joseph I<br>s. of deep purplish red|n. 品红色, 洋红<br>[化] (碱性)品红; 洋红| 
 magic|'mædʒik|magical<br>magically|n. any art that invokes supernatural powers|n. 魔术, 魔法<br>a. 魔术的, 有魔力的, 不可思议的| 
 magna| | | |n. 麦格纳（全名为麦格纳国际, 为世界第三大汽车零部件供应商）| 
-magnitude|'mægnitju:d| |n. the property of relative size or extent (whether large or small)<br>n. relative importance|n. 巨大, 重大, 重要, 大小, 数量, 星等(指星的亮度)<br>[计] 大小; 值| 
+magnitud| | | | | 
 mailbox|'meilbɒks| |n. a private box for delivery of mail|n. 邮筒, 邮箱<br>[计] 邮箱, 电子邮箱| 
 mailer|'meilә| |n. United States writer (born in 1923)<br>n. a person who mails something<br>n. an advertisement that is sent by mail|n. 邮寄者, 邮船, 包装邮件的东西| 
-mainframe|'meinfreim| |n. a large digital computer serving 100-400 users and occupying a special air-conditioned room|n. 主机<br>[电] 主机| 
+mainfram| | | | | 
 mainstream|'meinstri:m| |n. the prevailing current of thought|n. 主流| 
-makefile| | | |[计] 文件编写, 文卷编写| 
-malformed|mæl'fɒ:md| |s so badly formed or out of shape as to be ugly|a. 变形的, 畸形的| 
-malicious|mә'liʃәs| |a. having the nature of or resulting from malice|a. 怀恶意的, 恶毒的| 
-manageable|'mænidʒәbl|managed<br>managers<br>manages<br>managing|a. capable of being managed or controlled|a. 易办的, 易管理的, 易控制的| 
-mandatory|'mændәtәri| |n the recipient of a mandate<br>n a territory surrendered by Turkey or Germany after World War I and put under the tutelage of some other European power until they are able to stand by themselves<br>s required by rule|a. 命令的, 托管的<br>[经] 受托者, 命令者| 
+makefil| | | | | 
+malform| | | | | 
+malici| | | | | 
+manag| |managed<br>managers<br>manages<br>managing| | | 
+mandatori| | | | | 
 mango|'mæŋgәu| |n. large evergreen tropical tree cultivated for its large oval fruit<br>n. large oval tropical fruit having smooth skin, juicy aromatic pulp, and a large hairy seed|n. 芒果<br>[化] 芒果Mangifera indica| 
 manifest|'mænifest|manifests|n. a customs document listing the contents put on a ship or plane<br>v. record in a ship's manifest<br>v. reveal its presence or make an appearance|n. 载货单, 运货单, 旅客名单<br>a. 显然的, 明白的<br>vi. 显示, 出现<br>vt. 表明, 表现, 证明| 
-manipulate|mә'nipjuleit|manipulated<br>manipulating<br>manipulation<br>manipulations|v. influence or control shrewdly or deviously<br>v. hold something in one's hands and move it<br>v. control (others or oneself) or influence skillfully, usually to one's advantage<br>v. treat manually, as with massage, for therapeutic purposed|vt. 操纵, 利用, 操作, 巧妙地处理, 假造| 
+manipul| |manipulated<br>manipulating<br>manipulation<br>manipulations| | | 
 manual|'mænjuәl|manually<br>manuals|n. a small handbook<br>a. of or relating to the hands<br>a. requiring human effort<br>s. doing or requiring physical work|n. 手册, 指南<br>a. 手的, 手动的, 手工的, 体力的<br>[计] 人工的, 手动的| 
 mapper|'mæpә|mappers|n a clerk who marks data on a chart|n. 制图人<br>[化] 绘图仪; 制图人| 
 marc|mɑ:k| |n. made from residue of grapes or apples after pressing|n. 榨渣<br>[计] 机器可读目录; 机读目录| 
 mario|'mæriәj, 'mɑ:-| | |n. 马里奥（男子名）| 
-marionette|.mæriә'net| |n a small figure of a person operated from above with strings by a puppeteer|n. 牵线木偶| 
+marionett| | | | | 
 markdown|'mɑ:kdaun| | |n. 标低价| 
 marker|'mɑ:kә|markers|n. some conspicuous object used to distinguish or mark something<br>n. a distinguishing symbol<br>n. a writing implement for making a mark|n. 作记号的人, 记分员, 书签, 纪念碑, 里程碑, 标识物, 标记<br>[计] 标记| 
-marketplace|'mɑ:kit'pleis| |n. an area in a town where a public mercantile establishment is set up|n. 市场| 
+marketplac| | | | | 
 markup|'mɑ:kʌp| |n. the amount added to the cost to determine the asking price<br>n. detailed stylistic instructions for typesetting something that is to be printed; manual markup is usually written on the copy (e.g. underlining words that are to be set in italics)|n. 涨价, 利润, 标高价| 
-marquee|mɑ:'ki:| |n. permanent canopy over an entrance of a hotel etc.|n. 大帐篷, 遮篷, 选取框<br>[计] 选取框| 
+marque|mɑ:k| |n a name given to a product or service|n. 商品型号<br>[法] 商品的型号或样式, 报复性的捕夺| 
 marshal|'mɑ:ʃәl|marshaller<br>marshalling|n. a law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law<br>n. (in some countries) a military officer of highest rank<br>v. place in proper rank<br>v. arrange in logical order|n. 元帅, 陆空军高级将官, 典礼官, 执法官<br>vt. 整理, 引领, 统率<br>vi. 排列, 各就各位| 
 martin| | | | | 
-mary|'meәri| |n. the mother of Jesus; Christians refer to her as the Virgin Mary; she is especially honored by Roman Catholics|n. 玛丽（女子名）| 
-masonry|'meisnri| |n. structure built of stone or brick by a mason<br>n. the craft of a mason|n. (建筑物的)砖石部分| 
+mari|maui| |n a member of a rural Finnish people living in eastern Russia<br>n the Finnic language spoken by the Cheremis|n. 毛伊岛（位于夏威夷中部）| 
+masonri| | | | | 
 massa|'mɑ:ssɑ:| | |[医] 质, 物质, 块, 丸块, 团| 
-massively| | |r. to a massive degree or in a massive manner|adv. 大而重, 厚实, 粗大, 强有力, 结实, 魁伟, 大块, 大量, 大规模, 实心, 块状<br>[计] 大规模地| 
+massiv| | | | | 
 matcher|'mætʃә|matchers|n someone who arranges (or tries to arrange) marriages for others|[计] 匹配程序, 配对程序| 
-matrices|'meitrisi:z| |n (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single element and manipulated according to rules<br>n (geology) amass of fine-grained rock in which fossils, crystals, or gems are embedded<br>n an enclosure within which something originates or develops (from the Latin for womb)<br>n the body substance in which tissue cells are embedded<br>n the formative tissue at the base of a nail<br>n mold used in the production of phonograph records, type, or other relief surface|(专业术语)基质, 基体, 基岩, 子宫, 发源地, 母式, 真值表, 矩阵, 型片, 纸型, 模型<br>[经] 模型, 矩阵| 
+matric|mә'trik| |n admission to a group (especially a college or university)|n. (大学的)入学考试<br>[计] 矩阵的| 
 matrix|'meitriks| |n. (mathematics) a rectangular array of quantities or expressions set out by rows and columns; treated as a single element and manipulated according to rules<br>n. (geology) amass of fine-grained rock in which fossils, crystals, or gems are embedded<br>n. an enclosure within which something originates or develops (from the Latin for womb)<br>n. the body substance in which tissue cells are embedded|n. 母体, 子宫, 基质, 脉石, 模型, 矩阵<br>[计] 矩阵| 
 matt|mæt| |n the property of having little or no contrast; lacking highlights or gloss<br>s not reflecting light; not glossy|a. 表面暗淡的, 无光泽的, 表面粗糙的, 不光滑的<br>[医] 无光泽| 
-mature|mә'tjuә| |v. develop and reach maturity; undergo maturation<br>v. develop and work out fully in one's mind<br>v. become due for repayment<br>a. characteristic of maturity|a. 成熟的, 到期的, 充分考虑的<br>vt. 使成熟<br>vi. 成熟, 到期| 
+matur| | | | | 
 maven|'meivin| |n someone who is dazzlingly skilled in any field|n. 内行, 专家| 
-maximize|'mæksimaiz|maximized|v. make as big or large as possible<br>v. make the most of|vt. 取...最大值, 使增加(或扩大)到最大限度<br>[计] 最大化| 
+maxim| |maximized| | | 
 maximum|'mæksimәn| |n. the largest possible quantity<br>n. the point on a curve where the tangent changes from positive on the left to negative on the right|n. 极点, 最大量, 极大<br>a. 最高的, 最大的, 最大极限的<br>[计] 最大值| 
 maya| | | | | 
 maze|meiz| |n. complex system of paths or tunnels in which it is easy to get lost|n. 迷宫, 迷惘<br>vt. 使迷惘, 使混乱, 迷失| 
 meaningless|'mi:niŋlis| |a. having no meaning or direction or purpose|a. 无意义的| 
 meant|ment| |v mean or intend to express or convey<br>v have as a logical consequence<br>v denote or connote<br>v have in mind as a purpose<br>v have a specified degree of importance<br>v intend to refer to<br>v destine or designate for a certain purpose|mean的过去式和过去分词| 
-meantime|'mi:ntaim| |n the time between one event, process, or period and another<br>r during the intervening time|n. 间隔时间, 其时<br>adv. 其间| 
-mechanical|mi'kænikәl|mechanics<br>mechanisms<br>mechanize|a. using (or as if using) mechanisms or tools or devices<br>a. relating to or concerned with machinery or tools<br>a. relating to or governed by or in accordance with mechanics|a. 机械的, 机械性的, 力学的<br>[医] 机械的, 力学的| 
+meantim| | | | | 
+mechan| |mechanics<br>mechanisms<br>mechanize| | | 
 median|'mi:diәn| |n. the value below which 50% of the cases fall<br>s. relating to or constituting the middle value of an ordered set of values (or the average of the middle two in a set with an even number of values)<br>s. relating to or situated in or extending toward the middle|a. 中央的, 中间的, 正中的<br>n. 正中动脉, 中位数, 中线| 
-mediator|'mi:dieitә| |n. a negotiator who acts as a link between parties|n. 调停者, 传递者, 基督<br>[医] 间介器, 传递器, 介质, 传递质介体| 
+mediat| | | | | 
 memo|'memәu| |n. a written proposal or reminder|n. 备忘录<br>[经] 备忘录| 
 merchant|'mә:tʃәnt| |n. a businessperson engaged in retail trade|n. 商人, 店主<br>a. 商业的, 商人的| 
-mercurial|mә:'kjuәriәl| |a. relating to or under the (astrological) influence of the planet Mercury<br>a. relating to or having characteristics (eloquence, shrewdness, swiftness, thievishness) attributed to the god Mercury<br>a. relating to or containing or caused by mercury|a. 水星的, 敏捷的, 活泼的, 水银的<br>n. 汞剂| 
-merge|mә:dʒ|merged<br>merges<br>merging|v become one<br>v mix together different elements<br>v join or combine|vt. 使合并, 使消失, 吞没<br>vi. 合并, 渐渐消失<br>[计] 合并| 
+mercuri| | | | | 
+merg| |merged<br>merges<br>merging| | | 
 merit|'merit| |n. any admirable quality or attribute|n. 优点, 功绩, 价值, 功过, 真相<br>vt. 值得<br>vi. 应受| 
 mesh|meʃ| |n. the number of openings per linear inch of a screen; measures size of particles<br>n. the act of interlocking or meshing<br>v. work together in harmony|n. 网孔, 网丝, 网眼, 网状物, 圈套, 陷阱, 啮合<br>vt. 以网捕捉, 啮合, 使缠住<br>vi. 落网, 相啮合| 
-messenger|'mesindʒә| |n. a person who carries a message|n. 报信者, 使者<br>[经] 使者, 送信者, 通信员| 
-messy|'mesi| |s. dirty and disorderly|a. 散乱的, 污秽的, 麻烦的| 
+messeng| | | | | 
+messi| | | | 梅西| 
 meta| | | |[计] 元的| 
 meteor|'mi:tiә| |n. a streak of light in the sky at night that results when a meteoroid hits the earth's atmosphere and air friction causes the meteoroid to melt or vaporize or explode|n. 流星, 大气现象| 
 meth|meθ| |n an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant|n. 甲安菲他明（一种兴奋剂）| 
-methodology|.meθә'dɒlәdʒi| |n. the branch of philosophy that analyzes the principles and procedures of inquiry in a particular discipline<br>n. the system of methods followed in a particular discipline|n. 方法学, 方法论<br>[化] 操作法; 工艺| 
+methodolog| | | | | 
 metric|'metrik|metrics|a. based on the meter as a standard of measurement|a. 公尺的, 公制的, 计量的<br>[医] 测量的, 米制的, 公制的| 
 metro|'metrәu| |n. an electric railway operating below the surface of the ground (usually in a city)|n. 地铁| 
-metus| | | |[法] 恐惧, 忧虑, 担心| 
+metu| | | | | 
 mexico| | | | | 
 michael|'maikl| |n. (Old Testament) the guardian archangel of the Jews|n. 迈克尔（男子名）| 
 micro| | |s. extremely small in scale or scope or capability|[计] 表示"小","微","微量","百分之一"| 
-microphone|'maikrәfәun| |n. device for converting sound waves into electrical energy|n. 扩音器, 麦克风<br>[医] 扩音器, 传声器| 
-microseconds|ˈmaikrəusekəndz| |n. one millionth (10^-6) of a second; one thousandth of a millisecond|n. 一百万分之一秒, 微秒( microsecond的复数形式 )| 
+microphon| | | | | 
+microsecond|'maikrәusekәnd| |n. one millionth (10^-6) of a second; one thousandth of a millisecond|n. 微秒<br>[计] 微秒| 
 midi|'midi| |n. the southern part of France<br>a. used of women's clothing having a hemline at mid-calf|n. 中长裙, 乐器数字化接口<br>[计] 乐器数字化接口| 
 midnight|'midnait| |n. 12 o'clock at night; the middle of the night|n. 午夜, 子夜, 半夜<br>a. 午夜的, 半夜的| 
 midpoint|'midpɒint| |n a point equidistant from the ends of a line or the extremities of a figure|n. 中点, 一半| 
-migrate|'maigreit|migrated<br>migrating<br>migration<br>migrations|v. move from one country or region to another and settle there<br>v. move periodically or seasonally|vi. 移动, 移往, 随季节而移居<br>[计] 迁移程序| 
+migrat| |migrated<br>migrating<br>migration<br>migrations| | | 
 mike|maik| |n device for converting sound waves into electrical energy|vi. 偷懒, 游手好闲<br>n. 休息, 游手好闲, 扩音器, 话筒| 
 mile|mail|miles|n. a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters<br>n. a large distance<br>n. an ancient Roman unit of length equivalent to 1620 yards<br>n. a Swedish unit of length equivalent to 10 km|n. 英里, 很大距离<br>[机] 英里, 哩| 
-mileage|'mailidʒ| |n. distance measured in miles<br>n. the ratio of the number of miles traveled to the number of gallons of gasoline burned<br>n. a travel allowance at a given rate per mile traveled|n. 英里数<br>[经] 运费(按英里计算的)| 
-milestone|'mailstәun| |n. stone post at side of a road to show distances<br>n. a significant event in your life (or in a project)|n. 里程碑, 里程石, 里程标| 
+mileag| | | | | 
+mileston| | | | | 
 millisecond|'mili,sekәnd|milliseconds|n. one thousandth (10^-3) of a second|n. 毫秒<br>[计] 毫秒| 
 mime|maim| |n. an actor who communicates entirely by gesture and facial expression<br>n. a performance using gestures and body movements without words<br>v. act out without words but with gestures and bodily movements only|n. 哑剧, 小丑, 滑稽戏<br>v. 摸拟表演<br>[计] 多用途互连网邮件扩展| 
 mimic|'mimik| |n. someone who mimics (especially an actor or actress)<br>v. imitate (a person or manner), especially for satirical effect<br>s. constituting an imitation|a. 模仿的, 摹拟的<br>n. 效颦者, 模仿者, 小丑, 仿制品<br>vt. 模仿, 摹拟| 
 mini|'mini|miny|a. used of women's clothing; very short with hemline above the knee|n. 同类中的极小者, 微型汽车, 超短裙<br>a. 微型的| 
-minified|ˈminifaid|minify|imp. & p. p. of Minify|v. 缩小( minify的过去式和过去分词 )| 
+minifi| |minify| | | 
 minim|'minim|minimal<br>minimize<br>minimized|n. a British imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters<br>n. a United States liquid unit equal to 1/60 fluidram|n. 量滴(液量单位), 一滴, 微量<br>[医] 量滴| 
 minimum|'minimәm| |n. the smallest possible quantity<br>n. the point on a curve where the tangent changes from negative on the left to positive on the right|a. 最小的, 最低的<br>n. 最小值<br>[计] 最小值| 
 mint|mint| |n. any north temperate plant of the genus Mentha with aromatic leaves and small mauve flowers<br>n. any member of the mint family of plants<br>n. the leaves of a mint plant used fresh or candied<br>n. a candy that is flavored with a mint oil|n. 薄荷, 造币厂, 巨额<br>vt. 铸造, 铸币, 制造| 
-minus|'mainәs| |a. on the negative side or lower end of a scale<br>s. involving disadvantage or harm|n. 负号, 不足<br>a. 减的, 负的, 阴性的<br>prep. 减, 缺<br>[计] 负差| 
+minu| | | | | 
 minx|miŋks| |n a seductive woman who uses her sex appeal to exploit men|n. 轻佻女子, 风骚女子| 
 misc| | | |[计] 杂类新闻组<br>[经] 多种外汇报价| 
-miscellaneous|.misә'leinjәs| |s consisting of a haphazard assortment of different kinds<br>s having many aspects|a. 各种的, 多方面的<br>[法] 各种的, 不同性质的| 
-misleading|mis'li:diŋ| |v lead someone in the wrong direction or give someone wrong directions<br>v give false or misleading information to<br>s designed to deceive or mislead either deliberately or inadvertently|a. 引入歧途的, 使人误解的, 骗人的<br>[法] 误写姓名的, 误称的, 令人误解的| 
+miscellan| | | | | 
+mislead|mis'li:d| |v. lead someone in the wrong direction or give someone wrong directions|vt. 误导| 
 mismatch|mis'mætʃ| |n. a bad or unsuitable match<br>v. match badly; match two objects or people that do not go together|n. 错配<br>vt. 错配, 使...成不相配的婚姻| 
 mistaken|mis'teikәn| |v identify incorrectly<br>v to make a mistake or be incorrect<br>s wrong in e.g. opinion or judgment<br>s arising from error|a. 犯错的, 错误的<br>mistake的过去分词| 
-misunderstanding|.misʌndә'stændiŋ| |n putting the wrong interpretation on<br>n an understanding of something that is not correct<br>v interpret in the wrong way|n. 误会, 误解<br>[法] 误解, 误会, 不和| 
+misunderstand|.misʌndә'stænd| |v interpret in the wrong way|vt. 误解, 误会| 
 misunderstood|,misʌndә'stjd| |s. wrongly understood|misunderstand的过去式和过去分词| 
-mitigate|'mitigeit| |v. make less severe or harsh|vt. 温和, 缓和, 减轻<br>[医] 缓和, 减轻| 
+mitig| | | | | 
 mixer|'miksә| |n. club soda or fruit juice used to mix with alcohol<br>n. electronic equipment that mixes two or more input signals to give a single output signal<br>n. a kitchen utensil that is used for mixing foods|n. 混合者, 混合器, 搅拌机, 搅拌器, 混频器, (非正式)交际家, 与人相处的人<br>[计] 混频器, 音装置| 
 mmmm| | | |abbr. multiunit network management and maintenance message 多单元网络管理与维护消息| 
-mobile|'mәubil| |n. a river in southwestern Alabama; flows into Mobile Bay<br>n. a port in southwestern Alabama on Mobile Bay<br>n. sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents<br>s. migratory|a. 移动的, 易变的, 机动的<br>n. 活动物体| 
+mobil| | | |n. 美孚石油公司（世界上最著名的石油公司之一）| 
 mocha|'mәukә| |n. soft suede glove leather from goatskin<br>n. a flavoring made from coffee mixed with chocolate<br>n. a superior dark coffee made from beans from Arabia|n. 穆哈上等咖啡<br>a. 用咖啡调味的| 
 mock|mɒk|mocked<br>mocking<br>mocks|n. the act of mocking or ridiculing<br>v. treat with contempt<br>v. imitate with mockery and derision<br>s. constituting a copy or imitation of something|n. 嘲笑, 戏弄, 模仿<br>a. 假的, 伪造的, 模拟的<br>adv. 虚伪地<br>vt. 嘲弄, 模仿, 使失望, 欺骗, 挫败<br>vi. 嘲弄| 
 modal|'mәudl| |s. relating to or constituting the most frequent value in a distribution<br>a. of or relating to a musical mode; especially written in an ecclesiastical mode<br>a. relating to or expressing the mood of a verb|a. 形式的, 样式的, 形态上的, 模态的<br>[计] 模态的| 
 modem|'mәudem| |n. (from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line|n. 调制解调器<br>[计] 调制解调器| 
-modification|.mɒdifi'keiʃәn|modifications|n. slightly modified copy; not an exact copy<br>n. the grammatical relation that exists when a word qualifies the meaning of the phrase|n. 修正, 修饰, 修改<br>[化] 修饰; 修改| 
-modified|'mɔdifaid|modifier<br>modifiers<br>modifies<br>modify<br>modifying|a. changed in form or character|a. 改良的；改进的, 修改的| 
+modif| |modifications| | | 
+modifi| |modifier<br>modifiers<br>modifies<br>modify<br>modifying| | | 
 modular|'mɒdjulә| |s. constructed with standardized units or dimensions allowing flexibility and variety in use|a. 模数的, 有标准组件的<br>[计] 积木式的; 模块化的| 
-module|'mɒdju:l|modules|n. detachable compartment of a spacecraft<br>n. computer circuit consisting of an assembly of electronic components (as of computer hardware)<br>n. a self-contained component (unit or item) that is used in combination with other components|n. 组件, 模数<br>[计] 模块| 
+modul|'mɔdjul|modules| |[计] 模的| 
 modulo|'mɔdjulәu| | |[计] 模| 
-modulus|'mɒdjulәs| |n. an integer that can be divided without remainder into the difference between two other integers<br>n. the absolute value of a complex number<br>n. (physics) a coefficient that expresses how much of a specified property is possessed by a specified substance|n. 标准, 系数, 模数<br>[化] 模量| 
+modulu| | | | | 
 mojo|'mәudʒәu| |n. a magic power or magic spell|n. 巫术；符咒；运气| 
-molestie| | | | | 
+molesti| | | | | 
 momentum|mәu'mentәm| |n. an impelling force or strength<br>n. the product of a body's mass and its velocity|n. 动力, 动量<br>[化] 动量| 
 monad|'mɒnæd|monads|n. (chemistry) an atom having a valence of one<br>n. a singular metaphysical entity from which material properties are said to derive<br>n. (biology) a single-celled microorganism (especially a flagellate protozoan)|n. 单孢体, 单轴<br>[化] 一价物; 一价基| 
 monday| | | | | 
-monetary|'mʌnitәri| |a. relating to or involving money|a. 货币的, 金钱的<br>[经] 货币的, 金融的| 
+monetari| | | | | 
 mongo|'mɔŋ^әu| |n. 100 mongo equal 1 tugrik in Mongolia|蒙戈(蒙古货币名, 等于1/100图格里克)| 
-mongoose|'mɔŋɡu:s. mɔn-| |n. agile grizzled Old World viverrine; preys on snakes and rodents|n. 猫鼬；獴狐猴（等于mongoose lemur）| 
+mongoos| | | |n. 猫鼬;蒙鼠| 
 monkey|'mʌŋki| |n. any of various long-tailed primates (excluding the prosimians)|n. 猴子, 猿, 打桩锤<br>vi. 淘气, 胡闹<br>vt. 嘲弄| 
 mono|'mɔnәu| |s. designating sound transmission or recording or reproduction over a single channel|a. 单声道的| 
-monopoly|mә'nɒpәli| |n. (economics) a market in which there are many buyers but only one seller<br>n. exclusive control or possession of something<br>n. a board game in which players try to gain a monopoly on real estate as pieces advance around the board according to the throw of a die|n. 垄断, 专卖权, 独占事业<br>[经] 垄断, 专利品, 垄断(权)独占| 
-monospace|'mɒnəspeɪs| | | 单间隔| 
+monopoli| | | | | 
+monospac| | | | | 
 monster|'mɒnstә| |n. an imaginary creature usually having various human and animal parts<br>n. a cruel wicked and inhuman person<br>n. (medicine) a grossly malformed and usually nonviable fetus|n. 怪物, 恶人, 巨物<br>[医] 畸胎| 
-monthly|'mʌnθli| |n. a periodical that is published every month (or 12 issues per year)<br>s. of or occurring or payable every month<br>r. occurring once a month|n. 月刊<br>a. 每月的, 每月一次的| 
-moodle| | | |abbr. 魔灯；阿拉丁神灯；模块化面向对象的动态学习环境（Modular Object-Oriented Dynamic Learning Environment）| 
+monthli| | | | | 
+moodl| | | | | 
 morgan| | | | | 
-motivated|'mәutiveitid| |a. provided with a motive or given incentive for action|a. 有动机的, 目的明确的| 
+motiv| | | | | 
 mousey|'mausi| |a infested with mice<br>s of something having a drab pale brown color resembling a mouse<br>s quiet and timid and ineffectual|a. 像老鼠的, 多鼠的| 
 msec| | |n one thousandth (10^-3) of a second|[计] 毫秒<br>[医] 毫秒| 
 mule|mju:l| |n. hybrid offspring of a male donkey and a female horse; usually sterile<br>n. a slipper that has no fitting around the heel|n. 骡, 倔强之人| 
 mult| | | |abbr. multiple 多元; 多重; 复合; multiplication 乘法| 
 multi| | | |[计] 多| 
 multicast| | | |[计] 多址通信, 多点传送| 
-multidimensional|.mʌltidi'menʃәnl| |a. having or involving or marked by several dimensions or aspects|a. 多面的, 多维的| 
+multidimension| | | |[计] 多维| 
 multimedia|.mʌlti'mi:diә| |n. transmission that combine media of communication (text and graphics and sound etc.)|n. 多媒体<br>[计] 多媒体| 
-multiples| |multiplication|n the product of a quantity by an integer|n. 跨国公司；多倍制图仪；连票；倍数| 
-multiplied|'mʌltɪplaɪd|multiplier<br>multiply<br>multiplying|imp. & p. p. of Multiply|v. 乘( multiply的过去式和过去分词 ); （使）相乘; （使）增加; （使）繁殖| 
-multiprocessing|'mʌlti,prɔsesiŋ| |n. simultaneous processing by two or more processing units|[计] 多重处理, 多道处理| 
-multithreaded| | |past participle of multithread|(multithread 的过去分词) [计] 多流| 
-mustache|'mʌstæʃ| |n. an unshaved growth of hair on the upper lip|n. 髭, 胡子| 
-mutable|'mju:tәbl| |a. capable of or tending to change in form or quality or nature|a. 易变的, 性情不定的| 
-mutate|'mju:teit|mutating<br>mutation<br>mutations|v. undergo mutation|vi. 变化, 产生变异, 变化元音<br>vt. 使变异| 
+multipl| |multiplication| | | 
+multipli| |multiplier<br>multiply<br>multiplying| | | 
+multiprocess| | | |[计] 多过程, 多进程, 多重处理| 
+multithread| | | |[计] 多流| 
+mustach| | | | | 
+mutabl| | | | | 
+mutat| |mutating<br>mutation<br>mutations| | | 
 mute|mju:t|muted|n. a deaf person who is unable to speak<br>n. a device used to soften the tone of a musical instrument<br>s. expressed without speech|n. 哑子, 哑音字母, 弱音器<br>a. 哑的, 无声的, 沉默的<br>vt. 减弱...的声音<br>vi. 排泄| 
 
 
@@ -1842,70 +1842,70 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 naam| | | |[法] 扣取, 动产扣押| 
 nail|neil| |n. horny plate covering and protecting part of the dorsal surface of the digits<br>n. a thin pointed piece of metal that is hammered into materials as a fastener<br>n. a former unit of length for cloth equal to 1/16 of a yard<br>v. attach something somewhere by means of nails|n. 钉子, 指甲<br>vt. 用钉钉牢, 使固定, 截住, 揭露| 
-naive|nɑ:'i:v| |a. marked by or showing unaffected simplicity and lack of guile or worldly experience<br>s. inexperienced|a. 天真的, 纯真的, 幼稚的| 
+naiv| | | | | 
 nama|'nɑ:mɑ:| | |n. 那马部族（西南非洲霍屯督族中的一主要部落）| 
-nanoseconds| | |plural of nanosecond<br>n. one billionth (10^-9) of a second; one thousandth of a microsecond|(nanosecond 的复数) n. 毫微秒<br>[计] 毫微秒, 纳秒| 
+nanosecond|'nænәusekәnd| |n. one billionth (10^-9) of a second; one thousandth of a microsecond|n. 毫微秒<br>[计] 毫微秒, 纳秒| 
 nasa| | | | | 
-nasty|'nɑ:sti| |a. offensive or even (of persons) malicious<br>s. exasperatingly difficult to handle or circumvent|a. 污秽的, 下流的, 险恶的| 
-navigate|'nævigeit|navigated<br>navigates<br>navigating<br>navigation<br>navigator|v. act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance<br>v. direct carefully and safely|vi. 航行<br>vt. 航行于, 驾驶, 操纵, 使通过| 
+nasti| | | | | 
+navig| |navigated<br>navigates<br>navigating<br>navigation<br>navigator| | | 
 nearest| | |r. (superlative of `near' or `close') within the shortest distance|a. 最近的（near的最高级）| 
 neat|ni:t| |s. clean or organized<br>s. showing care in execution<br>s. free from what is tawdry or unbecoming<br>s. without water|a. 整洁的, 巧妙的, 匀称的, 简洁的<br>n. 牛| 
-necessity|ni'sesәti| |n. the condition of being essential or indispensable<br>n. anything indispensable|n. 需要, 必需品, 必然<br>[法] 必要性, 必然性, 必要| 
-needle|'ni:dl| |n. a slender pointer for indicating the reading on the scale of a measuring instrument<br>n. a sharp pointed implement (usually steel)<br>v. goad or provoke,as by constant criticism<br>v. prick with a needle|n. 针, 尖<br>vt. 用针缝<br>vi. 缝纫<br>[计] 探针| 
+necess| | | |suff. 表示“必需的”| 
+needl| | | | | 
 needless|'ni:dlis| |n the leaf of a conifer<br>n a slender pointer for indicating the reading on the scale of a measuring instrument<br>n a sharp pointed implement (usually steel)<br>n a stylus that formerly made sound by following a groove in a phonograph record<br>v goad or provoke,as by constant criticism<br>v prick with a needle<br>s unnecessary and unwarranted|a. 不需要的, 不必要的| 
-negate|ni'geit| |v. prove negative; show to be false|vt. 否定, 否认, 取消<br>[计] 非| 
-negligible|'neglidʒәbl| |s. so small as to be meaningless; insignificant<br>s. not worth considering|a. 可以忽略的, 不足取的, 无用的<br>[医] 可不计的, 可忽视的| 
-neighbours|ˈneibəz| |n a person who lives (or is located) near another<br>n a nearby object of the same kind<br>v live or be located as a neighbor<br>v be located near or adjacent to|n. 邻居( neighbour的名词复数 ); 邻近的人[物]; 邻国; 世人| 
+negat| | | | | 
+neglig| | | | | 
+neighbour|'neibә| |n a person who lives (or is located) near another<br>n a nearby object of the same kind<br>v live or be located as a neighbor<br>v be located near or adjacent to|n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人<br>a. 邻接的, 邻近的<br>vi.vt. 邻近, 与...结邻, 邻接| 
 neon|'ni:ɒn| |n. a colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses; occurs in the air in small amounts|n. 氖<br>[化] 氖Ne| 
 nest|nest|nested<br>nesting|n. a structure in which animals lay eggs or give birth to their young<br>n. a kind of gun emplacement<br>n. a cosy or secluded retreat<br>n. a gang of people (criminals or spies or terrorists) assembled in one locality|n. 巢, 窝, 休息所, 隐匿处<br>vi. 筑巢, 找鸟巢<br>vt. 为...设窝, 使套叠<br>[计] 嵌套| 
-netherlands| | | | | 
-netty|'neti| |a. Like a net, or network; netted.|a. 网状的| 
+netherland| | | | | 
+netti| | | | | 
 neural|'njuәrәl| |a. of or relating to neurons|a. 神经的, 神经系统的, 神经中枢的, 背的<br>[医] 神经的| 
-neurons| | |n. a cell that is specialized to conduct nerve impulses|n. 神经元（neuron的复数形式）| 
+neuron|'njuәrɔn| |n a cell that is specialized to conduct nerve impulses|n. 神经原, 轴索, 神经细胞<br>[计] 神经元| 
 newer| | |a not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered<br>s original and of a kind not seen before<br>s lacking training or experience<br>s having no previous example or precedent or parallel<br>s other than the former one(s); different<br>a unaffected by use or exposure<br>s (of a new kind or fashion) gratuitously new<br>s in use after medieval times<br>s used of a living language; being the current stage in its development<br>s (of crops) harvested at an early stage of development; before complete maturity<br>s unfamiliar|a. 更新的, 更新| 
 newest| | |a not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered<br>s original and of a kind not seen before<br>s lacking training or experience<br>s having no previous example or precedent or parallel<br>s other than the former one(s); different<br>a unaffected by use or exposure<br>s (of a new kind or fashion) gratuitously new<br>s in use after medieval times<br>s used of a living language; being the current stage in its development<br>s (of crops) harvested at an early stage of development; before complete maturity<br>s unfamiliar|最新| 
-newline|ˊnjuːlain|newlines| |新的一行| 
-newsletter|'nju:z.letә| |n. report or open letter giving informal or confidential news of interest to a special group|n. 时事通讯, 业务通讯, 时事传报<br>[法] 时事通讯, 时事信札| 
+newlin| |newlines| | [人名] 纽林; [地名] [美国] 纽林| 
+newslett| | | | | 
 newton|'nju:tn| |n. English mathematician and physicist; remembered for developing the calculus and for his law of gravitation and his three laws of motion (1642-1727)<br>n. a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes|n. 牛顿<br>[化] 牛顿| 
-nexus|'neksәs| |n. a connected series or group|n. 连结, 关系<br>[化] 融合膜| 
+nexu| | | | | 
 nicer| | |a pleasant or pleasing or agreeable in nature or appearance<br>s socially or conventionally correct; refined or virtuous<br>s done with delicacy and skill<br>s excessively fastidious and easily disgusted<br>s exhibiting courtesy and politeness|a. 良好的| 
-niche|nitʃ| |n. a position particularly well suited to the person who occupies it<br>n. (ecology) the status of an organism within its environment and community (affecting its survival as a species)|n. 壁龛<br>vt. 放入壁龛, 安顿| 
+nich| | | |abbr. 新生儿颅内出血（neonatal intracranial hemorrhage）| 
 nick|nik| |n. (British slang) a prison<br>v. cut slightly, with a razor<br>v. cut a nick into<br>v. divide or reset the tail muscles of|n. 刻痕, 缺口, 划痕<br>vt. 刻痕于, 弄缺, 擦伤<br>vi. 狙击| 
-nickname|'nikneim| |n. a familiar name for a person (often a shortened version of a person's given name)<br>n. a descriptive name for a place or thing|n. 绰号, 昵称<br>vt. 给...取绰号, 叫错名字<br>[计] 绰号| 
-nifty|'nifti| |s very good|a. 俏皮的, 时髦的<br>n. 俏皮话, 漂亮话| 
-nightly|'naitli| |s. happening every night<br>r. at the end of each day|a. 每夜的, 夜间的<br>adv. 每夜| 
-nightmare|'naitmєә| |n. a situation resembling a terrifying dream<br>n. a terrifying or deeply upsetting dream|n. 梦魇, 恶梦, 可怕的事物(或情景、人物)<br>[医] 梦魇, 恶梦| 
+nicknam| | | | | 
+nifti| | | | | 
+nightli| | | | | 
+nightmar| | | | | 
 ninja|'nindʒә| |n. a member of the ninja who were trained in martial arts and hired for espionage or sabotage or assassinations; a person skilled in ninjutsu<br>n. a class of 14th century Japanese who were trained in martial arts and were hired for espionage and assassinations|n. （受过偷窃技术专门训练被雇作间谍或刺客的）日本武士| 
 nisi|'naisai| |s. not final or absolute|[法] 除非, 不然则| 
 node|nәud|nodes|n. a connecting point at which several lines come together<br>n. any thickened enlargement<br>n. (botany) the small swelling that is the part of a plant stem from which one or more leaves emerge<br>n. (physics) the point of minimum displacement in a periodic system|n. 节, 结节, 瘤<br>[计] 节点; 结点| 
-noisy|'nɒizi| |a. full of or characterized by loud and nonmusical sounds<br>s. attracting attention by showiness or bright colors|a. 嘈杂的, 喧闹的<br>[机] 噪声的, 嘈杂的| 
+noisi| | | | | 
 nome|nәum| |n. a town in western Alaska on the southern coast of the Seward Peninsula; an important center of an Alaskan gold rush at the beginning of the 20th century|n. （古埃及的）省；（现代希腊的）州| 
-nonatomic|'nɔnә'tɔmik| | |无原子的| 
-nonce|nɒns| |n the present occasion|n. 特定场合, 当前<br>a. 特定场合的| 
-nonsense|'nɒnsәns| |n. a message that seems to convey no meaning<br>s. having no intelligible meaning|n. 无意义的事, 荒谬言行, 荒唐| 
+nonatom| | | | | 
+nonc| | | | | 
+nonsens| | | | | 
 nonzero|nɔn'ziәrәu| | |a. 非零的| 
 noop| | | | | 
 nope|nәup| |n. A bullfinch.|adv. 不, 不是| 
 norm|nɒ:m| |n. a standard or model or pattern regarded as typical|n. 基准, 模范, 标准, 准则, 平均数<br>[化] 定额| 
-notable|'nәutәbl|notably|n a celebrity who is an inspiration to others<br>s worthy of notice<br>s widely known and esteemed|n. 著名人士, 值得注意之事物<br>a. 值得注意的, 显著的| 
-notation|nәu'teiʃәn| |n. a technical system of symbols used to represent special things<br>n. the activity of representing something by a special system of marks or characters|n. 记号, 符号表示法, 注释<br>[计] 记数法| 
+notabl| |notably| | | 
+notat| | | | | 
 notebook|'nәutbuk|notebooks|n. a book with blank pages for recording notes or memoranda<br>n. a small compact portable computer|n. 笔记本, 手册, 期票簿| 
 notepad| | |n. a pad of paper for keeping notes|n. 记事本<br>[计] 记事本| 
-noticeable|'nәutisәbl|noticed<br>notices<br>noticing|a. capable or worthy of being perceived<br>s. readily noticed|a. 显而易见的, 显著的, 值得注意的| 
-notification|.nәutifi'keiʃәn|notifications|n. a request for payment|n. 通知, 通告, 告示<br>[经] 通知, 通知书| 
-notified|ˈnəutifaid|notifier<br>notify|v inform (somebody) of something|v. 通知, 告知, 报告( notify的过去式和过去分词 )| 
+notic| |noticed<br>notices<br>noticing| | | 
+notif| |notifications| | | 
+notifi| |notifier<br>notify| | | 
 noun|naun| |n. a content word that can be used to refer to a person, place, thing, quality, or action<br>n. the word class that can serve as the subject or object of a verb, the object of a preposition, or in apposition|n. 名词| 
 nova|'nәuvә| |n. a star that ejects some of its material in the form of a cloud and become more luminous in the process|n. 新星<br>[计] 诺瓦计算机| 
-november| | | | | 
-novice|'nɒvis| |n. someone new to a field or activity|n. 新手, 初学者| 
-nowadays|'nauәdeiz| |r. in these times|n. 现在, 现时, 当今<br>adv. 时下, 现今| 
+novemb| | | | | 
+novic| | | | | 
+nowaday|'nauәdei| | |a. 现在的, 当前的| 
 null|nʌl|nulls|s. lacking any legal or binding force|a. 无效力的, 无效的, 无价值的<br>n. 零, 空, 零位<br>[计] 空| 
-nullable| | | |[计] 可空的| 
+nullabl| | | | | 
 numb|nʌm| |v. make numb or insensitive<br>s. so frightened as to be unable to move; stunned or paralyzed with terror; petrified|a. 麻木的, 失去知觉的<br>vt. 使麻木, 使昏迷, 使失去知觉| 
-numerator|'nju:mәreitә|numeric<br>numerical|n. the dividend of a fraction|n. 分子, 计算者, 计算的东西| 
+numer|n'ju:mər|numeric<br>numerical| |abbr. numeral 数字; numerical 数字的| 
 numero| | |n. Number; -- often abbrev. No.|n. 号, 期| 
 nunc|'nʌŋk| | |abbr. nuncupative 口述的| 
-nutshell|'nʌtʃel| |n. the shell around the kernel of a nut|n. 坚果壳, 极小的东西| 
+nutshel| | | | | 
 
 
 ## O
@@ -1914,71 +1914,71 @@ nutshell|'nʌtʃel| |n. the shell around the kernel of a nut|n. 坚果壳, 极�
 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
-oasis|әu'eisis| |n. a fertile tract in a desert (where the water table approaches the surface)|n. 绿洲, 舒适的地方<br>[医] 绿洲(沙漠中), 健岛(病变区中的健康组织)| 
-obfuscate|ɒb'fʌskeit|obfuscated<br>obfuscation|v. make obscure or unclear|vt. 弄暗, 使模糊, 使迷惑| 
-obscure|әb'skjuә| |v. make less visible or unclear<br>v. make obscure or unclear<br>v. reduce a vowel to a neutral one, such as a schwa<br>v. make undecipherable or imperceptible by obscuring or concealing|a. 模糊的, 昏暗的, 难解的, 晦涩的, 偏僻的, 微贱的, 无名的<br>vt. 使变暗, 隐藏, 使变模糊, 使难解| 
-obsolete|'ɒbsәli:t| |s no longer in use|a. 荒废的, 成废物的, 陈旧的, 老式的<br>n. 废词, 废物| 
-obstacle|'ɒbstәkl| |n. something immaterial that stands in the way and must be circumvented or surmounted<br>n. an obstruction that stands in the way (and must be removed or surmounted or circumvented)|n. 障碍, 妨害物, 阻碍| 
-occasions|əˈkeiʒənz| |n something you have to do<br>n an event that occurs at a critical time<br>n a vaguely specified social event<br>n reason<br>n the time of a particular event<br>n an opportunity to do something<br>v give occasion to|n. 机会( occasion的名词复数 ); 时刻; 原因; 需要| 
-occurrence|ә'kʌrәns|occurrences|n. an instance of something occurring|n. 发生, 事件, 出现<br>[医] 发生| 
+oasi| | | | | 
+obfusc|'ɒbfəsk|obfuscated<br>obfuscation| |abbr. obfuscated 昏迷的，困惑的| 
+obscur| | | |n. 遮蔽| 
+obsolet| | | | | 
+obstacl| | | | | 
+occas| | | | | 
+occurr| |occurrences| | | 
 octal|'ɒktәl| |a. of or pertaining to a number system having 8 as its base|a. 八进制的<br>[电] 八进| 
-octave|'ɔkteiv, -tiv| |n. a feast day and the seven days following it<br>n. a musical interval of eight tones<br>n. a rhythmic group of eight lines of verse|n. 八音度, 低八度音, 高八度音<br>[电] 八音度| 
+octav| | | | | 
 octet|ɔk'tet| |n. eight performers or singers who perform together<br>n. a set of eight similar things considered as a unit<br>n. eight people considered as a unit|[计] 八位二进制数的位组; 八位字节<br>[化] 八隅体; 八角; 八角体; 八重态; 八重线; 八重峰| 
-october| | | | | 
-oddly|'ɒdli| |r in a manner differing from the usual or expected<br>r in a strange manner|adv. 奇怪地| 
-offending|ә'fendiŋ| |a. offending against or breaking a law or rule|a. 不愉快的；厌恶的| 
-offline| | | |[计] 挂线, 脱机| 
+octob| | | | | 
+oddli| | | | | 
+offend|ә'fend| |v cause to feel resentment or indignation<br>v act in disregard of laws, rules, contracts, or promises<br>v strike with disgust or revulsion<br>v hurt the feelings of|v. 犯罪, 冒犯, 违反, 进攻| 
+offlin| | | | | 
 offset|'ɒ:fset|offsets|n. a plate makes an inked impression on a rubber-blanketed cylinder, which in turn transfers it to the paper<br>v. compensate for or counterbalance<br>v. cause (printed matter) to transfer or smear onto another surface<br>v. create an offset in|n. 抵消, 把...并列, 旁系, 支管, 用胶印法印<br>vt. 弥补, 抵消, 胶印<br>vi. 装支管<br>n. 偏移量<br>[计] 偏移量| 
 older|'әuldә| |s advanced in years; (`aged' is pronounced as two syllables)<br>s used of the older of two persons of the same name especially used to distinguish a father from his son<br>s skilled through long experience<br>a (used especially of persons) having lived for a relatively long time or attained a specific age<br>a of long duration; not new<br>s (used for emphasis) very familiar<br>s skilled through long experience<br>s belonging to some prior time<br>s (used informally especially for emphasis)<br>s of a very early stage in development<br>s just preceding something else in time or order|a. 年长的；较旧的| 
 oldest|'әuldist| |a (used especially of persons) having lived for a relatively long time or attained a specific age<br>a of long duration; not new<br>s (used for emphasis) very familiar<br>s skilled through long experience<br>s belonging to some prior time<br>s (used informally especially for emphasis)<br>s of a very early stage in development<br>s just preceding something else in time or order|a. 最旧的；最老的（old的最高级）| 
 omega|'әumigә| |n. the ending of a series or sequence<br>n. the last (24th) letter of the Greek alphabet|n. 希腊字母的最后一个字, 终了, 最后<br>[医] ω(希腊文第二十四个字母)| 
 omit|әu'mit|omitted<br>omitting|v prevent from being included or considered or accepted<br>v leave undone or leave out|vt. 省略, 删除, 疏忽, 遗漏<br>[化] 省略| 
-ontology|ɒn'tɒlәdʒi| |n. (computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations<br>n. the metaphysical study of the nature of being and existence|n. 存在论, 本体论, 实体论| 
-onwards|'ɔnwә:dz| |r in a forward direction|adv. 向前, 在前面| 
-opacity|әu'pæsiti| |n. the phenomenon of not permitting the passage of electromagnetic radiation<br>n. incomprehensibility resulting from obscurity of meaning<br>n. the quality of being opaque to a degree; the degree to which something reduces the passage of light|n. 不透明, 电波不透过, 不透明体<br>[医] 浑浊, 不透明, 不透光, 不透明区, 浊斑| 
-opaque|әu'peik| |a. not transmitting or reflecting light or radiant energy; impenetrable to sight<br>s. not clearly understood or expressed|n. 不透明物<br>a. 不透明的, 不传热的, 不传导的, 阴暗的<br>[计] 白底| 
-opcode| | | |n. 操作码；作业码| 
+ontolog| | | | | 
+onward|'ɒnwәd| |r forward in time or order or degree<br>r in a forward direction|a. 向前的, 前进的<br>adv. 向前, 前进, 在先| 
+opac| | | | | 
+opaqu| | | | | 
+opcod| | | | | 
 opera|'ɒpәrә| |n. a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes<br>n. a commercial browser<br>n. a building where musical dramas are performed|n. 歌剧| 
 operand|'ɔpә,rænd|operands|n. a quantity upon which a mathematical operation is performed|[计] 运算对象<br>[经] 操作数, 运算数, 运算对象| 
-opportunities|ˌɒpə'tju:nɪtɪs| |n a possibility due to a favorable combination of circumstances|n. 机会( opportunity的名词复数 ); 适当的时机; 条件; 就业（或晋升、进步等）的良机| 
-optimal|'ɒptimәl|optimization<br>optimizations<br>optimize<br>optimized<br>optimizer<br>optimizing|s most desirable possible under a restriction expressed or implied|a. 最佳的, 最理想的<br>[化] 最优的| 
-optimise|'ɒptɪmaɪz|optimised|v make optimal; get the most out of; use best<br>v modify to achieve maximum efficiency in storage capacity or time or cost<br>v act as an optimist and take a sunny view of the world|vt. 使最优化, 使尽可能有效| 
-optimistic|.ɒpti'mistik| |a. expecting the best in this best of all possible worlds|a. 乐观的, 乐观主义的, 乐天的| 
-oracle|'ɒ:rәkl| |n. a prophecy (usually obscure or allegorical) revealed by a priest or priestess; believed to be infallible<br>n. a shrine where an oracular god is consulted|n. 神谕, 神谕处, 预言| 
-oranges| | |n round yellow to orange fruit of any of several citrus trees<br>n orange color or pigment; any of a range of colors between red and yellow<br>n any citrus tree bearing oranges<br>n any pigment producing the orange color<br>n a river in South Africa that flows generally westward to the Atlantic Ocean|n. 柑桔, 橙子（orange复数形式）| 
+opportun| | | | | 
+optim| |optimization<br>optimizations<br>optimize<br>optimized<br>optimizer<br>optimizing| | | 
+optimis| |optimised| | | 
+optimist|'ɔptimist| |n. a person disposed to take a favorable view of things|n. 乐观者, 乐观主义者| 
+oracl| | | | | 
+orang|'ɔ:rәŋ. ɔ:'ræŋ| |n large long-armed ape of Borneo and Sumatra having arboreal habits|n. 猩猩（等于orangutan）| 
 orchard|'ɒ:tʃәd| |n garden consisting of a small cultivated wood without undergrowth|n. 果园, 果树林| 
-ordinal|'ɒ:dinәl|ordinates|a. of or relating to a taxonomic order<br>a. being or denoting a numerical order in a series|n. 序数<br>a. 顺序的, 依次的| 
-organisation|,ɔ: ^әnaizeiʃən; - ni'z-| |n the persons (or committees or departments etc.) who make up a body for the purpose of administering something<br>n a group of people who work together<br>n an organized structure for arranging or classifying<br>n an ordered manner; orderliness by virtue of being methodical and well organized<br>n the act of organizing a business or an activity related to a business<br>n the activity or result of distributing or disposing persons or things properly or methodically<br>n the act of forming or establishing something|n. 组织, 团体, 体制, 编制| 
+ordin| |ordinates| | | 
+organis| | | | | 
 orient|'ɒ:riәnt|orientations<br>oriented|v. be oriented<br>v. determine one's position with reference to another point<br>v. cause to point<br>v. familiarize (someone) with new surroundings or circumstances|n. 东方, 东方诸国<br>a. 东方的<br>vi. 向东<br>vt. 使朝东, 使适应, 确定方向| 
 orig| | | |originally 最初；original 正本；origin 起源；originator 创始人| 
-orthogonal|ɒ:'θɒgәnl| |s. statistically unrelated<br>s. having a set of mutually perpendicular axes; meeting at right angles|a. 直角的, 正交的<br>n. 正交直线, 矩形面| 
+orthogon|'ɔ:θә^ɔn| |n. A rectangular figure.|n. 矩形,长方形| 
 outbound|'autbaund| |s. that is going out or leaving|a. 开往国外的<br>[计] 出站| 
-outcomes|ˈautkʌmz| |n. something that results<br>n. a phenomenon that follows and is caused by some previous phenomenon|n. 结果( outcome的复数形式 )| 
-outdated|.aut'deitid| |s. old; no longer valid or fashionable|a. 旧式的, 落伍的, 过时的| 
+outcom| | | | | 
+outdat| | | | | 
 outer|'autә| |a. being on the outside or further from a center<br>s. located outside<br>s. being on or toward the outside of the body|a. 外部的, 外面的, 在外的, 远离中心的<br>[机] 外部的, 外面的, 外侧的| 
-outgoing|'autgәuiŋ| |a. leaving a place or a position<br>a. retiring from a position or office|n. 外出, 开支, 流出<br>a. 喜欢外出的, 即将离职的, 乐于助人的| 
+outgo|.aut'gәu| |n. money paid out; an amount spent|n. 外出, 支出, 出口<br>vt. 胜过, 优于| 
 outlet|'autlet|outlets|n a place of business for retailing goods<br>n receptacle providing a place in a wiring system where current can be taken to run electrical devices<br>n an opening that permits escape or release<br>n activity that frees or expresses creative energy or emotion|n. 出口, 发泄方法, 市场<br>[医] 出口| 
-outliers| | |plural of outlier<br>n. a person who lives away from his place of work<br>n. an extreme deviation from the mean|(outlier 的复数) n. 露宿者<br>[化] 异常值| 
-outline|'autlain|outlined|n. the line that appears to bound an object<br>n. a sketchy summary of the main points of an argument or theory<br>n. a schematic or preliminary plan|n. 大纲, 轮廓, 概要<br>vt. 描画轮廓, 描述要点<br>n. 大纲, 分级, 轮廓<br>[计] 大纲, 分级, 轮廓| 
+outlier|'autlaiә| |n. a person who lives away from his place of work<br>n. an extreme deviation from the mean|n. 露宿者<br>[化] 异常值| 
+outlin| |outlined| | | 
 outlook|'autluk| |n a habitual or characteristic mental attitude that determines how you will interpret and respond to situations<br>n belief about (or mental picture of) the future<br>n the act of looking out|n. 观点, 景色, 前途, 了望<br>[经] 展望| 
 output|'autput|outputs<br>outputted<br>outputting|n. production of a certain amount<br>n. the quantity of something (as a commodity) that is created (usually within a given period of time)<br>n. what is produced in a given time period<br>v. to create or manufacture a specific amount|n. 输出, 产品, 产量<br>[计] 输出| 
 outright|'autrait| |s. without reservation or exception<br>r. without restrictions or stipulations or further payments<br>r. without reservation or concealment|a. 率直的, 完全的, 总共的, 直率的<br>adv. 完全地, 率直地, 立刻地, 一直向前| 
-outstanding|.aut'stændiŋ| |s. distinguished from others in excellence<br>s. having a quality that thrusts itself into attention<br>s. owed as a debt|a. 杰出的, 突出的, 未偿付的, 未决定的<br>[经] 未解决的, 未偿付| 
-outstate|'autsteit| | |<美> n.(尤指密歇根和威斯康星州的)州内乡村地区| 
+outstand|aut'stænd| |v. i. To stand out, or project, from a surface or mass;<br>   hence, to remain standing out.<br>v. t. To resist effectually; to withstand; to sustain<br>   without yielding.<br>v. t. To stay beyond.|[古]忍耐, 停留,凸出, 突出, 卓然独立| 
+outstat| | | | | 
 outstream| | | | | 
 oval|'әuvәl| |n a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it<br>s rounded like an egg|n. 椭圆形<br>a. 卵形的, 椭圆形的| 
 overflow|.әuvә'flәu|overflows|n. the occurrence of surplus liquid (as water) exceeding the limit or capacity<br>v. flow or run over (a limit or brim)|n. 溢值, 超值, 泛滥<br>v. (使)泛滥, (使)溢出, (使)充溢<br>[计] 上溢; 溢出| 
 overhead|'әuvәhed| |n. (nautical) the top surface of an enclosed space on a ship<br>n. a hard return hitting the tennis ball above your head<br>a. located or originating from above<br>r. above your head; in the sky|n. 经常开支, 普通用费, 天花板<br>a. 在头上的, 高架的<br>adv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地<br>[计] 总开销; 额外开销| 
-overkill|'әuvәkil| |n. the capability to obliterate a target with more weapons (especially nuclear weapons) than are required<br>n. any effort that seems to go farther than would be necessary to achieve its goal|n. 超量毁伤, 过度杀伤威力<br>vt. 过度地杀伤| 
+overkil| | | | | 
 overlap|.әuvә'læp|overlapped<br>overlapping<br>overlaps|n. a representation of common ground between theories or phenomena<br>n. the property of partial coincidence in time<br>v. coincide partially or wholly<br>v. extend over and cover a part of|n. 重叠, 重复, 部分的同时发生<br>vt. 重叠, 重复, 与...同时发生<br>vi. 迭盖, 部分的同时发生<br>[计] 重叠| 
 overlay|.әuvә'lei|overlays|n. a layer of decorative material (such as gold leaf or wood veneer) applied over a surface<br>v. put something on top of something else|n. 覆盖, 覆盖图, 使负担过重<br>overlie的过去式<br>[计] 覆盖, 覆盖图| 
 overload|.әuvә'lәud|overloaded<br>overloading<br>overloads|n. an electrical load that exceeds the available electrical power<br>n. an excessive burden<br>v. become overloaded<br>v. place too much a load on|vt. 超载, 过载, 超过负荷<br>n. 超载, 负荷过多| 
-overly|'әuvәli| |r to a degree exceeding normal or proper limits|adv. 过度地, 极度地| 
+overli| | | | | 
 overridden| | |v rule against<br>v prevail over<br>v counteract the normal operation of (an automatic gear shift in a vehicle)<br>v ride (a horse) too hard|override的过去分词| 
-override|.әuvә'raid|overrides<br>overriding|n. a manually operated device to correct the operation of an automatic device<br>v. prevail over<br>v. counteract the normal operation of (an automatic gear shift in a vehicle)<br>v. ride (a horse) too hard|vt. 推翻, 无视, 对...有最后发言权, 制服, 践踏, 奔越过<br>[经] 代理佣金, 代销佣金| 
-overtime|'әuvәtaim| |n. work done in addition to regular working hours<br>n. playing time beyond regulation, to break a tie<br>r. beyond the regular time|n. 超时, 加班, 延长时间<br>a. 超时的, 加班的<br>adv. 加班地<br>vt. 使超过时间| 
+overrid| |overrides<br>overriding| | | 
+overtim| | | | | 
 overview|'әuvәvju:| |n. a general summary of a subject|n. 概述, 概观, 总的看法<br>[计] 概述| 
-overwrite|.әuvә'rait|overwrites<br>overwriting|v. write new data on top of existing data and thus erase the previously existing data|vi. 写得过多(或长)<br>vt. 写得过多, 用华丽文体写, 写在...上面<br>[计] 改写| 
+overwrit| |overwrites<br>overwriting| | | 
 overwritten| | |v write new data on top of existing data and thus erase the previously existing data|overwrite的过去分词| 
 ownership|'әunәʃip| |n. the relation of an owner to the thing possessed; possession with the right to transfer possession to others<br>n. the state or fact of being an owner|n. 所有权, 物主身份<br>[经] 所有权, 所有制| 
 oxygen|'ɒksәdʒәn| |n. a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust|n. 氧<br>[化] 氧O-2| 
@@ -1990,18 +1990,18 @@ oxygen|'ɒksәdʒәn| |n. a nonmetallic bivalent element that is normally a colo
 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
-pacific|pә'sifik| |n. the largest ocean in the world<br>a. relating to or bordering the Pacific Ocean<br>s. disposed to peace or of a peaceful nature|n. 太平洋<br>a. 太平洋的, 太平洋沿岸的, 爱好和平的, 安静的, 平息的| 
-packaged| |packages<br>packaging|a. enclosed in a package or protective covering|a. 包装过的| 
+pacif| | | | | 
+packag| |packages<br>packaging| | | 
 packet|'pækit|packets|n. (computer science) a message or message fragment<br>n. a small package or bundle|n. 小包, 一批信件, 大量, 信息包<br>vt. 打包, 装进小包<br>[计] 分组, 分组报文, 数据分组| 
-paddle|'pædl| |n. small wooden bat with a flat surface; used for hitting balls in various games<br>n. a blade of a paddle wheel or water wheel<br>n. an instrument of punishment consisting of a flat board<br>n. a short light oar used without an oarlock to propel a canoe or small boat|n. 桨, 划桨, 明轮翼<br>vi. 划桨, 戏水, 涉水<br>vt. 用桨划, 划船运送, 搅, 拌| 
+paddl| | | | | 
 pager|'peidʒә(r)| |n an electronic device that generates a series of beeps when the person carrying it is being paged|[计] 页调度程序| 
-pagesize|peidʒsaiz| | |页尺寸| 
-paginate|'pædʒineit|pagination|v number the pages of a book or manuscript|vt. 标页数<br>vi. 随意翻阅| 
+pages| | |n one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains<br>n English industrialist who pioneered in the design and manufacture of aircraft (1885-1962)<br>n United States diplomat and writer about the Old South (1853-1922)<br>n a boy who is employed to run errands<br>n a youthful attendant at official functions or ceremonies such as legislative functions and weddings<br>n in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood<br>v contact, as with a pager or by calling somebody's name over a P.A. system<br>v work as a page<br>v number the pages of a book or manuscript|n. 页数；青年侍从（page的复数）| 
+pagin| |pagination| | | 
 paid|peid| |a. marked by the reception of pay|a. 受雇的, 付清的<br>pay的过去式和过去分词| 
-pairwise|peər'waɪz| | | 成对[双]地, 两个两个地| 
-palette|'pælit| |n. the range of colour characteristic of a particular artist or painting or school of art<br>n. board that provides a flat surface on which artists mix paints and the range of colors used|n. 调色板, 颜料<br>[计] 调色板| 
-palindrome|'pælindrәum| |n. a word or phrase that reads the same backward as forward|n. 回文, 回文结构<br>[化] 回文对称; 旋转对称| 
-pandas|'pændəz| |n. large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae<br>n. reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas|n. 熊猫( panda的复数形式 )| 
+pairwis| | | | | 
+palett| | | | | 
+palindrom| | | | | 
+panda|'pændә| |n large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae<br>n reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas|n. 大熊猫, 小熊猫| 
 pane|pein|panes|n. sheet glass cut in shapes for windows or doors|n. 窗玻璃, 方框, 方格, 窗格<br>vt. 嵌窗玻璃于<br>[计] 窗格| 
 panic|'pænik| |n. an overwhelming feeling of fear and anxiety<br>n. sudden mass fear and anxiety over anticipated events<br>v. be overcome by a sudden fear<br>v. cause sudden fear in or fill with sudden panic|n. 恐慌, 惊慌<br>a. 惊慌的, 没有理由的, 恐慌的<br>vt. 使惊慌, 使狂热<br>vi. 惊慌| 
 paperclip|'peɪpəklɪp| |n a wire or plastic clip for holding sheets of paper together|n. 曲别针; 报纸夹| 
@@ -2011,49 +2011,49 @@ paragraph|'pærәgrɑ:f|paragraphs|n. one of several distinct subdivisions of a 
 parallax|'pærәlæks| |n. the apparent displacement of an object as seen from two different points that are not on a line with the object|n. 视差(量)<br>[化] 视差| 
 parallel|'pærәlel|parallelism<br>parallelize|n. (mathematics) one of a set of parallel geometric figures (parallel lines or planes)<br>v. be parallel to<br>v. make or place parallel to something<br>a. being everywhere equidistant and not intersecting|n. 平行, 对比, 相匹敌之物<br>a. 平行的, 相似的<br>vt. 与...平行, 与...相似, 相比, 使平行<br>[计] 并联; 并行| 
 param| | |n. A white crystalline nitrogenous substance (C2H4N4); --<br>   called also dicyandiamide.|[化] 氰胍| 
-parameter|pә'ræmitә|parameters|n. a constant in the equation of a curve that can be varied to yield a family of similar curves<br>n. any factor that defines a system and determines (or limits) its performance<br>n. a quantity (such as the mean or variance) that characterizes a statistical population and that can be estimated by calculations from sample data|n. 参变数, 参变量, 参数, 参量<br>[计] 参量; 参数| 
-parameterized| | | |[计] 参数的| 
+paramet| |parameters| | | 
+parameter|pә'ræmitә| |n. a constant in the equation of a curve that can be varied to yield a family of similar curves<br>n. any factor that defines a system and determines (or limits) its performance<br>n. a quantity (such as the mean or variance) that characterizes a statistical population and that can be estimated by calculations from sample data|n. 参变数, 参变量, 参数, 参量<br>[计] 参量; 参数| 
 paranoid|'pærәnɔid| |n. a person afflicted with paranoia<br>s. suffering from paranoia|a. (似)患妄想狂的, (似)患偏执狂的<br>n. 患妄想狂的人| 
 parcel|'pɑ:sl| |n. the allotment of some amount by dividing something<br>v. divide into parts<br>v. cover with strips of canvas<br>v. make into a wrapped container|n. 包裹, 部分, 片<br>vt. 分配, 打包<br>a. 部分的<br>adv. 局部地| 
-parens| | |plural of paren|(paren 的复数) abbr. 括弧（parenthesis）| 
-parentheses|pә'renθisi:s| |n either of two punctuation marks (or) used to enclose textual material<br>n a message that departs from the main subject|pl. 圆括号, 插入语, 插曲| 
-parenthesis|pә'renθisis| |n. either of two punctuation marks (or) used to enclose textual material|n. 圆括号, 插入语, 附带, 插曲| 
-paris| | | | | 
-parity|'pærәti| |n. (obstetrics) the number of liveborn children a woman has delivered<br>n. (mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity<br>n. (physics) parity is conserved in a universe in which the laws of physics are the same in a right-handed system of coordinates as in a left-handed system<br>n. functional equality|n. 同等, 同位, 平价, 奇偶性<br>[计] 奇偶性| 
+paren| | | |abbr. 括弧（parenthesis）| 
+parenthes| | | | | 
+parenthesi| | | | | 
+pari| | | |n. 帕里（球员名）；德国百瑞（公司名）| 
+pariti| | | | | 
 parquet|pɑ:'kei| |n. a floor made of parquetry<br>n. seating on the main floor between the orchestra and the parquet circle|n. 镶木地板, (剧场)正厅池座<br>vt. 铺镶木地板| 
-parse|pɑ:s|parsed<br>parses<br>parsing|v. analyze syntactically by assigning a constituent structure to (a sentence)|vt. 从语法上分析<br>[计] 分列| 
+pars|pɑ:z|parsed<br>parses<br>parsing|n (golf) the standard number of strokes set for each hole on a golf course, or for the entire course<br>n a state of being essentially equal or equivalent; equally balanced<br>v make a score (on a hole) equal to par|[医] 部, 部分| 
 parser|'pɑ:sә|parsers|n. a computer program that divides code up into functional components|[计] 分析程序| 
 partial|'pɑ:ʃәl|partially<br>partials|s. being or affecting only a part; not total<br>a. showing favoritism|a. 部分的, 偏袒的, 偏爱的<br>n. 分音| 
-participants|pɑ:'tɪsɪpənts| |n someone who takes part in an activity<br>n a person who participates in or is skilled at some game|n. 参加者, 参与者; 参加者, 参与者( participant的名词复数 )<br>a. 有份的, 参与的| 
-particle|'pɑ:tikl|particles|n. a body having finite mass and internal structure but negligible dimensions<br>n. a function word that can be used in English to form phrasal verbs|n. 颗粒, 粒子, 质点, 极小量<br>[化] 粒子; 质点| 
-partition|pɑ:'tiʃәn|partitioned<br>partitioning<br>partitions|n. a vertical structure that divides or separates (as a wall divides one room from another)<br>n. (computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit<br>n. (anatomy) a structure that separates areas in an organism<br>v. divide into parts, pieces, or sections|n. 分割, 隔离物, 隔墙, 财产分割<br>vt. 区分, 瓜分, 隔开, 分割<br>[计] 分区; 划分| 
+particip| | | | | 
+particl| |particles| | | 
+partit| |partitioned<br>partitioning<br>partitions| | | 
 pascal| | | | | 
-passive|'pæsiv| |a. lacking in energy or will<br>s. peacefully resistant in response to injustice<br>a. expressing that the subject of the sentence is the patient of the action denoted by the verb|a. 消极的, 被动的, 冷漠的, 顺从的, 无源的<br>[医] 被动的| 
+passiv| | | | | 
 password|'pæswә:d|passwords|n. a secret word or phrase known only to a restricted group|n. 密码, 口令, 通行手段<br>[计] 口令| 
 patent|'pætnt. 'peitnt|patents|n. a document granting an inventor sole rights to an invention<br>n. an official document granting a right or privilege<br>v. obtain a patent for<br>v. grant rights to; grant a patent for|n. 专利权, 许可证, 执照, 专利品, 素质<br>a. 专利的, 特许的, 显著的, 新奇的<br>vt. 取得...的专利权, 请准专利| 
-pathname| | | |n. [计]路径名| 
-patience|'peiʃәns| |n. good-natured tolerance of delay or incompetence|n. 耐性, 忍耐| 
+pathnam| | | | | 
+patienc| | | | | 
 patrick|'pætrik| |n. Apostle and patron saint of Ireland; an English missionary to Ireland in the 5th century|n. 帕特里克（男子名）| 
 paul|pɔ:l| |n. United States feminist (1885-1977)<br>n. (New Testament) a Christian missionary to the Gentiles; author of several Epistles in the New Testament; even though Paul was not present at the Last Supper he is considered an Apostle|n. 保罗（男子名）| 
-paused|pɔ:zd|pauses|imp. & p. p. of Pause|v. 停顿( pause的过去式和过去分词 ); 暂停; （按暂停键）暂停放音; 暂停放像| 
+paus| |pauses| | [人名] 波斯| 
 payer|'peiә| |n. a person who pays money for something|n. 支付者, 付款人<br>[经] 付款人| 
 payload|'peilәud| |n the front part of a guided missile or rocket or torpedo that carries the nuclear or explosive charge or the chemical or biological agents<br>n goods carried by a large vehicle|n. 商务载重, 工资负担, 净载重量, 有效负荷, 弹头<br>[化] 负荷量| 
-payroll|'peirәul| |n. a list of employees and their salaries<br>n. the total amount of money paid in wages<br>n. the department that determines the amounts of wage or salary due to each employee|n. 工资名单, 饷金名单, 发放的工资总额<br>[计] 工资表, 工资单| 
+payrol| | | | | 
 pear|pєә| |n. sweet juicy gritty-textured fruit available in many varieties<br>n. Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties|n. 梨子, 梨树, 梨木<br>[机] 梨木| 
-pedantic|pi'dæntik| |s marked by a narrow focus on or display of learning especially its trivial aspects|a. 卖弄学问的, 学究式的, 假装学者的| 
+pedant|'pedәnt| |n. a person who pays more attention to formal rules and book learning than they merit|n. 自夸学问的人, 空谈家, 书呆子| 
 peek|pi:k| |n. a secret look|vi. 偷看, 窥视<br>n. 偷看, 看一眼| 
 pencil|'pensl| |n. a thin cylindrical pointed writing implement; a rod of marking substance encased in wood<br>n. graphite (or a similar substance) used in such a way as to be a medium of communication<br>n. a figure formed by a set of straight lines or light rays meeting at a point<br>n. a cosmetic in a long thin stick; designed to be applied to a particular part of the face|n. 铅笔, 色笔, 眉笔, 画笔, 光线束<br>vt. 用铅笔写或涂, 草拟| 
-pending|'pendiŋ| |s. awaiting conclusion or confirmation|a. 未决定的, 待决的, 行将发生的, 向外伸出的<br>prep. 在等待...之际, 直到...时为止, 在...期间, 在...过程中| 
-perceived|pə'siːvd| |s. detected by means of the senses|v. 感觉( perceive的过去式和过去分词 ); 视为; 认为; 理解为| 
-percentages|pə'sentɪdʒɪz| |n. a proportion in relation to a whole (which is usually the amount per hundred)<br>n. assets belonging to or due to or contributed by an individual person or group|n. 百分比( percentage的复数形式 ); 比例; 利润的分成; 提成| 
-percentile|pә'sentail| |n. (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total|[医] 百分率的<br>[经] 百分之一, 按百等分排列的| 
+pend|pend| |n. Oil cake; penock.<br>v. i. To hang; to depend.<br>v. i. To be undecided, or in process of adjustment.<br>v. t. To pen; to confine.|vi. 悬而未决, 待定| 
+perceiv| | | | | 
+percentag| | | | | 
+percentil| | | | | 
 perf| | | |n. 穿孔| 
-perforce|pә'fɒ:s| |r. by necessity; by force of circumstance|adv. 必然地, 只得| 
-perimeter|pә'rimitә| |n. a line enclosing a plane areas|n. 周长, 周界, 边缘<br>[医] 周, 周边, 周界线; 周长; 视野计| 
-peripheral|pә'rifәrәl| |n. (computer science) electronic equipment connected by cable to the CPU of a computer<br>a. on or near an edge or constituting an outer boundary; the outer area<br>s. related to the key issue but not of central importance|a. 周边的, 周围的, 圆周的, 无关紧要的, 肤浅的<br>[医] 外周的, 周围的, 末梢的| 
+perforc| | | | | 
+perimet| | | | | 
+peripher| | | | | 
 perm|pә:m|perms|n. a city in the European part of Russia<br>v. give a permanent wave to|vt. 电烫(发), 化学烫(发)<br>n. 电烫的头发, 卷发, 化学烫的头发| 
-permissions|pɜ:'mɪʃənz| |n. approval to do something<br>n. the act of giving a formal (usually written) authorization|n. 允许, 许可, 准许( permission的复数形式 )| 
-permutation|.pә:mju'teiʃәn|permutations<br>permute|n. the act of changing the arrangement of a given number of elements<br>n. complete change in character or condition<br>n. act of changing the lineal order of objects in a group|n. 交换, 更动, 排列<br>[计] 排列| 
+permiss| | | | | 
+permut| |permutations<br>permute| | | 
 persist|pә'sist|persisted<br>persistence<br>persistent<br>persisting<br>persists|v. stay behind|vi. 坚持, 固执, 持续, 坚称<br>[经] 持续| 
 persona|pә:'sәunә| |n. (Jungian psychology) a personal facade that one presents to the world|n. 人, 人物, 角色, 外表印象, 人格面具<br>[医] 伪装人格| 
 petal|'petәl| |n. part of the perianth that is usually brightly colored|n. 花瓣<br>[医] 花瓣| 
@@ -2062,33 +2062,33 @@ phantom|'fæntәm| |s. something apparently sensed but having no physical realit
 phar| | | |[医] 药学, 药剂学, 调剂学, 药房, 药的, 制药的, 药学的, 药典| 
 phil|fil| | |abbr. 哲学（philosophy）| 
 phoenix|'fi:niks| |n. the state capital and largest city located in south central Arizona; situated in a former desert that has become a prosperous agricultural area thanks to irrigation<br>n. a large monocotyledonous genus of pinnate-leaved palms found in Asia and Africa<br>n. a legendary Arabian bird said to periodically burn itself to death and emerge from the ashes as a new phoenix; according to most versions only one phoenix lived at a time and it renewed itself every 500 years|n. 凤凰, 不死鸟, 死而复生的人, 完人, 殊品| 
-photography|fә'tɒgrәfi| |n. the act of taking and printing photographs<br>n. the process of producing images of objects on photosensitive surfaces<br>n. the occupation of taking and printing photographs or making movies|n. 摄影, 摄影术<br>[化] 照相术| 
+photographi| | | | | 
 picasso| | | | | 
 picker|'pikә| |n. a person who chooses or selects out<br>n. someone who gathers crops or fruits etc.|n. 啄者, 啄物, 采摘者, 采摘机, 挖掘者, 古董收集者<br>[法] 扒手| 
-pickle|'pikl| |n. vegetables (especially cucumbers) preserved in brine or vinegar<br>v. preserve in a pickling liquid|n. 盐卤, 腌汁, 泡菜, 困境, 讨厌鬼<br>vt. 腌制, 酸洗, 葬送(机会等), 泡| 
+pickl| | | | | 
 pickup|'pikʌp| |n. a light truck with an open body and low sides and a tailboard<br>n. a warrant to take someone into custody<br>n. anything with restorative powers|n. 拾起, 加速, 刺激, 猎物的收集, 好转, 恢复健康, 搭车者, 兴奋剂, 电视摄像<br>[电] 拾音器| 
 pillow|'pilәu| |n. a cushion to support the head of a sleeping person<br>v. rest on or as if on a pillow|n. 枕头, 靠垫, 枕状岩<br>vt. 作...的枕头, 垫, 枕于<br>vi. 靠在枕上| 
-pills| | |n something that resembles a tablet of medicine in shape or size<br>n a dose of medicine in the form of a small pellet<br>n a unpleasant or tiresome person<br>n something unpleasant or offensive that must be tolerated or endured<br>n a contraceptive in the form of a pill containing estrogen and progestin to inhibit ovulation and so prevent conception|n. 丸剂；药丸（pill的复数）| 
+pill|pil| |n. something that resembles a tablet of medicine in shape or size<br>n. a dose of medicine in the form of a small pellet<br>n. a unpleasant or tiresome person<br>n. something unpleasant or offensive that must be tolerated or endured|n. 药丸, 弹丸, 屈辱, 胡说<br>v. 做成药丸, 形成丸状, 服药丸, 挫败, 抢劫| 
 pinch|pintʃ| |n. a painful or straitened circumstance<br>n. an injury resulting from getting some body part squeezed<br>n. a squeeze with the fingers<br>v. squeeze tightly between the fingers|n. 捏, 拧, 撮, 少量, 收缩, 挤压, 夹痛, 苦恼, 逮捕, 指控, 匮乏, 紧急关头<br>vt. 捏, 拧, 掐, 挤压, 修剪, 使困苦, 使萎缩, 节制, 少量加入, 逮捕, 勒索<br>vi. 收缩, 节省, 挤压, 引起苦恼| 
 ping|piŋ| |n. a river in western Thailand; a major tributary of the Chao Phraya<br>n. a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)<br>v. hit with a pinging noise<br>v. make a short high-pitched sound|n. 砰(子弹击中时的声音), 报时的最后一声, 声脉冲<br>vi. 砰(铛)地发声<br>[计] internet网络包测程序, 连通性检测命令| 
-pipeline|'paiplain|pipelines|n. a pipe used to transport liquids or gases|n. 管道, 传递途径<br>[化] 管路; 管线| 
-piracy|'paiәrәsi| |n. hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it|n. 海盗行为, 海上劫掠, 剽窃, 著作权侵害, 非法翻印<br>[法] 海盗行为, 海上掠夺, 海盗罪| 
-pirate|'paiәrәt| |n. someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation<br>n. a ship that is manned by pirates<br>v. copy illegally; of published material|n. 海盗, 盗印者, 侵犯专利权者<br>vt. 盗印, 掠夺, 翻印<br>vi. 做海盗, 从事劫掠| 
-pitfalls|'pɪtfɔ:lz| |n. an unforeseen or unexpected or surprising difficulty<br>n. a trap in the form of a concealed hole|n. （捕猎野兽用的）陷阱( pitfall的复数形式 ); 意想不到的困难, 易犯的错误| 
+pipelin| |pipelines| | | 
+piraci| | | | | 
+pirat| | | | | 
+pitfal| | | | | 
 pivot|'pivәt| |n. the person in a rank around whom the others wheel and maneuver<br>n. axis consisting of a short shaft that supports something that turns<br>n. the act of turning on (or as if on) a pivot<br>v. turn on a pivot|n. 枢轴, 支点, 旋转运动, 中枢, 关键人物<br>a. 枢轴的, (如)在枢轴上转动的<br>vi. 在枢轴上转动, 随着转移<br>vt. 装枢轴于, 以...为中心旋转<br>[计] 程序员交互验证和编制工具, 数据透视表| 
 pixel|'piksәl|pixels|n. (computer science) the smallest discrete component of an image or picture on a CRT screen (usually a colored dot)|n. 像素<br>[计] 象素| 
 pizza|'pi:tsә| |n. Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese|n. 比萨饼| 
-placeholder|'pleishәuldә| |n. a symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set|n. 占位符<br>[计] 占位符| 
+placehold| | | | | 
 placement|'pleismәnt| |n. the spatial property of the way in which something is placed<br>n. contact established between applicants and prospective employees<br>n. the act of putting something in a certain place|n. 放置, 布置, 工作安排, 编班, 定位球<br>[计] 放置| 
 plain|plein| |n. extensive tract of level open land<br>a. not elaborate or elaborated; simple<br>a. lacking patterns especially in color<br>s. not mixed with extraneous elements|n. 平原, 草原, 朴实无华的东西, 无格式<br>a. 简单的, 明白的, 平常的, 不好看的, 朴素的, 清晰的, 普通的, 平坦的, 十足的<br>adv. 清楚地, 显然地<br>[计] 无格式| 
 plaintext| | | |[计] 明文| 
 planner|'plænә| |n. a person who makes plans<br>n. a notebook for recording appointments and things to be done, etc.|n. 计划者, 设计者, 安排者<br>[机] 刨床机| 
-plausible|'plɒ:zibl| |a. apparently reasonable and valid, and truthful<br>s. given to or characterized by presenting specious arguments|a. 貌似真实的, 貌似合理的, 说得煞有其事的<br>[法] 花言巧语的, 似乎有理的| 
+plausibl| | | | | 
 playback|'pleibæk| |n. the act of reproducing recorded sound<br>n. electronic equipment comprising the part of a tape recorder that reproduces the recorded material|n. (录音)重放, (录音)重放装置<br>[计] 重现| 
 playbook| | |n. a notebook containing descriptions and diagrams of the plays that a team has practiced (especially an American football team)<br>n. a book containing the scripts of one or more dramatic plays<br>n. a scheme or set of strategies for conducting a business campaign or a political campaign|n. 剧本, 剧本集| 
 playground|'pleigraund| |n. yard consisting of an outdoor area for children's play|n. 运动场, 操场, 度假胜地, 活动场所| 
 pleasant|'pleznt| |a. affording pleasure; being in harmony with your taste or likings<br>s. (of persons) having pleasing manners or behavior|a. 愉快的, 可爱的, 活泼的, 亲切的| 
-plexus|'pleiksәs| |n. a network of intersecting blood vessels or intersecting nerves or intersecting lymph vessels|n. (血管、神经等的)丛<br>[医] 帕尼扎氏丛(包皮系带外侧窝内的深淋巴丛)| 
+plexu| | | | | 
 pluck|plʌk| |n. the act of pulling and releasing a taut cord<br>v. pull or pull out sharply<br>v. pull lightly but sharply with a plucking motion<br>v. strip of feathers|n. 勇气, 猛拉, 动物内脏<br>vt. 摘, 猛拉, 拔, 拉, 扯, 采<br>vi. 拉, 拽| 
 plug|plʌg|plugged|n. blockage consisting of an object designed to fill a hole tightly<br>n. an electrical device with two or three pins that is inserted in a socket to make an electrical connection<br>v. fill or close tightly with or as if with a plug<br>v. persist in working hard|n. 塞子, 栓, 插头<br>vt. 插入, 塞住, 接插头<br>vi. 被塞住| 
 plunker| | |n. (baseball) hitting a baseball so that it drops suddenly|n. 使劲投掷；一美元 (plunk的变形)| 
@@ -2098,120 +2098,120 @@ pointer|'pɒintә|pointers|n. an indicator as on a dial<br>n. a strong slender s
 pointless|'pɒintlis| |a. not having a point especially a sharp point|a. 不尖的, 钝的, 不得要领的| 
 polar|'pәulә| |s. having a pair of equal and opposite charges<br>a. located at or near or coming from the earth's poles<br>a. of or existing at or near a geographical pole or within the Arctic or Antarctic Circles|a. 两极的, 极地的, 正好相反的, 极性的<br>n. 极线, 极面| 
 polish| | | | | 
-poly| | |n. A whitish woolly plant (Teucrium Polium) of the order<br>   Labiatae, found throughout the Mediterranean region. The name, with<br>   sundry prefixes, is sometimes given to other related species of the<br>   same genus.|n. 理工学院, 工艺高等专科学校<br>[化] 聚尿苷酸| 
+poli| | | |n. 波里（人名）| 
 polygon|'pɒligәn|polygons|n. a closed plane figure bounded by straight sides|n. 多角形, 多边形<br>[计] 多边形| 
-polymer|'pɒlimә| |n. a naturally occurring or synthetic compound consisting of large molecules made up of a linked series of repeated simple monomers|n. 聚合物, 聚合体<br>[化] 多聚体; 高分子; 大分子; 聚合物| 
-polymorphic|,pɔli'mɔ:fik|polymorphism|a. relating to the occurrence of more than one kind of individual (independent of sexual differences) in an interbreeding population<br>s. having or occurring in several distinct forms|[计] 多形的, 多种组合形式的<br>[医] 多形的| 
-polynomial|.pɒli'nәumiәl| |n. a mathematical function that is the sum of a number of terms<br>a. having the character of a polynomial|a. 多项式的, 多词学名的<br>n. 多项式, 多词学名<br>[计] 多项式| 
+polym| | | | | 
+polymorph|'pɒlimɒ:f|polymorphism|n. an organism that can assume more than one adult form as in the castes of ants or termites|n. 多态动物(或植物), 多形体<br>[医] 多形核白细胞| 
+polynomi| | | | | 
 pong|pɒŋ| |n an unpleasant smell|n. 恶臭| 
-poorly|'puәli| |s somewhat ill or prone to illness<br>r (`ill' is often used as a combining form) in a poor or improper or unsatisfactory manner; not well|adv. 贫穷地, 不充分地, 贫乏地<br>a. 身体不舒服的| 
-popover|'pɒp.әuvә| |n. light hollow muffin made of a puff batter (individual Yorkshire pudding) baked in a deep muffin cup|n. 膨松饼| 
+poorli| | | | | 
+popov| | | | | 
 popper|'pɒpә| |n. British philosopher (born in Austria) who argued that scientific theories can never be proved to be true, but are tested by attempts to falsify them (1902-1994)<br>n. a container of stimulant drug (amyl nitrate or butyl nitrite)<br>n. a container for cooking popcorn|n. 发出砰的响声的人| 
 porn|pɔ:n| |n creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire|n. 色情描写, 黄色书刊, 色情画, 色情照片, 色情文学| 
 porta|'pɔ:tә| |n an aperture or hole that opens into a bodily cavity|[医] 门, 室间孔| 
-portability|.pɒ:tә'biliti|portable|n. the quality of being light enough to be carried|n. 可携带, 轻便<br>[计] 可移植性| 
+portabl| |portable| | | 
 portal|'pɒ:tl| |n. a grand and imposing entrance (often extended metaphorically)|n. 入口, 大门<br>a. 肝门的| 
 portfolio|pɒ:t'fәuliәu| |n. a large, flat, thin case for carrying loose papers or drawings or maps; usually leather<br>n. a set of pieces of creative work collected to be shown to potential customers or employers<br>n. a list of the financial assets held by an individual or a bank or other financial institution<br>n. the role of the head of a government department|n. 皮包, 公文包, 部长职务, 有价证券财产目录, 艺术代表作选辑<br>[法] 公文包, 文件夹, 阁员职务| 
 portlet|'pɔ:tlət| | |n. 一种门户导入的信息组件| 
 postal|'pәustl| |a. of or relating to the system for delivering mail|a. 邮政的, 邮局的<br>[经] 邮政的| 
-postcode|'pәustkәud| |n a code of letters and digits added to a postal address to aid in the sorting of mail|n. 邮政编码| 
+postcod| | | | | 
 poster|'pәustә|posters|n. a sign posted in a public place as an advertisement|n. 海报, 招贴, 驿马| 
 postfix|'pәustfiks| |n an affix that is added at the end of the word|n. 后缀, 词尾<br>[计] 后缀| 
 postman|'pәustmәn| |n a man who delivers the mail|n. 邮递员<br>[法] 邮递员, 理财法庭的高级律师| 
-posy|'pәuzi| |n an arrangement of flowers that is usually given as a present|n. 花束, 铭文| 
-practically|'præktikli|practices<br>practicing|r. almost; nearly<br>r. in a practical manner|adv. 几乎, 差不多, 事实上| 
-practise|'præktis| |v engage in a rehearsal (of)<br>v carry out or practice; as of jobs and professions<br>v learn by repetition|v. 实践, 实行, 练习, 实习, 从事(职业)| 
-pragmatic|præ^'mætik| |a. of or concerning the theory of pragmatism|a. 忙碌的, 爱管闲事的, 自负的, 固执己见的, 实际的, 务实的, 国事的, 国务的<br>[法] 闲断的, 固执己见的, 实用主义的| 
-preceded|ˌpriˈsi:did|precedence<br>preceding|imp. & p. p. of Precede|v. 在…之前发生（或出现）, 先于( precede的过去式和过去分词 ); 走在…前面| 
-precise|pri'sais|precision|a. sharply exact or accurate or delimited|a. 精确的, 严谨的, 明确的<br>[机] 精密的, 正确的| 
-precompile| |precompiled| |预编译| 
-precondition|.pri:kәn'diʃәn| |n. a condition that is a prerequisite<br>v. put into the required condition beforehand|vt. 事先准备, 事先处理<br>n. 先决条件, 前提<br>[计] 前置条件| 
+posi| | | | | 
+practic|'præktik|practices<br>practicing|a. Practical.<br>a. Artful; deceitful; skillful.|a. 实践的；应用的（等于practical）| 
+practis| | | | | 
+pragmat| | | | | 
+preced| |precedence<br>preceding| | | 
+precis| |precision|v. make a summary (of)|n. 摘要, 梗概, 大意, 概要<br>vt. 摘...的要点, 写...的大意<br>[计] 保留上下文索引系统| 
+precompil| |precompiled| | | 
+precondit| | | | | 
 pred| | | |abbr. 断言；宣布；谓语（predicate）| 
-predefined| | | |a. 预先定义的| 
-predicate|'predikәt|predicates|n. (logic) what is predicated of the subject of a proposition; the second term in a proposition is predicated of the first term by means of the copula<br>n. one of the two main constituents of a sentence; the predicate contains the verb and its complements<br>v. make the (grammatical) predicate in a proposition|n. 谓语, 谓项<br>a. 谓语的<br>vt. 断定为, 使基于, 意味着, 预言<br>vi. 断言<br>[计] 谓词; 判定; 断定| 
+predefin| | | | | 
+predic| |predicates| | | 
 predictor|pri'diktә| |n. information that supports a probabilistic estimate of future events<br>n. a computer for controlling antiaircraft fire that computes the position of an aircraft at the instant of a shell's arrival|n. 预言者<br>[计] 预示变量; 预测程序| 
 pref| | | |abbr. 优先（preference）；序幕（preface）；字首（prefix）| 
 prefix|'pri:fiks|prefixed<br>prefixes|n. an affix that is added in front of the word<br>v. attach a prefix to|前缀, 称谓<br>[计] 地区号码, 前缀| 
 preflight|'pri:'flait| | |a. 起飞前的, 为飞机起飞作准备的| 
-prelude|'prelju:d| |n. music that precedes a fugue or introduces an act in an opera<br>v. serve as a prelude or opening to<br>v. play as a prelude|n. 前奏, 序幕, 序诗, 前奏曲<br>vi. 作为前奏<br>vt. 作为...的开头| 
-premature|.premә'tjuә| |a. born after a gestation period of less than the normal time<br>s. uncommonly early or before the expected time|a. 早产的, 过早的, 不成熟的<br>n. 早产儿, 过早发生的事物| 
-premise|'premis| |n. a statement that is assumed to be true and from which a conclusion can be drawn<br>v. set forth beforehand, often as an explanation<br>v. take something as preexisting and given|n. 前提, 房屋连地基, 上述各项<br>vt. 预先提出, 引出, 作为...的前提<br>vi. 作出前提| 
+prelud| | | | | 
+prematur| | | | | 
+premis| | | |n. 前题| 
 premium|'pri:miәm| |n. payment for insurance<br>n. the amount that something in scarce supply is valued above its nominal value<br>n. a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.<br>s. having or reflecting superior quality or value|n. 额外补贴, 奖金, 奖赏, 保险费<br>[医] 保险费| 
 prep|prep| |n preparatory school work done outside school (especially at home)|n. (英)(非正式)准备功课, 预备学校, 预料<br>a. (美)(非正式)预备的, 准备的<br>vi. 进预备学校, 进行预备训练, 自修, 自我训练<br>vt. 预备, 给病人作手术前的准备, 准备| 
-prepared|pri'pєәd|preparing|a. made ready or fit or suitable beforehand<br>s. equipped or prepared with necessary intellectual resources|a. 准备好的, 特制的| 
+prepar| |preparing| | | 
 prepend|pri:'pend| | |vt. 预先考虑；预谋| 
 preprocess|pri:'prәjses;-'prɔ-|preprocessing| |[化] 预加工| 
 preprocessor|pri:'prәjsesә(r);-'prɔ-| | |[计] 预处理程序| 
-prerequisite|pri:'rekwizit|prerequisites|n. something that is required in advance<br>s. required as a prior condition or course of study|a. 先决条件的, 必要的<br>n. 先决条件, 必备条件| 
-preserved| |preserves<br>preserving|a. prevented from decaying or spoiling and prepared for future use<br>a. kept intact or in a particular condition|a. 喝醉的<br>[计] 保留的| 
+prerequisit| |prerequisites| | | 
+preserv| |preserves<br>preserving| | | 
 preset|pri:'set|presets|s. set in advance|vt. 事先调整<br>n. 预调装置<br>[计] 边框形式| 
-presumably|pri'zu:mәbli|presume|r. by reasonable assumption|adv. 推测上, 大概| 
+presum| |presume| | | 
 pretium| | | |[法] 价金, 价格, 销售价| 
 prettier| | |s pleasing by delicacy or grace; not imposing<br>s (used ironically) unexpectedly bad|a. 较美丽| 
 prev| | | |abbr. 上一个（previous）| 
 preview|'pri:vju:| |n. an advertisement consisting of short scenes from a motion picture that will appear in the near future<br>n. a screening for a select audience in advance of release for the general public<br>v. watch (a movie or play) before it is released to the general public|n. 事先查看, 预览<br>vt. 事先查看, 预演<br>[计] 预览| 
 prim|prim| |v. assume a prim appearance<br>v. contract one's lips<br>v. dress primly|a. 整洁的, 端正的, 规规矩矩的, 呆板的, 拘谨的<br>vt. 弄整齐, 使显出一本正经的表情<br>vi. 作出一本正经的样子| 
 primer|'praimә| |n. an introductory textbook|n. 入门书, 初级读本, 雷管, 导火线, 底漆<br>[化] 底漆; 引物; 雷管; 导火线| 
-primitive|'primitiv|primitives|n. a person who belongs to an early stage of civilization<br>n. a mathematical expression from which another expression is derived<br>n. a word serving as the basis for inflected or derived forms<br>s. used of preliterate or tribal or nonindustrial societies|n. 原始人, 早期艺术家<br>a. 原始的, 上古的<br>[计] 图元; 原语; 基元| 
-principles| | |n a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct<br>n a rule or standard especially of good behavior<br>n a basic truth or law or assumption<br>n a rule or law concerning a natural phenomenon or the function of a complex system<br>n rule of personal conduct<br>n (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)|n. 原则, 原理, 道义, 节操| 
-printable|'printәbl| |a. fit for publication because free of material that is morally or legally objectionable|a. 可印刷的, 适于出版的| 
+primit| |primitives| | | 
+principl| | | | | 
+printabl| | | | | 
 printer|'printә|printers|n. someone whose occupation is printing<br>n. (computer science) an output device that prints the results of data processing<br>n. a machine that prints|n. 印刷工, 打印机<br>[计] 打印机| 
 printout|'printaut| |n. the output of a computer in printed form|n. 打印输出<br>[计] 印出| 
 prio| | | |abbr. 奥斯陆国际和平研究所（Peace Research Institute Oslo）；主席单元优先按键| 
-priorities|praiˈɔritiz| |n status established in order of importance or urgency<br>n preceding in time|n. 先( priority的名词复数 ); 优先; 优先权; 优先考虑的事| 
+prioriti| | | | | 
 prism|'prizm| |n. a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms<br>n. optical device having a triangular shape and made of glass or quartz; used to deviate a beam or invert an image|n. 棱镜, 棱柱<br>[化] 棱镜| 
-pristine|'pristi:n| |s. completely free from dirt or contamination<br>s. immaculately clean and unused|a. 太古的, 原来的, 古时的, 原始的| 
+pristin| | | | | 
 priv|p'rɪv| | |abbr. privacy 秘密; privily 秘密地; privation 缺乏; privately 私下地| 
-privilege|'privilidʒ|privileged<br>privileges|n. a special advantage or immunity or benefit not enjoyed by all<br>n. (law) the right to refuse to divulge information obtained in a confidential relationship<br>v. bestow a privilege upon|n. 特权, 特别恩典, 基本权利, 特免<br>vt. 给与...特权, 特免| 
+privileg| |privileged<br>privileges| | | 
 prob| | | |abbr. 可能性（等于probability）；可能的（probable）；大概（等于probably）；问题（等于problem）| 
 probe|prәub| |n. an inquiry into unfamiliar or questionable activities<br>n. a flexible slender surgical instrument with a blunt end that is used to explore wounds or body cavities<br>n. an exploratory action or expedition<br>n. an investigation conducted using a flexible surgical instrument to explore an injury or a body cavity|n. 探索, 调查, 探针, 探测器<br>v. 用探针探测, 调查, 探索| 
-problematic|prɔblә'mætik| |s open to doubt or debate<br>s making great mental demands; hard to comprehend or solve or believe|a. 成问题的, 未定的, 疑难的, 有疑问的, 盖然性的, 或然性的| 
+problemat| | | | | 
 proc| | | | | 
-procedural|prә'si:dʒәrәl|procedures|a. of or relating to procedure|a. 程序上的<br>[经] 程序上的| 
-proceeds|'prәusi:dz| |n the income or profit arising from such transactions as the sale of land or other property<br>v continue talking<br>v move ahead; travel onward in time or space<br>v follow a procedure or take a course<br>v follow a certain course<br>v continue a certain state, condition, or activity|pl. 收益<br>[经] 收入, 收款, 所得| 
+procedur| |procedures| | | 
+proce| | | |n. 过程; 步骤（等于process）| 
 processor|prә'sesә|processors|n. a business engaged in processing agricultural products and preparing them for market<br>n. someone who processes things (foods or photographs or applicants etc.)|n. 信息处理机, 加工者, 处理者<br>[计] 处理器| 
 prod|prɒd| |n. a pointed instrument that is used to prod into a state of motion<br>v. urge on; cause to act|n. 刺针, 刺棒, 激励话, 提醒物<br>vt. 戳, 刺, 刺激<br>vi. 戳, 刺| 
 productid| | | |[网络] 产品编号；产品号；取得软件序列号| 
 prof| | | | | 
-profiler|'prәufailә|profiles<br>profiling| |靠模工具机, 仿形铣床, 靠模工, 仿形工, 模制者| 
+profil| |profiles<br>profiling| | | 
 prog|prɒg| |v. i. To wander about and beg; to seek food or other supplies by<br>   low arts; to seek for advantage by mean shift or tricks.<br>v. i. To steal; to rob; to filch.<br>v. i. To prick; to goad; to progue.<br>n. Victuals got by begging, or vagrancy; victuals of any kind;<br>   food; supplies.<br>n. A vagrant beggar; a tramp.<br>n. A goal; progue.|n. 食物, 进步分子, 学监<br>vi. 掠夺<br>vt. 监督, 处罚| 
-programmatic|.prәugrә'mætik|programmatically| |a. 标题音乐的, 计划性的, 纲领性的| 
-programme|'prәugræm|programmer<br>programmers|n an announcement of the events that will occur as part of a theatrical or sporting event<br>n an integrated course of academic studies<br>n a radio or television show<br>n (computer science) a sequence of instructions that a computer can interpret and execute<br>n a system of projects or services intended to meet a public need<br>n a series of steps to be carried out or goals to be accomplished<br>n a performance (or series of performances) at a public presentation<br>v write a computer program<br>v arrange a program of or for|n. 节目, 节目单, 程序, 纲要, 大纲, 计划<br>vt. 规划, 拟...计划<br>vi. 安排节目, 编程序| 
-prohibited| | |v command against<br>s excluded from use or mention<br>s forbidden by law|v. 禁止, 被禁止的（prohibite的过去分词形式）| 
+programmat| |programmatically| | | 
+programm| |programmer<br>programmers| | | 
+prohibit|prә'hibit| |v command against|vt. 禁止, 阻止<br>[经] 禁止| 
 prolog|'prәulɔ^| |n. a computer language designed in Europe to support natural language processing|n. 序言, 序幕, 开场白, 序诗, (喻)开端| 
-prometheus| | | | | 
-promised|ˈprɔmist|promises<br>promising|v make a promise or commitment<br>v promise to undertake or give<br>v make a prediction about; tell in advance<br>v give grounds for expectations|vt.& vi. (promise的过去式或过去分词形式); 承诺; 允诺; 答应<br>v. 允诺( promise的过去式和过去分词 ); 答应; 有…希望; 预示| 
+prometheu| | | | | 
+promis| |promises<br>promising| |abbr. 信息系统（Production Management Information System）| 
 promo|'prәumәu| | |n. 商品广告；商品推销| 
-promoted| |promotion<br>promotions|v contribute to the progress or growth of<br>v give a promotion to or assign to a higher position<br>v make publicity for; try to sell (a product)<br>v be changed for a superior chess or checker piece<br>v change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent|a. 晋升的| 
+promot| |promotion<br>promotions| | | 
 prone|prәun| |s. having a tendency (to); often used in combination<br>s. lying face downward|a. 俯伏的, 面向下的, 有...倾向的<br>[医] 旋前的, 伏的, 俯的| 
 prop|prɒp|props|n. a support placed beneath or against something to keep it from shaking or falling|n. 支柱, 支持者, 倚靠人, 道具, 螺旋桨<br>vt. 支撑, 维持| 
-propagate|'prɒpәgeit|propagated<br>propagation|v. transmit from one generation to the next<br>v. travel through the air<br>v. transmit<br>v. transmit or cause to broaden or spread|vt. 繁殖, 传播, 传送<br>vi. 繁殖, 蔓延| 
-proportional|prә'pɒ:ʃәnl| |n. one of the quantities in a mathematical proportion<br>s. properly related in size or degree or other measurable characteristics; usually followed by `to'<br>s. having a constant ratio|a. 比例的, 相称的<br>n. 比例项| 
-proposition|.prɒpә'ziʃәn| |n. (logic) a statement that affirms or denies something and is either true or false<br>n. an offer for a private bargain (especially a request for sexual favors)<br>n. a task to be dealt with<br>v. suggest sex to|n. 建议, 命题, 主张<br>vt. 向...提议, 向...提出猥亵的要求| 
-proprietary|prә'praiәtәri| |a. protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights|a. 所有者的, 所有权的, 私有的<br>n. 所有者, 业主, 所有权| 
+propag| |propagated<br>propagation| | | 
+proport| | | | | 
+proposit| | | | | 
+proprietari| | | | | 
 proto| | |s. indicating the first or earliest or original|[计] 原型, 样机, 典型| 
 protocol|'prәutәkɒl|protocols|n. (computer science) rules determining the format and transmission of data<br>n. forms of ceremony and etiquette observed by diplomats and heads of state<br>n. code of correct conduct|n. 草案, 礼仪, 协议<br>v. 拟定<br>[计] 协议, 协议列表实用程序| 
-prototype|'prәutәtaip|prototypes|n. a standard or typical example|n. 原型<br>[计] 样机; 原型| 
+prototyp| |prototypes| | | 
 protractor|prәu'træktә| |n. drafting instrument used to draw or measure angles|n. 拖延者, 分度器, 牵引肌, 钳取器<br>[医] 取钳器| 
 prov| | | | | 
 proven|'pru:vn| |v be shown or be found to be<br>v establish the validity of something, as by an example, explanation or experiment<br>v provide evidence for<br>v prove formally; demonstrate by a mathematical, formal proof<br>v put to the test, as for its quality, or give experimental use to<br>v increase in volume<br>v cause to puff up with a leaven<br>v take a trial impression of<br>v obtain probate of<br>a established beyond doubt|prove的过去分词| 
-provisioning| | |v supply with provisions|[经] 物质供应| 
-proxies|ˈprɔksi:z|proxy|pl.  of Proxy|n. 代表权( proxy的名词复数 ); （测算用的）代替物; （对代理人的）委托书; （英国国教教区献给主教等的）巡游费| 
-proximity|prɒk'simiti| |n. the property of being close together<br>n. the region close around a person or thing<br>n. a Gestalt principle of organization holding that (other things being equal) objects or events that are near to one another (in space or time) are perceived as belonging together as a unit|n. 接近, 亲近| 
+provis| | | | [人名] [英格兰人姓氏] 普罗维斯 Provost的变体| 
+proxi| |proxy| | | 
+proxim| | | |n. Proxim是专业的无线网络的产品和服务供应商; 为各行业提供高性能网络产品。产品有无线路由; 无线网卡; 无线AP| 
 prune|pru:n| |n. dried plum|n. 洋李, 李子干, 深紫红色, 傻瓜<br>vt. 修剪, 砍掉, 删除<br>vi. 删除, 删节| 
 pseudo|'sju:dәu| |s. (often used in combination) not genuine but having the appearance of|a. 假的, 冒充的| 
-pulse|pʌls| |n. the rhythmic contraction and expansion of the arteries with each beat of the heart<br>n. the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health<br>n. edible seeds of various pod-bearing plants (peas or beans or lentils etc.)<br>v. produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses|n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类<br>vi. 跳动, 脉跳<br>vt. 使跳动, 用脉冲调制<br>[计] 脉冲| 
+puls| | |plural of pul<br>n 100 puls equal 1 afghani in Afghanistan|(pul 的复数) n.普尔(阿富汗辅币单位)| 
 pulvinar| | |n. A prominence on the posterior part of the thalamus of the<br>   human brain.|[医] 枕, 丘脑后结节| 
 puma|'pju:mә| |n large American feline resembling a lion|n. 美洲狮, 美洲狮毛皮| 
 punch|pʌntʃ| |n. (boxing) a blow with the fist<br>n. an iced mixed drink usually containing alcohol and prepared for multiple servings; normally served in a punch bowl<br>n. a tool for making holes or indentations<br>v. deliver a quick blow to|n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒<br>vt. 以拳重击, 开洞, 冲压<br>vi. 用拳猛击| 
-punctuation|.pʌŋktʃu'eiʃәn| |n. something that makes repeated and regular interruptions or divisions<br>n. the marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases<br>n. the use of certain marks to clarify meaning of written material by grouping words grammatically into sentences and clauses and phrases|n. 标点, 标点符号<br>[计] 标点符号| 
+punctuat| | | | | 
 puppet|'pʌpit|puppeteer|n. a small figure of a person operated from above with strings by a puppeteer<br>n. a doll with a hollow head of a person or animal and a cloth body; intended to fit over the hand and be manipulated with the fingers|n. 傀儡, 木偶<br>[法] 木偶, 傀儡, 受他人操纵的人| 
-purge|pә:dʒ| |n. the act of clearing yourself (or another) from some stigma or charge<br>n. an act of removing by cleansing; ridding of sediment or other undesired elements<br>n. an abrupt or sudden removal of a person or group from an organization or place<br>v. oust politically|n. 净化, 清除, 泻药<br>v. (使)净化, 清除, (使)通便<br>[计] 服务器文件删除实用程序| 
-purple|'pә:pl| |n. a purple color or pigment<br>n. of imperial status<br>v. become purple<br>v. color purple|n. 紫色, 帝位<br>a. 紫色的, 帝王的, 华而不实的<br>v. (使)成紫色| 
+purg| | | | | 
+purpl| | | | | 
 pushbutton|'puʃbutәn| | |n. 按钮| 
 pusher|'puʃә| |n. one who intrudes or pushes himself forward<br>n. an unlicensed dealer in illegal drugs<br>n. someone who pushes|n. 推者, 推销员<br>[化] 推料机| 
-putty|'pʌti| |n. a dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass<br>v. apply putty in order to fix or fill|n. 油灰, 淡灰色, 氧化锡<br>vt. 用油灰填塞| 
-puzzle|'pʌzl|puzzled|n. a particularly baffling problem that is said to have a correct solution<br>n. a game that tests your ingenuity<br>v. be uncertain about; think about without fully understanding or being able to decide|n. 难题, 迷惑<br>vt. 使困惑, 使为难<br>vi. 迷惑, 苦思| 
+putti|'pjti,'pu:-| | |putto的复数| 
+puzzl| |puzzled| | | 
 pyramid|'pirәmid| |n. a polyhedron having a polygonal base and triangular sides with a common vertex<br>n. (stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases<br>n. a massive monument with a square base and four triangular sides; begun by Cheops around 2700 BC as royal tombs in ancient Egypt<br>v. enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts|n. 角锥, 金字塔<br>v. (使)成金字塔状, (使)渐增, (使)上涨| 
 python|'paiθɒn|pythonic|n. large Old World boas<br>n. a soothsaying spirit or a person who is possessed by such a spirit<br>n. (Greek mythology) dragon killed by Apollo at Delphi|n. 大蟒, 巨蟒| 
 
@@ -2223,28 +2223,28 @@ python|'paiθɒn|pythonic|n. large Old World boas<br>n. a soothsaying spirit or 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 quad|kwɔd| |n. (printing) a block of type without a raised letter; used for spacing between words or sentences<br>n. a rectangular area surrounded on all sides by buildings|n. 铅块, 监狱, 四方院子, 四胞胎, 四胞胎中的一个孩子, 成套的四件东西<br>[计] 四芯导线| 
-quadratic|kwә'drætik| |n. a polynomial of the second degree<br>a. of or relating to or resembling a square<br>a. of or relating to the second power|a. 二次的<br>n. 二次方程式| 
-qualification|.kwɒlifi'keiʃәn| |n. an attribute that must be met or complied with and that fits a person for something<br>n. the act of modifying or changing the strength of some idea|n. 资格, 条件, 限制<br>[计] 限定| 
-qualified|'kwɒlifaid|qualifier<br>qualifiers|a. meeting the proper standards and requirements and training for an office or position or task<br>a. limited or restricted; not absolute|a. 有资格的<br>[经] 合格的, 有条件的, 有限制的| 
+quadrat|'kwɒdræt| |n. A block of type metal lower than the letters, -- used in<br>   spacing and in blank lines.<br>n. An old instrument used for taking altitudes; -- called<br>   also geometrical square, and line of shadows.|n. 铅条<br>[医] 平方区, 方嵌体| 
+qualif| | | | | 
+qualifi| |qualifier<br>qualifiers| | | 
 quam| | | | | 
-quantifier|'kwɒntifaiә| |n. (logic) a word (such as `some' or `all' or `no') that binds the variables in a logical proposition<br>n. (grammar) a word that expresses a quantity (as `fifteen' or `many')|n. 数量词, 精于计算的人<br>[计] 量词| 
-quantile|'kwɔntail| | |n. 分位数；分位点| 
-quantities| |quantity|n how much there is or how many there are of something that you can quantify<br>n an adequate or large amount<br>n the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable|n. 数量, 工程量；[音]音符长度（quantity的复数）| 
+quantifi| | | | | 
+quantil| | | | | 
+quantiti| |quantity| | | 
 quantum|'kwɒntәm| |n. a discrete amount of something that is analogous to the quantities in quantum theory<br>n. (physics) the smallest discrete quantity of some physical property that a system can possess (according to quantum theory)|n. 量, 量子<br>[计] 量子| 
 quartz|kwɒ:ts| |n. a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron oxide impurities|n. 石英<br>[化] 石英| 
 quaternion|kwә'tә:njәn| |n the cardinal number that is the sum of three and one|n. 四个一组, 四个一套, 四元数| 
 queen|'kwi:n| |n. the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs<br>n. a female sovereign ruler<br>n. the wife or widow of a king<br>n. something personified as a woman who is considered the best or most important of her kind|n. 王后, 女王<br>vt. 立为女王<br>vi. 做女王| 
-queried|ˈkwiərid|queries<br>query<br>querying|imp. & p. p. of Query|v. 质疑, 对…表示疑问( query的过去式和过去分词 ); 询问| 
+queri| |queries<br>query<br>querying| | | 
 quest|kwest| |n. the act of searching for something<br>v. make a search (for)<br>v. search the trail of (game)<br>v. seek alms, as for religious purposes|n. 探索, 寻求, 调查<br>v. 寻找, 找, 追寻猎物| 
 queue|kju:|queues|n. a line of people or vehicles waiting for something<br>n. (information processing) an ordered list of tasks to be performed or messages to be transmitted<br>n. a braid of hair at the back of the head|n. 辫子, 一队人, 队列<br>vt. 使排队, 将...梳成辫子<br>vi. 排队<br>[计] 队列| 
-queued|kju:d| |v. form a queue, form a line, stand in line|v. （人、车等）排队等候( queue的过去式和过去分词 ); （使）排队, 列队等待| 
+queu| | | | | 
 quicker| | |r. more quickly|a. 快些（quick的形容词比较级）| 
 quickest| | |r. most quickly|a. 最快的| 
-quirks|kwɜ:ks| |n. a strange attitude or habit<br>n. a narrow groove beside a beading<br>v. twist or curve abruptly|n. 奇事, 巧合( quirk的复数形式 ); 怪癖| 
+quirk|kwә:k| |n. a narrow groove beside a beading<br>v. twist or curve abruptly|n. 古怪举动, 俏皮话, 急转| 
 quiz|kwiz| |n. an examination consisting of a few short questions<br>v. examine someone's knowledge of something|n. 考查, 课堂测验, 恶作剧, 智力测验<br>vt. 戏弄, 考查, 恶作剧| 
 quot| |quoted<br>quotes<br>quoting| |n. 引用语；开价, 报价；行市| 
 quota|'kwәutә| |n. a prescribed number<br>n. a proportional share assigned to each participant<br>n. a limitation on imports|n. 配额, 限额<br>[化] 定额| 
-quotation|kwәu'teiʃәn| |n. a passage or expression that is quoted or cited<br>n. a statement of the current market price of a security or commodity<br>n. the practice of quoting from books or plays etc.|n. 引用语, 语录, 牌价, 报价<br>[化] 报价| 
+quotat| | | | | 
 quotient|'kwәuʃәnt| |n. the ratio of two quantities to be divided<br>n. the number obtained by division|n. 商, 份额<br>[计] 商| 
 
 
@@ -2258,93 +2258,93 @@ rabbit|'ræbit| |n. any of various burrowing animals of the family Leporidae hav
 rack|ræk| |n. framework for holding objects<br>n. rib section of a forequarter of veal or pork or especially lamb or mutton<br>n. an instrument of torture that stretches or disjoints or mutilates victims<br>n. a support for displaying various articles|n. 架, 行李架, 饲草架, 搁物架, 痛苦, 折磨, 齿条, 行云团<br>vt. 把...放在架上, 在架上制作, 折磨, 使痛苦, 压榨, 榨取, 猛烈撕拉, 拷问<br>vi. 变形, 倾斜, (云)随风飘, (马)小步跑<br>[计] 机架| 
 racket|'rækit| |n. a loud and disturbing noise<br>n. an illegal enterprise (such as extortion or fraud or drug peddling or prostitution) carried on for profit<br>n. a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games<br>v. make loud and annoying noises|n. 球拍, 喧闹, 杂乱无章<br>vi. 喧闹<br>vt. 用球拍打| 
 radial|'reidiәl| |n. pneumatic tire that has radial-ply casing<br>a. relating to or near the radius<br>a. relating to or moving along or having the direction of a radius|a. 光线的, 光线状的, 放射状的, 半径的, 径向的<br>n. 光线, 射线| 
-radians| | |plural of radian<br>n. the unit of plane angle adopted under the Systeme International d'Unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)|(radian 的复数) n. 弧度<br>[计] 弧度| 
-radius|'reidiәs| |n. the length of a line segment between the center and circumference of a circle or sphere<br>n. a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)<br>n. a circular region whose area is indicated by the length of its radius<br>n. the outer and slightly shorter of the two bones of the human forearm|n. 半径, 范围, 辐射光线<br>[电] 半径| 
+radian|'reidiәn| |n. the unit of plane angle adopted under the Systeme International d'Unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)|n. 弧度<br>[计] 弧度| 
+radiu| | | | | 
 radix|'reidiks| |n (numeration system) the positive integer that is equivalent to one in the next higher counting place|n. 基, 根, 基数, 根源<br>[计] 基数| 
 rainbow|'reinbәu| |n. an arc of colored light in the sky caused by refraction of the sun's rays by rain<br>n. an illusory hope|n. 彩虹<br>a. 五彩缤纷的| 
 rake|reik| |n. a dissolute man in fashionable society<br>n. a long-handled tool with a row of teeth at its head; used to move leaves or loosen soil<br>v. move through with or as if with a rake<br>v. level or smooth with a rake|n. 耙子, 钱耙, 斜度, 浪子<br>v. 搜索, 掠过, (用耙子)耙, (使)倾斜| 
-rally|'ræli| |n. a large gathering of people intended to arouse enthusiasm<br>n. the feat of mustering strength for a renewed effort<br>n. a marked recovery of strength or spirits during an illness<br>n. an automobile race run over public roads|n. 重振旗鼓, 集合, 群众集会, 跌停回升<br>v. 重整旗鼓, 集合, 恢复精神, 团结, 挖苦, 嘲笑| 
+ralli|'ræli| | |car(t) 拉利马车(一种可坐4人的两轮轻便马车)| 
 rand|rænd| |n. the basic unit of money in South Africa; equal to 100 cents<br>n. United States writer (born in Russia) noted for her polemical novels and political conservativism (1905-1982)|n. 兰特, (非正式)边, 田埂, 缘<br>[经] 兰特| 
 randn| | | | | 
 random|'rændәm|randomize<br>randomness|a. lacking any definite plan or order or purpose; governed by or depending on chance|n. 随意, 随机<br>a. 任意的, 随便的, 胡乱的, 随机的<br>adv. 胡乱地| 
-randomly| | |r. in a random manner|adv. 偶然, 胡乱, 无目的, 任意, 随便, 任取, 无规则, 机遇, 胡乱地, 任意地, 随便地<br>[计] 随机地| 
-ranges| |ranging|n an area in which something acts or operates or has power or control: "the range of a supersonic jet"<br>n the limits within which something can be effective<br>n a large tract of grassy open land on which livestock can graze<br>n a series of hills or mountains<br>n a place for shooting (firing or driving) projectiles of various kinds<br>n a variety of different things or activities<br>n (mathematics) the set of values of the dependent variable for which a function is defined<br>n the limit of capability<br>n a kitchen appliance used for cooking food<br>v change or be different within limits<br>v move about aimlessly or without any destination, often in search of food or employment<br>v have a range; be capable of projecting over a certain distance, as of a gun<br>v range or extend over; occupy a certain area<br>v lay out orderly or logically in a line or as if in a line<br>v feed as in a meadow or pasture<br>v let eat<br>v assign a rank or rating to|n. 量程, 范围；山脉（range的复数）| 
+randomli| | | | | 
+rang|ræŋ|ranging|v sound loudly and sonorously<br>v ring or echo with sound<br>v make (bells) ring, often for the purposes of musical edification<br>v get or try to get into communication (with someone) by telephone<br>v extend on all sides of simultaneously; encircle<br>v attach a ring to the foot of, in order to identify|ring的过去式| 
 rant|rænt| |v. talk in a noisy, excited, or declamatory manner|v. 咆哮, 痛骂<br>n. 咆哮, 大话| 
 raphael|'reifl, 'ræfeil| |n. Italian painter whose many paintings exemplify the ideals of the High Renaissance (1483-1520)<br>n. an archangel of the Hebrew tradition|n. 拉斐尔（姓氏）；拉斐尔（意大利画家、建筑学家）| 
-raspberry|'ræzbәri| |n. woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries<br>n. red or black edible aggregate berries usually smaller than the related blackberries|n. 悬钩子, 呸声<br>[化] 覆盆子; 悬钩子| 
+raspberri| | | | | 
 raster|'ræstә| |n. the rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor|n. 光栅<br>[电] 试映图| 
+ration|'ræʃәn| |n. the food allowance for one day (especially for service personnel)<br>n. a fixed portion that is allotted (especially in times of scarcity)<br>v. restrict the consumption of a relatively scarce commodity, as during war<br>v. distribute in rations, as in the army|n. 定额, 定量, 配给<br>vt. 配给, 定量供应| 
 rational|'ræʃәnl| |a. consistent with or based on or using reason<br>a. capable of being expressed as a quotient of integers<br>s. having its source in or being guided by the intellect (as distinguished from experience or emotion)|a. 理性的, 合理的<br>n. 有理数| 
-rationale|.ræʃә'nɑ:li| |n. (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature)|n. 基本原理<br>[医] 原理, 理论| 
 razor|'reizә| |n. edge tool used in shaving<br>v. shave with a razor|n. 剃刀<br>vt. 剃| 
-reachability|-ә'biliti|reachable| |[计] 可达性<br>[化] 可达性; 能达性| 
-reactive|ri'æktiv| |a. participating readily in reactions<br>s. reacting to a stimulus|a. 反动的, 反应的<br>[医] 反应的| 
+reachabl| |reachable| | | 
+reactiv| | | | | 
 reactor|ri'æktә| |n. an electrical device used to introduce reactance into a circuit|n. 反应者, 反应器, 反应堆, 电抗器<br>[化] 反应釜; 反应锅| 
-readability|.ri:dә'biliti|readable|n. the quality of written language that makes it easy to read and understand|n. 易读, 可读性<br>[计] 可读性| 
-readily|'redili| |r. without much difficulty|adv. 迅速地, 轻易地, 乐意地| 
-realise|'riәlaiz,'ri:-|realised|v earn on some commercial or business transaction; earn as salary or wages<br>v convert into cash; of goods and property<br>v expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass<br>v make real or concrete; give reality or substance to<br>v be fully aware or cognizant of<br>v perceive (an idea or situation) mentally|vt. 实现, 认识到, 体会到, 了解, 认清, 使显得逼真, 变卖财产为现钱| 
-realized| |realizing|v be fully aware or cognizant of<br>v perceive (an idea or situation) mentally<br>v make real or concrete; give reality or substance to<br>v earn on some commercial or business transaction; earn as salary or wages<br>v convert into cash; of goods and property<br>v expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass<br>s successfully completed or brought to an end|a. 实现的；已实现| 
+readabl| |readable| | | 
+readili| | | | | 
+realis| |realised| | | 
+realiz| |realizing| | | 
 realm|relm| |n a domain in which something is dominant<br>n the domain ruled by a king or queen<br>n a knowledge domain that you are interested in or are communicating about|n. 王国, 领土, 领域<br>[计] 领域| 
 rear|riә| |n. the back of a military formation or procession<br>n. the side of an object that is opposite its front<br>n. the side that goes last or is not normally seen<br>v. stand up on the hind legs, of quadrupeds|n. 后面, 背后, 后方<br>a. 后面的, 背面的, 后方的<br>vt. 养育, 培养, 饲养, 举起, 树立, 栽种<br>vi. 高耸, 暴跳| 
-rearrange|.ri:ә'reindʒ| |v. put into a new order or arrangement|vt. 再排列, 重新整理<br>[计] 重新排列; 重新整理| 
+rearrang| | | | | 
 reassign|.ri:ә'sain| |v transfer somebody to a different position or location of work|vt. 再分配, 再指定<br>[经] 转交, 转让| 
-rebase|ri'beis| | | 垫底| 
+rebas| | | | | 
 rebind|.ri:'baind| |v. provide with a new binding|vt. 重捆, 重新装订| 
 reboot|ri:'bu:t| |v cause to load (an operating system) and start the initial processes|[计] 重新启动| 
 rebuild|ri'bild|rebuilding|v. build again|vt. 改建, 重建, 改造<br>vi. 重建| 
 rebuilt| | |v build again|rebuild的过去式和过去分词<br>[经] 重新组装| 
-recalculate|ri:'kælkjuleit| |v. calculate anew|vt. 重新计算, 重新估计| 
+recalcul| | | | | 
 receipt|ri'si:t| |n. an acknowledgment (usually tangible) that payment has been made<br>v. mark or stamp as paid|n. 收据, 收入, 收到<br>vt. 开...的收据| 
-recipes|'resəpɪz| |pl.  of Recipe|n. 烹饪法( recipe的名词复数 ); 食谱; 方法; 秘诀| 
-recipient|ri'sipiәnt|recipients|n. a person who receives something|a. 领受的, 容易接受的, 感受性强的<br>n. 领受者, 容纳者, 容器| 
-recognise|'rekә^naiz| |v show approval or appreciation of<br>v grant credentials to<br>v detect with the senses<br>v express greetings upon meeting someone<br>v express obligation, thanks, or gratitude for<br>v be fully aware or cognizant of<br>v perceive to be the same<br>v accept (someone) to be what is claimed or accept his power and authority|vt. 认识, 辩认, 认出, 承认, 认可, 清楚地认识到, 自认, 公认, 赏识, 准许某人发言| 
-recompile| | |v. t. To compile anew.|v. 重新编译| 
-reconfigure|.ri:kәn'fiɡә. -ɡjuә| | |vt. 重新配置| 
+recip| | | | | 
+recipi| |recipients| | | 
+recognis| | | | | 
+recompil| | | | | 
+reconfigur| | | | | 
 reconnect|.ri:kә'nekt| | |vt. 使再接合| 
 reconstruct|.ri:kәns'trʌkt| |v. reassemble mentally<br>v. cause somebody to adapt or reform socially or politically|vt. 重建, 改造<br>[化] 按原样修复| 
-recreate|'rekrieit|recreated<br>recreating|v. create anew|v. (使)得到休养, (使)得到娱乐, 再创造| 
+recreat| |recreated<br>recreating| | | 
 rect| | | |abbr. 矩形（rectangular）；收据（receipt）| 
-rectangle|'rektæŋgl|rectangles|n. a parallelogram with four right angles|n. 长方形, 矩形<br>[化] 矩形| 
+rectangl| |rectangles| | | 
 rectangular|rek'tæŋgjulә| |s. having four right angles|a. 成直角的<br>[化] 矩形的| 
 recur|ri'kә:|recurring|v. happen or occur again<br>v. return in thought or speech to something|vi. 复发, 回到, 重现, 再来, 诉诸, 采用, 循环| 
-recurse| |recursion<br>recursive<br>recursively| | | 
-recycle|.ri:'saikl|recycled<br>recycling|v. cause to repeat a cycle<br>v. use again after processing|vt. 使再循环, 重新利用, 再制<br>n. 再循环| 
-redacted| | |v formulate in a particular style or language<br>v prepare for publication or presentation by correcting, revising, or adapting| [电影]波湾阴谋; 编译| 
-redefine|.ri:di'fain| |v. give a new or different definition to<br>v. give a new or different definition of (a word)|vt. 重新定义<br>[计] 重新定义| 
+recurs|riˈkə:z|recursion<br>recursive<br>recursively|v happen or occur again<br>v return in thought or speech to something<br>v have recourse to|v. 再发生, 复发( recur的第三人称单数 )| 
+recycl| |recycled<br>recycling| | | 
+redact|ri'dækt| |n. someone who puts text into appropriate form for publication|vt. 编辑, 编写<br>[计] 编校| 
+redefin| | | | | 
 redesign|,ri:di'zain| |v. design anew, make a new design for|[化] 重新设计| 
 redirect|.ri:di'rekt|redirected<br>redirecting<br>redirection<br>redirects|v. channel into a new direction|vt. 重新寄送, 使改道, 使改方向<br>[计] 重定向, 重新引导| 
 redo|.ri:'du:| |v make new<br>v do over, as of (part of) a house|vt. 再做, 重做, 改装<br>[计] 重做| 
 redraw|.ri:'drɒ:| |v. t. To draw again; to make a second draft or copy of; to<br>   redraft.<br>v. i. To draw a new bill of exchange, as the holder of a<br>   protested bill, on the drawer or indorsers.|vt. 重画<br>vi. 刷新屏幕<br>[计] 刷新屏幕| 
-redundancy|ri'dʌndәnsi|redundant|n. repetition of messages to reduce the probability of errors in transmission<br>n. the attribute of being superfluous and unneeded<br>n. (electronics) a system design that duplicates components to provide alternatives in case one component fails<br>n. repetition of an act needlessly|n. 过多, 冗长, 累赘, 多余, 冗余位, 冗余度, 冗余码, 多余信息<br>[计] 冗余| 
+redund| |redundant| | | 
 redux|ri:'dʌks| |s brought back|a. 回来的, 回家的| 
-referenced| |referencing|s. supported with written references or citations|a. 引用的, 参考的| 
-referential|.refә'renʃәl| |s. referring or pointing to something|a. 与...有关的, 有所指的<br>[法] 参考的, 参照的, 指示的| 
-referral|ri'fә:rәl|referrer|n. a person whose case has been referred to a specialist or professional group<br>n. a recommendation to consult the (professional) person or group to whom one has been referred<br>n. the act of referring (as forwarding an applicant for employment or referring a matter to an appropriate agency)|n. 参照, 介绍, 被介绍人, 转诊病人| 
-refine|ri'fain| |v. treat or prepare so as to put in a usable condition<br>v. reduce to a fine, unmixed, or pure state; separate from extraneous matter or cleanse from impurities<br>v. attenuate or reduce in vigor, strength, or validity by polishing or purifying<br>v. make more precise or increase the discriminatory powers of|vt. 精炼, 净化, 使优雅, 使精炼<br>vi. 被精炼, 被净化| 
+referenc| |referencing| | | 
+referenti| | | | | 
+referr| |referrer| | | 
+refin| | | | | 
 reflector|ri'flektә| |n. device that reflects radiation|n. 反射镜, 反射物<br>[医] 反光镜, 反射器| 
 reformat|ri'fɔ:mæt| | |vt. 重定格式| 
 refresh|ri'freʃ|refreshed<br>refreshes<br>refreshing|v. make (to feel) fresh<br>v. make fresh again|vt. 使清新, 使恢复, 使生气蓬勃<br>vi. 提起精神, 恢复精神, 吃点心, 喝饮料<br>vt. 刷新, 重新整理<br>vi. 刷新, 重新整理<br>[计] 刷新, 重新整理| 
 refund|'ri:fʌnd| |n. money returned to a payer<br>n. the act of returning money received previously<br>v. pay back|n. 偿还<br>vt. 付还, 偿还借款<br>vi. 归还, 偿还| 
-regenerate|ri'dʒenәreit| |v. reestablish on a new, usually improved, basis or make new or like new<br>v. amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit<br>v. return to life; get or give new life or energy<br>v. replace (tissue or a body part) through the formation of new tissue|vt. 使再生, 重建, 革新<br>vi. 新生, 再生<br>a. 新生的, 再生的<br>[计] 再生; 重写| 
-registered|'redʒistәd|registering<br>registers|a. (of animals) officially recorded with or certified by a recognized breed association; especially in a stud book<br>a. listed or recorded officially<br>s. (of a boat or vessel) furnished with necessary official documents specifying ownership etc|a. 注册的, 登记过的, 记名的, 挂号的<br>[法] 已注册的, 已登记的, 挂号的| 
+regener| | | | | 
+regist| |registering<br>registers| |abbr. 注册（register）| 
 registrar|'redʒistrɑ:| |n. a person employed to keep a record of the owners of stocks and bonds issued by the company<br>n. the administrator responsible for student records<br>n. someone responsible for keeping records|n. 记录者, 登记者, 登记官员<br>[医] 登记员, 挂号员, 专科住院医师| 
-registration|.redʒi'streiʃәn|registrations|n. the act of enrolling<br>n. the body of people (such as students) who register or enroll at the same time<br>n. a document certifying an act of registering<br>n. (music) the sound property resulting from a combination of organ stops used to perform a particular piece of music; the technique of selecting and adjusting organ stops|n. 登记, 挂号, 注册<br>[计] 登记; 定位; 对齐; 记录| 
-registry|'redʒistri| |n an official written record of names or events or transactions|n. 登记处, 登记名册<br>[计] 登录库| 
-regression|ri'greʃәn| |n. (psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state<br>n. the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)<br>n. returning to a former state|n. 退步, 回归<br>[计] 回归| 
-regulations| | |n an authoritative rule<br>n a principle or condition that customarily governs behavior<br>n the state of being controlled or governed<br>n (embryology) the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered<br>n the act of bringing to uniformity; making regular<br>n the act of controlling or directing according to rule|n. 章则；条例；规程（regulation的复数）| 
+registr| |registrations| | | 
+registri| | | | | 
+regress|'ri:^res| |n. the reasoning involved when you assume the conclusion is true and reason backward to the evidence<br>v. go back to a statistical means<br>v. get worse or fall back to a previous condition|n. 退回, 复归权, 回归, 倒退, 退步, 退化, 退行<br>vi. 退回, 复归, 回归, 倒退, 退步, 退化, 退行| 
+regul| | | | | 
 reindex| | | |重新索引| 
-reinstall|.ri:in'stɔ:l|reinstalled<br>reinstalling|v. install again|vt. 使从新正式就职；重新设置, 重新安装| 
+reinstal| |reinstalled<br>reinstalling| | | 
 reinterpret|.ri:in'tә:prit| |v. interpret from a different viewpoint<br>v. assign a new or different meaning to|vt. 重新解释| 
 reinvent|.ri:in'vent| |v. bring back into existence<br>v. create anew and make over|vt. 重新使用；彻底改造；重复发明（在不知他人已发明的情况下）| 
 relay|'ri:lei| |n. the act of passing something along from one person or group to another<br>n. a crew of workers who relieve another crew<br>n. a fresh team to relieve weary draft animals<br>n. a race between teams; each member runs or swims part of the distance|n. 驿马, 替班, 中继, 接力<br>vt. 分程传递, 转播, 使接替<br>vi. 接力传送, 转播| 
-relevance|'relivәns| |n. the relation of something to the matter at hand|n. 中肯；关联；相关性| 
-reliability|ri.laiә'biliti|reliable<br>reliably|n the quality of being dependable or reliable|n. 信度, 可靠性<br>[计] 可靠性| 
-relies|riˈlaiz|relying|v have confidence or faith in|v. 信任( rely的第三人称单数 ); 信赖; 依赖; 依靠| 
+relev| | | | | 
+reliabl| |reliable<br>reliably| | | 
+reli| |relying| | | 
 reload|ri:'lәud|reloaded<br>reloading<br>reloads|v. place a new load on|vt. 再装<br>vi. 再装填弹药| 
-remainder|ri'meindә| |n. something left after other parts have been taken away<br>n. the part of the dividend that is left over when the dividend is not evenly divisible by the divisor<br>n. the number that remains after subtraction; the number that when added to the subtrahend gives the minuend<br>v. sell cheaply as remainders|n. 剩余物, 其他人, 残余, 余数<br>v. 削价出售(图书)<br>a. 剩余的, 出售削价剩书的<br>[计] 余数| 
+remaind| | | | | 
 remark|ri'mɑ:k|remarks|n. a statement that expresses a personal opinion or belief or adds information<br>n. explicit notice|n. 评论, 注意<br>vt. 评论, 注意<br>vi. 评论, 谈论<br>[计] 注释| 
-remedy|'remidi| |n. a medicine or therapy that cures disease or relieve pain<br>v. provide relief for|n. 药物, 治疗法, 治疗, 补救, 赔偿<br>vt. 治疗, 补救, 矫正, 改善, 修补, 修缮| 
-remotely| | |r. in a remote manner<br>r. to a remote degree|adv. 极小地, 极细微地| 
-rename|.ri:'neim|renamed<br>renaming|v. assign a new name to<br>v. name again or anew|vt. 重新命名, 再命名, 给...改名<br>[计] 重命名; DOS内部命令:更改文件名| 
+remedi| | | | | 
+remot| | | | | 
+renam| |renamed<br>renaming| | | 
 render|'rendә|rendered<br>renderer<br>renderers<br>rendering<br>renders|n. a substance similar to stucco but exclusively applied to masonry walls<br>v. cause to become<br>v. give or supply<br>v. pass down|vt. 回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施<br>vi. 给予补偿<br>n. 交纳, 打底| 
 renew|ri'nju:| |v reestablish on a new, usually improved, basis or make new or like new<br>v cause to appear in a new form|vt. 使更新, 使恢复, 复兴, 修补, 补充, 继续, 重订, 重申, 续借<br>vi. 更新, 重新开始| 
 rent|rent| |n. a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service<br>n. the act of rending or ripping or splitting something<br>v. let for money<br>v. hold under a lease or rental agreement; of goods and services|n. 租金, 房租, 出租物, 裂缝, 破裂处, 分裂<br>vt. 租用, 租出<br>vi. 出租<br>a. 分裂的, 破裂的<br>rend的过去式和过去分词| 
@@ -2352,58 +2352,58 @@ rental|'rentl| |n. the act of paying for the use of something (as an apartment o
 reopen|.ri:'әupәn| |v. open again or anew|v. 重开, 再开始, 再开| 
 reorder|.ri:'ɒ:dә|reordering|n. a repeated order for the same merchandise<br>v. assign a new order to<br>v. make a new request to be supplied with|vt. 重新安排, 再定购, 重新排序<br>vi. 再定购<br>n. 再定购<br>[计] 重新排序| 
 repaint|ri:'peint| |v. paint again<br>v. paint again|v. 重漆, 重画<br>[计] 重新绘制| 
-repetition|.repi'tiʃәn|repetitions<br>repetitive|n. the act of doing or performing again<br>n. the repeated use of the same word or word pattern as a rhetorical device|n. 重复, 背诵, 循环, 复制品, 副本<br>[机] 重复, 反复| 
+repetit| |repetitions<br>repetitive| | | 
 repl|'rɪpl| | | [医][=replace]取代, 更换| 
-replaced| |replacement<br>replacements<br>replaces<br>replacing|v substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)<br>v take the place or move into the position of<br>v put something back where it belongs<br>v put in the place of another; switch seemingly equivalent items|v. 取代；替换；放回（replace的过去分词）| 
+replac| |replacement<br>replacements<br>replaces<br>replacing| | | 
 replay|.ri:'plei| |n. something (especially a game) that is played again<br>n. the immediate rebroadcast of some action (especially sports action) that has been recorded on videotape<br>v. play (a melody) again<br>v. repeat a game against the same opponent|vt. 重新比赛, 重演<br>n. 重赛| 
 replica|'replikә|replicas|n. copy that is not the original; something that has been copied|n. 复制品<br>[计] 目录分区复制| 
-replicate|'replikeit|replicated<br>replication|v. reproduce or make an exact copy of|vt. 折叠, 折转, 复制<br>n. 复现试验, 复制品, 高八度音<br>a. 复现的, 复制的, 折转的, 弯回的| 
-replied| |replies|v react verbally|v. 反响；报复；回答（reply的过去分词）| 
-repositories|rɪˈpɔzɪˌtɔ:ri:z|repository|n. a facility where things can be deposited for storage or safekeeping<br>n. a person to whom a secret is entrusted<br>n. a burial vault (usually for some famous person)|n. 存放处( repository的复数形式 ); 仓库; 宝库; 学识渊博的人| 
+replic| |replicated<br>replication| | | 
+repli| |replies| | | 
+repositori| |repository| | | 
 repr|'rɪpr| | | [医][=represent]代表，表示| 
-reproduce|.ri:prә'dju:s|reproduced<br>reproducible|v. make a copy or equivalent of<br>v. have offspring or produce more individuals of a given animal or plant<br>v. recreate a sound, image, idea, mood, atmosphere, etc.|v. 繁殖, 再生, 复制, 生殖<br>[计] 复制| 
-republic|ri'pʌblik| |n. a form of government whose head of state is not a monarch|n. 共和国, 共和政体, 团体, 界| 
+reproduc| |reproduced<br>reproducible| | | 
+republ| | | | | 
 rerun|ri:'rʌn| |n. a program that is broadcast again<br>v. broadcast again, as of a film<br>v. rerun a performance of a play, for example|n. 重新开动, 再度上演<br>vt. 重新开动, 再度上演<br>[计] 再运行; 重新运行| 
-resample| | | |n. 重新取样| 
-reservations| |reserve<br>reserved|n a district that is reserved for particular purpose<br>n a statement that limits or restricts some claim<br>n an unstated doubt that prevents you from accepting something wholeheartedly<br>n the act of reserving (a place or passage) or engaging the services of (a person or group)<br>n the written record or promise of an arrangement by which accommodations are secured in advance<br>n something reserved in advance (as a hotel accommodation or a seat on a plane etc.)<br>n the act of keeping back or setting aside for some future occasion|n. 保留；预定（reservation的复数形式）| 
+resampl| | | | | 
+reserv| |reserve<br>reserved| | | 
 reset|.ri:'set|resets<br>resetting|n. device for resetting instruments or controls<br>v. set anew<br>v. set to zero|n. 重新设定, 重新组合, 重排版<br>vt. 重新设定, 重置, 重新组合<br>vi. 重置, 清零<br>[计] 重置, 清零| 
-reshape|ri:'ʃeip| |v. shape anew or differently<br>v. shape again or shape differently|vt. 改造, 使成新的形状, 打开新局面<br>vt. 整形<br>vi. 整形<br>[计] 整形| 
+reshap| | | | | 
 resid|ri'zid|reside<br>resides|n oil products that remain after petroleum has been distilled|n. 残油| 
-residential|.rezi'denʃәl| |a. used or designed for residence or limited to residences<br>a. of or relating to or connected with residence|a. 住宅的, 与居住有关的<br>[法] 有关居住的, 房产的:居所的, 适于居住的| 
-residual|'rezidju:l| |n. (often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing<br>a. relating to or indicating a remainder|a. 残渣的, 剩余的<br>n. 残渣, 剩余, 余数| 
-resize| |resized<br>resizes<br>resizing|v. change the size of; make the size more appropriate|[计] 调整大小| 
-resolved|ri'zɒlvd|resolver<br>resolvers<br>resolves<br>resolving|v bring to an end; settle conclusively<br>v reach a conclusion after a discussion or deliberation<br>v reach a decision<br>v understand the meaning of<br>v make clearly visible<br>v find the solution<br>v cause to go into a solution<br>s determined<br>a explained or answered; problems resolved and unresolved"|a. 下定决心的, 断然的| 
+residenti| | | | | 
+residu| | | | | 
+resiz| |resized<br>resizes<br>resizing| | | 
+resolv| |resolver<br>resolvers<br>resolves<br>resolving| | | 
 resp| | | |反映| 
 restart|.ri:'stɑ:t|restarted<br>restarting<br>restarts|v. start an engine again, for example|v. 重新开始, 重新启动<br>[计] 重新启动| 
-restaurants|ˈrestərənts| |n a building where people go to eat|n. 饭店( restaurant的名词复数 ); 餐馆; 饭馆; 菜馆| 
-restored| |restoring|v return to its original or usable and functioning condition<br>v return to life; get or give new life or energy<br>v give or bring back<br>v restore by replacing a part or putting together what is torn or broken<br>v bring back into original existence, use, function, or position|a. 精力充沛的；精力恢复的| 
-resume|ri'zju:m|resumes|v. take up or begin anew<br>v. return to a previous location or condition<br>v. assume anew|vt. 重新开始, 取回, 恢复<br>vi. 再开始<br>n. 摘要, 个人简历<br>[计] 继续执行| 
+restaur| | | | | 
+restor| |restoring| | | 
+resum| |resumes| | | 
 retail|'ri:teil|retailer|n. the selling of goods to consumers; usually in small quantities and not for resale<br>v. be sold at the retail level<br>v. sell on the retail market<br>r. at a retail price|n. 零售<br>a. 零售的<br>vt. 零售, 详述, 传播<br>vi. 零售| 
-retention|ri'tenʃәn| |n. the act of retaining something|n. 保持, 留置, 保留, 保持力, 保留物, 记忆, 停滞, 固位<br>[计] 保贸, 保持| 
+retent| | | | | 
 rethink|ri:'θiŋk| |v. change one's mind|v. 再想, 重想| 
 retina|'retinә| |n. the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve|n. 视网膜<br>[医] 视网膜| 
-retries| |retry<br>retrying|v hear or try a court case anew|n. 重试（retry的复数）| 
-retrieval|ri'tri:vl|retrieve<br>retrieved<br>retrieves<br>retrieving|n. (computer science) the operation of accessing information from the computer's memory<br>n. the cognitive operation of accessing information in memory|n. 取回, 恢复, 检索<br>[计] 检索| 
+retri| |retry<br>retrying| | | 
+retriev| |retrieve<br>retrieved<br>retrieves<br>retrieving| | | 
 retrofit|'retrә,fit| |n. a component or accessory added to something after it has been manufactured<br>n. the act of adding a component or accessory to something that did not have it when it was manufactured<br>v. provide with parts, devices, or equipment not available or in use at the time of the original manufacture|n. 式样翻新<br>vt.vi. 式样翻新<br>[计] 更新; 改进| 
-reusable|ri:'ju:zәbl| |s capable of being used again|a. 可以再度使用的<br>[计] 可重复使用的; 可再用的| 
-reuse|ri:'ju:z|reused<br>reusing|v use again after processing|vt. 再使用<br>n. 重新使用| 
-revalidate|rɪ'vælɪdeɪt| | |vt. 使重新生效, 使重新有法律效力| 
-reverse|ri'vә:s|reversed<br>reversing|n. a relation of direct opposition<br>n. the gears by which the motion of a machine can be reversed<br>n. an unfortunate happening that hinders or impedes; something that is thwarting or frustrating<br>n. the side of a coin or medal that does not bear the principal design|n. 相反, 背面, 倒退, 挫折, 失败<br>a. 反面的, 相反的, 反向的, 颠倒的<br>vt. 使颠倒, 使逆转, 使倒退, 使反向<br>vi. 倒退, 反向, 倒转, 反转<br>[计] 反转| 
+reusabl| | | | | 
+reus| |reused<br>reusing| |abbr. reusable 可再使用的，可重复使用的| 
+revalid| | | | | 
+revers|ri'viә, ri'veә|reversed<br>reversing|n. a lapel on a woman's garment; turned back to show the reverse side|n. 翻领| 
 revert|ri'vә:t| |v. go back to a previous state<br>v. undergo reversion, as in a mutation|vi. 恢复, 复归, 回复, 还原<br>vt. 使回复原状, 使回转<br>n. 恢复原信仰的人<br>[计] 还原| 
-revised| |revision<br>revisions|s. improved or brought up to date<br>s. altered or revised by rephrasing or by adding or deleting material|a. 改进的| 
-revoke|ri'vәuk| |n. the mistake of not following suit when able to do so<br>v. fail to follow suit when able and required to do so<br>v. cancel officially|vt. 撤回, 废除<br>vi. 藏牌<br>n. 藏牌<br>[计] 取消权限程序| 
+revis| |revision<br>revisions| | [医]修改，校正，修订| 
+revok| | | | | 
 reward|ri'wɒ:d|rewards|n. payment made in return for a service rendered<br>n. an act performed to strengthen approved behavior<br>n. the offer of money for helping to find a criminal or for returning lost property<br>v. act or give recompense in recognition of someone's behavior or actions|n. 报酬, 酬谢, 赏金<br>vt. 奖赏, 酬谢, 给...应有报应| 
 rewind|ri:'waind| | |vt. 重绕<br>n. 重绕<br>[计] 反绕| 
-rewrite|ri:'rait|rewrites<br>rewriting|n. something that has been written again<br>v. write differently; alter the writing of<br>v. rewrite so as to make fit to suit a new or different purpose|vt. 重写, 改写, 改写新闻, 书面答复<br>vi. 修改旧作<br>n. 改写的作品<br>[计] 重写| 
+rewrit| |rewrites<br>rewriting| | | 
 rewritten| | |v write differently; alter the writing of<br>v rewrite so as to make fit to suit a new or different purpose|v. 重写；改写（rewrite的过去分词形式）| 
 rhino|'rainәu| |n massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout|n. 钱, 现金, 犀牛| 
 ribbon|'ribәn| |n. any long object resembling a thin line<br>n. a long strip of inked material for making characters on paper with a typewriter<br>n. notion consisting of a narrow strip of fine material used for trimming|n. 缎带, 色带, 带状物<br>vt. 用丝带装饰, 把...撕成条状<br>vi. 形成带状<br>[计] 带状条, 格式栏| 
 richard|'ritʃәd| | |n. 理查德（男子名）| 
-ridiculous|ri'dikjulәs|ridiculously|s inspiring scornful pity<br>s incongruous; inviting ridicule<br>s broadly or extravagantly humorous; resembling farce|a. 荒谬的, 可笑的| 
-ripple|'ripl| |n. a small wave on the surface of a liquid<br>n. (electronics) an oscillation of small amplitude imposed on top of a steady value<br>v. stir up (water) so as to form ripples<br>v. flow in an irregular current with a bubbling noise|n. 涟波, 涟漪, 波纹, 粗钢梳<br>vt. 使起涟漪<br>vi. 起微波, 起潺潺声| 
-risky|'riski| |s involving risk or danger<br>s not financially safe or secure|a. 危险的| 
-risus|'ri:sәs| | |笑, 大笑| 
-roaming| | |v move about aimlessly or without any destination, often in search of food or employment|[计] 移动, 移象, 漫游| 
+ridicul| |ridiculously| | | 
+rippl| | | | | 
+riski| | | | | 
+risu| | | | | 
+roam|rәum| |v move about aimlessly or without any destination, often in search of food or employment|v. 漫游, 闲逛, 徜徉<br>n. 漫步, 漫游| 
 robert| | | | | 
 robin|'rɒbin| |n. small Old World songbird with a reddish breast<br>n. large American thrush having a rust-red breast and abdomen|n. 旅鸫<br>[医] 刺槐毒素| 
 robot|'rәubәt|robots|n a mechanism that can move automatically|n. 机械人, 自动机械, 机械般工作的人<br>[计] 机器人; 自动机| 
@@ -2411,14 +2411,14 @@ robust|rәu'bʌst| |a. sturdy and strong in form, constitution, or construction<
 rollback|'rәulbæk| |n. the act of forcing the enemy to withdraw<br>n. reducing prices back to some earlier level|n. 回降, 卷回, 推回去<br>[电] 滚返| 
 roman| | | | | 
 roster|'rɒstә| |n a list of names|n. 花名册| 
-rotate|'rәuteit|rotated<br>rotates<br>rotating<br>rotation<br>rotations|v. exchange on a regular basis<br>v. perform a job or duty on a rotating basis<br>v. cause to turn on an axis or center|a. 辐状的<br>vt. 使旋转, 使转动, 使轮流<br>vi. 旋转, 循环<br>[计] 旋转| 
-routed| |routes<br>routing|v send documents or materials to appropriate destinations<br>v send via a specific route<br>v divert in a specified direction<br>v cause to flee<br>v dig with the snout<br>v make a groove in<br>v defeat disastrously|n. 已选择路径| 
+rotat| |rotated<br>rotates<br>rotating<br>rotation<br>rotations| | | 
+rout|raut|routes<br>routing|n. an overwhelming defeat<br>v. cause to flee<br>v. dig with the snout<br>v. make a groove in|n. 溃败, 大败, 乌合之众, 盛大晚会<br>vt. 使溃败, 使败逃, 打垮, 用鼻拱, 挖起, 搜, 唤起<br>vi. 用鼻拱地, 搜| 
 router|'ru:tә(r), 'raj-|routers|n. a worker who routes shipments for distribution and delivery<br>n. (computer science) a device that forwards data packets between computer networks<br>n. a power tool with a shaped cutter; used in carpentry for cutting grooves|[计] 路由器| 
-routines| | |n an unvarying or habitual method or procedure<br>n a short theatrical performance that is part of a longer program<br>n a set sequence of steps, part of larger computer program|n. 日常生活；日常活动；常规, 惯例（routine的复数）| 
-rubies|ˈru:biz|ruby|pl.  of Ruby|n. 红宝石( ruby的名词复数 ); 红宝石色, 深红色| 
-runnable|'rʌnәbl| | |a. 可追捕的；可猎取的；适合猎取的| 
+routin| | | | | 
+rubi| |ruby| | [地名] [刚果民主共和国] 鲁比; [地名] [刚果民主共和国] 鲁比河| 
+runnabl| | | | | 
 runner|'rʌnә|runners|n. someone who travels on foot by running<br>n. a person who is employed to deliver messages or documents<br>n. a trained athlete who competes in foot races<br>n. a long narrow carpet|n. 跑步者, 赛跑者, 送信人, 走私船, 操作者, 滑槽<br>[化] 碾碎机; 压碎机| 
-runtime| | | |n. 执行时间, 运行时间| 
+runtim| | | | | 
 russia| | | | | 
 russian| | | | | 
 rust|rʌst| |n. a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture<br>n. a plant disease that produces a reddish-brown discoloration of leaves and stems; caused by various rust fungi<br>n. the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water<br>n. any of various fungi causing rust disease in plants|n. 锈, 生锈, 衰退<br>vi. 生锈, 衰退<br>vt. 使生锈, 腐蚀| 
@@ -2430,86 +2430,86 @@ rust|rʌst| |n. a red or brown oxide coating on iron or steel caused by the acti
 
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
-sadly|'sædli| |r. in an unfortunate way<br>r. with sadness; in a sad manner|adv. 悲痛地, 悲惨地, 悲伤地, 说来遗憾| 
+sadli| | | | | 
 safari|sә'fɑ:ri| |n an overland journey by hunters (especially in Africa)|n. 旅行, 旅行队, 科学考察| 
 safer| | |a free from danger or the risk of harm<br>s (of an undertaking) secure from risk<br>a having reached a base without being put out<br>s financially sound|a. 更安全（safe的比较级）| 
 safest| | |a free from danger or the risk of harm<br>s (of an undertaking) secure from risk<br>a having reached a base without being put out<br>s financially sound|a. 安全的（safe的最高级）| 
 saga|'sɑ:gә| |n. a narrative telling the adventures of a hero or a family; originally (12th to 14th centuries) a story of the families that settled Iceland and their descendants but now any prose narrative that resembles such an account|n. 传说, 英雄传奇, 冒险故事| 
 sage|seidʒ| |n. a mentor in spiritual and philosophical topics who is renowned for profound wisdom<br>n. aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc<br>n. any of various plants of the genus Salvia; a cosmopolitan herb<br>s. having wisdom that comes with age and experience|n. 圣人, 哲人, 鼠尾草属植物<br>a. 贤明的, 明智的| 
 said|sed| |v express in words<br>v report or maintain<br>v express a supposition<br>v have or contain a certain wording or form<br>v give instructions to or direct somebody to do something with authority<br>v speak, pronounce, or utter in a certain way<br>v communicate or express nonverbally<br>v utter aloud<br>v state as one's opinion or judgement; declare<br>v recite or repeat a fixed text<br>v indicate<br>s being the one previously mentioned or spoken of|a. 上述的<br>say的过去式和过去分词| 
-salaries|ˈsæləriz| |pl.  of Salary|n. 薪水( salary的名词复数 )| 
+salari| | | | | 
 salesman|'seilzmәn| |n. a man salesperson|n. 售货员, 推销员<br>[经] 售货员, 店员, 推销员| 
 samp|sæmp| |n. An article of food consisting of maize broken or bruised,<br>   which is cooked by boiling, and usually eaten with milk; coarse hominy.|n. 玉米粥| 
-sampled| |samples<br>sampling|v take a sample of|a. 取样的, 抽样的| 
+sampl| |samples<br>sampling| | | 
 sampler|'sæmplә| |n. an assortment of various samples<br>n. a piece of embroidery demonstrating skill with various stitches|n. 样品检验员, 刺绣样品<br>[化] 取样器; 进样器| 
 sandbox|'sændbɒks| |n. mold consisting of a box with sand shaped to mold metal<br>n. a plaything consisting of a pile of sand or a box filled with sand for children to play in|n. 沙箱, 沙盒| 
 sandwich|'sændwitʃ| |n. two (or more) slices of bread with a filling between them<br>v. make into a sandwich<br>v. insert or squeeze tightly between two people or objects|n. 三明治, 夹心面包, 夹层板<br>vt. 插入, 夹入, 把...制成三明治| 
 sane|sein| |a. mentally healthy; free from mental disorder|a. 神智健全的, 稳健的, 没病的, 合理的<br>[医] 精神健全的| 
-sanitize|'sænitaiz| |v. make sanitary by cleaning or sterilizing<br>v. make less offensive or more acceptable by removing objectionable features|vt. 对...采取卫生措施, 消毒, 使无害<br>[医] 卫生处理| 
-sanity|'sæniti| |n. normal or sound powers of mind|n. 神智健全, 头脑清楚, 通情达理<br>[医] 精神健全| 
+sanit| | | | | 
+saniti| | | | | 
 sarah| | | | | 
 sass|sæs| |n. an impudent or insolent rejoinder<br>v. answer back in an impudent or insolent manner;|n. 狂妄的话, 炖水果<br>vt. 顶嘴, 出言无理| 
-saturation|.sætʃә'reiʃәn| |n. the act of soaking thoroughly with a liquid<br>n. a condition in which a quantity no longer responds to some external influence<br>n. chromatic purity: freedom from dilution with white and hence vivid in hue|n. 饱和, 渗透, 浸透, 色饱和度<br>[计] 饱和度| 
+satur| | | | [医][=saturate]饱和| 
 saturday| | | | | 
 saver|'seivә| |n. someone who saves (especially money)|n. 节省...的器具, 节约装置, 省俭的人<br>[化] 回收器; 收集器| 
-savvy|'sævi| |n the cognitive condition of someone who understands<br>v get the meaning of something|v. 理解, 领悟<br>n. 理解能力, 机智, 悟性| 
+savvi| | | | | 
 saxon| | | | | 
 scaffold|'skæfәld|scaffolding|n. a platform from which criminals are executed (hanged or beheaded)<br>n. a temporary arrangement erected around a building for convenience of workers<br>v. provide with a scaffold for support|n. 脚手架, 绞刑台<br>[化] 脚手架| 
 scala| | |n. A machine formerly employed for reducing dislocations of the<br>   humerus.<br>n. A term applied to any one of the three canals of the<br>   cochlea.|[医] 阶| 
-scalable|'skeilәbl| |a. capable of being scaled; possible to scale|a. 可攀登的, 可用称量的, 可去鳞的| 
+scalabl| | | | | 
 scalar|'skeilә| |n. a variable quantity that cannot be resolved into components<br>a. of or relating to a musical scale<br>a. of or relating to a directionless magnitude (such as mass or speed etc.) that is completely specified by its magnitude|n. 数量, 纯量<br>a. 数量的, 分等级的, 梯状的<br>[计] 标量; 纯量| 
 scan|skæn|scanned<br>scanning<br>scans|n. the act of scanning; systematic examination of a prescribed region<br>n. an image produced by scanning<br>v. examine minutely or intensely<br>v. examine hastily|n. 审视, 浏览, 扫描, 细查<br>vt. 细看, 浏览, 扫描, 详细调查, 标出格律<br>vi. 押韵, 扫描<br>[计] 网络软件目录, 编码与分析系统| 
 scanner|'skænә| |n. someone who scans verse to determine the number and prosodic value of the syllables<br>n. an electronic device that generates a digital representation of an image for data input to a computer<br>n. a radar dish that rotates or oscillates in order to scan a broad area<br>n. a radio receiver that moves automatically across some selected range of frequencies looking for some signal or condition|n. 扫描仪, 扫描盘, 审视者<br>[计] 扫描器; 词法分析程序; 扫描程序; 扫视程序| 
-scary|'skєәri| |s provoking fear terror|a. 容易受惊的, 胆小的, 提心吊胆的| 
+scari| | | | | 
 scatter|'skætә| |n. a haphazard distribution in all directions<br>n. the act of scattering<br>v. distribute loosely<br>v. sow by scattering|n. 消散, 分散, 散播, 散射, 散布, 酒馆<br>vi. 散布, 散播, 消散<br>vt. 使消散, 使分散, 撒, 散布, 散播, 散射<br>[计] 散点图| 
-scheduled|'skedʒuәld|scheduler<br>schedulers<br>schedules<br>scheduling|a. planned or scheduled for some certain time or times|a. 预定的| 
+schedul| |scheduler<br>schedulers<br>schedules<br>scheduling| | | 
 schema|'ski:mә|schemas|n. an internal representation of the world; an organization of concepts and actions that can be revised by new information about the world|n. 概要, 图解, 略图<br>[计] 模式| 
-scissors|'sizәz| |n. an edge tool having two crossed pivoting blades<br>n. a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze<br>n. a gymnastic exercise performed on the pommel horse when the gymnast moves his legs as the blades of scissors move|pl. 剪刀<br>[医] 剪| 
+scissor|'sizә| |v. cut with or as if with scissors|vt. 剪, 剪取, 删除, 削减<br>n. 剪刀| 
 scott|skɔt| |n. award-winning United States film actor (1928-1999)<br>n. English explorer who reached the South Pole just a month after Amundsen; he and his party died on the return journey (1868-1912)<br>n. United States general who was a hero of the War of 1812 and who defeated Santa Anna in the Mexican War (1786-1866)|n. 斯科特（男子名）| 
 scrap|skræp| |n. a small piece of something that is left over after the rest has been used<br>v. make into scrap or refuse|n. 碎片, 残余物, 些微, 片断, 铁屑, 吵架<br>vt. 扔弃, 敲碎, 拆毁<br>vi. 互相殴打<br>a. 零碎拼凑成的, 废弃的| 
 scrape|skreip|scraped<br>scraping|n. a harsh noise made by scraping<br>n. a deep bow with the foot drawn backwards (indicating excessive humility)<br>v. scratch repeatedly<br>v. make by scraping|n. 刮, 擦, 挖, 擦痕, 刮擦声, 困境<br>vi. 刮掉, 擦掉, 刮出刺耳声<br>vt. 刮, 擦, 擦伤, 挖成, 积蓄| 
 scraper|'skreipә| |n. any of various hand tools for scraping|n. 刮刀, 刮的人, 守财奴<br>[化] 刮料机; 刮料装置; 滤饼刮刀| 
-scrapy| | | | | 
+scrapi| | | | | 
 scratch|skrætʃ| |n. a competitor who has withdrawn from competition<br>n. (golf) a handicap of zero strokes<br>n. an indication of damage<br>v. cut the surface of; wear away the surface of|n. 抓痕, 搔, 抓, 擦伤, 刮擦声, 乱写, 零分, 起跑线<br>vt. 搔, 抓, 挖出, 擦, 刮, 乱涂, 勾抹掉<br>vi. 搔, 抓, 发刮擦声, 勉强糊口<br>a. 碰巧的, 凑合的, 打草稿用的<br>[计] 擦除| 
 screw|skru:|screwed|n. a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole<br>n. a propeller with several angled blades that rotates to push against water or air<br>n. a fastener with a tapered threaded shank and a slotted head<br>v. turn like a screw|n. 螺旋, 螺杆, 螺钉, 螺旋桨, 吝啬鬼<br>vt. 调节, 扭紧, 旋, 拧, 加强, 压榨, 勒索<br>vi. 转动, 旋, 拧| 
 scroll|skrәul|scrolled<br>scrolling<br>scrolls|n. a document that can be rolled up (as for storage)<br>v. move through text or graphics in order to display parts that do not fit on the screen|n. 卷轴, 画卷, 名册, 条幅, 滚动<br>v. (使)成卷形<br>[计] 滚动| 
 scrum|skrʌm| |n. (rugby) the method of beginning play in which the forwards of each team crouch side by side with locked arms; play starts when the ball is thrown in between them and the two sides compete for possession|n. (橄榄球中)扭夺, 并列争球| 
-sealed|si:ld| |a. established irrevocably<br>a. closed or secured with or as if with a seal<br>s. undisclosed for the time being|a. 未知的, 密封的<br>[法] 盖印的, 经盖章批准或证实的, 密封的| 
+seal|si:l| |n. a device incised to make an impression; used to secure a closing or to authenticate documents<br>n. the pelt or fur (especially the underfur) of a seal<br>n. a stamp affixed to a document (as to attest to its authenticity or to seal it)<br>n. a finishing coat applied to exclude moisture|n. 印章, 封条, 海豹, 海豹皮, 火漆, 封蜡, 玺, 保证, 批准, 象征, 标志<br>vt. 封闭, 盖印, 盖章<br>vi. 猎海豹| 
 seam|si:m| |n. joint consisting of a line formed by joining two pieces<br>n. a stratum of ore or coal thick enough to be mined with profit<br>v. put together with a seam|n. 缝合线, 衔接口, 接缝, 线缝, 伤疤<br>vt. 缝合, 接合, 焊合, 使留下伤痕<br>vi. 裂开, 发生裂痕| 
 seamless|'si:mlis| |a. not having or joined by a seam or seams<br>s. smooth, especially of skin<br>s. perfectly consistent and coherent|a. 无缝的, 无缝合线的<br>[医] 无缝的| 
-seamlessly|'si:mlisli| | |adv. 无空隙地; 无停顿地| 
-searchable| | |a. Capable of being searched.|[计] 可检索的| 
+seamlessli| | | | | 
+searchabl| | | | | 
 searcher|'sә:tʃә| |n. a customs official whose job is to search baggage or goods or vehicles for contraband or dutiable items<br>n. large metallic blue-green beetle that preys on caterpillars; found in North America|n. 搜索者, 调查官, 检查官<br>[法] 搜查者, 检查者, 搜寻者| 
-seattle| | | | | 
-secondary|'sekәndәri| |n. the defensive football players who line up behind the linemen<br>a. being of second rank or importance or value; not direct or immediate<br>s. depending on or incidental to what is original or primary<br>s. not of major importance|a. 中级的, 中等的, 次要的, 第二的, 从属的, 辅助的<br>[化] 仲(指CH-3...CH(CH-3)-型支链烃基或指二元胺及R-2CHOH型的醇); 第二| 
-secondly|'sekәndli| |r in the second place|adv. 第二, 其次| 
+seattl| | | | | 
+secondari| | | | | 
+secondli| | | | | 
 sect|sekt| |n. a subdivision of a larger religious group|n. 宗派, 教派| 
-seemingly|'si:miŋli| |r from appearances alone|adv. 看来似乎, 表面上看来| 
+seemingli| | | | | 
 seen|si:n| |v perceive by sight or have the power to perceive by sight<br>v perceive (an idea or situation) mentally<br>v perceive or be contemporaneous with<br>v imagine; conceive of; see in one's mind<br>v deem to be<br>v get to know or become aware of, usually accidentally<br>v see or watch<br>v come together<br>v find out, learn, or determine with certainty, usually by making an inquiry or other effort<br>v be careful or certain to do something; make certain of something<br>v go to see for professional or business reasons<br>v go to see for a social visit<br>v go to see a place, as for entertainment<br>v take charge of or deal with<br>v receive as a specified guest<br>v date regularly; have a steady relationship with<br>v see and understand, have a good eye<br>v deliberate or decide<br>v observe as if with an eye<br>v observe, check out, and look over carefully or inspect<br>v go or live through<br>v accompany or escort<br>v match or meet<br>v make sense of; assign a meaning to|see的过去分词| 
-segue|'se^wei, 'sei^wei| |n. the act of changing smoothly from one state or situation to another<br>v. proceed without interruption; in music or talk|n. [用作指示语][音]继续| 
+segu| | | | | 
 selector|si'lektә|selectors|n. a switch that is used to select among alternatives|n. 选择者, 选择器<br>[计] 选择器| 
 selenium|si'li:niәm| |n. a toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite)|n. 硒<br>[化] 硒Se| 
 seller|'selә|sellers|n. someone who promotes or exchanges goods or services for money|n. 销售者<br>[化] 卖方| 
-semantic|si'mæntik|semantically<br>semantics|a. of or relating to meaning or the study of meaning|a. 语义的<br>[计] 语义| 
-semaphore|'semәfɒ:| |n. an apparatus for visual signaling with lights or mechanically moving arms<br>v. send signals by or as if by semaphore<br>v. convey by semaphore, of information|n. 信号, 臂板信号, 旗语<br>vt. 用信号联络<br>vi. 打信号, 发旗语<br>[计] 信号; 号志; 信号灯| 
-semester|si'mestә| |n. one of two divisions of an academic year<br>n. half a year; a period of 6 months|n. 学期| 
+semant| |semantically<br>semantics| | | 
+semaphor| | | | | 
+semest| | | | | 
 semi|'semi| |n one of the two competitions in the next to the last round of an elimination tournament<br>n a truck consisting of a tractor and trailer together<br>n a trailer having wheels only in the rear; the front is supported by the towing vehicle|[计] 半| 
 semicolon|'semi.kәulәn|semicolons|n. a punctuation mark (`; ') used to connect independent clauses; indicates a closer relation than does a period|n. 分号<br>[计] 分号| 
 semper|'sempә| | |<拉>adv.总是,经常, 永远| 
 sender|'sendә| |n. someone who transmits a message|n. 寄件人, 发报机<br>[经] 送货人, 发送者| 
-sensible|'sensәbl| |a. able to feel or perceive<br>s. readily perceived by the senses<br>s. aware intuitively or intellectually of something sensed|a. 有感觉的, 敏感的, 明智的<br>[医] 可感觉的| 
-sensitivity|.sensә'tiviti| |n. (physiology) responsiveness to external stimuli; the faculty of sensation<br>n. the ability to respond to physical stimuli or to register small physical amounts or differences<br>n. sensitivity to emotional feelings (of self and others)|n. 敏感, 灵敏度<br>[计] 灵敏度| 
+sensibl| | | | | 
+sensit| | | | | 
 sensor|'sensә|sensors|n any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner|n. 传感器<br>[计] 检测器| 
 sent|sent| |n. 100 senti equal 1 kroon in Estonia<br>a. caused or enabled to go or be conveyed or transmitted|send的过去式和过去分词| 
 sentiment|'sentimәnt| |n. tender, romantic, or nostalgic feeling or emotion|n. 感情, 感伤, 情操, 情绪, 感想, 意见<br>[医] 情感, 情操| 
 sentinel|'sentinl| |n a person employed to keep watch for some anticipated event|n. 哨兵, 标记<br>vt. 警戒, 守卫<br>[计] 标记| 
-sentry|'sentri| |n a person employed to keep watch for some anticipated event|n. 哨兵, 看守<br>vt. 设岗哨<br>vi. 站岗, 放哨| 
+sentri| | | | | 
 sepal|'si:pl| |n. one of the green parts that form the calyx of a flower|n. 萼片<br>[医] 萼片| 
-september| | | | | 
-sequences|ˈsi:kwənsiz| |n serial arrangement in which things follow in logical order or a recurrent pattern<br>n a following of one thing after another in time<br>n film consisting of a succession of related shots that develop a given subject in a movie<br>n the action of following in order<br>n several repetitions of a melodic phrase in different keys<br>v arrange in a sequence<br>v determine the order of constituents in|n. 后果( sequence的名词复数 ); （纸牌中的）顺牌; 有关联的一组事物; （电影中表现同一主题或场面的）一组镜头| 
-sequential|si'kwenʃәl|sequentially|s in regular succession without gaps|a. 继续的, 后果的<br>[计] 顺序的| 
+septemb| | | | | 
+sequenc| | | | | 
+sequenti| |sequentially| | | 
 serial|'siәriәl|serialization<br>serialize<br>serialized<br>serializing|n. a serialized set of programs<br>a. pertaining to or composed in serial technique<br>a. pertaining to or occurring in or producing a series<br>s. of or relating to the sequential performance of multiple operations|n. 分期连载作品, 连载小说<br>a. 连续的, 一连串的, 连载的, 分期偿还的<br>[计] 连续的; 串行的| 
-serializable| | | |[计] 可串行化的| 
+serializ| | | | | 
 serif|'serif| |n. a short line at the end of the main strokes of a character|n. 西文字体中的短细线, 衬线<br>[计] 衬线| 
 server|'sә:vә|servers|n. (court games) the player who serves to start a point<br>n. (computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network<br>n. utensil used in serving food or drink|n. 服伺者, 上菜用具, 发球员<br>n. 服务器<br>[计] 服务器, 服务器启动程序, 服务台程序| 
 sess|ses| |n street names for marijuana|[法] 税, 税率| 
@@ -2522,48 +2522,48 @@ shard|ʃɑ:d|shards|n. a broken piece of a brittle artifact|n. 陶瓷碎片, 鞘
 shed|ʃed| |n. an outbuilding with a single story; used for shelter or storage<br>v. get rid of<br>v. cast off hair, skin, horn, or feathers|n. 车棚, 小屋, 脱落之物, 分水岭<br>vt. 使流出, 放射, 脱落, 散发, 摆脱<br>vi. 流出, 散布, 脱落| 
 shield|'ʃi:ld| |n. a protective covering or structure<br>n. armor carried on the arm to intercept blows<br>v. protect, hide, or conceal from danger or harm|n. 盾, 防卫物, 保护者, 屏蔽<br>vt. 保护, 遮蔽, 屏蔽, 庇护, 挡开, 避开<br>vi. 起保护作用| 
 shim|ʃim| |n. a thin wedge of material (wood or metal or stone) for driving into crevices|n. 填片, 万能开锁片<br>vt. 用填片填| 
-shiny|'ʃaini| |s reflecting light<br>a having a shiny surface or coating<br>s made smooth and bright by or as if by rubbing; reflecting a sheen or glow|a. 有光泽的, 发光的, 辉煌的, 磨光的, 磨损的| 
+shini| | | | | 
 shipment|'ʃipmәnt| |n goods carried by a large vehicle<br>n the act of sending off something|n. 装船, 出货<br>[经] 运送, 运送(寄出)货物, 装载| 
-shitty|'ʃiti| |s very bad|劣等的, 较差的| 
+shitti| | | | | 
 shortcut|'ʃɒ:tkʌt|shortcuts|n. a route shorter than the usual one|n. 捷径, 最短路线<br>[计] 快捷方式| 
 shorten|'ʃɒ:tn|shortened|v. make shorter than originally intended; reduce or retrench in length or duration<br>v. make short or shorter<br>v. become short or shorter|vt. 弄短, 缩短, 减少<br>vi. 缩小, 变短| 
 shorter| | |a primarily temporal sense; indicating or being or seeming to be limited in duration<br>a (primarily spatial sense) having little length or lacking in length<br>a low in stature; not tall<br>s not sufficient to meet a need<br>a (of memory) deficient in retentiveness or range<br>a not holding securities or commodities that one sells in expectation of a fall in prices<br>a of speech sounds or syllables of relatively short duration<br>s less than the correct or legal or full amount often deliberately so<br>s lacking foresight or scope<br>s tending to crumble or break into flakes due to a large amount of shortening<br>s marked by rude or peremptory shortness|a. 较短的；更短的；更矮的（short的比较级）| 
 shortest| | |a primarily temporal sense; indicating or being or seeming to be limited in duration<br>a (primarily spatial sense) having little length or lacking in length<br>a low in stature; not tall<br>s not sufficient to meet a need<br>a (of memory) deficient in retentiveness or range<br>a not holding securities or commodities that one sells in expectation of a fall in prices<br>a of speech sounds or syllables of relatively short duration<br>s less than the correct or legal or full amount often deliberately so<br>s lacking foresight or scope<br>s tending to crumble or break into flakes due to a large amount of shortening<br>s marked by rude or peremptory shortness|[计] 最短的| 
 shorthand|'ʃɒ:thænd| |n. a method of writing rapidly<br>s. written in abbreviated or symbolic form|n. 速记<br>[法] 速记法, 速记, 记录文字| 
 shouldn| | | | | 
-showcase|'ʃәukeis| |n. a setting in which something can be displayed to best effect|n. 陈列橱<br>[经] 商品陈列所, 货物陈列架| 
+showcas| | | | | 
 shown|ʃәun| |v give an exhibition of to an interested audience<br>v establish the validity of something, as by an example, explanation or experiment<br>v provide evidence for<br>v make visible or noticeable<br>v show in, or as in, a picture<br>v give expression to<br>v indicate a place, direction, person, or thing; either spatially or figuratively<br>v be or become visible or noticeable<br>v indicate a certain reading; of gauges and instruments<br>v give evidence of, as of records<br>v take (someone) to their seats, as in theaters or auditoriums<br>v finish third or better in a horse or dog race|show的过去分词| 
-shuffle|'ʃʌfl|shuffled|n. the act of mixing cards haphazardly<br>v. walk by dragging one's feet<br>v. move about, move back and forth<br>v. mix so as to make a random order or arrangement|n. 拖着脚走, 曳步, 混乱, 蒙混, 洗纸牌<br>v. 拖曳, 马虎地做, 笨手笨脚地穿(脱)衣, 推诿, 洗牌<br>[计] 混洗| 
+shuffl| |shuffled| | | 
 shutdown|'ʃʌtdaun| |n termination of operations|n. 关门, 停工, 停机<br>[经] 停工| 
-sibling|'sibliŋ|siblings|n. a person's brother or sister|n. 兄弟, 同胞<br>[医] 同胞(兄弟姐妹)| 
+sibl| |siblings| | | 
 sidebar|'saidbɑ:(r)| |n. (law) a courtroom conference between the lawyers and the judge that is held out of the jury's hearing<br>n. a short news story presenting sidelights on a major story|n. 其他选项,工具条| 
 sierra|si'єәrә| |n. a range of mountains (usually with jagged peaks and irregular outline)<br>n. a Spanish mackerel of western North America|n. 呈齿状起伏的山脉| 
-sieve|siv| |n. a strainer for separating lumps from powdered material or grading particles<br>v. check and sort carefully<br>v. distinguish and separate out|n. 筛子, 滤网<br>vt. 筛, 滤| 
+siev| | | | | 
 sift|sift| |v. move as if through a sieve<br>v. separate by passing through a sieve or other straining device to separate out coarser elements|vt. 筛, 过滤, 撒, 详查<br>vi. 筛, 被筛下, 精选| 
 sigma|'si^mә| |n. the 18th letter of the Greek alphabet|[计] 求和<br>[医] σ(希腊文第十八个字母)| 
 sigmoid|'sigmɒid| |a. curved in two directions (like the letter S)<br>a. of or relating to the sigmoid flexure in the large intestine|a. S字形的, 乙状结肠的, C字形的<br>n. 乙状结肠| 
-signature|'signәtʃә|signatures|n. your name written in your own handwriting<br>n. a melody used to identify a performer or a dance band or radio/tv program<br>n. a sheet with several pages printed on it; it folds to page size and is bound with other signatures to form a book|n. 签字, 识别标志, 调号<br>[计] 签名附件| 
+signatur| |signatures| | | 
 signer|'sainә| |n. someone who can use sign language to communicate<br>n. someone who signs and is bound by a document|n. 签名者, 使用手势语者| 
 silicon|'silikәn| |n. a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors|n. 硅<br>[化] 硅Si| 
-silly|'sili| |n. a word used for misbehaving children|a. 愚蠢的, 糊涂的| 
+silli| | | | | 
 simon|'saimәn| |n. one of the twelve Apostles (first century)<br>n. United States singer and songwriter (born in 1942)<br>n. United States playwright noted for light comedies (born in 1927)|n. 西蒙（男子名）| 
 simpler| | |a having few parts; not complex or complicated or involved<br>s easy and not involved or complicated<br>s apart from anything else; without additions or modifications<br>s exhibiting childlike simplicity and credulity<br>s lacking mental capacity and subtlety<br>a (botany) of leaf shapes; of leaves having no divisions or subdivisions<br>s unornamented|n. 药草采集者<br>[医] 草药医生| 
 simplest| | |a having few parts; not complex or complicated or involved<br>s easy and not involved or complicated<br>s apart from anything else; without additions or modifications<br>s exhibiting childlike simplicity and credulity<br>s lacking mental capacity and subtlety<br>a (botany) of leaf shapes; of leaves having no divisions or subdivisions<br>s unornamented|a. 最简单的, 单纯的| 
-simplicity|sim'plisiti| |n. the quality of being simple or uncompounded<br>n. a lack of penetration or subtlety<br>n. absence of affectation or pretense|n. 单纯, 简朴, 朴素, 坦率, 天真<br>[计] 简明性| 
-simplification|.simplifi'keiʃәn| |n. an explanation that omits superfluous details and reduces complexity<br>n. elimination of superfluous details|n. 单一化, 单纯化, 简单化| 
-simplified| |simplifies<br>simplify<br>simplifying|s. made easy or uncomplicated|a. 简化了的| 
-simplistic|sim'plistik| |s. characterized by extreme and often misleading simplicity|a. 过分简单化的| 
-simulate|'simjuleit|simulated<br>simulating<br>simulation<br>simulator|v. make a pretence of|vt. 模拟, 假装, 模仿<br>[法] 伪装的, 模拟的; 假装的, 伪装的, 冒充| 
-simultaneous|.simәl'teinjәs|simultaneously|s occurring or operating at the same time|a. 同时的, 同时发生的<br>[计] 同时的| 
+simplic| | | | | 
+simplif| | | | | 
+simplifi| |simplifies<br>simplify<br>simplifying| | | 
+simplist|'simplist| |n. One skilled in simples, or medicinal plants; a simpler.|n. 看问题简单化的人| 
+simul|'simәl|simulated<br>simulating<br>simulation<br>simulator| |adv. ( 处方用语) 一起, 同时( = together)| 
+simultan| |simultaneously| | | 
 sinatra| | | | | 
 sine|sain| |n. ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle|n. 正弦<br>[计] 正弦| 
-singapore| | | | | 
+singapor| | | | | 
 singleton|'siŋgltәn|singletons|n. a single object (as distinguished from a pair)<br>n. a set containing a single member<br>n. the playing card that is the only card in a suit held in a bridge hand as initially dealt|n. 一个, 独生子, 独身| 
 singular|'siŋgjulә| |n. the form of a word that is used to denote a singleton<br>s. being a single and separate person or thing<br>a. composed of one member, set, or kind<br>a. grammatical number category referring to a single item or unit|n. 单数<br>a. 异常的, 单一的| 
 sinon| | | | | 
 sixth|siksθ| |n. position six in a countable series of things<br>n. the musical interval between one note and another six notes away from it<br>s. coming next after the fifth and just before the seventh in position|num. 第六, 六分之一| 
 sizer|'saizә| |s (used in combination) sized|n. 筛分器<br>[化] 填料器; 上胶器| 
-skeptical|'skeptikәl| |s denying or questioning the tenets of especially a religion<br>s marked by or given to doubt|a. 怀疑论的, 怀疑的, 不可知论的<br>[法] 怀疑的, 不信的, 怀疑论者的| 
+skeptic|'skeptik| |n. someone who habitually doubts accepted beliefs|n. 怀疑者, 怀疑论者, 不可知论者| 
 sketch|sketʃ| |n. preliminary drawing for later elaboration<br>n. a brief literary description<br>n. short descriptive summary (of events)<br>v. make a sketch of|n. 素描, 草图, 小品<br>v. 描绘略图, 画素描或速写| 
 skew|skju:| |v. turn or place at an angle<br>s. having an oblique or slanting direction or position|a. 斜的, 歪的<br>n. 歪斜, 偏态家庭关系<br>vi. 歪斜, 侧转<br>vt. 使歪斜, 曲解<br>[计] 扭斜; 歪斜; 偏斜| 
 skip|skip|skipped<br>skipping<br>skips|n. a gait in which steps and hops alternate<br>v. bound off one point after another|n. 跳跃, 跳读<br>vi. 跳越, 跳读, 跳绳, 遗漏, 跳级<br>vt. 跳过, 遗漏<br>[计] 跳过| 
@@ -2574,7 +2574,7 @@ slider|'slaidә|sliders|n. freshwater turtle of United States and South America;
 slim|slim| |v take off weight<br>s being of delicate or slender build<br>s small in quantity|a. 瘦的, 苗条的, 微小的, 稀少的, 微薄的<br>vi. 变苗条<br>vt. 使苗条| 
 sling|sliŋ| |n. a highball with liquor and water with sugar and lemon or lime juice<br>n. a simple weapon consisting of a looped strap in which a projectile is whirled and then released<br>n. bandage to support an injured forearm; consisting of a wide triangular piece of cloth hanging from around the neck<br>v. hurl as if with a sling|n. 投石器, 抛掷, 吊索, 吊钩<br>vt. 用投石器投掷, 用吊钩吊上, 吊起| 
 slope|slәup| |n. an elevated geological formation<br>v. be at an angle|n. 倾斜, 斜坡, 斜率, 扛枪姿势<br>vt. 使倾斜, 弄斜, 扛<br>vi. 倾斜, 走, 逃走| 
-sloppy|'slɒpi| |s. lacking neatness or order<br>s. wet or smeared with a spilled liquid or moist material|a. 泥泞的, 潮湿的, 粗心的| 
+sloppi| | | | | 
 slot|slɒt|slots|n. a position in a grammatical linguistic construction in which a variety of alternative units are interchangeable<br>n. a small slit (as for inserting a coin or depositing mail)<br>n. a position in a hierarchy or organization<br>n. the trail of an animal (especially a deer)|n. 水沟, 细长孔, 硬币投币口, 缝, 狭槽, 狭通道, 位置, 一档(广播节目等)<br>vt. 开槽于, 把...纳入机构<br>[计] 槽; 存储槽| 
 slower| | |r. more slowly|[计] 减慢| 
 slug|slʌg| |n. a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms<br>n. a counterfeit coin<br>n. an amount of an alcoholic drink (usually liquor) that is poured or gulped<br>n. any of various terrestrial gastropods having an elongated slimy body and no external shell|n. 鼻涕虫, 刺蛾, 懒汉, 弹丸, 金属小块, 重击<br>vi. 偷懒, 动作迟缓<br>vt. 重击| 
@@ -2582,11 +2582,11 @@ smack|smæk| |n. a sailing ship (usually rigged like a sloop or cutter) used in 
 smaller| | |s. small or little relative to something else|a. 较小, 更小的| 
 smallest| | |a limited or below average in number or quantity or magnitude or extent<br>s limited in size or scope<br>s (of children and animals) young, immature<br>s slight or limited; especially in degree or intensity or scope<br>s low or inferior in station or quality<br>s lowercase<br>s (of a voice) faint<br>s have fine or very small constituent particles<br>s not large but sufficient in size or amount<br>s made to seem smaller or less (especially in worth)|a. 最小的（small的最高级）| 
 smarter| | |a showing mental alertness and calculation and resourcefulness<br>s elegant and stylish<br>s characterized by quickness and ease in learning<br>s improperly forward or bold<br>s painfully severe<br>s quick and brisk<br>s capable of independent and apparently intelligent action|a. 聪明的；精明的（smart的比较级）| 
-smarty|'smɑ:ti| | |n. 自作聪明的人| 
+smarti| | | | | 
 smith|smiθ| |n. Rhodesian statesman who declared independence of Zimbabwe from Great Britain (born in 1919)<br>n. United States sculptor (1906-1965)<br>n. United States singer noted for her rendition of patriotic songs (1909-1986)|n. 铁匠, 金属品工匠<br>[机] 锻造工, 上手| 
-smoothly|'smu:ðli| |r. with no problems or difficulties<br>r. in a smooth and diplomatic manner|adv. 平滑地, 流畅地, 流利地| 
+smoothli| | | | | 
 snake|sneik| |n. limbless scaly elongate reptile; some are venomous<br>n. a deceitful or treacherous person<br>n. a tributary of the Columbia River that rises in Wyoming and flows westward; discovered in 1805 by the Lewis and Clark Expedition<br>n. something long, thin, and flexible that resembles a snake|n. 蛇, 阴险的人<br>vi. 曲折行进<br>vt. 迂回, 拉, 急抽| 
-snappy|'snæpi| |s. smart and fashionable|a. 厉声说话的；生气勃勃的；时髦的；爽快的| 
+snappi| | | | | 
 snapshot|'snæpʃɒt|snapshots|n. an informal photograph; usually made with a small hand-held camera|n. 快照, 抽点打印<br>[计] 瞬象; 抽点打印| 
 snip|snip| |n. a small piece of anything (especially a piece that has been snipped off)<br>v. cultivate, tend, and cut back the growth of|v. 剪, 剪断, 削减, 删节<br>n. 剪, (剪刀的)一剪, 不足道的人| 
 snippet|'snipit|snippets|n a small piece of anything (especially a piece that has been snipped off)|n. 小片, 片断, 摘录| 
@@ -2596,15 +2596,15 @@ socket|'sɒkit|sockets|n. a bony hollow into which a structure fits<br>n. recept
 sold|sәuld| |a. disposed of to a purchaser|sell的过去式和过去分词| 
 sole|sәul|solely|n. the underside of footwear or a golf club<br>n. lean flesh of any of several flatfish<br>n. the underside of the foot<br>n. right-eyed flatfish; many are valued as food; most common in warm seas especially European|n. 脚掌, 鞋底, 底部<br>a. 唯一的, 仅有的, 单独的, 独身的<br>vt. 上鞋底, 触底| 
 solo|'sәulәu| |n. any activity that is performed alone without assistance<br>n. a musical composition for one voice or instrument (with or without accompaniment)<br>n. a flight in which the aircraft pilot is unaccompanied<br>v. fly alone, without a co-pilot or passengers|n. 独奏, 独唱, 单独表演<br>a. 单独的, 独奏的, 独唱的<br>vi. 放单飞| 
-solutions| | |n a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution<br>n a statement that solves a problem or explains how to solve the problem<br>n a method for solving a problem<br>n the set of values that give a true statement when substituted into an equation<br>n the successful action of solving a problem|n. 解决方案；应对措施；溶液剂（solution的复数）| 
+solut| | | | | 
 solver|'sɔlvә| |n a thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution|[计] 解算机, 求解程序| 
-sometime|'sʌmtaim| |r. at some indefinite or unstated time|a. 以前的, 某一时间的<br>adv. 改天, 来日| 
+sometim| | | | | 
 sonar|'sәunɑ:| |n. a measuring instrument that sends out an acoustic pulse in water and measures distances in terms of the time for the echo of the pulse to return|n. 声纳<br>[计] 声纳| 
 sonata|sә'nɑ:tә| |n. a musical composition of 3 or 4 movements of contrasting forms|n. 奏鸣曲| 
 sooner|'su:nә| |r. comparatives of `soon' or `early'|n. (美)(非正式)抢先占有土地者, 抢先而获得不正当利益的人| 
-sortable|'sɒ:tәbl| |a. Capable of being sorted.<br>a. Suitable; befitting; proper.|a. 可分类的| 
+sortabl| | | | | 
 sorter|'sɒ:tә| |n. a clerk who sorts things (as letters at the post office)<br>n. a machine for sorting things (such as punched cards or letters) into classes|n. 从事分类的人, 分拣的人<br>[计] 分类机; 分类人员| 
-sources| | |n the place where something begins, where it springs into being<br>n a document (or organization) from which information is obtained<br>n anything that provides inspiration for later work<br>n a facility where something is available<br>n a person who supplies information<br>n someone who originates or causes or initiates something<br>n (technology) a process by which energy or a substance enters a system<br>n anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies<br>n a publication (or a passage from a publication) that is referred to<br>v get (a product) from another country or business<br>v specify the origin of|n. 输入源；发起者；来源（source的复数）| 
+sourc| | | | | 
 spacer|'speisә| | |n. 空格杆, 逆电流器, 定位格架<br>[化] 间隔区; 垫片; 定距片; 间距短管| 
 spain| | | | | 
 spam| | |n. a canned meat made largely from pork<br>n. unwanted e-mail (usually of a commercial nature sent out in bulk)<br>v. send unwanted or junk e-mail|n. 罐头猪肉, 垃圾邮件<br>v. 发送垃圾邮件| 
@@ -2612,14 +2612,14 @@ span|spæn|spans|n. the complete duration of something<br>n. the distance or int
 spanish| | | | | 
 spare|spєә| |n. a score in tenpins; knocking down all ten after rolling two balls<br>v. refrain from harming<br>v. save or relieve from an experience or action<br>v. give up what is not strictly needed|n. 剩余, 备用品, 备件, 备用零件, 备用轮胎<br>a. 多余的, 备用的, 空闲的, 节约的, 瘦的<br>vi. 节约, 省掉, 宽恕<br>vt. 节约, 省用, 剩下, 饶恕, 赦免| 
 spark|spɑ:k| |n. a small but noticeable trace of some quality that might become stronger<br>n. Scottish writer of satirical novels (born in 1918)<br>n. a small fragment of a burning substance thrown out by burning material or by friction<br>v. emit or produce sparks|n. 火花, 火星, 闪光, 无线电报务员, 瞬间放电, 活力, 朝气, 花花公子, 情郎<br>vi. 闪光, 发火花, 求婚<br>vt. 发动, 鼓舞, 使有朝气, 求婚| 
-sparse|'spɑ:s| |s. not dense|a. 稀疏的, 稀稀落落的, 稀薄的| 
+spars|s'pɑ:z| |n any of various nonmetallic minerals (calcite or feldspar) that are light in color and transparent or translucent and cleavable<br>n a stout rounded pole of wood or metal used to support rigging<br>n making the motions of attack and defense with the fists and arms; a part of training for a boxer<br>v furnish with spars<br>v fight with spurs<br>v box lightly<br>v fight verbally|n. 圆材( spar的名词复数 )<br>v. （拳击练习中）不用力打( spar的第三人称单数 ); 试击; 争论; 争吵| 
 spatial|'speiʃәl| |a. pertaining to or involving or having the nature of space|a. 空间的, 受空间条件限制的, 占地位的<br>[医] 隙的, 间隙的, 腔的; 空间的, 立体的| 
 spawn|spɒ:n|spawned<br>spawning|n. the mass of eggs deposited by fish or amphibians or molluscs<br>v. lay spawn|n. (鱼)卵, 产物<br>vt. 产卵, 酿成, 大量生产<br>vi. 产卵, 大量生产| 
 spec|spek|specs|n a detailed description of design criteria for a piece of work|n. 投机, 投机事业, 规格, 说明书, 专业人员<br>[化] 加工单| 
-specification|.spesifi'keiʃәn|specifications<br>specificity<br>specifics|n. a detailed description of design criteria for a piece of work<br>n. naming explicitly<br>n. (patent law) a document drawn up by the applicant for a patent of invention that provides an explicit and detailed description of the nature and use of an invention|n. 规格, 详述, 详细说明书<br>[计] 规范; 形式说明; 说明; 说明书; 规格| 
-specified| |specifier<br>specifies<br>specify<br>specifying|a. clearly and explicitly stated|a. 规定的；详细说明的| 
+specif|s'pesɪf|specifications<br>specificity<br>specifics| |abbr. specific 特殊的; specifically 特别地; 明确地; specification 规格| 
+specifi| |specifier<br>specifies<br>specify<br>specifying| | | 
 spectrum|'spektrәm| |n. an ordered array of the components of an emission or wave<br>n. a broad range of related objects or values or qualities or ideas or activities|n. 光谱, 范围, 系列<br>[化] 光谱| 
-speculation|.spekju'leiʃәn| |n. a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence)<br>n. an investment that is very risky but could yield great profits|n. 沉思, 推测, 投机<br>[经] 投机交易, 买空卖空| 
+specul| | | | | 
 speedup|'spi:dʌp| |n the act of accelerating; increasing the speed|n. 加速| 
 spell|spel|spelled<br>spelling|n. a verbal formula believed to have magical force<br>v. orally recite the letters of or give the spelling of<br>v. indicate or signify<br>v. write or name the letters that comprise the conventionally accepted form of (a word or part of a word)|n. 符咒, 魅力, 轮值, 轮班, 工作时间, 一次发作<br>vt. 拼写, 拼成, 琢磨, 理解, 招致, 轮换, 迷住<br>vi. 轮换, 拼字| 
 spent|spent| |v pass time in a specific way<br>v pay out<br>v spend completely<br>a depleted of energy, force, or strength<br>s drained of energy or effectiveness; extremely tired; completely exhausted|a. 用尽的, 精疲力竭的<br>spend的过去式和过去分词| 
@@ -2642,7 +2642,7 @@ spreadsheet|'spredʃi:t|spreadsheets|n. a screen-oriented interactive program en
 spree|spri:| |n. a brief indulgence of your impulses<br>v. engage without restraint in an activity and indulge, as when shopping|n. 戏耍, 喧闹, 宴会, 狂饮<br>vi. 狂欢, 狂饮| 
 sprint|sprint| |v. run very fast, usually for a short distance|n. 短距离赛跑<br>vi. 全速跑, 冲刺<br>vt. 全速跑过| 
 sprite|sprait|sprites|n a small being, human in form, playful and having magical powers|n. 小妖, 小鬼, 妖精<br>[计] 子图形; 子画面| 
-sprockets|ˈsprɔkits| |n. roller that has teeth on the rims to pull film or paper through<br>n. thin wheel with teeth that engage with a chain<br>n. tooth on the rim of gear wheel|n. 链轮齿( sprocket的复数形式 )| 
+sprocket|'sprɒkit| |n. roller that has teeth on the rims to pull film or paper through<br>n. thin wheel with teeth that engage with a chain|n. 链轮齿<br>[机] 链轮| 
 sqrt| | | |abbr. 开平方根（square root）| 
 squash|skwɒʃ| |n. any of numerous annual trailing plants of the genus Cucurbita grown for their fleshy edible fruits<br>n. edible fruit of a squash plant; eaten as a vegetable<br>n. a game played in an enclosed court by two or four players who strike the ball with long-handled rackets<br>v. to compress with violence, out of natural shape or condition|n. 挤压, 压碎的东西, 南瓜属植物, 拥挤的人群<br>vt. 压扁, 镇压, 压制<br>vi. 被压扁, 发溅泼声, 挤入| 
 squid|skwid| |n. (Italian cuisine) squid prepared as food<br>n. widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins|n. 枪乌贼, 鱿鱼, 反潜水雷发射装置<br>[电] 超导量子干涉元件| 
@@ -2653,97 +2653,97 @@ standpoint|'stændpɒint| |n a mental position from which things are viewed|n. �
 stanford|'stænfәd| |n. United States railroad executive and founder of Stanford University (1824-1893)|n. 斯坦福（姓氏, 男子名）；斯坦福大学（美国一所大学）| 
 starter|'stɑ:tә|starters|n. an electric motor for starting an engine<br>n. a contestant in a team sport who is in the game at the beginning<br>n. the official who signals the beginning of a race or competition<br>n. a culture containing yeast or bacteria that is used to start the process of fermentation or souring in making butter or cheese or dough|n. 开端者, 在起跑线上的人, 参加赛跑的人, 调度员, 起动机, 酵母<br>[计] 启动程序, 启动器| 
 startup| |startups|n. the act of setting in operation|[计] 启动| 
-starty| | | | | 
+starti| | | | | 
 stash|stæʃ| |n a secret store of valuables or money<br>v save up as for future use|vt. 藏起来<br>n. 隐藏处, 隐藏物| 
 stat|stæt|stats| |[电] 静| 
 stateless|'steitlis| |s without nationality or citizenship|a. 没有国家的<br>[法] 无国籍的, 无国家主权的| 
 static|'stætik|statically|n. a crackling or hissing noise caused by electrical interference<br>n. angry criticism<br>s. showing little if any change|n. 静电, 静电干扰<br>a. 静态的, 静止的, 固有的, 静电的| 
-statistic|stә'tistik|statistical|n. a datum that can be represented numerically|n. 统计量<br>a. 统计的, 统计学的| 
+statist|'steitist|statistical|n. A statesman; a politician; one skilled in government.<br>n. A statistician.|n. 统计学者, 中央集权论者| 
 stem|stem| |n. the tube of a tobacco pipe<br>v. grow out of, have roots in, originate in<br>v. cause to point inward<br>v. stop the flow of a liquid|n. 茎, 干, 柄, 船首, 血统, 堵塞物<br>vt. 摘掉茎, 装柄于, 阻止, 堵住, 逆行<br>vi. 堵住, 逆行| 
 stencil|'stensil| |n. a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) that has been perforated with a pattern (printing or a design); ink or paint can pass through the perforations to create the printed pattern on the surface below<br>v. mark or print with a stencil|n. 模版, 蜡纸<br>vt. 用蜡纸印, 用模版印刷| 
 stephen|'sti:vn| |n. English writer (1832-1904)|n. 斯蒂芬（男子名）| 
 stepper|'stepә| |n. a motor (especially an electric motor) that moves or rotates in small discrete steps<br>n. a horse trained to lift its feet high off the ground while walking or trotting|n. 快马, 跳舞者, (美)(非正式)花很多时间参加社交活动的学生<br>[计] 步进| 
 stereo|'stiәriәu| |n. reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound<br>n. two photographs taken from slightly different angles that appear three-dimensional when viewed together|n. 铅版, 立体照片<br>a. 立体的, 立体感觉的| 
-stereotype|'stiәriәtaip| |n. a conventional or formulaic conception or image|n. 铅版, 陈规, 老套<br>vt. 使用铅版, 把...印制成盲文, 套用老套, 使一成不变| 
+stereotyp| | | | | 
 steve| | |v. t. To pack or stow, as cargo in a ship's hold. See Steeve.|n. 史蒂夫（男子名）| 
 steven|'sti:vn| |n. Voice; speech; language.<br>n. An outcry; a loud call; a clamor.|n. 史蒂文（男子名）| 
-sticky|'stiki| |s. moist as with undried perspiration and with clothing sticking to the body<br>s. covered with an adhesive material|a. 粘的, 有粘性的, 顽固的| 
+sticki| | | | | 
 stolen|'stәulәn| |v take without the owner's consent<br>v move stealthily<br>v steal a base|steal的过去分词<br>[经] 被偷窃的| 
 stopwatch|'stɒpwɒtʃ| |n. a timepiece that can be started or stopped for exact timing (as of a race)|n. 计时表, 码表| 
 storyboard|'stɔ:ribɔ:d| | |n. （电影、电视节目或商业广告等的）情节串连图板| 
 straightforward|streit'fɒ:wәd| |s. free from ambiguity<br>s. pointed directly ahead|a. 笔直的, 率直的, 明确的, 简单的, 直接的| 
-strategies|ˈstrætidʒiz| |n. an elaborate and systematic plan of action<br>n. the branch of military science dealing with military command and the planning and conduct of a war|n. 策略( strategy的复数形式 ); 战略; 战略学; 对策| 
-strawberry|'strɒ:bәri| |n. sweet fleshy red fruit<br>n. any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry<br>n. a soft red birthmark|n. 草莓| 
+strategi| | | | | 
+strawberri| | | | | 
 strict|strikt| |s rigidly accurate; allowing no deviation from a standard<br>s (of rules) stringently enforced<br>a characterized by strictness, severity, or restraint<br>s incapable of compromise or flexibility<br>s severe and unremitting in making demands|a. 严厉的, 绝对的, 详尽的, 严格的, 精确的<br>[法] 严格的, 精确的, 绝对的| 
-strictly|'striktli| |r. restricted to something<br>r. in a stringent manner|adv. 严格地, 确实地| 
+strictli| | | | | 
 stride|straid|strides|n. significant progress (especially in the phrase "make strides")<br>v. walk with long steps<br>v. cover or traverse by taking long steps|n. 大步, 步幅, 步态, 进步<br>v. 迈大步走, 跨过, 跨| 
 stripe|straip|striped|n. a piece of braid, usually on the sleeve, indicating military rank or length of service<br>n. a kind or category<br>n. a narrow marking of a different color or texture from the background<br>v. mark with stripes|n. 斑纹, 条纹<br>[医] 纹, 条纹| 
 stronger| | |a having strength or power greater than average or expected<br>s not faint or feeble<br>s having or wielding force or authority<br>a having a strong physiological or chemical effect<br>s immune to attack; incapable of being tampered with<br>s of good quality and condition; solidly built<br>s of verbs not having standard (or regular) inflection<br>s being distilled rather than fermented; having a high alcoholic content<br>s freshly made or left<br>s strong and sure|[经] 强劲的| 
 struck|strʌk| |v deliver a sharp blow, as with the hand, fist, or weapon<br>v have an emotional or cognitive impact upon<br>v hit against; come into sudden contact with<br>v make a strategic, offensive, assault against an enemy, opponent, or a target<br>v indicate (a certain time) by striking<br>v affect or afflict suddenly, usually adversely<br>v stop work in order to press demands<br>v touch or seem as if touching visually or audibly<br>v attain<br>v produce by manipulating keys or strings of musical instruments, also metaphorically<br>v cause to form (an electric arc) between electrodes of an arc lamp<br>v find unexpectedly<br>v produce by ignition or a blow<br>v remove by erasing or crossing out or as if by drawing a line<br>v cause to experience suddenly<br>v drive something violently into a location<br>v occupy or take on<br>v form by stamping, punching, or printing<br>v smooth with a strickle<br>v pierce with force<br>v arrive at after reckoning, deliberating, and weighing<br>s (used in combination) affected by something overwhelming|a. 受罢工影响的<br>strike的过去式和过去分词| 
 struct| | | |n. 结构；结构体；创建构架数组| 
-struts| | |n a proud stiff pompous gait<br>n brace consisting of a bar or rod used to resist longitudinal compression<br>v to walk with a lofty proud gait, often in an attempt to impress others|n. [计算机]标记层；源代码（strut的复数）| 
+strut|strʌt| |n. a proud stiff pompous gait<br>n. brace consisting of a bar or rod used to resist longitudinal compression|n. 高视阔步, 支柱, 压杆<br>vi. 趾高气扬地走, 肿胀<br>vt. 用支柱支撑, 炫耀| 
 stub|stʌb|stubs|n. a short piece remaining on a trunk or stem where a branch is lost<br>n. a torn part of a ticket returned to the holder as a receipt<br>n. the part of a check that is retained as a record<br>v. pull up (weeds) by their roots|n. 断肢, 烟蒂, 树桩, 残余, 存根<br>vt. 连根拔除, 踩熄<br>[计] 存根| 
 stuck|stʌk| |a. caught or fixed<br>s. baffled|stick的过去式和过去分词| 
 stud|stʌd| |n. a man who is virile and sexually active<br>n. ornament consisting of a circular rounded protuberance (as on a vault or shield or belt)<br>n. adult male horse kept for breeding<br>n. poker in which each player receives hole cards and the remainder are dealt face up; bets are placed after each card is dealt|n. 装饰钮扣, 大头钉, 领扣, 种马<br>vt. 镶嵌, 点缀, 散布| 
-stumbled|ˈstʌmbld| |imp. & p. p. of Stumble|v. （不顺畅地）说( stumble的过去式和过去分词 ); 跌跌撞撞地走; 绊脚; （说话、演奏等）出错| 
-stumped|stʌmpt| |v cause to be perplexed or confounded<br>v walk heavily<br>v travel through a district and make political speeches<br>v remove tree stumps from|v. 僵直地行走, 跺步行走( stump的过去式和过去分词 ); 把（某人）难住; 使为难; （选举前）在某一地区作政治性巡回演说| 
-stylus|'stailәs| |n. a sharp pointed device attached to the cartridge of a record player<br>n. a pointed tool for writing or drawing or engraving|n. 铁笔, 尖笔, 唱针<br>[计] 指示笔| 
-subcategories| |subcategory|plural of subcategory|(subcategory 的复数) [计] 子类, 子范畴| 
+stumbl| | | | | 
+stump|stʌmp| |n. the base part of a tree that remains standing after the tree has been felled<br>n. the part of a limb or tooth that remains after the rest is removed<br>n. (cricket) any of three upright wooden posts that form the wicket<br>v. cause to be perplexed or confounded|n. 残株, 树桩, 烟蒂, 讲演台<br>vt. 砍断, 挑战, 难住<br>vi. 蹒跚而走| 
+stylu| | | | | 
+subcategori| |subcategory| | | 
 subclass|'sʌbklɑ:s|subclasses<br>subclassing|n. (biology) a taxonomic category below a class and above an order|n. 亚纲, 子集<br>[医] 亚纲(生物分类)| 
-subdirectories| |subdirectory|plural of subdirectory<br>n. (computer science) a directory that is listed in another directory|(subdirectory 的复数) n. 子目录<br>[计] 子目录| 
-subdomains| | | |n. 子域| 
+subdirectori| |subdirectory| | | 
+subdomain| | | |[计] 子区域| 
 subform|'sʌbfɔ:m| | |n. 从属形式, 派生形式| 
 subitem| |subitems| |[计] 部分项, 子项| 
 subj| | | |abbr. subject 问题; subjective 主观的; subjectively 主观地; subjunctive 虚拟语气（的）| 
-sublime|sә'blaim| |v. vaporize and then condense right back again<br>v. change or cause to change directly from a solid into a vapor without first melting<br>s. lifted up or set high|a. 高尚的, 壮观的, 卓越的<br>v. 提高, (使)变高尚, (使)纯化, (使)升华<br>n. 庄严, 崇高, 顶点| 
+sublim| | | | | 
 sublist| | | |[计] 子表| 
-submission|sәb'miʃәn|submissions|n. something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition)<br>n. the act of submitting; usually surrendering power to another<br>n. the condition of having submitted to control by someone or something else<br>n. a legal document summarizing an agreement between parties in a dispute to abide by the decision of an arbiter|n. 屈服, 服从, 谦恭, 呈递, 提交, 意见<br>[经] 提交, 提出, 提交公断| 
-submodule|sʌb'mɔdju:l|submodules| |[计] 子模块| 
+submiss|sәb'mis|submissions|a. Submissive; humble; obsequious.<br>a. Gentle; soft; calm; as, submiss voices.|[古]恭顺的, 卑下的| 
+submodul| |submodules| | | 
 subnet|'sʌb,net| | |[计] 子网络, 分支网络| 
 subplot|'sʌbplɒt|subplots| |n. 陪衬情节, 次要情节| 
 subprocess| | | |[计] 子进程| 
 subreport| | | | | 
-subroutine|'sʌbru:.ti:n| |n a set sequence of steps, part of larger computer program|n. 子程序<br>[计] 子程序; 子例行程序| 
-subscribe|sәb'skraib|subscribed<br>subscriber<br>subscribers<br>subscribing|v. offer to buy, as of stocks and shares<br>v. adopt as a belief<br>v. receive or obtain regularly|vt. 捐献, 签署<br>vi. 赞成, 同意, 捐款, 预订, 认购<br>[计] 订阅| 
+subroutin| | | | | 
+subscrib| |subscribed<br>subscriber<br>subscribers<br>subscribing| | | 
 subscript|'sʌbskript|subscription<br>subscriptions|n. a character or symbol set or printed or written beneath or slightly below and to the side of another character<br>a. written or printed below and to one side of another character|a. 下标的, 写在底下的<br>n. 下标<br>[计] 下标| 
-subsection|'sʌb.sekʃәn| |n. a section of a section; a part of a part; i.e., a part of something already divided|n. 分部, 分区, 分支<br>[经] 分部, 分段, 小小组| 
-subsequently|'sʌbsikwәntli| |r. happening at a time subsequent to a reference time|adv. 后来, 随后| 
+subsect| | | | | 
+subsequ| | | | | 
 subset|'sʌbset|subsets|n. a set whose members are members of another set; a set contained within another set|n. 子集<br>[计] 子集; 子设备| 
-substantially|sәb'stænʃәli| |r. in a strong substantial way|adv. 实质上, 本质上, 大体上| 
-substring|'sʌbstriŋ|substrings|n. a string that is part of a longer string|[计] 子串| 
+substanti| | | | | 
+substr| |substrings| |n. [数]子串函数；[数]字符截取函数；[数]取字符串的子串| 
 subsystem|'sʌb.sistәm| |n. a system that is part of some larger system|n. 辅助系统, 子系统<br>[计] 子系统| 
-subtitle|'sʌb.taitl| |n. translation of foreign dialogue of a movie or TV program; usually displayed at the bottom of the screen<br>n. secondary or explanatory title<br>v. supply (a movie) with subtitles|n. 副标题| 
-subtle|'sʌtl| |s. able to make fine distinctions|a. 敏锐的, 精细的, 狡猾的, 稀薄的, 灵巧的, 微妙的<br>[医] 锐敏的; 精细的| 
-subtotal|'sʌbtәutl| |n. the sum of part of a group of numbers|n. 小计<br>vt. 小计<br>vi. 求...部分和, 小计<br>a. 几乎全部的<br>[计] 分类汇总| 
+subtitl| | | | | 
+subtl| | | | | 
+subtot| | | | | 
 subtract|sәb'trækt|subtracting<br>subtraction|v. make a subtraction<br>v. take off or away|vt. 减去, 扣掉, 减少<br>vi. 做减法<br>[计] 减| 
-subtree| | | |[计] 子树| 
-subtype|'sʌbtaip| | |[计] 图表类型| 
-succeeds|səkˈsi:dz| |v attain success or reach a desired goal<br>v be the successor (of)|v. 成功( succeed的第三人称单数 ); 完成; 继承; 达到目的| 
+subtre| | | | | 
+subtyp| | | | | 
+succe| | | | | 
 successor|sәk'sesә| |n. a person who follows next in order<br>n. a thing or person that immediately replaces something or someone<br>n. a person who inherits some title or office|n. 继承者, 接任者<br>[计] 后继| 
 suck|sʌk|sucks|v. draw into the mouth by creating a practical vacuum in the mouth<br>v. draw something in by or as if by a vacuum<br>v. attract by using an inexorable force, inducement, etc.<br>v. be inadequate or objectionable|vt. 吸, 吮, 吸入, 吮吸, 吸收<br>vi. 吸, 吸奶<br>n. 吸, 吸入, 吮吸| 
-suffice|sә'fais| |v. be sufficient; be adequate, either in quality or quantity|vi. 足够, 有能力<br>vt. 满足| 
-sufficiently|sә'fiʃәntli| |r. to a sufficient degree|adv. 足够, 充分| 
+suffic| | | | | 
+suffici| | | | | 
 suffix|'sʌfiks|suffixes|n. an affix that is added at the end of the word<br>v. attach a suffix to|n. 后缀, 下标<br>vt. 添后缀<br>[计] 后缀| 
-suitable|'sju:tәbl| |s. meant or adapted for an occasion or use|a. 适当的, 相配的<br>[法] 合适的, 适宜的, 适当的| 
-summarise|'sʌmәraiz| |v be a summary of<br>v give a summary (of)|vt. 概括, 总结, 摘要, 概述| 
-summarize|'sʌmәraiz| |v. be a summary of|v. 概述, 总结| 
-summary|'sʌmәri| |n. a brief statement that presents the main points in a concise form|n. 摘要, 概要<br>a. 摘要的, 简略的<br>[计] 摘要; 概要| 
-summation|sʌ'meiʃәn| |n. a concluding summary (as in presenting a case before a law court)<br>n. (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce<br>n. the arithmetic operation of summing; calculating the sum of two or more numbers|n. 总和, 和, 合计<br>[医] 总和, 总合| 
+suitabl| | | | | 
+summaris| | | | | 
+summar| | | | | 
+summari| | | | | 
+summat|ˈsʌmət| | |pron. <英><方>某事, 某物, 某东西| 
 sunday| | | | | 
 sunt| | | |n. (Sunt)人名；(泰)讪| 
 superclass|'sju:pә,klɑ:s, -klæs| |n. (biology) a taxonomic class below a phylum and above a class|n. 总纲<br>[计] 母集合| 
 superior|sju:'piәriә| |n. one of greater rank or station or quality<br>n. the head of a religious community<br>n. a town in northwest Wisconsin on Lake Superior across from Duluth<br>a. of high or superior quality or performance|n. 长者, 占优势的人, 上级<br>a. 上级的, 出众的, 高傲的| 
-superuser| | | |[计] 超级用户, 特权用户| 
+superus| | | | | 
 supervisor|.sju:pә'vaizә| |n. one who supervises or has charge and direction of|n. 管理者, 监督者, 指导者, 视导员<br>[计] 管理程序| 
 supplier|sә'plaiә|suppliers|n. someone whose business is to supply a particular service or commodity|n. 供应者, 供给国, 供应商<br>[化] 承制厂; 供应厂商| 
-supposedly|sә'pәuzidli| |r believed or reputed to be the case|adv. 想象上, 看上去像, 被认为是, 恐怕, 按照推测| 
-surefire|'ʃuәfaiә| | |a. 准不会有错的, 定能达到目的的| 
+supposedli| | | | | 
+surefir| | | | | 
 surf|sә:f| |n. waves breaking on the shore<br>v. switch channels, on television|n. 海浪, 拍岸浪<br>vi. 作冲浪运动| 
-surname|'sә:neim| |n. the name used to identify the members of a family (as distinguished from each member's given name)|n. 姓, 别号, 绰号<br>vt. 呼以姓氏, 起绰号| 
-surrogate|'sʌrәgit| |n. someone who takes the place of another person|n. 替代者, 代用品<br>vt. 代理, 替代| 
-surveillance|sә:'veilәns| |n. close observation of a person or group (usually by the police)|n. 监视, 监督<br>[电] 侦测| 
+surnam| | | | | 
+surrog| | | | | 
+surveil|s\\\\:'veil, sә-| |v keep under surveillance|vt.使受监视(或监督), 对…实施监视(或监督)| 
 suspicion|sә'spiʃәn| |n. the state of being suspected<br>n. being of a suspicious nature|n. 怀疑, 觉察, 嫌疑<br>[法] 怀疑, 疑心, 嫌疑| 
-suspicious|sә'spiʃәs| |s openly distrustful and unwilling to confide<br>s not as expected|a. 可疑的, 多疑的, 怀疑的<br>[法] 怀疑的, 令人怀疑的, 可疑的| 
+suspici| | | | | 
 swagger|'swægә| |v. act in an arrogant, overly self-assured, or conceited manner|n. 大摇大摆, 吹牛, 妄自尊大, 威吓<br>vi. 虚张声势吓人, 大摇大摆, 吹牛<br>vt. 吓唬, 恫吓<br>a. 漂亮的, 时髦的| 
 swap|swɒp|swapped<br>swapping<br>swaps|v. move (a piece of a program) into memory, in computer science|n. 以货易货<br>v. 交换, 替换, 交易<br>[计] 交换| 
 swarm|swɒ:m| |n. a group of many things in the air or on the ground|n. 群, 大群, 蜂群, 分蜂群<br>vi. 分群, 群集, 聚集一块, 云集, 攀<br>vt. 挤满, 爬, 攀| 
@@ -2756,15 +2756,15 @@ swiper| | | |n. 猛击者, 大口喝酒的人, 偷窃者|
 switcher|'switʃә| |n. a person who administers punishment by wielding a switch or whip|n. 交换机；转换开关；调车机车| 
 sword|sɒ:d| |n. a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard|n. 刀, 剑, 战争, 武力, 剑状物| 
 sydney|'sidni| |n. the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Australia's chief port|n. 悉尼（澳大利亚港市）| 
-symmetric|si'metrik| |a having similarity in size, shape, and relative position of corresponding parts|a. 对称的, 均匀的, 匀称的<br>[计] 对称的| 
-synapse|si'næps| |n. the junction between two neurons (axon-to-dendrite) or between a neuron and a muscle|n. (神经)突触, 神经键<br>[医] 突触, 神经键| 
+symmetr| | | | | 
+synaps| | | | | 
 sync|siŋk|synced<br>syncing|v make synchronous and adjust in time or manner|[计] 同步的| 
-synchronization|,siŋkrәnai'zeiʃәn|synchronize<br>synchronized<br>synchronous<br>synchronously|n. an adjustment that causes something to occur or recur in unison<br>n. coordinating by causing to indicate the same time|[计] 同步| 
+synchron| |synchronize<br>synchronized<br>synchronous<br>synchronously| |同步| 
 synonym|'sinәnim|synonyms|n. two words that can be interchanged in a context are said to be synonymous relative to that context|n. 同义词| 
-syntactic|sin'tæktik|syntactically|a. of or relating to or conforming to the rules of syntax|a. 句法的, 句法上的, 按照句法规则的<br>[计] 语法的, 句法的| 
+syntact| |syntactically| | | 
 syntax|'sintæks| |n. the grammatical arrangement of words in sentences<br>n. a systematic orderly arrangement<br>n. studies of the rules for forming admissible sentences|n. 句法, 语法, 句子构造<br>[计] 句法, 语法| 
-synthesize|'sinθisaiz| |v. combine so as to form a more complex, product<br>v. combine and form a synthesis|v. 综合, 合成| 
-synthetic|sin'θetik| |n. a compound made artificially by chemical reactions<br>a. involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis<br>a. systematic combining of root and modifying elements into single words<br>a. of a proposition whose truth value is determined by observation or facts|n. 合成物质<br>a. 综合(性)的, 人造的, 合成的| 
+synthes| | | | | 
+synthet| | | | | 
 
 
 ## T
@@ -2775,63 +2775,63 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 tabid|'tæbid| |a. Affected by tabes; tabetic.|a. 衰弱的, 憔粹的| 
 tableau|'tæblәu| |n. a group of people attractively arranged (as if in a painting)<br>n. any dramatic scene|n. 生动场面, 戏剧性局面| 
-tables| | |n a set of data arranged in rows and columns<br>n a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs<br>n a piece of furniture with tableware for a meal laid out on it<br>n flat tableland with steep edges<br>n a company of people assembled at a table for a meal or game<br>n food or meals in general<br>v hold back to a later time<br>v arrange or enter in tabular form|n. 桌子；附录；表格（table的复数）| 
+tabl| | | | | 
 tablet|'tæblit|tablets|n. a slab of stone or wood suitable for bearing an inscription<br>n. a small flat compressed cake of some substance|n. 平板, 门牌, 笔记簿, 碑, 匾, 药片<br>[化] 片剂| 
 tabular|'tæbjulә| |a. of or pertaining to or arranged in table form<br>s. flat; like a table in form|a. 制成表的, 扁平的, 表格式的, 平坦的<br>[医] 板状的| 
-tackle|'tækl| |n. the person who plays that position on a football team<br>n. (American football) a position on the line of scrimmage<br>n. (American football) grasping an opposing player with the intention of stopping by throwing to the ground<br>v. seize and throw down an opponent player, who usually carries the ball|n. 工具, 复滑车, 滑车, 装备, 扭倒<br>vt. 固定, 处理, 抓住<br>vi. 扭倒| 
+tackl| | | | | 
 taken|'teikәn| |s. be affected with an indisposition|take的过去分词| 
-tally|'tæli| |v. keep score, as in games|n. 符木, 记账, 得分, 比分, 计数器, 标签, 符合, 对应物<br>vt. 记录, 点数, 计算, 加标签于, 使符合<br>vi. 记帐, 符合, 吻合, 记分<br>[计] 计数| 
+talli| | | | | 
 taught|tɒ:t| |v impart skills or knowledge to<br>v accustom gradually to some action or attitude|teach的过去式和过去分词| 
 taxi|'tæksi| |v. travel slowly<br>v. ride in a taxicab|n. 出租车<br>vi. 乘出租车<br>vt. 用出租车送| 
-taxonomy|tæk'sɒnәmi| |n. a classification of organisms into groups based on similarities of structure or origin etc<br>n. (biology) study of the general principles of scientific classification<br>n. practice of classifying plants and animals according to their presumed natural relationships|n. 分类学, 分类系统<br>[医] 分类学| 
+taxonomi| | | | | 
 teardown|'tєәdaun| | |n. 拆卸| 
 tech|tek| |n a school teaching mechanical and industrial arts and the applied sciences|n. 技术学院或学校| 
-techniques| | |n a practical method or art applied to some particular task<br>n skillfulness in the command of fundamentals deriving from practice and familiarity|n. 方法；技巧；技术（technique的复数）| 
-tedious|'ti:diәs| |s so lacking in interest as to cause mental weariness<br>s using or containing too many words|a. 沉闷的, 冗长乏味的| 
+techniqu| | | | | 
+tediou| | | | | 
 telegram|'teli^ræm| |n. a message transmitted by telegraph|n. 电报, 一封电报<br>[计] 电报| 
-telephony|ti'lefәni| |n transmitting speech at a distance|n. 电话学, 电话通信, 电话制造<br>[电] 电话学| 
-tellus| | | | | 
+telephoni| | | | | 
+tellu| | | | | 
 temp|temp|temps|n. a worker (especially in an office) hired on a temporary basis|n. [口]临时雇员| 
-template|'templit|templates|n. a model or standard for making comparisons|n. 样板, 模板, 垫木<br>[计] 模板| 
-temporal|'tempәrәl| |s. not eternal<br>a. of or relating to or limited by time<br>a. of or relating to the temples (the sides of the skull behind the orbit)<br>s. of this earth or world|a. 时间的, 暂时的, 现世的, 世俗的, 颞的, 太阳穴的<br>n. 世间万物, 教会财产| 
-temporarily|'tempәrәrәli| |r. for a limited time only; not permanently|adv. 暂时, 一时, 临时| 
-temptable|'temptәbl| |s. susceptible to temptation|a. 可诱惑的| 
-tempted|'temptid| |v dispose or incline or entice to<br>v provoke someone to do something through (often false or exaggerated) promises or persuasion<br>v give rise to a desire by being attractive or inviting<br>v induce into action by using one's charm<br>v try to seduce<br>v try presumptuously|v. 怂恿（某人）干不正当的事; 冒...的险（tempt的过去分词）| 
-tempus| | | |[医] 颞颥, 颞部| 
+templat| |templates| | | 
+tempor| | | | | 
+temporarili| | | | | 
+temptabl| | | | | 
+tempt|tempt| |v. dispose or incline or entice to<br>v. give rise to a desire by being attractive or inviting<br>v. try to seduce<br>v. try presumptuously|vt. 诱惑, 引诱, 引起...的兴趣, 吸引, 冒...风险| 
+tempu| | | | | 
 tenant|'tenәnt| |n. someone who pays rent to use land or a building or a car that is owned by someone else<br>n. a holder of buildings or lands by any kind of title (as ownership or lease)<br>n. any occupant who dwells in a place<br>v. occupy as a tenant|n. 承租人, 房客, 居住者<br>vt. 租借<br>[计] 占据者| 
 tensor|'tensә|tensors|n. a generalization of the concept of a vector<br>n. any of several muscles that cause an attached structure to become tense or firm|n. 张肌, 张量<br>[化] 张量| 
-terminal|'tә:minәl|terminals<br>terminate<br>terminated<br>terminates<br>terminating<br>termination<br>terminator|n. station where transport vehicles load or unload passengers or goods<br>n. a contact on an electrical device (such as a battery) at which electric current enters or leaves<br>n. electronic equipment consisting of a device providing access to a computer; has a keyboard and display<br>a. of or relating to or situated at the ends of a delivery route|n. 终端机, 终点, 末端, 极限, 终点站<br>a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的<br>[计] 终端; 终端设备| 
-terminology|.tә:mi'nɒlәdʒi| |n. a system of words used to name things in a particular discipline|n. 术语, 术语学<br>[医] 名词学, 命名法| 
-ternary|'tә:nәri| |s. having three units or components or elements|a. 三个组成的, 三个一组的, 三重的<br>[计] 三进制的; 三态的| 
+termin| |terminals<br>terminate<br>terminated<br>terminates<br>terminating<br>termination<br>terminator| |n. （德）时间| 
+terminolog| | | | | 
+ternari| | | | | 
 terrain|'terein| |n. a piece of ground having specific characteristics or military potential|n. 地带, 地区, 地形, 领域, 范围| 
 tesla| | | | | 
 tesseract|'tesәrækt| |n the four-dimensional analogue of a cube|n. [数]立方体的四维模拟, 超正方体| 
-testable| | |a. Capable of being tested or proved.<br>a. Capable of being devised, or given by will.|a. 可试验的, 有资格作证人的, 有资格立遗嘱的, 可根据遗嘱处理的| 
-testbed| | | |[计] 试验台| 
+testabl| | | | | 
+testb| | | | | 
 tester|'testә|testers|n. a flat canopy (especially one over a four-poster bed)|n. 考试人, 做试验者, 试验装置, 天盖, 华盖<br>[化] 检验器; 试验仪器| 
-texas| | | | | 
+texa| | | | | 
 textbook|'tekstbuk| |n. a book prepared for use in schools or colleges|n. 教科书| 
 textual|'tekstʃuәl| |a. of or relating to or based on a text|a. 文本的, 原文的<br>[法] 原文的, 本文的, 文字上的| 
-texture|'tekstʃә|textures|n. the feel of a surface or a fabric<br>n. the essential quality of something<br>n. the musical pattern created by parts being played or sung together<br>n. the characteristic appearance of a surface having a tactile quality|n. (织物的)密度, (材料等的)结构, 纹理<br>[化] 纹理| 
+textur| |textures| | | 
 thankyou| | | |n. 谢谢| 
 theft|θeft| |n the act of taking something from someone unlawfully|n. 盗窃, 失窃, 盗窃罪, 赃物<br>[法] 盗窃行为, 偷窃, 失窃| 
 theorem|'θiәrәm| |n. a proposition deducible from basic postulates<br>n. an idea accepted as a demonstrable truth|n. 定理, 原理<br>[化] 定理| 
-theoretical|θiә'retikәl|theoretically|a. concerned primarily with theories or hypotheses rather than practical considerations<br>a. concerned with theories rather than their practical applications|a. 理论的, 理论上的, 假设的, 推理的<br>[计] 理论的| 
-thereby|'ðєәbai| |r. by that means or because of that|adv. 因此| 
+theoret| |theoretically| | | 
+therebi| | | | | 
 therefor|ðeә'fɔ:| |r. (in formal usage, especially legal usage) for that or for it|adv. 为此, 因之| 
-thesis|'θi:sis| |n. an unproved statement put forward as a premise in an argument|n. 论题, 论文| 
+thesi| | | | | 
 theta|'θeitә| |n. the 8th letter of the Greek alphabet|n. 希腊字母的第八字| 
-thingy|'θiŋi| | |物(体)的, 物质的, 实际的| 
-thomas| | | | | 
+thingi| | | | | 
+thoma| | | |n. (Thoma)人名；(阿尔巴、阿拉伯)索玛；(英、德、罗、匈、捷、塞、瑞典)托马| 
 thor| | | | | 
 thorough|'θʌrә| |s. painstakingly careful and accurate|a. 十分的, 彻底的| 
-thoroughly|'θʌrәli| |r. in an exhaustive manner<br>r. completely and absolutely (`good' is sometimes used informally for `thoroughly')|adv. 彻底地, 绝对地, 透彻地, 详尽地, 周到地, 完全地, 完善地, 全面地| 
+thoroughli| | | | | 
 thread|θred|threaded<br>threading<br>threads|n. a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving<br>v. pass a thread through<br>v. remove facial hair by tying a fine string around it and pulling at the string<br>v. pass through or into|n. 线, 丝, 纤维, 线索<br>vt. 穿线于, 穿过, 通过, 用线穿成<br>vi. 穿过<br>[计] 线索, 线程| 
 thresh|θreʃ| |v move or stir about violently<br>v move like a flail; thresh about<br>v beat the seeds out of a grain<br>v give a thrashing to; beat hard|vt. 打谷, 摔打, 反复研究, 推敲<br>vi. 打谷, 鞭打, 剧烈扭动| 
 threshold|'θreʃәuld| |n. the starting point for a new state or experience<br>n. the smallest detectable sensation|n. 门槛, 入口, 开端, 阈<br>[计] 阈; 阈值| 
 threw|θru:| |v propel through the air<br>v move violently, energetically, or carelessly<br>v get rid of<br>v place or put with great energy<br>v convey or communicate; of a smile, a look, a physical gesture<br>v cause to go on or to be engaged or set in operation<br>v put or send forth<br>v to put into a state or activity hastily, suddenly, or carelessly<br>v cause to be confused emotionally<br>v utter with force; utter vehemently<br>v organize or be responsible for<br>v make on a potter's wheel<br>v cause to fall off<br>v throw (a die) out onto a flat surface<br>v be confusing or perplexing to; cause to be unable to think clearly|throw的过去式| 
 thrift|θrift| |n. any of numerous sun-loving low-growing evergreens of the genus Armeria having round heads of pink or white flowers|n. 节约, 茂盛, 海石竹| 
-throttle|'θrɒtl| |n a valve that regulates the supply of fuel to the engine<br>n a pedal that controls the throttle valve<br>v place limits on (extent or access)<br>v kill by squeezing the throat of so as to cut off the air<br>v reduce the air supply|n. 节流阀, 节气阀, 喉咙<br>vt. 扼喉咙, 使窒息, 压制, 使节流<br>vi. 窒息, 节流, 减速| 
+throttl| | | | | 
 throughput|'θru:put| |n. output relative to input; the amount passing through a system from input to output (especially of a computer program over a period of time)|n. 生产量, 通过量<br>[化] 通过量; 产量| 
 thrown|θrәun| |s. caused to fall to the ground<br>s. twisted together; as of filaments spun into a thread|throw的过去分词| 
 thru|θru:| |prep., adv. & a. Through.|adv. 穿越, 从头至尾<br>prep. 穿过| 
@@ -2841,42 +2841,42 @@ thumbnail|'θʌmneil|thumbnails|n. the nail of the thumb|n. 大拇指指甲, 极
 thursday| | | | | 
 tick|tik|ticks|n. a metallic tapping sound<br>n. any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals<br>n. a light mattress<br>v. make a sound like a clock or a timer|n. 滴答声, 一瞬间, 壁虱, 褥套, 信用, 赊欠<br>vi. 滴答响, 活动<br>vt. 滴答地记录, 标记号于| 
 ticker|'tikә| |n. a character printer that automatically prints stock quotations on ticker tape|n. 滴答响的东西, 断续器<br>[经] 股票行情自动收录器| 
-tidy|'taidi| |n. receptacle that holds odds and ends (as sewing materials)<br>v. put (things or places) in order<br>a. marked by order and cleanliness in appearance or habits|n. 椅子的背罩, 装杂物的容器<br>a. 整齐的, 有条理的<br>vt. 弄整齐, 收拾, 整理<br>vi. 整理, 收拾| 
+tidi| | | | | 
 tier|tiә| |n. any one of two or more competitors who tie one another<br>n. a worker who ties something<br>n. something that is used for tying<br>n. one of two or more layers one atop another|n. 排, 层, 等级| 
 tiff|tif| |n a quarrel about petty points|n. 一口淡酒, 小争吵, 小口角, 淡酒<br>vi. 小争吵, 生气| 
 tiger|'taigә| |n. a fierce or audacious person<br>n. large feline of forests in most of Asia having a tawny coat with black stripes; endangered|n. 老虎, 虎, 凶暴的人| 
-tightly|'taitli| |r. in a tight or constricted manner<br>r. securely fixed or fastened|adv. 紧紧地, 坚固地| 
+tightli| | | | | 
 tile|tail|tiles|n. a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces<br>n. a thin flat slab of fired clay used for roofing<br>n. game equipment consisting of a flat thin piece marked with characters and used in board games like Mah-Jong, Scrabble, etc.<br>v. cover with tiles|n. 砖瓦, 瓷砖, 瓦片<br>vt. 铺以瓦, 铺以瓷砖<br>[计] 平铺| 
 till|til| |n. unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together<br>v. work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation|prep. 直到, 在...以前, 迄<br>conj. 直到...为止<br>vt. 耕种<br>n. 放钱的抽屉, 备用现金, 冰碛| 
 tilt|tilt| |n. a slight but noticeable partiality<br>n. the property possessed by a line or surface that departs from the vertical<br>v. charge with a tilt|n. 倾斜, 倾向, 船篷, 车篷<br>vt. 使倾斜, 使倾侧, 用帆布篷遮盖<br>vi. 倾斜, 翘起, 冲, 评击<br>[计] 倾斜| 
 timeout| |timeouts| |[计] 超时| 
 timer|'taimә|timers|n. a timepiece that measures a time interval and signals its end<br>n. a regulator that activates or deactivates a mechanism at set times|n. 计时员, 计时器<br>[计] 计时器| 
 timestamp| |timestamps| |n. 时间戳；时间邮票| 
-timetable|'taimteibl| |n. a schedule listing events and the times at which they will take place<br>n. a schedule of times of arrivals and departures|n. 时间表| 
+timet| | | | | 
 tint|tint| |v. color lightly|n. 色彩, 浅色<br>vt. 染色于| 
 titanium|tai'teiniәm| |n. a light strong grey lustrous corrosion-resistant metallic element used in strong lightweight alloys (as for airplane parts); the main sources are rutile and ilmenite|n. 钛<br>[化] 钛Ti| 
-titled|'taitld|titles|v give a title to<br>v designate by an identifying term<br>s belonging to the peerage|a. 有头衔的<br>[法] 有官衔的, 有爵位的| 
+titl| |titles| | | 
 toast|tәust| |n. slices of bread that have been toasted<br>n. a celebrity who receives much acclaim and attention<br>v. propose a toast to|n. 吐司, 烤面包, 干杯<br>vt. 敬酒, 烤, 使暖和<br>vi. 烤, 烘| 
 tobe|tɔbe| | |n. 托比（男子名）| 
-toggle|'tɒgl|toggled<br>toggles<br>toggling|n. any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time<br>n. a fastener consisting of a peg or pin or crosspiece that is inserted into an eye at the end of a rope or a chain or a cable in order to fasten it to something (as another rope or chain or cable)<br>v. provide with a toggle or toggles|n. 绳针, 套索钉<br>vt. 拴牢<br>[计] 切换| 
+toggl| |toggled<br>toggles<br>toggling| | | 
 toggler| | | | | 
 token|'tәukәn|tokenize<br>tokens|n. an individual instance of a type of symbol<br>n. something serving as a sign of something else<br>n. a metal or plastic disk that can be redeemed or used in designated slot machines|n. 表征, 记号, 代币<br>a. 象征的, 表意的<br>[计] 记号| 
 tokyo| | | | | 
 told|tәuld| |v express in words<br>v let something be known<br>v narrate or give a detailed account of<br>v give instructions to or direct somebody to do something with authority<br>v discern or comprehend<br>v inform positively and with certainty and confidence<br>v give evidence<br>v mark as different|tell的过去式和过去分词| 
-tolerance|'tɒlәrәns| |n. the power or capacity of an organism to tolerate unfavorable environmental conditions<br>n. the act of tolerating something<br>n. willingness to recognize and respect the beliefs or practices of others|n. 宽容, 忍受, 容忍, 容许量, 公差<br>[计] 允许误差| 
+toler| | | | | 
 tomcat|'tɒmkæt| |n male cat|n. 雄猫| 
-tony|'tәuni| |n. A simpleton.|a. 高贵的, 时髦的| 
+toni|'tәuni| | |n. 托妮（女子名）| 
 took|tuk| |v carry out<br>v require (time or space)<br>v take somebody somewhere<br>v get into one's hands, take physically<br>v take on a certain form, attribute, or aspect<br>v interpret something in a certain way; convey a particular meaning or impression<br>v take something or somebody with oneself somewhere<br>v take into one's possession<br>v travel or go by means of a certain kind of transportation, or a certain route<br>v pick out, select, or choose from a number of alternatives<br>v receive willingly something given or offered<br>v assume, as of positions or roles<br>v take into consideration for exemplifying purposes<br>v require as useful, just, or proper<br>v experience or feel or submit to<br>v make a film or photograph of something<br>v remove something concrete, as by lifting, pushing, or taking off, or remove something abstract<br>v serve oneself to, or consume regularly<br>v accept or undergo, often unwillingly<br>v make use of or accept for some purpose<br>v take by force<br>v occupy or take on<br>v admit into a group or community<br>v ascertain or determine by measuring, computing or take a reading from a dial<br>v be a student of a certain subject<br>v take as an undesirable consequence of some event or state of affairs<br>v head into a specified direction<br>v point or cause to go (blows, weapons, or objects such as photographic equipment) towards<br>v be seized or affected in a specified way<br>v have with oneself; have on one's person<br>v engage for service under a term of contract<br>v receive or obtain regularly<br>v buy, select<br>v to get into a position of having, e.g., safety, comfort<br>v have sex with; archaic use<br>v lay claim to; as of an idea<br>v be designed to hold or take<br>v be capable of holding or containing<br>v develop a habit<br>v proceed along in a vehicle<br>v obtain by winning<br>v be stricken by an illness, fall victim to an illness|take的过去式| 
 toolbox|'tu:lbɒks| |n. a box or chest or cabinet for holding hand tools|n. 工具箱<br>[计] 工具箱| 
 toolkit| | | |[计] 工具包| 
 topmost|'tɒpmәust| |s. at or nearest to the top|a. 最高的, 顶端的| 
-topology|tәu'pɒlәdʒi| |n. topographic study of a given place (especially the history of the place as indicated by its topography)<br>n. the branch of pure mathematics that deals only with the properties of a figure X that hold for every figure into which X can be transformed with a one-to-one correspondence that is continuous in both directions<br>n. the configuration of a communication network|n. 地志学, 拓扑学, 局部解剖学<br>[计] 拓扑结构, 网络的布局| 
+topolog| | | | | 
 torch|tɒ:tʃ| |n. a light usually carried in the hand; consists of some flammable substance<br>v. burn maliciously, as by arson|n. 火把, 启发之物<br>[化] 火炬| 
 tornado|tɒ:'neidәu| |n. a localized and violently destructive windstorm occurring over land characterized by a funnel-shaped cloud extending toward the ground|n. 旋风, 龙卷风, 大雷雨| 
 toronto|tә'rɔntәu| |n. the provincial capital and largest city in Ontario (and the largest city in Canada)|n. 多伦多（加拿大城市）| 
 torrent|'tɒ:rәnt| |n. a violently fast stream of water (or other liquid)|n. 奔流, 倾盆大雨, 倾注, 迸发| 
 tortor| | | | | 
-totable| | | | | 
+totabl| | | | | 
 toto|'tәutәu| | |n. 全部；总数| 
 toyota| | |n. an industrial city of Japan in southern Honshu|n. 日本丰田汽车（公司名）| 
 trac| | | |abbr. 牵引车辆（Tractor）；期末租金调整条款租赁协议（Terminal Rental Adjustment Clause）| 
@@ -2893,49 +2893,49 @@ transact|træn'sækt|transaction<br>transactional<br>transactions|v. conduct bus
 transcript|'trænskript| |n. something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech<br>n. a reproduction of a written record (e.g. of a legal or school record)|n. 抄本, 副本, 成绩单<br>[法] 法院文本, 官方记录, 记录的副本| 
 transient|'trænziәnt| |n. one who stays for only a short time<br>n. (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load|n. 瞬, 短期居留者, 过境鸟, 瞬变现象<br>a. 短暂的, 易变的, 瞬变的, 路过的<br>[计] 瞬变过程; 过渡过程; 过渡的; 瞬变的; 瞬时峰值电压| 
 transit|'trænsit|transitional<br>transitions<br>transitive|v. make a passage or journey from one place to another<br>v. pass across (a sign or house of the zodiac) or pass across (the disk of a celestial body or the meridian of a place)<br>v. revolve (the telescope of a surveying transit) about its horizontal transverse axis in order to reverse its direction<br>v. cause or enable to pass through|n. 经过, 通行, 运输, 运输线, 转变<br>vt. 运送, 使通过, 经过<br>vi. 通过| 
-translated| |translates<br>translating<br>translation<br>translations<br>translator|v restate (words) from one language into another language<br>v change from one form or medium into another<br>v make sense of a language<br>v bring to a certain spiritual state<br>v change the position of (figures or bodies) in space without rotation<br>v be equivalent in effect<br>v be translatable, or be translatable in a certain way<br>v subject to movement in which every part of the body moves parallel to and the same distance as every other point on the body<br>v express, as in simple and less technical language<br>v determine the amino-acid sequence of a protein during its synthesis by using information on the messenger RNA|n. 译本| 
-translucent|træns'lu:snt| |s. allowing light to pass through diffusely|a. 半透明的, 透明的| 
-transmission|træns'miʃәn| |n. the act of sending a message; causing a message to be transmitted<br>n. communication by means of transmitted signals<br>n. the gears that transmit power from an automobile engine via the driveshaft to the live axle|n. 传输, 传送, 变速器<br>[计] 传输| 
+translat| |translates<br>translating<br>translation<br>translations<br>translator| |v. 翻译| 
+transluc| | | | | 
+transmiss| | | | | 
 transmit|træns'mit|transmitted|v. send from one person or place to another|vt. 传输, 传染, 传达, 遗传, 发射, 传播<br>vi. 发射信号, 留传下来<br>[计] 传送| 
-transparency|træns'pærәnsi|transparent|n. permitting the free passage of electromagnetic radiation<br>n. the quality of being clear and transparent|n. 透明, 透明度, 透过性, 透明物, 清晰<br>[计] 透明性; 透明| 
-transpose|træns'pәuz| |n. a matrix formed by interchanging the rows and columns of a given matrix<br>v. transfer a quantity from one side of an equation to the other side reversing its sign, in order to maintain equality<br>v. put (a piece of music) into another key|vt. 调换, 颠倒顺序, 移项<br>vi. 互换位置<br>[计] 转置| 
+transpar| |transparent| | | 
+transpos| | | | | 
 trash|træʃ| |n. worthless people<br>v. dispose of (something useless or old)|n. 垃圾, 废物<br>vt. 丢弃| 
-traversal|træ'vә:sl|traverse<br>traversing|n. taking a zigzag path on skis<br>n. travel across|[计] 遍历| 
-travis|'trævis| | |n. 崔维斯合唱团；特拉维斯（男子名）| 
+travers| |traverse<br>traversing| | | 
+travi| | | | | 
 tray|trei| |n. an open receptacle for holding or displaying or serving articles or food|n. 托盘, 公文盘, 满盘, 发射箱<br>[化] 淋盘| 
-triangle|'traiæŋgl|triangles|n. a three-sided polygon<br>n. something approximating the shape of a triangle<br>n. any of various triangular drafting instruments used to draw straight lines at specified angles<br>n. a percussion instrument consisting of a metal bar bent in the shape of an open triangle|n. 三角形, 三个一组, 三角关系<br>[医] 三角, 三角形| 
-tricky|'triki| |s not to be trusted<br>s having concealed difficulty<br>s marked by skill in deception|a. 狡猾的, 机敏的| 
+triangl| |triangles| | | 
+tricki| | | | | 
 trigger|'trigә|triggered<br>triggering<br>triggers|n. a device that activates or releases or causes something to happen<br>n. an act that sets in motion some course of events<br>v. release or pull the trigger on|n. 触发器, 扳机<br>vt. 触发, 发射, 引起<br>vi. 松开扳柄<br>[计] 切换开关| 
 trim|trim|trimmed|n. a state of arrangement or appearance<br>n. attitude of an aircraft in flight when allowed to take its own orientation<br>n. cutting down to the desired size or shape<br>v. decorate, as with ornaments|n. 整齐, 情形, 修剪<br>a. 整齐的<br>vt. 使整齐, 整理, 修剪<br>vi. 调整, 见风使舵<br>[计] 库存管理检查规则程序| 
-triple|'tripl| |n. a base hit at which the batter stops safely at third base<br>n. a quantity that is three times as great as another<br>v. increase threefold<br>v. hit a three-base hit|n. 三倍数, 三个一组<br>a. 三倍的<br>vt. 使增至三倍<br>vi. 增至三倍| 
+tripl| | | | | 
 trivial|'tiviәl|trivially|s. concerned with trivialities|a. 琐碎的, 不重要的, 轻微的, 平常的| 
 troll|trɒl| |n. (Scandanavian folklore) a supernatural creature (either a dwarf or a giant) that is supposed to live in caves or in the mountains<br>n. a fisherman's lure that is used in trolling<br>n. angling by drawing a baited line through the water|vi. 滚动, 参加轮唱, 曳绳钓鱼<br>vt. 使转动, 轮唱, 高唱, 用曳绳钓(鱼)<br>n. 转动, 轮唱, 钓绳| 
 troubleshoot| |troubleshooting|v solve problems|[电] 障碍修理| 
 trough|trɒ:f| |n. a narrow depression (as in the earth or between ocean waves or in the ocean bed)<br>n. a long narrow shallow receptacle|n. 槽, 水槽, 饲料槽<br>[化] 料槽| 
-truncate|'trʌŋkeit|truncated<br>truncation|v. replace a corner by a plane<br>v. approximate by ignoring all terms beyond a chosen one<br>v. make shorter as if by cutting off|vt. 切去头端, 缩短, 截棱, 使成平面<br>a. 切去了头的, 缩短了的| 
+truncat| |truncated<br>truncation| | | 
 trunk|trʌŋk| |n. the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber<br>n. luggage consisting of a large strong case used when traveling or for storage|n. 树干, 干线, 躯干, 主干, 象鼻, 箱子<br>vt. 把...放入旅行箱内<br>a. 树干的, 躯干的, 干线的, 箱形的<br>[计] 中继线; 母线| 
-truthy| | | | | 
+truthi| | | | | 
 tuesday| | | | | 
 tune|tju:n|tuned<br>tuning|n. a succession of notes forming a distinctive sequence<br>n. the property of producing accurately a note of a given pitch<br>n. the adjustment of a radio receiver or other circuit to a required frequency<br>v. adjust for (better) functioning|n. 歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度<br>vt. 为...调音, 调整, 调谐, 使一致<br>vi. 协调, 调谐| 
-tuple|'tʌpl|tuples| |n. 元组, 重数| 
+tupl| |tuples| | | 
 turbo|'tә:bәu| |n. Any one of numerous marine gastropods of the genus Turbo or<br>   family Turbinidae, usually having a turbinate shell, pearly on the<br>   inside, and a calcareous operculum.|n. 涡轮增压器| 
-turing| | | | | 
-turpis| | | | | 
-turtle|'tә:tl|turtles|n. any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming<br>v. hunt for turtles, especially as an occupation|n. 海龟| 
+ture| | | | 油温测量装置；介观结构| 
+turpi| | | | | 
+turtl| |turtles| | | 
 tutor|'tju:tә| |v. be a tutor to someone; give individual instruction<br>v. act as a guardian to someone|n. 家庭教师, 导师, 助教, 监护人<br>vt. 当...的教师, 教, 指导, 约束, 克制<br>vi. 当家庭教师, 受家庭教师的指导| 
-tutorial|tju:'tɒ:riәl|tutorials|n. a session of intensive tuition given by a tutor to an individual or to a small number of students<br>a. of or relating to tutors or tutoring|n. 个别指导, 论文, 学习指南, 指导手册<br>a. 个别指导的, 家庭教师的, 辅导的<br>[计] 教程| 
+tutori| |tutorials| | | 
 tweak|twi:k|tweaked<br>tweaking<br>tweaks|v. pinch or squeeze sharply|n. 拧, 扭, 焦急<br>vt. 扭, 开足马力| 
 tween|twi:n| | |[医] 吐温(一类表面活性剂的商品名,聚氧乙烯山梨醇的脂肪酸脂)| 
 tweet|twi:t|tweets|n. a weak chirping sound as of a small bird<br>v. make a weak, chirping sound|vi. 啁啾<br>n. 小鸟叫声| 
 twig|twig| |v. branch out in a twiglike manner|n. 小枝, 细枝<br>v. 懂得, 了解| 
-twisted|'twistid| |v to move in a twisting or contorted motion, (especially when struggling)<br>v cause (a plastic object) to assume a crooked or angular form<br>v turn in the opposite direction<br>v form into a spiral shape<br>v form into twists<br>v extend in curves and turns<br>v do the twist<br>v twist or pull violently or suddenly, especially so as to remove (something) from that to which it is attached or from where it originates<br>v practice sophistry; change the meaning of or be vague about in order to mislead or deceive<br>v twist suddenly so as to sprain<br>s having an intended meaning altered or misrepresented|a. 扭曲的| 
+twist|twist| |n. a jerky pulling movement<br>n. social dancing in which couples vigorously twist their hips and arms in time to the music; was popular in the 1960s<br>n. turning or twisting around (in place)<br>v. turn in the opposite direction|n. 一扭, 扭曲, 曲折, 歪曲, 螺旋状, 新手法<br>vt. 拧, 扭, 捻, 编织, 使扭转, 缠绕, 盘绕, 歪曲, 使转动, 使苦恼, 使混乱, 使旋转<br>vi. 转向, 弯曲, 缠绕, 扭动, 呈螺旋形| 
 twitch|twitʃ| |n. a sudden muscle spasm; especially one caused by a nervous condition<br>v. make an uncontrolled, short, jerky motion<br>v. move or pull with a sudden motion|vi. 急拉, 抽搐, 阵痛<br>vt. 急拉, 攫取, 抽动<br>n. 急拉, 抽搐, 阵痛| 
 twitter|'twitә| |n a series of chirps<br>v make high-pitched sounds, as of birds|n. 啁啾, 唧唧喳喳声<br>vi. 啭, 啁啾, 颤抖<br>vt. 嘁嘁喳喳地讲, 抖动| 
-typeface|'taipfeis| |n a specific size and style of type within a type family|n. 字面, 字体, 印出的文字(或图样)<br>[计] 字体, 字样| 
+typefac| | | | | 
 typescript|'taipskript| |n. typewritten matter especially a typewritten copy of a manuscript|n. 用打字机打的文件| 
-typesetting|'taip,setiŋ| |v set in type|n. 排字<br>a. 排字用的<br>[计] 排字| 
+typeset|'taipset| |v. set in type|vt. 排版| 
 typo|'taipәu|typos|n a mistake in printed matter resulting from mechanical failures of some kind|n. 排印(或打字)错误, 印刷工, 排字工| 
-typography|tai'pɒgrәfi| |n. the craft of composing type and printing from it<br>n. art and technique of printing with movable type|n. 凸版印刷术, 排印, 印刷版面式样| 
+typographi| | | | | 
 
 
 ## U
@@ -2945,107 +2945,107 @@ typography|tai'pɒgrәfi| |n. the craft of composing type and printing from it<b
 Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 ubound| | | | | 
-uglify|'ʌglifai| |v. make ugly|vt. 使丑, 弄成难看, 丑化| 
+uglifi| | | | | 
 ultra|'ʌltrә| |s (used of opinions and actions) far beyond the norm|a. 过分的, 极端的<br>n. 极端主义者, 过激论者, 急进论者| 
-unacceptable|.ʌnәk'septәbl| |s. not adequate to give satisfaction<br>a. not acceptable; not welcome<br>s. not conforming to standard usage; `You can access your cash at any of 300 automatic tellers'"|a. 无法接受的, 不受欢迎的<br>[法] 不能接受的, 不受欢迎的, 难以承认的| 
-unary|'ju:nәri| |s. consisting of or involving a single element or component|a. [数]一元的| 
-unauthorized|.ʌn'ɒ:θәraizd| |a. not endowed with authority<br>s. without official authorization|a. 未经许可的<br>[法] 无权的, 未经授权的, 未经许可的| 
-unavailable|.ʌnә'veilәbl| |a. not available or accessible or at hand|a. 得不到的, 不能利用的, 无用的<br>[化] 不可得的; 无效的; 不能利用的| 
-unaware|.ʌnә'wєә| |a. (often followed by `of') not aware|a. 未认识到的, 不知道的<br>[法] 不知道的, 不察觉的, 无意的| 
+unaccept| | | | | 
+unari| | | | | 
+unauthor| | | | | 
+unavail| | | |无效的,无用的| 
+unawar| | | | | 
 unbind|.ʌn'baind| |v. untie or unfasten|vt. 解, 解开, 解放<br>[计] 协议撤消程序| 
 unbound|.ʌn'baund|unbounded|a. not secured within a cover<br>a. not restrained or tied down by bonds<br>s. not held in chemical or physical combination|a. 解脱束缚的, 自由的, 未装订的<br>unbind的过去式和过去分词| 
 uncaught| | | | | 
-unchanged|.ʌn'tʃeindʒd| |a. not made or become different|a. 无变化的<br>[经] 持稳的| 
+unchang| | | | | 
 uncheck|ʌnt'ʃek|unchecked| | 未寄存| 
 unclear|.ʌn'kliә| |a. not clear to the mind|a. 不易了解的, 不清楚的, 含混的| 
-uncomfortable|.ʌn'kʌmfәtәbl| |a. conducive to or feeling mental discomfort<br>a. providing or experiencing physical discomfort|a. 不舒服的, 不自在的, 不安的| 
+uncomfort| | | | | 
 uncommon|.ʌn'kɒmәn| |a. not common or ordinarily encountered; unusually great in amount or remarkable in character or kind|a. 不寻常的, 非凡的, 罕有的<br>adv. 不平常地| 
-uncompressed|ʌnkɒmp'rest| |v restore to its uncompressed form| [计][修]未压缩| 
-undeclared|.ʌndi'klєәd| |a. not announced or openly acknowledged|a. 未申报的, 未宣布的| 
-undefined|.ʌndi'faind| |a. not precisely limited, determined, or distinguished|a. 不明确的, 未下定义的<br>[法] 未阐明的, 未解释的, 不确定的, 不明确的| 
-underline|'ʌndәlain| |v. draw a line or lines underneath to call attention to|vt. 在...下面划线, 作...的衬里, 强调<br>n. 下划线, 图下说明文字<br>[计] 加下划线; 下划线| 
-underlying|.ʌndә'laiiŋ| |s. located beneath or below|a. 在下面的<br>[经] 优先的, 基础的, 放在下面的| 
+uncompress|ʌn'kəmpres| |v restore to its uncompressed form| [计][动]解压缩| 
+undeclar| | | | | 
+undefin| | | | | 
+underlin| | | | | 
+underli| | | | | 
 underneath|.ʌndә'ni:θ| |r. on the lower or downward side; on the underside of<br>r. under or below an object or a surface; at a lower place or level; directly beneath|adv. 在下面<br>prep. 在...的下面| 
-underscore|.ʌndә'skɒ:|underscores|n. a line drawn underneath (especially under written matter)<br>v. give extra weight to (a communication)|vt. 划线于...下<br>n. (表强调的)下划线<br>[计] 底线| 
+underscor| |underscores| | | 
 understood|.ʌndә'stud| |a. fully apprehended as to purport or meaning or explanation|understand的过去式和过去分词| 
 undertow|'ʌndәtәu| |n. an inclination contrary to the strongest or prevailing feeling<br>n. the seaward undercurrent created after waves have broken on the shore|n. 回头浪| 
-undesirable|.ʌndi'zaiәrәbl| |n. one whose presence is undesirable<br>a. not wanted<br>s. not worthy of being chosen (especially as a spouse)|a. 不受欢迎的, 不合乎社会道德标准的<br>[法] 不受欢迎的人, 不良份子, 不法份子| 
+undesir| | | | | 
 undo|.ʌn'du:| |v. cancel, annul, or reverse an action or its effect<br>v. cause the ruin or downfall of|vt. 解开, 取消, 破坏, 毁灭, 扰乱<br>vi. 松开<br>[计] 撤消| 
-undocumented|,ʌn'dɔkjjmentid| |a. lacking necessary documents (as for e.g. permission to live or work in a country)|a. 无正式文件的, 无事实证明的| 
-unemployment|.ʌnim'plɒimәnt| |n. the state of being unemployed or not having a job|n. 失业, 失业人数<br>[经] 失业| 
-unexpected|.ʌnik'spektid| |a. not expected or anticipated|a. 料想不到的, 突然的, 意外的<br>[法] 不能预料的, 意外的| 
-unexpectedly| | |r. in a way that was not expected|adv. 想不到的, 突然的, 意外的, 出乎意料的| 
+undocu| | | | | 
+unemploy| | | |v. 解雇| 
+unexpect| | | | | 
+unexpectedli| | | | | 
 unfair|.ʌn'fєә| |a. not fair; marked by injustice or partiality or deception|a. 不公平的, 不正直的, 不正当的<br>[法] 不正直的, 不公平的, 偏颇的| 
 unfamiliar|.ʌnfә'miljә| |a. not known or well known|a. 不熟悉的| 
-unfortunate|.ʌn'fɒ:tʃәnit| |n. a person who suffers misfortune<br>a. not favored by fortune; marked or accompanied by or resulting in ill fortune<br>s. unsuitable or regrettable|a. 不幸的, 不合适的, 不吉利的| 
-unhandled|'ʌn'hændld| | |a. 未经驯服的, 未经手触过的, (喻)未讨论过的| 
+unfortun| | | | | 
+unhandl| | | | | 
 unicorn|'ju:nikɔ:n| |n. an imaginary creature represented as a white horse with a long horn growing from its forehead|n. 似马的独角兽<br>[医] 单角的| 
-unified|'ju:nifaid| |v become one<br>v to bring or combine together or with something else<br>v bring together for a common purpose or action or ideology or in a shared situation<br>v act in concert or unite in a common purpose or belief<br>v join or combine<br>s formed or united into a whole<br>s operating as a unit|a. 统一的；一致标准的| 
-uninitialized| | | |未初始化的| 
-uninstalled|ʌnɪns'tɔ:ld| | |v. 卸载, 卸载软件( uninstall的过去式和过去分词 )| 
-uniquely| |uniqueness|r. so as to be unique|adv. 独特地；珍奇地| 
-unity|'ju:niti| |n an undivided or unbroken completeness or totality with nothing wanting<br>n the smallest whole number or a numeral representing this number<br>n the quality of being united into one|n. 一致, 联合, 单一(性), 个体<br>[经] 统一| 
+unifi| | | | | 
+uniniti| | | | | 
+uninstal| | | | | 
+uniqu| |uniqueness| | | 
+uniti| | | | | 
 unix| | | | | 
-unlimited|.ʌn'limitid| |a. having no limits in range or scope|a. 无限的, 不受限制的, 无条件的<br>[经] 无限的, 不定的| 
+unlimit| | | | | 
 unlink|.ʌn'liŋk| |v. t. To separate or undo, as links; to uncoil; to unfasten.|vt. 拆开(链环), 分开<br>[化] 拆开| 
 unlist| | | | | 
 unload|.ʌn'lәud|unloaded|v. take the load off (a container or vehicle)|vi. 卸货<br>vt. 从...卸下, 摆脱...之负担, 倾销, 卸(货)<br>[计] 卸载| 
 unlock|.ʌn'lɒk|unlocked|v. open the lock of<br>v. set free or release<br>v. become unlocked|vt. 开...的锁, 开启, 表露, 放出<br>vi. 被开启, 揭开, 解放<br>[计] 解出锁定| 
-unmanaged| | | |非托管的| 
-unnamed|'ʌn'neimd| |s being or having an unknown or unnamed source|a. 未命名的, 没有名字的, 未提及的<br>[计] 无名的| 
-unnecessarily|ʌn'nesisәrili| |r. in an unnecessary manner<br>r. without any necessity|adv. 不必要地, 多余地| 
-unnecessary|.ʌn'nesәsәri| |a. not necessary|a. 不必要的| 
-unneeded|ʌn'ni:did| |a not necessary|a. 不需要的| 
+unmanag| | | | | 
+unnam| | | | | 
+unnecessarili| | | | | 
+unnecessari| | | | | 
+unneed| | | | | 
 unnest| | |v. t. To eject from a nest; to unnestle.|abbr. United Nations| 
-unobtrusive|.ʌnәb'tru:siv| |a. not obtrusive or undesirably noticeable|a. 不唐突的, 不引人注目的, 谦虚的| 
-unordered|'ʌn'ɔ:dәd| |a not arranged in order<br>s not arranged in order hierarchically|[计] 无序的| 
+unobtrus| | | | | 
+unord| | | | | 
 unpack|.ʌn'pæk|unpacked<br>unpacking|v. remove from its packing|vt. 从包裹中取出, 卸下, 打开<br>vi. 打开包裹<br>[计] 拆开| 
-unpredictable|.ʌnpri'diktәbl| |a. not capable of being foretold<br>s. unknown in advance|a. 不可预知的| 
-unqualified|.ʌn'kwɒlifaid| |a. not limited or restricted<br>a. not meeting the proper standards and requirements and training|a. 不合格的, 无资格的, 不胜任的<br>[经] 无条件的, 不合格的, 无资格的| 
-unreachable|ʌn'ri:tʃәbl| |s inaccessibly located or situated|a. 不能到达的, 不能得到的<br>[计] 执行不到的| 
+unpredict| | | | | 
+unqualifi| | | | | 
+unreach| | | | | 
 unread|.ʌn'red|unreadable|s. not informed through reading|a. 没有人读过的, 读书不多的, 无学问的| 
-unreasonable|.ʌn'ri:znәbl| |a. not reasonable; not showing good judgment|a. 不合理的, 过度的, 不切实际的<br>[法] 不讲道理的, 非理智的, 不合理的| 
-unrecognized|.ʌn'rekәgnaizd| |s. not recognized<br>s. not having a secure reputation|a. 未被认出的, 未被认定的, 未被承认的| 
-unrelated| | |a. lacking a logical or causal relation<br>a. not connected by kinship|[法] 无关的| 
-unreliable|.ʌnri'laiәbl| |a. not worthy of reliance or trust<br>s. lacking a sense of responsibility|a. 不可靠的<br>[法] 不可靠的, 靠不住的| 
-unresolved|'ʌnri'zɔlvd| |s. characterized by musical dissonance; harmonically unresolved|a. 无决断力的, 不果断的, 无决心的, 未解决的, 未澄清的, 未议决的, 未分解的<br>[计] 非分辩的| 
-unresponsive|.ʌnri'spɒnsiv| |a. not responding to some influence or stimulus<br>s. aloof or indifferent<br>s. not susceptible to suggestion or influence|a. 反应迟钝的, 感受性迟钝的, 不回答的| 
-unsafe|.ʌn'seif| |a lacking in security or safety<br>a involving or causing danger or risk; liable to hurt or harm<br>s not safe from attack|a. 不安全的, 不安稳的, 危险的<br>[经] 不安全| 
-unselected|,ʌnsi'lektid| |a. not selected|a. 未经选择的,随意选定的,非精选的| 
+unreason|.ʌn'ri:zn| |n the state of being irrational; lacking powers of understanding|n. 无理性, 缺乏理性, 错乱| 
+unrecogn| | | | | 
+unrel| | | | | 
+unreli| | | | | 
+unresolv| | | | | 
+unrespons| | | | | 
+unsaf| | | | | 
+unselect| | | |取消选择| 
 unset|'ʌn'set| |a. Not set; not fixed or appointed.|a. 未装配的, 未安装的, 未坚固的, (太阳)未落的<br>vt. 使松动, 使移动, 扰乱<br>[计] 复位, 置"0", 清除, 复原| 
 unshift|ʌn'ʃift| | |[计] 不移位, 不移档| 
-unsigned|ʌn'saind| |a. lacking a signature|[计] 无符号的, 未签名的| 
-unsorted|'ʌn'sɔ:tid| |s. not arranged according to size|[计] 未排序的| 
-unspecified|'ʌn'spesifaid| |a. not stated explicitly or in detail|a. 未特别指出的, 未特别提到的| 
-unstable|.ʌn'steibl| |a. lacking stability or fixity or firmness<br>s. highly or violently reactive<br>s. disposed to psychological variability|a. 不稳定的| 
-unsuccessful|.ʌnsәk'sesful| |a. not successful; having failed or having an unfavorable outcome|a. 不成功的| 
-unsupported|'ʌnsә'pɔ:tid| |a. not sustained or maintained by nonmaterial aid<br>a. not held up or borne|a. 未经证实的, 未得到支持的, 未得到赞助的, 未得到支援的, 无支撑的<br>[法] 无赞助的, 无支持的, 未经证实的| 
-unsure|.ʌn'ʃuә| |a lacking self-confidence<br>a lacking or indicating lack of confidence or assurance|a. 不肯定的, 不确定的, 没有自信的| 
-untested|ʌn'testid| |s. not yet proved or subjected to testing|a. 未经试验的, 未经考验的| 
-untitled|.ʌn'taitld| |s not of the nobility|a. 无称号的, 无标题的, 无合法权利的| 
-untouched|.ʌn'tʌtʃt| |s. still full<br>a. not having come in contact|a. 未触摸过的, 未改变的, 未受影响的| 
-untrusted|ˌʌnˈtrʌstid| | |adj. 非置信的| 
-unusable| |unused|s not capable of being used|[计] 不可用的| 
-unwanted|.ʌn'wɒntid| |a. not wanted; not needed|a. 没人要的, 不需要的, 多余的| 
+unsign| | | | | 
+unsort| | | | | 
+unspecifi| | | | | 
+unstabl| | | | | 
+unsuccess|,ʌnsәk'ses| |n. Want of success; failure; misfortune.|n. 不成功,失败,无结果,徒劳| 
+unsupport| | | | | 
+unsur| | | | | 
+untest| | | | | 
+untitl| | | | | 
+untouch| | | | | 
+untrust| | | | | 
+unus|'ʌnəs|unused| | [医]一| 
+unwant| | | | | 
 unwind|.ʌn'waind| |v. reverse the winding or twisting of<br>v. separate the tangles of|vt. 展开<br>[化] 拆卷; 开卷| 
 unwrap|.ʌn'ræp| |v. remove the outer cover or wrapping of<br>v. make known to the public information that was previously known only to a few people or that was meant to be kept a secret|vt. 打开| 
 unzip|.ʌn'zip| |v. open the zipper of|vi. 拉开拉链<br>vt. 拉开| 
-upcoming|'ʌp.kʌmiŋ| |s of the relatively near future|a. 即将来临的, 即将出现的| 
-updatable|'ʌp,deitәbl|update<br>updated<br>updater<br>updates<br>updating| |a. 可更新的| 
-upgrade|'ʌpgreid|upgraded<br>upgrades<br>upgrading|n. software that provides better performance than an earlier version did<br>n. a reservation that is improved<br>n. the property possessed by a slope or surface that rises<br>n. hardware that provides better performance than an earlier version did|n. 上坡, 升级, 上升<br>adv. 往上<br>vt. 使升级, 提升, 改良品种<br>vi. 升级<br>[计] 升级| 
+upcom| | | | | 
+updat| |update<br>updated<br>updater<br>updates<br>updating| | | 
+upgrad| |upgraded<br>upgrades<br>upgrading| | | 
 upload|'ʌp,lәud|uploaded<br>uploading<br>uploads|v. transfer a file or program to a central computer from a smaller computer or a computer at a remote location|[计] 上装, 加载, 储入| 
-uppercase|'ʌpәkeis| |a. relating to capital letters which were kept in the top half of a compositor's type case; X and Y and Z etc"|a. 大写字母的<br>vt. 用大写字母写, 以大写字母印刷| 
+uppercas| | | | | 
 upset|ʌp'set| |n. the act of disturbing the mind or body<br>n. a tool used to thicken or spread metal (the end of a bar or a rivet etc.) by forging or hammering or swaging<br>n. the act of upsetting something<br>v. disturb the balance or stability of|a. 弄翻的, 混乱的, 心烦的<br>vt. 弄翻, 颠覆, 推翻, 打乱, 使不适, 使心烦<br>vi. 翻倒| 
-upside|'ʌpsaid| |n the highest or uppermost side of anything|n. 上侧, 上段, 上部<br>[机] 上侧, 上部| 
+upsid| | | | | 
 upstream|'ʌp'stri:m| |a. in the direction against a stream's current|adv. 向上游, 逆流地<br>a. 向上游的, 逆流而上的| 
-uptime|'ʌptaim| |n. a period of time when something (as a machine or factory) is functioning and available for use|[计] 可用时间, 正常运行时间| 
-upwards|'ʌpwәdz| |r spatially or metaphorically from a lower to a higher position<br>r to a later time|adv. 以上, 向上| 
+uptim| | | | | 
+upward|'ʌpwәd| |s. directed up|a. 向上的<br>adv. 以上| 
 urna|'ә:nә| | |(佛教绘画或雕塑中)佛像双眉中间的一束毛发, 或一只慧眼(表示神的洞察力)| 
-usability|.ju:zә'biliti|usable|n the quality of being able to provide good service|n. 可用性<br>[化] 工艺性| 
-usage|'ju:sidʒ|usages|n. the customary manner in which a language (or a form of a language) is spoken or written|n. 用法, 使用, 习惯, 惯用法, 习惯法<br>[经] 使用情况, 使用用途, 惯例| 
+usabl| |usable| | | 
+usag| |usages| | | 
 useless|'ju:slis| |a. having no beneficial use or incapable of functioning usefully|a. 无用的, 无效的, 无益的<br>[机] 无用, 无价值, 无效| 
 util| |utilities<br>utilization<br>utilize<br>utilizes<br>utilizing| |n. 跑龙套| 
-utterly|'ʌtәli| |r completely and without qualification; used informally as intensifiers|adv. 完全地, 全然, 绝对| 
+utterli| | | | | 
 
 
 ## V
@@ -3056,59 +3056,59 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 vacuum|''vækjuәm| |n. the absence of matter<br>n. a region that is devoid of matter<br>n. an electrical home appliance that cleans by suction<br>v. clean with a vacuum cleaner|n. 真空, 空间, 真空吸尘器<br>a. 真空的, 产生真空的, 利用真空的<br>vt. 用吸尘器打扫| 
 vagrant|'veigrәnt| |n. a wanderer who has no established residence or visible means of support|n. 流浪汉, 漂泊者, 无赖<br>a. 漂泊的, 流浪的, 游荡的| 
-vague|veig| |s not clearly understood or expressed<br>a not precisely limited, determined, or distinguished<br>s lacking clarity or distinctness|a. 含糊的, 不清楚的, 茫然的| 
+vagu| | | | | 
 valid|'vælid|validate<br>validated<br>validates<br>validating<br>validation<br>validations<br>validity|a. well grounded in logic or truth or having legal force<br>s. still legally acceptable|a. 有确实根据的, 有法律效力的, 正当的, 正确的<br>[经] 有效的| 
 valor|'vælә| |n the qualities of a hero or heroine; exceptional or heroic courage when facing danger (especially in battle)|n. 英勇, 刚勇, 勇猛| 
-valuation|.vælju'eiʃәn| |n. assessed price|n. 评价, 估价, 价值判断<br>[经] 估价, 计价, 评价| 
-valve|vælv|valves|n. a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it<br>n. device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone<br>n. control consisting of a mechanical device for controlling the flow of a fluid<br>n. the entire one-piece shell of a snail and certain other molluscs|n. 活瓣, 阀, 活门<br>v. 装阀, 用阀调节| 
+valuat| | | | | 
+valv| |valves| | | 
 vanilla|vә'nilә| |n. any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant white or green or topaz flowers<br>n. a flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)<br>n. a distinctive fragrant flavor characteristic of vanilla beans|n. 香草, 香子兰| 
-variables| | |n something that is likely to vary; something that is subject to variation<br>n a quantity that can assume any of a set of values<br>n a star that varies noticeably in brightness<br>n a symbol (like x or y) that is used in mathematical or logical expressions to represent a variable quantity|n. 变量| 
-variadic| | | | | 
-variance|'vєәriәns| |n. the second moment around the mean; the expected value of the square of the deviations of a random variable from its mean value<br>n. an official dispensation to act contrary to a rule or regulation (typically a building regulation)|n. 不一致, 变化, 变异, 分歧, 不和<br>[化] 方差; 变种| 
+variabl| | | | | 
+variad| | | | | 
+varianc| | | | | 
 variant|'vєәriәnt|variants|s. differing from a norm or standard<br>s. exhibiting variation and change|n. 变体, 异体<br>a. 不同的, 有差别的<br>[计] 变体型| 
-variations| | |n an instance of change; the rate or magnitude of change<br>n an activity that varies from a norm or standard<br>n a repetition of a musical theme in which it is modified or embellished<br>n something a little different from others of the same type<br>n an artifact that deviates from a norm or standard<br>n the angle (at a particular location) between magnetic north and true north<br>n the process of varying or being varied<br>n (astronomy) any perturbation of the mean motion or orbit of a planet or satellite (especially a perturbation of the earth's moon)<br>n (biology) an organism that has characteristics resulting from chromosomal alteration<br>n (ballet) a solo dance or dance figure<br>n the act of changing or altering something slightly but noticeably from the norm or standard|n. 变奏曲, 变更；变种（variation的复数形式）| 
-varies| |varying|v become different in some particular way, without permanently losing one's or its former characteristics or essence<br>v be at variance with; be out of line with<br>v be subject to change in accordance with a variable<br>v make something more diverse and varied|n. 多重复合| 
+variat| | | | | 
+vari| |varying|n. The ringtailed lemur (Lemur catta) of Madagascar. Its long<br>   tail is annulated with black and white.|n. 真空辅助树脂注射模塑；变化；真空辅助注射成型| 
 varnish|'vɑ:niʃ| |n. a coating that provides a hard, lustrous, transparent finish to a surface<br>v. cover with varnish|n. 清漆, 虚饰, 光泽的表面<br>vt. 粉饰, 涂清漆于, 装饰, 使有光泽| 
-vastly|'vɑ:stli| |r. to an exceedingly great extent or degree|adv. 广大地, 许多, 巨大| 
+vastli| | | | | 
 vault|vɒ:lt| |n. a burial chamber (usually underground)<br>n. a strongroom or compartment (often made of steel) for safekeeping of valuables<br>n. an arched brick or stone ceiling or roof<br>n. the act of jumping over an obstacle|n. 拱顶, 窖, 地下室, 撑竿跳, 穹窿<br>vt. 做成圆拱形, 撑竿跳过<br>vi. 成穹状弯曲, 跳跃| 
 vector|'vektә|vectors|n. a variable quantity that can be resolved into components<br>n. a straight line segment whose length is magnitude and whose orientation in space is direction<br>n. any agent (person or animal or microorganism) that carries and transmits a disease|n. 矢量, 传病媒介<br>vt. (用无线电)导引, 给...导航<br>[计] 矢量; 向量| 
 vehicula| | | | | 
-velocity|vi'lɒsәti| |n distance travelled per unit time|n. 速度, 迅速<br>[化] 速度| 
+veloc| | | | | 
 vendor|'vendә|vendors|n someone who promotes or exchanges goods or services for money|n. 小贩, 卖主, 自动售货机<br>[计] 计算机销售商| 
 veniam| | | | | 
-venue|'venju:|venues|n. the scene of any event or action (especially the place of a meeting)<br>n. in law: the jurisdiction where a trial will be held|n. 犯罪地点, 审判地, 发生地点| 
+venu| |venues| | | 
 verb|vә:b|verbs|n. the word class that serves as the predicate of a sentence<br>n. a content word that denotes an action, occurrence, or state of existence|n. 动词<br>[计] 动词| 
 verbatim|vә:'beitim| |r. using exactly the same words|a. 逐字的, 照字面的<br>adv. 逐字地| 
-verbose|vә'bәus|verbosity|s using or containing too many words|a. 用字多的, 冗长的, 累赘的<br>[计] 详述| 
-verification|.verifi'keiʃәn| |n. (law) an affidavit attached to a statement confirming the truth of that statement|n. 证实, 查证, 证明属实<br>[计] 验证| 
-verified|'verifaid|verifier<br>verifies<br>verify<br>verifying|s. proved to be true|a. 已查清的, 已证实的| 
+verbos| |verbosity| | | 
+verif| | | | | 
+verifi| |verifier<br>verifies<br>verify<br>verifying| | | 
 versa| | | |a. 反的| 
 vert|vә:t| |n. Everything that grows, and bears a green leaf, within the<br>   forest; as, to preserve vert and venison is the duty of the verderer.<br>n. The right or privilege of cutting growing wood.<br>n. The color green, represented in a drawing or engraving by<br>   parallel lines sloping downward toward the right.|n. 草木, 绿色<br>[医] 倾侧, 倾转| 
 vertex|'vә:teks| |n. the point of intersection of lines or the point opposite the base of a figure<br>n. the highest point (of something)|n. 顶点, 最高点, 头顶, 天顶<br>[计] 顶点| 
-vertical|'vә:tikl|vertically<br>vertices|n. something that is oriented vertically<br>a. at right angles to the plane of the horizon or a base line<br>a. relating to or involving all stages of a business from production to distribution<br>s. of or relating to different levels in a hierarchy (as levels of social class or income group)|a. 垂直的, 直立的<br>[医] 垂直的, 顶的, 头顶的| 
+vertic| |vertically<br>vertices| | | 
 vestibulum| | |n. A cavity into which, in certain bryozoans, the<br>   esophagus and anus open.|[医] 前庭| 
-viable|'vaiәbl| |s. capable of life or normal growth and development|a. 能养活的, 能生长发育的<br>[医] 有活力的, 有生机的| 
-vibrate|'vaibreit| |v. shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner|vi. 振动, 颤动, 激动, 摇摆, 踌躇<br>vt. 使颤动, 使振动, 使摆动| 
+viabl| | | | | 
+vibrat| | | | | 
 vice|vais| |n. a specific form of evildoing|n. 恶习, 恶行, 罪恶, 堕落, 缺陷, 恶癖, 老虎钳<br>vt. 钳住<br>prep. 代替| 
-viewable|'vju:әbl| |s. capable of being viewed|看得见的| 
+viewabl| | | | | 
 viewport|'vju:pɒ:t| | |n. 观察孔, 观察窗<br>[计] 视口| 
 virtual|'vә:tʃuәl| |s. being actually such in almost every respect<br>s. existing in essence or effect though not in actual fact|a. 实际上起作用的, 虚的, 实质的, 有效的, 事实上生效的<br>[计] 虚拟| 
 visa|'vi:zә| |n. an endorsement made in a passport that allows the bearer to enter the country issuing it<br>v. provide (a passport) with a visa<br>v. approve officially|n. 签证<br>vt. 签发| 
-visibility|.vizi'biliti| |n. quality or fact or degree of being visible; perceptible by the eye or obvious to the eye<br>n. degree of exposure to public notice<br>n. capability of providing a clear unobstructed view|n. 可见性, 能见度, 能见距离<br>[计] 可见性| 
+visibl| | | | | 
 vista|'vistә| |n the visual percept of a region|n. 远景, 展望, 回想| 
-vitae|'vi:tai| | |n. 个人简历；血液（vita的复数形式）| 
+vita|'vaitә; 'wi:tɑ:| | |n. 个人简历<br>[医] 生活, 生存, 生命| 
 viverra| | | | | 
 vocab|'vəʊkæb| | |abbr. vocabulary 词汇, 词汇量| 
-vocabulary|vә'kæbjulәri| |n. a listing of the words used in some enterprise<br>n. a language user's knowledge of words<br>n. the system of techniques or symbols serving as a means of expression (as in arts or crafts)|n. 词汇(量), 词汇表<br>[计] 词表| 
+vocabulari| | | | | 
 void|vɒid| |n. an empty area or space<br>v. clear (a room, house, place) of occupants or empty or clear (a place or receptacle) of something<br>s. containing nothing|n. 空虚, 空间, 空白, 空隙, 空虚感<br>a. 空的, 无效的, 无人的, 没有的, 无用的<br>[计] 脱墨; 空白点| 
 voila| | | |int. （法）瞧；可不是| 
-volatile|'vɒlәtail| |n. a volatile substance; a substance that changes readily from solid or liquid to a vapor<br>a. evaporating readily at normal temperatures and pressures<br>s. tending to vary often or widely|a. 挥发性的, 可变的, 不稳定的, 飞行的, 轻快的, 爆炸性的<br>n. 有翅动物, 挥发物<br>[计] 易失的| 
+volatil| | | | | 
 volley|'vɒli| |n. a tennis return made by hitting the ball before it bounces<br>v. be dispersed in a volley<br>v. hit before it touches the ground<br>v. discharge in, or as if in, a volley|n. 群射, 齐发, 迸发<br>vt. 群射, 齐发, 截击<br>vi. 进行群射, 齐鸣| 
-voltage|'vәultidʒ| |n. the rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts|n. 电压, 伏特数<br>[化] 电压| 
-volumes|'vɒlju:mz| |n. the amount of 3-dimensional space occupied by an object<br>n. the property of something that is great in magnitude<br>n. physical objects consisting of a number of pages bound together|n. 量( volume的复数形式 ); 书; 音量; 卷| 
+voltag| | | | | 
+volum| | | | | 
 voucher|'vautʃә| |n. someone who vouches for another or for the correctness of a statement<br>n. a document that serves as evidence of some expenditure|n. 证人, 保证人, 证明者, 凭证, 凭单<br>vt. 证实...的可靠性| 
 vowel|'vauәl|vowels|n. a speech sound made with the vocal tract open<br>n. a letter of the alphabet standing for a spoken vowel|n. 元音<br>a. 元音的| 
-vulnerabilities|vʌlnərə'bɪlɪtɪz|vulnerability|n. the state of being vulnerable or exposed<br>n. susceptibility to injury or attack| 脆弱点| 
+vulner| |vulnerability| | | 
 
 
 ## W
@@ -3120,14 +3120,14 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 wakeup| | | | | 
 walker|'wɒ:kә| |n. New Zealand runner who in 1975 became the first person to run a mile in less that 3 minutes and 50 seconds (born in 1952)<br>n. United States writer (born in 1944)<br>n. a shoe designed for comfortable walking<br>n. a light enclosing framework (trade name Zimmer) with rubber castors or wheels and handles; helps invalids or the handicapped or the aged to walk|n. 徒步者, 轻便鞋<br>[法] 山林巡视官| 
 wallet|'wɒlit| |n. a pocket-size case for holding papers and paper money|n. 皮夹<br>[法] 皮包, 皮夹, 钱袋| 
-wallpaper|'wɒ:lpeipә| |n. a decorative paper for the walls of rooms<br>v. cover with wallpaper|n. 壁纸, 墙纸<br>v. 贴墙纸<br>[计] 壁纸| 
+wallpap| | | | | 
 wamp| | |n. The common American eider.|abbr. Wire Antenna Modelling Program 有线天线建模程序| 
 wanna|'wɔnә| | |vt. 要(做), 想(做), 想要(某物)| 
 warden|'wɒ:dn| |n. the chief official in charge of a prison|n. 典狱官, 渔猎法监督官, 看守人<br>[法] 看守人, 监护人, 管理员| 
-warehouse|'wєәhaus| |n. a storehouse for goods and merchandise<br>v. store in a warehouse|n. 仓库, 货栈, 大商店<br>vt. 储入仓库| 
+warehous| | | | | 
 warp|wɒ:p| |n. a shape distorted by twisting or folding<br>n. a moral or mental distortion<br>n. yarn arranged lengthways on a loom and crossed by the woof|n. 变形, 弯曲, 歪曲, 乖僻, 偏差, 偏见<br>vt. 使变形, 弄歪, 使翘曲, 使不正常, 歪曲, 使有偏见<br>vi. 变弯, 变歪| 
 warrant|'wɒ:rәnt| |n. a writ from a court commanding police to perform specified acts<br>n. a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price|n. 授权, 正当理由, 根据, 证明, 批准, 凭证, 令状, 委任状<br>vt. 授权给, 保证, 担保, 批准, 使有正当理由| 
-warranty|'wɒ:rәnti| |n a written assurance that some product or service will be provided or will meet certain specifications|n. 正当理由, 授权, 担保, 保证, 根据<br>[经] 保单, 担保书, 保证书| 
+warranti| | | | | 
 washington| | | | | 
 wasn| | | |abbr. 无线、随意及感测网路研讨会（Workshop on Wireless Ad Hoc and Sensor Networks）| 
 watchdog|'wɒtʃdɒg| |n. a guardian or defender against theft or illegal practices or waste<br>n. a dog trained to guard property|n. 看门狗, 监察人<br>[化] 监控设备; 监视器| 
@@ -3144,13 +3144,13 @@ were|wә:| |v have the quality of being; (copula, used with an adjective or a pr
 weren| | | | | 
 wether|'weðә| |n. male sheep especially a castrated one|n. 阉羊| 
 whatnot|'hwɒtnɒt| |n miscellaneous curios|n. 放古董的架子| 
-whatsoever|.hwɒtsәu'evә| |s one or some or every or all without specification|pron. 无论什么| 
-whereby|(h)weә'bai| |adv. By which; -- used relatively.<br>adv. By what; how; -- used interrogatively.|adv. 靠什么, 如何, 为何, 靠那个, 因此, 由此<br>[法] 因此, 由是| 
+whatsoev| | | | | 
+wherebi| | | | | 
 wherein|hwєәr'in| |adv. In which; in which place, thing, time, respect, or the<br>   like; -- used relatively.<br>adv. In what; -- used interrogatively.|adv. 在哪方面, 在那方面| 
-wherever|hwєәr'evә| |r. where in the world|adv. 无论哪里| 
-whichever|hwitʃ'evә| |pron. & a. Alt. of Whichsoever|pron. 无论那一个, 任何一个| 
+wherev| | | | | 
+whichev| | | | | 
 whilst|wailst| |adv. While.|conj. 当...的时候, 和...同时, 虽然, 只要, 然而, 而, 尽管| 
-whitespace|ˊhwaitspeis| | |空白| 
+whitespac| | | | | 
 whoever|hu'evә| |pron. Whatever person; any person who; be or she who; any one<br>   who; as, he shall be punished, whoever he may be.|pron. 任何人, 无论谁| 
 wich| | |n. A variant of 1st Wick.<br>n. A street; a village; a castle; a dwelling; a place of work,<br>   or exercise of authority; -- now obsolete except in composition; as,<br>   bailiwick, Warwick, Greenwick.<br>n. A narrow port or passage in the rink or course, flanked by<br>   the stones of previous players.|n. [苏]湿草地| 
 wicket|'wikit| |n. cricket equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket<br>n. a small arch used as croquet equipment<br>n. small gate or door (especially one that is part of a larger door)<br>n. small opening (like a window in a door) through which business can be transacted|n. 小门, 腰门, 售票窗| 
@@ -3158,7 +3158,7 @@ wider| | |a having great (or a certain) extent from one side to the other<br>s b
 widget|'widʒit|widgets|n something unspecified whose name is either forgotten or not known<br>n a device or control that is very useful for a particular job|n. 装饰物；小机械；未定名的主要新产品| 
 width|widθ|widths|n. the extent of something from side to side|n. 宽度, 宽广, 广博<br>[医] 宽度| 
 wildcard|'wildkɑ:d| | |n. 通配符, 百搭牌<br>[计] 通配符| 
-wildly| | |r. to an extreme or greatly exaggerated degree<br>r. in an uncontrolled or unrestrained manner<br>r. with violent and uncontrollable passion|adv. 狂暴地, 激动地, 狂热地, 鲁莽地, 轻率地| 
+wildli| | | | | 
 william|'wiljәm| | |n. 威廉（男子名）；[常作W-][美俚]钞票, 纸币| 
 wireless|'waiәlis| |n. transmission by radio waves<br>a. having no wires|n. 无线电<br>a. 无线的, 无线电的| 
 witch|witʃ| |n. a being (usually female) imagined to have special powers derived from the devil|n. 巫婆, 女巫<br>vt. 施巫术, 迷惑| 
@@ -3166,25 +3166,25 @@ wizard|'wizәd| |n someone who is dazzlingly skilled in any field<br>n one who p
 wolfram|'wulfrәm| |n a heavy grey-white metallic element; the pure form is used mainly in electrical applications; it is found in several ores including wolframite and scheelite|n. 钨锰铁矿, 钨| 
 women|'wimin| |n an adult female person (as opposed to a man)<br>n a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man<br>n a human female employed to do housework<br>n women as a class|pl. 女人| 
 wont|wɒnt| |n an established custom|n. 习惯<br>a. 惯常的, 易于...的<br>vi. 习惯<br>vt. 使习惯于| 
-workable|'wә:kәbl| |s capable of being done with means at hand and circumstances as they are|a. 可经营的, 可使用的<br>[机] 能工作的, 机械等能使用的, 材料等可加工的| 
+workabl| | | | | 
 workbench|'wә:kbentʃ| |n. a strong worktable for a carpenter or mechanic|n. 工作台<br>[化] 成型台| 
 workbook|'w\\\\:kbjk|workbooks|n. a student's book or booklet containing problems with spaces for solving them|n. 辅助练习册, 工作规程书, 工作记事簿, 笔记本, 工作手册<br>[计] 工作簿| 
 workload|'wә:klәud| |n. work that a person is expected to do in a specified time|n. 工作量<br>[化] 工作量| 
 workout|'wә:kaut| |n the activity of exerting your muscles in various ways to keep fit|n. 试验, 试用, 锻炼| 
-workplace| | |n. a place where work is done|n. 工作场所, 工厂, 车间| 
+workplac| | | | | 
 worksheet| |worksheets|n. a sheet of paper with multiple columns; used by an accountant to assemble figures for financial statements<br>n. a piece of paper recording work planned or done on a project|[计] 工作表<br>[化] 工作单; 加工单| 
-workspace| | |n. space allocated for your work (as in an office)|[计] 工作区| 
-workstation|'wә:k.steiʃәn| |n. a desktop digital computer that is conventionally considered to be more powerful than a microcomputer|n. 工作站<br>[计] 工作站| 
-worldwide|'wә:ldwaid| |s. spanning or extending throughout the entire world|a. 全世界的| 
+workspac| | | | | 
+workstat| | | | | 
+worldwid| | | | | 
 worst|wә:st| |n. the least favorable outcome<br>n. the greatest damage or wickedness of which one is capable<br>n. the weakest effort or poorest achievement one is capable of<br>v. defeat thoroughly|n. 最坏, 最坏的时候<br>a. 最坏的, 最恶劣的, 最不利的<br>adv. 最坏, 最糟| 
 worthless|'wә:θlis| |a. lacking in usefulness or value|a. 无价值的, 无益的, 无足轻重的<br>[法] 无价值的, 无用的| 
-worthwhile|'wә:θ'hwail| |s. sufficiently valuable to justify the investment of time or interest|a. 值得花时间的, 值得做的, 有真实价值的| 
-worthy|'wә:ði| |n. an important, honorable person (word is often used humorously)<br>a. having worth or merit or value; being honorable or admirable<br>s. having qualities or abilities that merit recognition in some way|n. 杰出人物<br>a. 有价值的, 可敬的, 值得的| 
+worthwhil| | | | | 
+worthi| | | | | 
 wouldn| | | | | 
 wrapper|'ræpә|wrappers|n a loose dressing gown for women<br>n the covering (usually paper or cellophane) in which something is wrapped<br>n cloak that is folded or wrapped around a person|n. 包装者, 包裹者, 包装物, 覆盖物, 外包烟叶, 包纸, 书的封皮, 妇女晨衣<br>[医] 包裹料| 
-writable|'raitәbl| |a. Capable of, or suitable for, being written down.|[计] 可写的| 
+writabl| | | | | 
 written|'ritn| |a. set down in writing in any of various ways<br>a. systematically collected and written down|a. 书面的, 写成文字的<br>write的过去分词| 
-wrongly| | |r. without justice or fairness|adv. 错误地, 不恰当地, 不正确地, 不正直地, 不公正地| 
+wrongli| | | | | 
 wrote|rәut| |v produce a literary work<br>v communicate or express by writing<br>v have (one's written work) issued for publication<br>v communicate (with) in writing<br>v communicate by letter<br>v write music<br>v mark or trace on a surface<br>v record data on a computer<br>v write or name the letters that comprise the conventionally accepted form of (a word or part of a word)<br>v create code, write a computer program|write的过去式| 
 
 
@@ -3205,7 +3205,7 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 yahoo|jә'hu:| |n. one of a race of brutes resembling men but subject to the Houyhnhnms in a novel by Jonathan Swift<br>n. a widely used search engine for the web that finds information, news, images, products, finance|n. 人面兽心的人, 乡愚, 粗汉| 
 yarn|jɑ:n| |v. tell or spin a yarn|n. 纱, 纱线, 故事<br>[化] 纱| 
-yearly|'jiәli| |n a reference book that is published regularly once every year<br>s occurring or payable every year<br>r without missing a year|a. 每年的, 一年一度的<br>adv. 一年一次, 每年| 
+yearli| | | | | 
 yelp|jelp| |v. bark in a high-pitched tone|n. 尖声急叫, 狺吠, 叫喊声<br>vi. 尖声急叫, 叫吠, 叫喊<br>vt. 叫喊着说| 
 yeoman|'jәumәn| |n. officer in the (ceremonial) bodyguard of the British monarch<br>n. in former times was free and cultivated his own land|n. 自由民, 自耕农<br>[法] 小地主, 自耕农, 自由民| 
 york|jɔ:k| |n. the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white rose|n. 约克郡；约克王朝| 
@@ -3220,5 +3220,5 @@ Word|Phonetic|Inflection|Definition|Translation|Example
 ----|--------|----------|----------|-----------|-------
 zebra|'zi:brә| |n. any of several fleet black-and-white striped African equines|n. 斑马| 
 zend| | | | | 
-zombie|'zɔmbi| |n. several kinds of rum with fruit juice and usually apricot liqueur|n. 蛇神, 起死回生的魔力, 僵尸, 回魂尸, (美)鸡尾酒, 木鸡, 讨厌的家伙<br>[计] 僵尸| 
+zombi|'zɔmbi| |n. (voodooism) a spirit or supernatural force that reanimates a dead body<br>n. a god of voodoo cults of African origin worshipped especially in West Indies<br>n. a dead body that has been brought back to life by a supernatural force|n. 蛇神, 起死回生的魔力, 僵尸, 回魂尸, (美)鸡尾酒, 木鸡, 讨厌的家伙| 
 zoom|zu:m|zoomed<br>zooming|v. move along very quickly<br>v. move with a low humming noise|n. 急速上升, 变焦摄影, 嗡嗡声<br>vi. 猛增, 急速上升, 摄象机移动<br>vt. 使摄象机移动<br>[计] 缩放| 
